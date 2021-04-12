@@ -34,17 +34,17 @@
 |  1 | [Aquaman](https://github.com/bawn/Aquaman) | 2021-03-10 | 2021-03-10 | [1](https://github.com/bawn/Aquaman/pulls?q=is%3Apr+author%3Aacumen1005) |
 
 ## The repos I stared (random 10)
-| ID |                                   REPO                                    | STAREDDATE |  LAUGUAGE   | LATESTUPDATE |
-|----|---------------------------------------------------------------------------|------------|-------------|--------------|
-|  1 | [spruce-ios](https://github.com/willowtreeapps/spruce-ios)                | 2017-03-21 | Swift       | 2021-04-10   |
-|  2 | [weweChat](https://github.com/trazyn/weweChat)                            | 2017-08-24 | JavaScript  | 2021-04-10   |
-|  3 | [play_with_llvm](https://github.com/tuoxie007/play_with_llvm)             | 2018-07-27 | C++         | 2021-03-27   |
-|  4 | [analyze](https://github.com/draveness/analyze)                           | 2017-09-12 | Objective-C | 2021-04-09   |
-|  5 | [SwiftUI-CardStackView](https://github.com/dadalar/SwiftUI-CardStackView) | 2020-12-27 | Swift       | 2021-04-05   |
-|  6 | [SwiftWebUI](https://github.com/SwiftWebUI/SwiftWebUI)                    | 2019-07-02 | Swift       | 2021-04-08   |
-|  7 | [HGPlaceholders](https://github.com/HamzaGhazouani/HGPlaceholders)        | 2017-08-14 | Swift       | 2021-04-10   |
-|  8 | [iOS11](https://github.com/2877025939/iOS11)                              | 2017-09-28 | md          | 2021-04-02   |
-|  9 | [jjb](https://github.com/sunoj/jjb)                                       | 2020-02-25 | JavaScript  | 2021-04-06   |
-| 10 | [RxSwift](https://github.com/ReactiveX/RxSwift)                           | 2017-03-30 | Swift       | 2021-04-11   |
+| ID |                                           REPO                                            | STAREDDATE |  LAUGUAGE   | LATESTUPDATE |
+|----|-------------------------------------------------------------------------------------------|------------|-------------|--------------|
+|  1 | [hexo-theme-apollo](https://github.com/pinggod/hexo-theme-apollo)                         | 2016-10-31 | SCSS        | 2021-04-10   |
+|  2 | [sa-sdk-ios](https://github.com/sensorsdata/sa-sdk-ios)                                   | 2021-01-13 | Objective-C | 2021-04-10   |
+|  3 | [objc_cover](https://github.com/nst/objc_cover)                                           | 2020-07-20 | Python      | 2021-04-10   |
+|  4 | [vscode-rainbow-fart](https://github.com/SaekiRaku/vscode-rainbow-fart)                   | 2020-06-22 | JavaScript  | 2021-04-10   |
+|  5 | [huxpro.github.io](https://github.com/Huxpro/huxpro.github.io)                            | 2017-02-13 | HTML        | 2021-04-11   |
+|  6 | [Papr](https://github.com/jdisho/Papr)                                                    | 2018-03-26 | Swift       | 2021-04-09   |
+|  7 | [CloudKitCodable](https://github.com/insidegui/CloudKitCodable)                           | 2020-06-03 | Swift       | 2021-03-26   |
+|  8 | [KKJSBridge](https://github.com/karosLi/KKJSBridge)                                       | 2020-05-14 | Objective-C | 2021-04-10   |
+|  9 | [SPStorkController](https://github.com/ivanvorobei/SPStorkController)                     | 2019-04-19 | Swift       | 2021-04-11   |
+| 10 | [Solve-App-Store-Review-Problem](https://github.com/wg689/Solve-App-Store-Review-Problem) | 2016-09-12 | Objective-C | 2021-04-02   |
 
 <!--END_SECTION:my_github-->
