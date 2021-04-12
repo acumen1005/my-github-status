@@ -23,7 +23,7 @@
 | 13 | [LazyScript](https://github.com/acumen1005/LazyScript)                           | 2016-09-17 | 2016-09-18 | Shell       |     0 |
 | 14 | [LearnNote](https://github.com/acumen1005/LearnNote)                             | 2016-12-09 | 2017-07-19 | md          |     0 |
 | 15 | [acumen1005.github.io](https://github.com/acumen1005/acumen1005.github.io)       | 2017-04-26 | 2021-03-02 | HTML        |     0 |
-| 16 | [my-github-status](https://github.com/acumen1005/my-github-status)               | 2021-04-11 | 2021-04-11 | md          |     0 |
+| 16 | [my-github-status](https://github.com/acumen1005/my-github-status)               | 2021-04-11 | 2021-04-12 | md          |     0 |
 | 17 | [acumen1005](https://github.com/acumen1005/acumen1005)                           | 2020-07-09 | 2020-07-09 | md          |     0 |
 | 18 | [ACPhotoPickerController](https://github.com/acumen1005/ACPhotoPickerController) | 2017-03-03 | 2018-04-02 | Swift       |     0 |
 | 19 | [flutter_calendar](https://github.com/acumen1005/flutter_calendar)               | 2021-01-16 | 2021-01-27 | Dart        |     0 |
@@ -34,17 +34,17 @@
 |  1 | [Aquaman](https://github.com/bawn/Aquaman) | 2021-03-10 | 2021-03-10 | [1](https://github.com/bawn/Aquaman/pulls?q=is%3Apr+author%3Aacumen1005) |
 
 ## The repos I stared (random 10)
-| ID |                                           REPO                                            | STAREDDATE |  LAUGUAGE   | LATESTUPDATE |
-|----|-------------------------------------------------------------------------------------------|------------|-------------|--------------|
-|  1 | [hexo-theme-apollo](https://github.com/pinggod/hexo-theme-apollo)                         | 2016-10-31 | SCSS        | 2021-04-10   |
-|  2 | [sa-sdk-ios](https://github.com/sensorsdata/sa-sdk-ios)                                   | 2021-01-13 | Objective-C | 2021-04-10   |
-|  3 | [objc_cover](https://github.com/nst/objc_cover)                                           | 2020-07-20 | Python      | 2021-04-10   |
-|  4 | [vscode-rainbow-fart](https://github.com/SaekiRaku/vscode-rainbow-fart)                   | 2020-06-22 | JavaScript  | 2021-04-10   |
-|  5 | [huxpro.github.io](https://github.com/Huxpro/huxpro.github.io)                            | 2017-02-13 | HTML        | 2021-04-11   |
-|  6 | [Papr](https://github.com/jdisho/Papr)                                                    | 2018-03-26 | Swift       | 2021-04-09   |
-|  7 | [CloudKitCodable](https://github.com/insidegui/CloudKitCodable)                           | 2020-06-03 | Swift       | 2021-03-26   |
-|  8 | [KKJSBridge](https://github.com/karosLi/KKJSBridge)                                       | 2020-05-14 | Objective-C | 2021-04-10   |
-|  9 | [SPStorkController](https://github.com/ivanvorobei/SPStorkController)                     | 2019-04-19 | Swift       | 2021-04-11   |
-| 10 | [Solve-App-Store-Review-Problem](https://github.com/wg689/Solve-App-Store-Review-Problem) | 2016-09-12 | Objective-C | 2021-04-02   |
+| ID |                                   REPO                                    | STAREDDATE |  LAUGUAGE   | LATESTUPDATE |
+|----|---------------------------------------------------------------------------|------------|-------------|--------------|
+|  1 | [Daysquare](https://github.com/unixzii/Daysquare)                         | 2020-10-11 | Objective-C | 2021-04-07   |
+|  2 | [WBBlades](https://github.com/wuba/WBBlades)                              | 2020-11-18 | Objective-C | 2021-04-12   |
+|  3 | [objc_msgSend_hook](https://github.com/czqasngit/objc_msgSend_hook)       | 2020-07-19 | C           | 2021-04-11   |
+|  4 | [front-end-collect](https://github.com/jsfront/front-end-collect)         | 2016-10-16 | JavaScript  | 2021-03-21   |
+|  5 | [firefox-ios](https://github.com/mozilla-mobile/firefox-ios)              | 2019-06-27 | Swift       | 2021-04-12   |
+|  6 | [cv](https://github.com/fanzeyi/cv)                                       | 2019-08-03 | TeX         | 2021-02-18   |
+|  7 | [lanproxy](https://github.com/ffay/lanproxy)                              | 2017-11-16 | Java        | 2021-04-12   |
+|  8 | [carbon](https://github.com/carbon-app/carbon)                            | 2019-07-23 | JavaScript  | 2021-04-12   |
+|  9 | [LYCustomTransition](https://github.com/dev-liyang/LYCustomTransition)    | 2018-03-05 | Objective-C | 2021-04-01   |
+| 10 | [open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) | 2016-07-13 | Swift       | 2021-04-12   |
 
 <!--END_SECTION:my_github-->
