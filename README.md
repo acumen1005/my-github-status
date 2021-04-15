@@ -29,22 +29,23 @@
 | 19 | [flutter_calendar](https://github.com/acumen1005/flutter_calendar)               | 2021-01-16 | 2021-01-27 | Dart        |     0 |
 
 ## The repos I contributed to
-| ID |                    REPO                    | FIRSTDATE  | LASTEDATE  |                                 PRCOUNT                                  |
-|----|--------------------------------------------|------------|------------|--------------------------------------------------------------------------|
-|  1 | [Aquaman](https://github.com/bawn/Aquaman) | 2021-03-10 | 2021-03-10 | [1](https://github.com/bawn/Aquaman/pulls?q=is%3Apr+author%3Aacumen1005) |
+| ID |                               REPO                                | FIRSTDATE  | LASTEDATE  |                                        PRCOUNT                                         |
+|----|-------------------------------------------------------------------|------------|------------|----------------------------------------------------------------------------------------|
+|  1 | [WeChatICU-ForMac](https://github.com/MustangYM/WeChatICU-ForMac) | 2021-04-14 | 2021-04-14 | [1](https://github.com/MustangYM/WeChatICU-ForMac/pulls?q=is%3Apr+author%3Aacumen1005) |
+|  2 | [Aquaman](https://github.com/bawn/Aquaman)                        | 2021-03-10 | 2021-03-10 | [1](https://github.com/bawn/Aquaman/pulls?q=is%3Apr+author%3Aacumen1005)               |
 
 ## The repos I stared (random 10)
-| ID |                                   REPO                                    | STAREDDATE |  LAUGUAGE   | LATESTUPDATE |
-|----|---------------------------------------------------------------------------|------------|-------------|--------------|
-|  1 | [Daysquare](https://github.com/unixzii/Daysquare)                         | 2020-10-11 | Objective-C | 2021-04-07   |
-|  2 | [WBBlades](https://github.com/wuba/WBBlades)                              | 2020-11-18 | Objective-C | 2021-04-12   |
-|  3 | [objc_msgSend_hook](https://github.com/czqasngit/objc_msgSend_hook)       | 2020-07-19 | C           | 2021-04-11   |
-|  4 | [front-end-collect](https://github.com/jsfront/front-end-collect)         | 2016-10-16 | JavaScript  | 2021-03-21   |
-|  5 | [firefox-ios](https://github.com/mozilla-mobile/firefox-ios)              | 2019-06-27 | Swift       | 2021-04-12   |
-|  6 | [cv](https://github.com/fanzeyi/cv)                                       | 2019-08-03 | TeX         | 2021-02-18   |
-|  7 | [lanproxy](https://github.com/ffay/lanproxy)                              | 2017-11-16 | Java        | 2021-04-12   |
-|  8 | [carbon](https://github.com/carbon-app/carbon)                            | 2019-07-23 | JavaScript  | 2021-04-12   |
-|  9 | [LYCustomTransition](https://github.com/dev-liyang/LYCustomTransition)    | 2018-03-05 | Objective-C | 2021-04-01   |
-| 10 | [open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) | 2016-07-13 | Swift       | 2021-04-12   |
+| ID |                                 REPO                                  | STAREDDATE |  LAUGUAGE   | LATESTUPDATE |
+|----|-----------------------------------------------------------------------|------------|-------------|--------------|
+|  1 | [chrome-plugin](https://github.com/SHERRYWANNA/chrome-plugin)         | 2020-02-28 | md          | 2020-02-28   |
+|  2 | [NJKWebViewProgress](https://github.com/ninjinkun/NJKWebViewProgress) | 2017-09-27 | Objective-C | 2021-04-12   |
+|  3 | [huxpro.github.io](https://github.com/Huxpro/huxpro.github.io)        | 2017-02-13 | HTML        | 2021-04-15   |
+|  4 | [mycli](https://github.com/dbcli/mycli)                               | 2018-05-24 | Python      | 2021-04-15   |
+|  5 | [wcdb](https://github.com/Tencent/wcdb)                               | 2017-10-18 | C           | 2021-04-15   |
+|  6 | [YYText](https://github.com/ibireme/YYText)                           | 2019-07-21 | Objective-C | 2021-04-15   |
+|  7 | [SwiftMessages](https://github.com/SwiftKickMobile/SwiftMessages)     | 2020-01-15 | Swift       | 2021-04-15   |
+|  8 | [scrollnum](https://github.com/SHERRYWANNA/scrollnum)                 | 2018-11-18 | Vue         | 2019-09-05   |
+|  9 | [iOS-Source-Probe](https://github.com/Desgard/iOS-Source-Probe)       | 2018-07-05 | Shell       | 2021-04-11   |
+| 10 | [awesome-swift](https://github.com/matteocrippa/awesome-swift)        | 2016-12-28 | Swift       | 2021-04-14   |
 
 <!--END_SECTION:my_github-->
