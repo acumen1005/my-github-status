@@ -23,7 +23,7 @@
 | 13 | [LazyScript](https://github.com/acumen1005/LazyScript)                           | 2016-09-17 | 2016-09-18 | Shell       |     0 |
 | 14 | [LearnNote](https://github.com/acumen1005/LearnNote)                             | 2016-12-09 | 2017-07-19 | md          |     0 |
 | 15 | [acumen1005.github.io](https://github.com/acumen1005/acumen1005.github.io)       | 2017-04-26 | 2021-03-02 | HTML        |     0 |
-| 16 | [my-github-status](https://github.com/acumen1005/my-github-status)               | 2021-04-11 | 2021-04-12 | md          |     0 |
+| 16 | [my-github-status](https://github.com/acumen1005/my-github-status)               | 2021-04-11 | 2021-04-15 | md          |     0 |
 | 17 | [acumen1005](https://github.com/acumen1005/acumen1005)                           | 2020-07-09 | 2020-07-09 | md          |     0 |
 | 18 | [ACPhotoPickerController](https://github.com/acumen1005/ACPhotoPickerController) | 2017-03-03 | 2018-04-02 | Swift       |     0 |
 | 19 | [flutter_calendar](https://github.com/acumen1005/flutter_calendar)               | 2021-01-16 | 2021-01-27 | Dart        |     0 |
@@ -35,17 +35,17 @@
 |  2 | [Aquaman](https://github.com/bawn/Aquaman)                        | 2021-03-10 | 2021-03-10 | [1](https://github.com/bawn/Aquaman/pulls?q=is%3Apr+author%3Aacumen1005)               |
 
 ## The repos I stared (random 10)
-| ID |                                 REPO                                  | STAREDDATE |  LAUGUAGE   | LATESTUPDATE |
-|----|-----------------------------------------------------------------------|------------|-------------|--------------|
-|  1 | [chrome-plugin](https://github.com/SHERRYWANNA/chrome-plugin)         | 2020-02-28 | md          | 2020-02-28   |
-|  2 | [NJKWebViewProgress](https://github.com/ninjinkun/NJKWebViewProgress) | 2017-09-27 | Objective-C | 2021-04-12   |
-|  3 | [huxpro.github.io](https://github.com/Huxpro/huxpro.github.io)        | 2017-02-13 | HTML        | 2021-04-15   |
-|  4 | [mycli](https://github.com/dbcli/mycli)                               | 2018-05-24 | Python      | 2021-04-15   |
-|  5 | [wcdb](https://github.com/Tencent/wcdb)                               | 2017-10-18 | C           | 2021-04-15   |
-|  6 | [YYText](https://github.com/ibireme/YYText)                           | 2019-07-21 | Objective-C | 2021-04-15   |
-|  7 | [SwiftMessages](https://github.com/SwiftKickMobile/SwiftMessages)     | 2020-01-15 | Swift       | 2021-04-15   |
-|  8 | [scrollnum](https://github.com/SHERRYWANNA/scrollnum)                 | 2018-11-18 | Vue         | 2019-09-05   |
-|  9 | [iOS-Source-Probe](https://github.com/Desgard/iOS-Source-Probe)       | 2018-07-05 | Shell       | 2021-04-11   |
-| 10 | [awesome-swift](https://github.com/matteocrippa/awesome-swift)        | 2016-12-28 | Swift       | 2021-04-14   |
+| ID |                                                 REPO                                                 | STAREDDATE |  LAUGUAGE   | LATESTUPDATE |
+|----|------------------------------------------------------------------------------------------------------|------------|-------------|--------------|
+|  1 | [iOS-InterviewQuestion-collection](https://github.com/liberalisman/iOS-InterviewQuestion-collection) | 2018-04-18 | Objective-C | 2021-04-16   |
+|  2 | [zlldb](https://github.com/everettjf/zlldb)                                                          | 2020-07-20 | Python      | 2021-04-14   |
+|  3 | [SwiftTrace](https://github.com/johnno1962/SwiftTrace)                                               | 2020-08-15 | Swift       | 2021-04-13   |
+|  4 | [fishhook](https://github.com/facebook/fishhook)                                                     | 2020-08-14 | C           | 2021-04-17   |
+|  5 | [zoo](https://github.com/zoo-js/zoo)                                                                 | 2020-12-02 | JavaScript  | 2021-04-13   |
+|  6 | [scrollnum](https://github.com/SHERRYWANNA/scrollnum)                                                | 2018-11-18 | Vue         | 2019-09-05   |
+|  7 | [firefox-ios](https://github.com/mozilla-mobile/firefox-ios)                                         | 2019-06-27 | Swift       | 2021-04-17   |
+|  8 | [blog](https://github.com/fouber/blog)                                                               | 2016-08-11 | md          | 2021-04-17   |
+|  9 | [Cards](https://github.com/PaoloCuscela/Cards)                                                       | 2018-04-26 | Swift       | 2021-04-13   |
+| 10 | [Live](https://github.com/ltebean/Live)                                                              | 2017-02-22 | Swift       | 2021-04-05   |
 
 <!--END_SECTION:my_github-->
