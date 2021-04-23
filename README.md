@@ -8,7 +8,7 @@
 ## The repos I created
 | ID |                                       REPO                                       |   START    |   UPDATE   |  LAUGUAGE   | STARS |
 |----|----------------------------------------------------------------------------------|------------|------------|-------------|-------|
-|  1 | [rss](https://github.com/acumen1005/rss)                                         | 2020-06-28 | 2021-03-18 | Swift       |    25 |
+|  1 | [rss](https://github.com/acumen1005/rss)                                         | 2020-06-28 | 2021-04-21 | Swift       |    27 |
 |  2 | [Recommendation](https://github.com/acumen1005/Recommendation)                   | 2016-05-31 | 2021-01-05 | Java        |    18 |
 |  3 | [ACWeChat](https://github.com/acumen1005/ACWeChat)                               | 2016-05-14 | 2019-03-06 | Objective-C |    14 |
 |  4 | [ACLabelCounting](https://github.com/acumen1005/ACLabelCounting)                 | 2017-02-22 | 2021-03-29 | Swift       |     9 |
@@ -23,7 +23,7 @@
 | 13 | [LazyScript](https://github.com/acumen1005/LazyScript)                           | 2016-09-17 | 2016-09-18 | Shell       |     0 |
 | 14 | [LearnNote](https://github.com/acumen1005/LearnNote)                             | 2016-12-09 | 2017-07-19 | md          |     0 |
 | 15 | [acumen1005.github.io](https://github.com/acumen1005/acumen1005.github.io)       | 2017-04-26 | 2021-03-02 | HTML        |     0 |
-| 16 | [my-github-status](https://github.com/acumen1005/my-github-status)               | 2021-04-11 | 2021-04-15 | md          |     0 |
+| 16 | [my-github-status](https://github.com/acumen1005/my-github-status)               | 2021-04-11 | 2021-04-18 | md          |     0 |
 | 17 | [acumen1005](https://github.com/acumen1005/acumen1005)                           | 2020-07-09 | 2020-07-09 | md          |     0 |
 | 18 | [ACPhotoPickerController](https://github.com/acumen1005/ACPhotoPickerController) | 2017-03-03 | 2018-04-02 | Swift       |     0 |
 | 19 | [flutter_calendar](https://github.com/acumen1005/flutter_calendar)               | 2021-01-16 | 2021-01-27 | Dart        |     0 |
@@ -31,21 +31,21 @@
 ## The repos I contributed to
 | ID |                               REPO                                | FIRSTDATE  | LASTEDATE  |                                        PRCOUNT                                         |
 |----|-------------------------------------------------------------------|------------|------------|----------------------------------------------------------------------------------------|
-|  1 | [WeChatICU-ForMac](https://github.com/MustangYM/WeChatICU-ForMac) | 2021-04-14 | 2021-04-14 | [1](https://github.com/MustangYM/WeChatICU-ForMac/pulls?q=is%3Apr+author%3Aacumen1005) |
-|  2 | [Aquaman](https://github.com/bawn/Aquaman)                        | 2021-03-10 | 2021-03-10 | [1](https://github.com/bawn/Aquaman/pulls?q=is%3Apr+author%3Aacumen1005)               |
+|  1 | [Aquaman](https://github.com/bawn/Aquaman)                        | 2021-03-10 | 2021-03-10 | [1](https://github.com/bawn/Aquaman/pulls?q=is%3Apr+author%3Aacumen1005)               |
+|  2 | [WeChatICU-ForMac](https://github.com/MustangYM/WeChatICU-ForMac) | 2021-04-14 | 2021-04-14 | [1](https://github.com/MustangYM/WeChatICU-ForMac/pulls?q=is%3Apr+author%3Aacumen1005) |
 
 ## The repos I stared (random 10)
-| ID |                                                 REPO                                                 | STAREDDATE |  LAUGUAGE   | LATESTUPDATE |
-|----|------------------------------------------------------------------------------------------------------|------------|-------------|--------------|
-|  1 | [iOS-InterviewQuestion-collection](https://github.com/liberalisman/iOS-InterviewQuestion-collection) | 2018-04-18 | Objective-C | 2021-04-16   |
-|  2 | [zlldb](https://github.com/everettjf/zlldb)                                                          | 2020-07-20 | Python      | 2021-04-14   |
-|  3 | [SwiftTrace](https://github.com/johnno1962/SwiftTrace)                                               | 2020-08-15 | Swift       | 2021-04-13   |
-|  4 | [fishhook](https://github.com/facebook/fishhook)                                                     | 2020-08-14 | C           | 2021-04-17   |
-|  5 | [zoo](https://github.com/zoo-js/zoo)                                                                 | 2020-12-02 | JavaScript  | 2021-04-13   |
-|  6 | [scrollnum](https://github.com/SHERRYWANNA/scrollnum)                                                | 2018-11-18 | Vue         | 2019-09-05   |
-|  7 | [firefox-ios](https://github.com/mozilla-mobile/firefox-ios)                                         | 2019-06-27 | Swift       | 2021-04-17   |
-|  8 | [blog](https://github.com/fouber/blog)                                                               | 2016-08-11 | md          | 2021-04-17   |
-|  9 | [Cards](https://github.com/PaoloCuscela/Cards)                                                       | 2018-04-26 | Swift       | 2021-04-13   |
-| 10 | [Live](https://github.com/ltebean/Live)                                                              | 2017-02-22 | Swift       | 2021-04-05   |
+| ID |                                         REPO                                         | STAREDDATE |  LAUGUAGE   | LATESTUPDATE |
+|----|--------------------------------------------------------------------------------------|------------|-------------|--------------|
+|  1 | [RTRootNavigationController](https://github.com/rickytan/RTRootNavigationController) | 2017-08-24 | Objective-C | 2021-04-22   |
+|  2 | [chrome-plugin](https://github.com/SHERRYWANNA/chrome-plugin)                        | 2020-02-28 | md          | 2020-02-28   |
+|  3 | [django-rest-framework](https://github.com/encode/django-rest-framework)             | 2016-10-25 | Python      | 2021-04-22   |
+|  4 | [YoCelsius](https://github.com/YouXianMing/YoCelsius)                                | 2017-02-09 | Objective-C | 2021-04-21   |
+|  5 | [PanModal](https://github.com/slackhq/PanModal)                                      | 2019-12-13 | Swift       | 2021-04-22   |
+|  6 | [SwiftWebUI](https://github.com/SwiftWebUI/SwiftWebUI)                               | 2019-07-02 | Swift       | 2021-04-22   |
+|  7 | [ZipArchive](https://github.com/ZipArchive/ZipArchive)                               | 2017-12-21 | C           | 2021-04-22   |
+|  8 | [BouncyLayout](https://github.com/roberthein/BouncyLayout)                           | 2017-09-08 | Swift       | 2021-04-23   |
+|  9 | [AltStore](https://github.com/rileytestut/AltStore)                                  | 2020-04-24 | Swift       | 2021-04-22   |
+| 10 | [TLYShyNavBar](https://github.com/telly/TLYShyNavBar)                                | 2017-09-28 | Objective-C | 2021-04-13   |
 
 <!--END_SECTION:my_github-->
