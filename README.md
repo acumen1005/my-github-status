@@ -23,7 +23,7 @@
 | 13 | [LazyScript](https://github.com/acumen1005/LazyScript)                           | 2016-09-17 | 2016-09-18 | Shell       |     0 |
 | 14 | [LearnNote](https://github.com/acumen1005/LearnNote)                             | 2016-12-09 | 2017-07-19 | md          |     0 |
 | 15 | [acumen1005.github.io](https://github.com/acumen1005/acumen1005.github.io)       | 2017-04-26 | 2021-05-28 | HTML        |     0 |
-| 16 | [my-github-status](https://github.com/acumen1005/my-github-status)               | 2021-04-11 | 2021-05-30 | md          |     0 |
+| 16 | [my-github-status](https://github.com/acumen1005/my-github-status)               | 2021-04-11 | 2021-05-31 | md          |     0 |
 | 17 | [acumen1005](https://github.com/acumen1005/acumen1005)                           | 2020-07-09 | 2020-07-09 | md          |     0 |
 | 18 | [ACPhotoPickerController](https://github.com/acumen1005/ACPhotoPickerController) | 2017-03-03 | 2018-04-02 | Swift       |     0 |
 | 19 | [flutter_calendar](https://github.com/acumen1005/flutter_calendar)               | 2021-01-16 | 2021-01-27 | Dart        |     0 |
@@ -36,17 +36,17 @@
 |  3 | [Aquaman](https://github.com/bawn/Aquaman)                        | 2021-03-10 | 2021-03-10 | [1](https://github.com/bawn/Aquaman/pulls?q=is%3Apr+author%3Aacumen1005)               |
 
 ## The repos I stared (random 10)
-| ID |                                        REPO                                        | STAREDDATE |  LAUGUAGE   | LATESTUPDATE |
-|----|------------------------------------------------------------------------------------|------------|-------------|--------------|
-|  1 | [MonkeyKing](https://github.com/nixzhu/MonkeyKing)                                 | 2020-06-18 | Swift       | 2021-05-31   |
-|  2 | [Windless](https://github.com/ParkGwangBeom/Windless)                              | 2018-12-11 | Swift       | 2021-05-16   |
-|  3 | [KMNavigationBarTransition](https://github.com/MoZhouqi/KMNavigationBarTransition) | 2017-09-20 | Objective-C | 2021-05-28   |
-|  4 | [zlldb](https://github.com/everettjf/zlldb)                                        | 2020-07-20 | Python      | 2021-05-21   |
-|  5 | [flutter-go](https://github.com/alibaba/flutter-go)                                | 2019-04-29 | Dart        | 2021-05-31   |
-|  6 | [Learning-SICP](https://github.com/DeathKing/Learning-SICP)                        | 2018-11-07 | Ruby        | 2021-05-31   |
-|  7 | [deno](https://github.com/denoland/deno)                                           | 2020-05-14 | Rust        | 2021-05-31   |
-|  8 | [WWDC17-Xcode-Theme](https://github.com/mozharovsky/WWDC17-Xcode-Theme)            | 2017-11-15 | md          | 2021-04-20   |
-|  9 | [TZImagePickerController](https://github.com/banchichen/TZImagePickerController)   | 2018-02-24 | Objective-C | 2021-05-31   |
-| 10 | [hangzhou_house_knowledge](https://github.com/houshanren/hangzhou_house_knowledge) | 2018-02-26 | CSS         | 2021-05-31   |
+| ID |                                             REPO                                             | STAREDDATE |  LAUGUAGE   | LATESTUPDATE |
+|----|----------------------------------------------------------------------------------------------|------------|-------------|--------------|
+|  1 | [deepClone](https://github.com/QiandaoLakeYY/deepClone)                                      | 2018-04-12 | JavaScript  | 2018-04-18   |
+|  2 | [Quick](https://github.com/Quick/Quick)                                                      | 2018-07-16 | Swift       | 2021-06-05   |
+|  3 | [mycli](https://github.com/dbcli/mycli)                                                      | 2018-05-24 | Python      | 2021-06-05   |
+|  4 | [WWDC](https://github.com/Blackjacx/WWDC)                                                    | 2019-06-17 | Shell       | 2021-06-05   |
+|  5 | [play_with_llvm](https://github.com/tuoxie007/play_with_llvm)                                | 2018-07-27 | C++         | 2021-05-26   |
+|  6 | [Xcode-iOS-Developer-Disk-Image](https://github.com/xushuduo/Xcode-iOS-Developer-Disk-Image) | 2019-10-31 | md          | 2021-06-04   |
+|  7 | [JASONETTE-iOS](https://github.com/Jasonette/JASONETTE-iOS)                                  | 2017-02-16 | JavaScript  | 2021-06-04   |
+|  8 | [front-end-rss](https://github.com/ChanceYu/front-end-rss)                                   | 2020-07-15 | JavaScript  | 2021-06-04   |
+|  9 | [ACWeChat](https://github.com/acumen1005/ACWeChat)                                           | 2016-07-28 | Objective-C | 2019-03-06   |
+| 10 | [YoCelsius](https://github.com/YouXianMing/YoCelsius)                                        | 2017-02-09 | Objective-C | 2021-05-26   |
 
 <!--END_SECTION:my_github-->
