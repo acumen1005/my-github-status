@@ -23,7 +23,7 @@
 | 13 | [LazyScript](https://github.com/acumen1005/LazyScript)                           | 2016-09-17 | 2016-09-18 | Shell       |     0 |
 | 14 | [LearnNote](https://github.com/acumen1005/LearnNote)                             | 2016-12-09 | 2017-07-19 | md          |     0 |
 | 15 | [acumen1005.github.io](https://github.com/acumen1005/acumen1005.github.io)       | 2017-04-26 | 2021-05-28 | HTML        |     0 |
-| 16 | [my-github-status](https://github.com/acumen1005/my-github-status)               | 2021-04-11 | 2021-06-06 | md          |     0 |
+| 16 | [my-github-status](https://github.com/acumen1005/my-github-status)               | 2021-04-11 | 2021-06-13 | md          |     0 |
 | 17 | [acumen1005](https://github.com/acumen1005/acumen1005)                           | 2020-07-09 | 2020-07-09 | md          |     0 |
 | 18 | [ACPhotoPickerController](https://github.com/acumen1005/ACPhotoPickerController) | 2017-03-03 | 2018-04-02 | Swift       |     0 |
 | 19 | [flutter_calendar](https://github.com/acumen1005/flutter_calendar)               | 2021-01-16 | 2021-01-27 | Dart        |     0 |
@@ -31,22 +31,22 @@
 ## The repos I contributed to
 | ID |                               REPO                                | FIRSTDATE  | LASTEDATE  |                                        PRCOUNT                                         |
 |----|-------------------------------------------------------------------|------------|------------|----------------------------------------------------------------------------------------|
-|  1 | [WeChatICU-ForMac](https://github.com/MustangYM/WeChatICU-ForMac) | 2021-04-14 | 2021-04-14 | [1](https://github.com/MustangYM/WeChatICU-ForMac/pulls?q=is%3Apr+author%3Aacumen1005) |
-|  2 | [Aquaman](https://github.com/bawn/Aquaman)                        | 2021-03-10 | 2021-03-10 | [1](https://github.com/bawn/Aquaman/pulls?q=is%3Apr+author%3Aacumen1005)               |
-|  3 | [zlldb](https://github.com/everettjf/zlldb)                       | 2021-04-25 | 2021-04-25 | [1](https://github.com/everettjf/zlldb/pulls?q=is%3Apr+author%3Aacumen1005)            |
+|  1 | [zlldb](https://github.com/everettjf/zlldb)                       | 2021-04-25 | 2021-04-25 | [1](https://github.com/everettjf/zlldb/pulls?q=is%3Apr+author%3Aacumen1005)            |
+|  2 | [WeChatICU-ForMac](https://github.com/MustangYM/WeChatICU-ForMac) | 2021-04-14 | 2021-04-14 | [1](https://github.com/MustangYM/WeChatICU-ForMac/pulls?q=is%3Apr+author%3Aacumen1005) |
+|  3 | [Aquaman](https://github.com/bawn/Aquaman)                        | 2021-03-10 | 2021-03-10 | [1](https://github.com/bawn/Aquaman/pulls?q=is%3Apr+author%3Aacumen1005)               |
 
 ## The repos I stared (random 10)
-| ID |                                                REPO                                                 | STAREDDATE |  LAUGUAGE   | LATESTUPDATE |
-|----|-----------------------------------------------------------------------------------------------------|------------|-------------|--------------|
-|  1 | [XcodeCleaner](https://github.com/waylybaye/XcodeCleaner)                                           | 2017-10-17 | Objective-C | 2021-06-12   |
-|  2 | [Docker-OSX](https://github.com/sickcodes/Docker-OSX)                                               | 2020-06-05 | Shell       | 2021-06-12   |
-|  3 | [AltStore](https://github.com/rileytestut/AltStore)                                                 | 2020-04-24 | Swift       | 2021-06-12   |
-|  4 | [SourceKitten](https://github.com/jpsim/SourceKitten)                                               | 2021-05-03 | Swift       | 2021-06-12   |
-|  5 | [reverse-interview-zh](https://github.com/yifeikong/reverse-interview-zh)                           | 2019-10-24 | md          | 2021-06-12   |
-|  6 | [ijkplayer](https://github.com/bilibili/ijkplayer)                                                  | 2016-09-15 | C           | 2021-06-12   |
-|  7 | [HalfModalPresentationController](https://github.com/martinnormark/HalfModalPresentationController) | 2019-04-19 | Swift       | 2021-06-02   |
-|  8 | [SwiftWebUI](https://github.com/SwiftWebUI/SwiftWebUI)                                              | 2019-07-02 | Swift       | 2021-06-12   |
-|  9 | [Optimizing-Swift-Build-Times](https://github.com/fastred/Optimizing-Swift-Build-Times)             | 2017-11-09 | Swift       | 2021-06-12   |
-| 10 | [KKJSBridge](https://github.com/karosLi/KKJSBridge)                                                 | 2020-05-14 | Objective-C | 2021-06-10   |
+| ID |                                    REPO                                     | STAREDDATE |  LAUGUAGE   | LATESTUPDATE |
+|----|-----------------------------------------------------------------------------|------------|-------------|--------------|
+|  1 | [XcodeCleaner-SwiftUI](https://github.com/waylybaye/XcodeCleaner-SwiftUI)   | 2021-01-19 | Swift       | 2021-06-16   |
+|  2 | [code-server](https://github.com/cdr/code-server)                           | 2019-03-15 | TypeScript  | 2021-06-20   |
+|  3 | [react-countup](https://github.com/glennreyes/react-countup)                | 2021-03-17 | JavaScript  | 2021-06-19   |
+|  4 | [ChatBotCourse](https://github.com/lcdevelop/ChatBotCourse)                 | 2017-01-17 | Python      | 2021-06-18   |
+|  5 | [SwiftLint](https://github.com/realm/SwiftLint)                             | 2021-05-02 | Swift       | 2021-06-19   |
+|  6 | [system-design-primer](https://github.com/donnemartin/system-design-primer) | 2019-05-08 | Python      | 2021-06-20   |
+|  7 | [libstdc-](https://github.com/devdawei/libstdc-)                            | 2021-04-06 | Shell       | 2021-06-19   |
+|  8 | [technology-sharing](https://github.com/SHERRYWANNA/technology-sharing)     | 2018-04-16 | HTML        | 2018-07-21   |
+|  9 | [firefox-ios](https://github.com/mozilla-mobile/firefox-ios)                | 2019-06-27 | Swift       | 2021-06-19   |
+| 10 | [FBMemoryProfiler](https://github.com/facebookarchive/FBMemoryProfiler)     | 2017-09-14 | Objective-C | 2021-06-15   |
 
 <!--END_SECTION:my_github-->
