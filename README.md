@@ -23,7 +23,7 @@
 | 13 | [LazyScript](https://github.com/acumen1005/LazyScript)                           | 2016-09-17 | 2016-09-18 | Shell       |     0 |
 | 14 | [LearnNote](https://github.com/acumen1005/LearnNote)                             | 2016-12-09 | 2017-07-19 | md          |     0 |
 | 15 | [acumen1005.github.io](https://github.com/acumen1005/acumen1005.github.io)       | 2017-04-26 | 2021-05-28 | HTML        |     0 |
-| 16 | [my-github-status](https://github.com/acumen1005/my-github-status)               | 2021-04-11 | 2021-06-23 | md          |     0 |
+| 16 | [my-github-status](https://github.com/acumen1005/my-github-status)               | 2021-04-11 | 2021-06-27 | md          |     0 |
 | 17 | [acumen1005](https://github.com/acumen1005/acumen1005)                           | 2020-07-09 | 2020-07-09 | md          |     0 |
 | 18 | [ACPhotoPickerController](https://github.com/acumen1005/ACPhotoPickerController) | 2017-03-03 | 2018-04-02 | Swift       |     0 |
 | 19 | [flutter_calendar](https://github.com/acumen1005/flutter_calendar)               | 2021-01-16 | 2021-01-27 | Dart        |     0 |
@@ -31,22 +31,22 @@
 ## The repos I contributed to
 | ID |                               REPO                                | FIRSTDATE  | LASTEDATE  |                                        PRCOUNT                                         |
 |----|-------------------------------------------------------------------|------------|------------|----------------------------------------------------------------------------------------|
-|  1 | [WeChatICU-ForMac](https://github.com/MustangYM/WeChatICU-ForMac) | 2021-04-14 | 2021-04-14 | [1](https://github.com/MustangYM/WeChatICU-ForMac/pulls?q=is%3Apr+author%3Aacumen1005) |
-|  2 | [Aquaman](https://github.com/bawn/Aquaman)                        | 2021-03-10 | 2021-03-10 | [1](https://github.com/bawn/Aquaman/pulls?q=is%3Apr+author%3Aacumen1005)               |
-|  3 | [zlldb](https://github.com/everettjf/zlldb)                       | 2021-04-25 | 2021-04-25 | [1](https://github.com/everettjf/zlldb/pulls?q=is%3Apr+author%3Aacumen1005)            |
+|  1 | [zlldb](https://github.com/everettjf/zlldb)                       | 2021-04-25 | 2021-04-25 | [1](https://github.com/everettjf/zlldb/pulls?q=is%3Apr+author%3Aacumen1005)            |
+|  2 | [WeChatICU-ForMac](https://github.com/MustangYM/WeChatICU-ForMac) | 2021-04-14 | 2021-04-14 | [1](https://github.com/MustangYM/WeChatICU-ForMac/pulls?q=is%3Apr+author%3Aacumen1005) |
+|  3 | [Aquaman](https://github.com/bawn/Aquaman)                        | 2021-03-10 | 2021-03-10 | [1](https://github.com/bawn/Aquaman/pulls?q=is%3Apr+author%3Aacumen1005)               |
 
 ## The repos I stared (random 10)
-| ID |                                               REPO                                                | STAREDDATE |  LAUGUAGE   | LATESTUPDATE |
-|----|---------------------------------------------------------------------------------------------------|------------|-------------|--------------|
-|  1 | [N-blog](https://github.com/nswbmw/N-blog)                                                        | 2017-09-08 | JavaScript  | 2021-06-26   |
-|  2 | [iOSInterviewQuestions](https://github.com/ChenYilong/iOSInterviewQuestions)                      | 2016-05-23 | C++         | 2021-06-24   |
-|  3 | [CHTCollectionViewWaterfallLayout](https://github.com/chiahsien/CHTCollectionViewWaterfallLayout) | 2020-08-28 | Objective-C | 2021-06-25   |
-|  4 | [chrome-plugin](https://github.com/SHERRYWANNA/chrome-plugin)                                     | 2020-02-28 | md          | 2020-02-28   |
-|  5 | [clean-architecture-swiftui](https://github.com/nalexn/clean-architecture-swiftui)                | 2020-06-30 | Swift       | 2021-06-26   |
-|  6 | [SwiftHub](https://github.com/khoren93/SwiftHub)                                                  | 2019-04-29 | Swift       | 2021-06-25   |
-|  7 | [CnC_Remastered_Collection](https://github.com/electronicarts/CnC_Remastered_Collection)          | 2020-06-10 | C++         | 2021-06-26   |
-|  8 | [Apple-GitHub-Codeidea](https://github.com/CoderLN/Apple-GitHub-Codeidea)                         | 2017-07-07 | Objective-C | 2021-05-20   |
-|  9 | [NetNewsWire](https://github.com/Ranchero-Software/NetNewsWire)                                   | 2020-11-23 | Swift       | 2021-06-26   |
-| 10 | [iOS-Performance-Optimization](https://github.com/skyming/iOS-Performance-Optimization)           | 2017-05-08 | Objective-C | 2021-06-25   |
+| ID |                                         REPO                                         | STAREDDATE |   LAUGUAGE    | LATESTUPDATE |
+|----|--------------------------------------------------------------------------------------|------------|---------------|--------------|
+|  1 | [flat-terminal](https://github.com/ahmetsulek/flat-terminal)                         | 2017-07-04 | md            | 2021-06-11   |
+|  2 | [iOS-Weekly](https://github.com/SwiftOldDriver/iOS-Weekly)                           | 2018-06-25 | Swift         | 2021-07-03   |
+|  3 | [flutter_clock](https://github.com/flutter/flutter_clock)                            | 2020-08-26 | Dart          | 2021-06-23   |
+|  4 | [TodoList](https://github.com/Kewowlo/TodoList)                                      | 2018-05-11 | Python        | 2018-05-14   |
+|  5 | [ZIKCellularAuthorization](https://github.com/Zuikyo/ZIKCellularAuthorization)       | 2018-01-12 | Objective-C   | 2021-06-29   |
+|  6 | [blog](https://github.com/fouber/blog)                                               | 2016-08-11 | md            | 2021-07-03   |
+|  7 | [FBAllocationTracker](https://github.com/facebookarchive/FBAllocationTracker)        | 2017-09-14 | Objective-C++ | 2021-07-02   |
+|  8 | [NVActivityIndicatorView](https://github.com/ninjaprox/NVActivityIndicatorView)      | 2020-11-05 | Swift         | 2021-07-03   |
+|  9 | [MonkeyKing](https://github.com/nixzhu/MonkeyKing)                                   | 2020-06-18 | Swift         | 2021-07-03   |
+| 10 | [RTRootNavigationController](https://github.com/rickytan/RTRootNavigationController) | 2017-08-24 | Objective-C   | 2021-06-27   |
 
 <!--END_SECTION:my_github-->
