@@ -23,7 +23,7 @@
 | 13 | [LazyScript](https://github.com/acumen1005/LazyScript)                           | 2016-09-17 | 2016-09-18 | Shell       |     0 |
 | 14 | [LearnNote](https://github.com/acumen1005/LearnNote)                             | 2016-12-09 | 2017-07-19 | md          |     0 |
 | 15 | [acumen1005.github.io](https://github.com/acumen1005/acumen1005.github.io)       | 2017-04-26 | 2021-05-28 | HTML        |     0 |
-| 16 | [my-github-status](https://github.com/acumen1005/my-github-status)               | 2021-04-11 | 2021-06-27 | md          |     0 |
+| 16 | [my-github-status](https://github.com/acumen1005/my-github-status)               | 2021-04-11 | 2021-07-04 | md          |     0 |
 | 17 | [acumen1005](https://github.com/acumen1005/acumen1005)                           | 2020-07-09 | 2020-07-09 | md          |     0 |
 | 18 | [ACPhotoPickerController](https://github.com/acumen1005/ACPhotoPickerController) | 2017-03-03 | 2018-04-02 | Swift       |     0 |
 | 19 | [flutter_calendar](https://github.com/acumen1005/flutter_calendar)               | 2021-01-16 | 2021-01-27 | Dart        |     0 |
@@ -36,17 +36,17 @@
 |  3 | [Aquaman](https://github.com/bawn/Aquaman)                        | 2021-03-10 | 2021-03-10 | [1](https://github.com/bawn/Aquaman/pulls?q=is%3Apr+author%3Aacumen1005)               |
 
 ## The repos I stared (random 10)
-| ID |                                         REPO                                         | STAREDDATE |   LAUGUAGE    | LATESTUPDATE |
-|----|--------------------------------------------------------------------------------------|------------|---------------|--------------|
-|  1 | [flat-terminal](https://github.com/ahmetsulek/flat-terminal)                         | 2017-07-04 | md            | 2021-06-11   |
-|  2 | [iOS-Weekly](https://github.com/SwiftOldDriver/iOS-Weekly)                           | 2018-06-25 | Swift         | 2021-07-03   |
-|  3 | [flutter_clock](https://github.com/flutter/flutter_clock)                            | 2020-08-26 | Dart          | 2021-06-23   |
-|  4 | [TodoList](https://github.com/Kewowlo/TodoList)                                      | 2018-05-11 | Python        | 2018-05-14   |
-|  5 | [ZIKCellularAuthorization](https://github.com/Zuikyo/ZIKCellularAuthorization)       | 2018-01-12 | Objective-C   | 2021-06-29   |
-|  6 | [blog](https://github.com/fouber/blog)                                               | 2016-08-11 | md            | 2021-07-03   |
-|  7 | [FBAllocationTracker](https://github.com/facebookarchive/FBAllocationTracker)        | 2017-09-14 | Objective-C++ | 2021-07-02   |
-|  8 | [NVActivityIndicatorView](https://github.com/ninjaprox/NVActivityIndicatorView)      | 2020-11-05 | Swift         | 2021-07-03   |
-|  9 | [MonkeyKing](https://github.com/nixzhu/MonkeyKing)                                   | 2020-06-18 | Swift         | 2021-07-03   |
-| 10 | [RTRootNavigationController](https://github.com/rickytan/RTRootNavigationController) | 2017-08-24 | Objective-C   | 2021-06-27   |
+| ID |                                                REPO                                                | STAREDDATE |  LAUGUAGE   | LATESTUPDATE |
+|----|----------------------------------------------------------------------------------------------------|------------|-------------|--------------|
+|  1 | [FallingSnow](https://github.com/chrismaddern/FallingSnow)                                         | 2020-12-23 | Objective-C | 2021-04-21   |
+|  2 | [Daysquare](https://github.com/unixzii/Daysquare)                                                  | 2020-10-11 | Objective-C | 2021-07-07   |
+|  3 | [Quick](https://github.com/Quick/Quick)                                                            | 2018-07-16 | Swift       | 2021-07-08   |
+|  4 | [ACWeChat](https://github.com/acumen1005/ACWeChat)                                                 | 2016-07-28 | Objective-C | 2019-03-06   |
+|  5 | [FloatingPanel](https://github.com/scenee/FloatingPanel)                                           | 2021-04-29 | Swift       | 2021-07-11   |
+|  6 | [The-Lost-Art-of-C-Structure-Packing](https://github.com/ludx/The-Lost-Art-of-C-Structure-Packing) | 2017-09-19 | md          | 2021-07-08   |
+|  7 | [iOS-UIFont-Names](https://github.com/lionhylra/iOS-UIFont-Names)                                  | 2021-05-27 | Swift       | 2021-07-11   |
+|  8 | [reverse-interview-zh](https://github.com/yifeikong/reverse-interview-zh)                          | 2019-10-24 | md          | 2021-07-09   |
+|  9 | [WBBlades](https://github.com/wuba/WBBlades)                                                       | 2020-11-18 | Objective-C | 2021-07-09   |
+| 10 | [cwa-app-ios](https://github.com/corona-warn-app/cwa-app-ios)                                      | 2020-06-17 | Swift       | 2021-07-10   |
 
 <!--END_SECTION:my_github-->
