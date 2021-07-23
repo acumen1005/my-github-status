@@ -23,7 +23,7 @@
 | 13 | [LazyScript](https://github.com/acumen1005/LazyScript)                           | 2016-09-17 | 2016-09-18 | Shell       |     0 |
 | 14 | [LearnNote](https://github.com/acumen1005/LearnNote)                             | 2016-12-09 | 2017-07-19 | md          |     0 |
 | 15 | [acumen1005.github.io](https://github.com/acumen1005/acumen1005.github.io)       | 2017-04-26 | 2021-05-28 | HTML        |     0 |
-| 16 | [my-github-status](https://github.com/acumen1005/my-github-status)               | 2021-04-11 | 2021-07-11 | md          |     0 |
+| 16 | [my-github-status](https://github.com/acumen1005/my-github-status)               | 2021-04-11 | 2021-07-18 | md          |     0 |
 | 17 | [acumen1005](https://github.com/acumen1005/acumen1005)                           | 2020-07-09 | 2020-07-09 | md          |     0 |
 | 18 | [ACPhotoPickerController](https://github.com/acumen1005/ACPhotoPickerController) | 2017-03-03 | 2018-04-02 | Swift       |     0 |
 | 19 | [flutter_calendar](https://github.com/acumen1005/flutter_calendar)               | 2021-01-16 | 2021-01-27 | Dart        |     0 |
@@ -36,17 +36,17 @@
 |  3 | [Aquaman](https://github.com/bawn/Aquaman)                        | 2021-03-10 | 2021-03-10 | [1](https://github.com/bawn/Aquaman/pulls?q=is%3Apr+author%3Aacumen1005)               |
 
 ## The repos I stared (random 10)
-| ID |                                               REPO                                               | STAREDDATE |  LAUGUAGE   | LATESTUPDATE |
-|----|--------------------------------------------------------------------------------------------------|------------|-------------|--------------|
-|  1 | [ElegantTimeline-SwiftUI](https://github.com/ThasianX/ElegantTimeline-SwiftUI)                   | 2020-07-18 | Swift       | 2021-07-17   |
-|  2 | [ACHNBrowserUI](https://github.com/Dimillian/ACHNBrowserUI)                                      | 2020-06-06 | Swift       | 2021-07-16   |
-|  3 | [Koloda](https://github.com/Yalantis/Koloda)                                                     | 2019-01-22 | Swift       | 2021-07-16   |
-|  4 | [The-Economist](https://github.com/nailperry-zd/The-Economist)                                   | 2019-07-06 | md          | 2021-07-17   |
-|  5 | [scrapy-examples](https://github.com/geekan/scrapy-examples)                                     | 2017-03-21 | Python      | 2021-07-16   |
-|  6 | [LTNavigationBar](https://github.com/ltebean/LTNavigationBar)                                    | 2017-08-18 | Objective-C | 2021-07-17   |
-|  7 | [App-Launching-like-Twitter](https://github.com/okmr-d/App-Launching-like-Twitter)               | 2017-06-02 | Swift       | 2021-05-28   |
-|  8 | [CKWaveCollectionViewTransition](https://github.com/CezaryKopacz/CKWaveCollectionViewTransition) | 2017-09-28 | Swift       | 2021-06-07   |
-|  9 | [iOS-Performance-Optimization](https://github.com/skyming/iOS-Performance-Optimization)          | 2017-05-08 | Objective-C | 2021-07-17   |
-| 10 | [YoCelsius](https://github.com/YouXianMing/YoCelsius)                                            | 2017-02-09 | Objective-C | 2021-07-05   |
+| ID |                               REPO                                | STAREDDATE |  LAUGUAGE   | LATESTUPDATE |
+|----|-------------------------------------------------------------------|------------|-------------|--------------|
+|  1 | [hexo-theme-apollo](https://github.com/pinggod/hexo-theme-apollo) | 2016-10-31 | SCSS        | 2021-07-09   |
+|  2 | [lanproxy](https://github.com/ffay/lanproxy)                      | 2017-11-16 | Java        | 2021-07-22   |
+|  3 | [Koloda](https://github.com/Yalantis/Koloda)                      | 2019-01-22 | Swift       | 2021-07-20   |
+|  4 | [SwiftWebUI](https://github.com/SwiftWebUI/SwiftWebUI)            | 2019-07-02 | Swift       | 2021-07-22   |
+|  5 | [N-blog](https://github.com/nswbmw/N-blog)                        | 2017-09-08 | JavaScript  | 2021-07-23   |
+|  6 | [Monkey](https://github.com/coderyi/Monkey)                       | 2017-02-14 | Objective-C | 2021-07-22   |
+|  7 | [iWeChat](https://github.com/lefex/iWeChat)                       | 2019-11-20 | Objective-C | 2021-07-22   |
+|  8 | [DZNEmptyDataSet](https://github.com/dzenbot/DZNEmptyDataSet)     | 2018-05-28 | Objective-C | 2021-07-22   |
+|  9 | [scrapy-examples](https://github.com/geekan/scrapy-examples)      | 2017-03-21 | Python      | 2021-07-22   |
+| 10 | [PanModal](https://github.com/slackhq/PanModal)                   | 2019-12-13 | Swift       | 2021-07-22   |
 
 <!--END_SECTION:my_github-->
