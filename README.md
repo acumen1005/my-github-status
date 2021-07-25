@@ -23,7 +23,7 @@
 | 13 | [LazyScript](https://github.com/acumen1005/LazyScript)                           | 2016-09-17 | 2016-09-18 | Shell       |     0 |
 | 14 | [LearnNote](https://github.com/acumen1005/LearnNote)                             | 2016-12-09 | 2017-07-19 | md          |     0 |
 | 15 | [acumen1005.github.io](https://github.com/acumen1005/acumen1005.github.io)       | 2017-04-26 | 2021-05-28 | HTML        |     0 |
-| 16 | [my-github-status](https://github.com/acumen1005/my-github-status)               | 2021-04-11 | 2021-07-18 | md          |     0 |
+| 16 | [my-github-status](https://github.com/acumen1005/my-github-status)               | 2021-04-11 | 2021-07-23 | md          |     0 |
 | 17 | [acumen1005](https://github.com/acumen1005/acumen1005)                           | 2020-07-09 | 2020-07-09 | md          |     0 |
 | 18 | [ACPhotoPickerController](https://github.com/acumen1005/ACPhotoPickerController) | 2017-03-03 | 2018-04-02 | Swift       |     0 |
 | 19 | [flutter_calendar](https://github.com/acumen1005/flutter_calendar)               | 2021-01-16 | 2021-01-27 | Dart        |     0 |
@@ -36,17 +36,17 @@
 |  3 | [Aquaman](https://github.com/bawn/Aquaman)                        | 2021-03-10 | 2021-03-10 | [1](https://github.com/bawn/Aquaman/pulls?q=is%3Apr+author%3Aacumen1005)               |
 
 ## The repos I stared (random 10)
-| ID |                               REPO                                | STAREDDATE |  LAUGUAGE   | LATESTUPDATE |
-|----|-------------------------------------------------------------------|------------|-------------|--------------|
-|  1 | [hexo-theme-apollo](https://github.com/pinggod/hexo-theme-apollo) | 2016-10-31 | SCSS        | 2021-07-09   |
-|  2 | [lanproxy](https://github.com/ffay/lanproxy)                      | 2017-11-16 | Java        | 2021-07-22   |
-|  3 | [Koloda](https://github.com/Yalantis/Koloda)                      | 2019-01-22 | Swift       | 2021-07-20   |
-|  4 | [SwiftWebUI](https://github.com/SwiftWebUI/SwiftWebUI)            | 2019-07-02 | Swift       | 2021-07-22   |
-|  5 | [N-blog](https://github.com/nswbmw/N-blog)                        | 2017-09-08 | JavaScript  | 2021-07-23   |
-|  6 | [Monkey](https://github.com/coderyi/Monkey)                       | 2017-02-14 | Objective-C | 2021-07-22   |
-|  7 | [iWeChat](https://github.com/lefex/iWeChat)                       | 2019-11-20 | Objective-C | 2021-07-22   |
-|  8 | [DZNEmptyDataSet](https://github.com/dzenbot/DZNEmptyDataSet)     | 2018-05-28 | Objective-C | 2021-07-22   |
-|  9 | [scrapy-examples](https://github.com/geekan/scrapy-examples)      | 2017-03-21 | Python      | 2021-07-22   |
-| 10 | [PanModal](https://github.com/slackhq/PanModal)                   | 2019-12-13 | Swift       | 2021-07-22   |
+| ID |                                        REPO                                         | STAREDDATE |  LAUGUAGE   | LATESTUPDATE |
+|----|-------------------------------------------------------------------------------------|------------|-------------|--------------|
+|  1 | [objective-c-style-guide](https://github.com/raywenderlich/objective-c-style-guide) | 2016-12-01 | md          | 2021-07-22   |
+|  2 | [wbwangk.github.io](https://github.com/wbwangk/wbwangk.github.io)                   | 2019-04-22 | HTML        | 2021-07-17   |
+|  3 | [Blogs](https://github.com/LeoMobileDeveloper/Blogs)                                | 2017-07-21 | Objective-C | 2021-07-23   |
+|  4 | [SwiftUI-CardStackView](https://github.com/dadalar/SwiftUI-CardStackView)           | 2020-12-27 | Swift       | 2021-07-22   |
+|  5 | [awesome-ios](https://github.com/vsouza/awesome-ios)                                | 2017-11-23 | Swift       | 2021-07-24   |
+|  6 | [BAT-internal-referral](https://github.com/yuguo/BAT-internal-referral)             | 2016-10-21 | md          | 2020-12-09   |
+|  7 | [study](https://github.com/ming1016/study)                                          | 2020-04-24 | C           | 2021-07-23   |
+|  8 | [ReadyForBAT](https://github.com/MisterBooo/ReadyForBAT)                            | 2019-01-03 | Objective-C | 2021-07-23   |
+|  9 | [SwiftMessages](https://github.com/SwiftKickMobile/SwiftMessages)                   | 2020-01-15 | Swift       | 2021-07-23   |
+| 10 | [flutter_clock](https://github.com/flutter/flutter_clock)                           | 2020-08-26 | Dart        | 2021-07-12   |
 
 <!--END_SECTION:my_github-->
