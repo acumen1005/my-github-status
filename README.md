@@ -23,7 +23,7 @@
 | 13 | [LazyScript](https://github.com/acumen1005/LazyScript)                           | 2016-09-17 | 2016-09-18 | Shell       |     0 |
 | 14 | [LearnNote](https://github.com/acumen1005/LearnNote)                             | 2016-12-09 | 2017-07-19 | md          |     0 |
 | 15 | [acumen1005.github.io](https://github.com/acumen1005/acumen1005.github.io)       | 2017-04-26 | 2021-05-28 | HTML        |     0 |
-| 16 | [my-github-status](https://github.com/acumen1005/my-github-status)               | 2021-04-11 | 2021-07-23 | md          |     0 |
+| 16 | [my-github-status](https://github.com/acumen1005/my-github-status)               | 2021-04-11 | 2021-07-25 | md          |     0 |
 | 17 | [acumen1005](https://github.com/acumen1005/acumen1005)                           | 2020-07-09 | 2020-07-09 | md          |     0 |
 | 18 | [ACPhotoPickerController](https://github.com/acumen1005/ACPhotoPickerController) | 2017-03-03 | 2018-04-02 | Swift       |     0 |
 | 19 | [flutter_calendar](https://github.com/acumen1005/flutter_calendar)               | 2021-01-16 | 2021-01-27 | Dart        |     0 |
@@ -36,17 +36,17 @@
 |  3 | [Aquaman](https://github.com/bawn/Aquaman)                        | 2021-03-10 | 2021-03-10 | [1](https://github.com/bawn/Aquaman/pulls?q=is%3Apr+author%3Aacumen1005)               |
 
 ## The repos I stared (random 10)
-| ID |                                        REPO                                         | STAREDDATE |  LAUGUAGE   | LATESTUPDATE |
-|----|-------------------------------------------------------------------------------------|------------|-------------|--------------|
-|  1 | [objective-c-style-guide](https://github.com/raywenderlich/objective-c-style-guide) | 2016-12-01 | md          | 2021-07-22   |
-|  2 | [wbwangk.github.io](https://github.com/wbwangk/wbwangk.github.io)                   | 2019-04-22 | HTML        | 2021-07-17   |
-|  3 | [Blogs](https://github.com/LeoMobileDeveloper/Blogs)                                | 2017-07-21 | Objective-C | 2021-07-23   |
-|  4 | [SwiftUI-CardStackView](https://github.com/dadalar/SwiftUI-CardStackView)           | 2020-12-27 | Swift       | 2021-07-22   |
-|  5 | [awesome-ios](https://github.com/vsouza/awesome-ios)                                | 2017-11-23 | Swift       | 2021-07-24   |
-|  6 | [BAT-internal-referral](https://github.com/yuguo/BAT-internal-referral)             | 2016-10-21 | md          | 2020-12-09   |
-|  7 | [study](https://github.com/ming1016/study)                                          | 2020-04-24 | C           | 2021-07-23   |
-|  8 | [ReadyForBAT](https://github.com/MisterBooo/ReadyForBAT)                            | 2019-01-03 | Objective-C | 2021-07-23   |
-|  9 | [SwiftMessages](https://github.com/SwiftKickMobile/SwiftMessages)                   | 2020-01-15 | Swift       | 2021-07-23   |
-| 10 | [flutter_clock](https://github.com/flutter/flutter_clock)                           | 2020-08-26 | Dart        | 2021-07-12   |
+| ID |                                                    REPO                                                     | STAREDDATE |  LAUGUAGE   | LATESTUPDATE |
+|----|-------------------------------------------------------------------------------------------------------------|------------|-------------|--------------|
+|  1 | [react-countup](https://github.com/glennreyes/react-countup)                                                | 2021-03-17 | JavaScript  | 2021-07-31   |
+|  2 | [YYText](https://github.com/ibireme/YYText)                                                                 | 2019-07-21 | Objective-C | 2021-07-30   |
+|  3 | [resource](https://github.com/SHERRYWANNA/resource)                                                         | 2018-08-24 | JavaScript  | 2020-09-28   |
+|  4 | [zoo](https://github.com/zoo-js/zoo)                                                                        | 2020-12-02 | JavaScript  | 2021-07-30   |
+|  5 | [Learning-SICP](https://github.com/DeathKing/Learning-SICP)                                                 | 2018-11-07 | Ruby        | 2021-07-31   |
+|  6 | [chinese-programmer-wrong-pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation) | 2020-08-19 | Python      | 2021-07-31   |
+|  7 | [blog](https://github.com/waynezhang/blog)                                                                  | 2017-03-28 | SCSS        | 2021-05-21   |
+|  8 | [matrix](https://github.com/Tencent/matrix)                                                                 | 2020-09-29 | C++         | 2021-07-31   |
+|  9 | [CnC_Remastered_Collection](https://github.com/electronicarts/CnC_Remastered_Collection)                    | 2020-06-10 | C++         | 2021-07-31   |
+| 10 | [GitHubPoster](https://github.com/yihong0618/GitHubPoster)                                                  | 2021-05-10 | Python      | 2021-08-01   |
 
 <!--END_SECTION:my_github-->
