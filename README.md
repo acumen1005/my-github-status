@@ -23,7 +23,7 @@
 | 13 | [LazyScript](https://github.com/acumen1005/LazyScript)                           | 2016-09-17 | 2016-09-18 | Shell       |     0 |
 | 14 | [LearnNote](https://github.com/acumen1005/LearnNote)                             | 2016-12-09 | 2017-07-19 | md          |     0 |
 | 15 | [acumen1005.github.io](https://github.com/acumen1005/acumen1005.github.io)       | 2017-04-26 | 2021-05-28 | HTML        |     0 |
-| 16 | [my-github-status](https://github.com/acumen1005/my-github-status)               | 2021-04-11 | 2021-07-25 | md          |     0 |
+| 16 | [my-github-status](https://github.com/acumen1005/my-github-status)               | 2021-04-11 | 2021-08-01 | md          |     0 |
 | 17 | [acumen1005](https://github.com/acumen1005/acumen1005)                           | 2020-07-09 | 2020-07-09 | md          |     0 |
 | 18 | [ACPhotoPickerController](https://github.com/acumen1005/ACPhotoPickerController) | 2017-03-03 | 2018-04-02 | Swift       |     0 |
 | 19 | [flutter_calendar](https://github.com/acumen1005/flutter_calendar)               | 2021-01-16 | 2021-01-27 | Dart        |     0 |
@@ -31,22 +31,22 @@
 ## The repos I contributed to
 | ID |                               REPO                                | FIRSTDATE  | LASTEDATE  |                                        PRCOUNT                                         |
 |----|-------------------------------------------------------------------|------------|------------|----------------------------------------------------------------------------------------|
-|  1 | [zlldb](https://github.com/everettjf/zlldb)                       | 2021-04-25 | 2021-04-25 | [1](https://github.com/everettjf/zlldb/pulls?q=is%3Apr+author%3Aacumen1005)            |
-|  2 | [WeChatICU-ForMac](https://github.com/MustangYM/WeChatICU-ForMac) | 2021-04-14 | 2021-04-14 | [1](https://github.com/MustangYM/WeChatICU-ForMac/pulls?q=is%3Apr+author%3Aacumen1005) |
-|  3 | [Aquaman](https://github.com/bawn/Aquaman)                        | 2021-03-10 | 2021-03-10 | [1](https://github.com/bawn/Aquaman/pulls?q=is%3Apr+author%3Aacumen1005)               |
+|  1 | [Aquaman](https://github.com/bawn/Aquaman)                        | 2021-03-10 | 2021-03-10 | [1](https://github.com/bawn/Aquaman/pulls?q=is%3Apr+author%3Aacumen1005)               |
+|  2 | [zlldb](https://github.com/everettjf/zlldb)                       | 2021-04-25 | 2021-04-25 | [1](https://github.com/everettjf/zlldb/pulls?q=is%3Apr+author%3Aacumen1005)            |
+|  3 | [WeChatICU-ForMac](https://github.com/MustangYM/WeChatICU-ForMac) | 2021-04-14 | 2021-04-14 | [1](https://github.com/MustangYM/WeChatICU-ForMac/pulls?q=is%3Apr+author%3Aacumen1005) |
 
 ## The repos I stared (random 10)
-| ID |                                                    REPO                                                     | STAREDDATE |  LAUGUAGE   | LATESTUPDATE |
-|----|-------------------------------------------------------------------------------------------------------------|------------|-------------|--------------|
-|  1 | [react-countup](https://github.com/glennreyes/react-countup)                                                | 2021-03-17 | JavaScript  | 2021-07-31   |
-|  2 | [YYText](https://github.com/ibireme/YYText)                                                                 | 2019-07-21 | Objective-C | 2021-07-30   |
-|  3 | [resource](https://github.com/SHERRYWANNA/resource)                                                         | 2018-08-24 | JavaScript  | 2020-09-28   |
-|  4 | [zoo](https://github.com/zoo-js/zoo)                                                                        | 2020-12-02 | JavaScript  | 2021-07-30   |
-|  5 | [Learning-SICP](https://github.com/DeathKing/Learning-SICP)                                                 | 2018-11-07 | Ruby        | 2021-07-31   |
-|  6 | [chinese-programmer-wrong-pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation) | 2020-08-19 | Python      | 2021-07-31   |
-|  7 | [blog](https://github.com/waynezhang/blog)                                                                  | 2017-03-28 | SCSS        | 2021-05-21   |
-|  8 | [matrix](https://github.com/Tencent/matrix)                                                                 | 2020-09-29 | C++         | 2021-07-31   |
-|  9 | [CnC_Remastered_Collection](https://github.com/electronicarts/CnC_Remastered_Collection)                    | 2020-06-10 | C++         | 2021-07-31   |
-| 10 | [GitHubPoster](https://github.com/yihong0618/GitHubPoster)                                                  | 2021-05-10 | Python      | 2021-08-01   |
+| ID |                                               REPO                                                | STAREDDATE |  LAUGUAGE   | LATESTUPDATE |
+|----|---------------------------------------------------------------------------------------------------|------------|-------------|--------------|
+|  1 | [ccan](https://github.com/rustyrussell/ccan)                                                      | 2019-10-25 | C           | 2021-07-22   |
+|  2 | [code-server](https://github.com/cdr/code-server)                                                 | 2019-03-15 | TypeScript  | 2021-08-07   |
+|  3 | [socket.io](https://github.com/socketio/socket.io)                                                | 2017-08-24 | JavaScript  | 2021-08-08   |
+|  4 | [N-blog](https://github.com/nswbmw/N-blog)                                                        | 2017-09-08 | JavaScript  | 2021-08-05   |
+|  5 | [English-level-up-tips-for-Chinese](https://github.com/byoungd/English-level-up-tips-for-Chinese) | 2017-12-26 | md          | 2021-08-07   |
+|  6 | [iina](https://github.com/iina/iina)                                                              | 2019-05-07 | Swift       | 2021-08-08   |
+|  7 | [NJKWebViewProgress](https://github.com/ninjinkun/NJKWebViewProgress)                             | 2017-09-27 | Objective-C | 2021-08-06   |
+|  8 | [SwiftUI-Kit](https://github.com/jordansinger/SwiftUI-Kit)                                        | 2020-07-11 | Swift       | 2021-08-07   |
+|  9 | [AirPodsPro-Motion-Sampler](https://github.com/tukuyo/AirPodsPro-Motion-Sampler)                  | 2020-10-19 | Swift       | 2021-08-03   |
+| 10 | [iWeChat](https://github.com/lefex/iWeChat)                                                       | 2019-11-20 | Objective-C | 2021-08-04   |
 
 <!--END_SECTION:my_github-->
