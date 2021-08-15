@@ -11,7 +11,7 @@
 |  1 | [rss](https://github.com/acumen1005/rss)                                         | 2020-06-28 | 2021-07-16 | Swift       |    32 |
 |  2 | [Recommendation](https://github.com/acumen1005/Recommendation)                   | 2016-05-31 | 2021-01-05 | Java        |    18 |
 |  3 | [ACWeChat](https://github.com/acumen1005/ACWeChat)                               | 2016-05-14 | 2019-03-06 | Objective-C |    14 |
-|  4 | [ACLabelCounting](https://github.com/acumen1005/ACLabelCounting)                 | 2017-02-22 | 2021-03-29 | Swift       |     9 |
+|  4 | [ACLabelCounting](https://github.com/acumen1005/ACLabelCounting)                 | 2017-02-22 | 2021-08-08 | Swift       |    10 |
 |  5 | [Leetcode](https://github.com/acumen1005/Leetcode)                               | 2018-04-13 | 2020-07-18 | Swift       |     1 |
 |  6 | [FoodCatcher](https://github.com/acumen1005/FoodCatcher)                         | 2021-03-02 | 2021-03-09 | JavaScript  |     1 |
 |  7 | [SwiftUI-Example](https://github.com/acumen1005/SwiftUI-Example)                 | 2020-06-21 | 2020-07-18 | Swift       |     1 |
@@ -23,7 +23,7 @@
 | 13 | [LazyScript](https://github.com/acumen1005/LazyScript)                           | 2016-09-17 | 2016-09-18 | Shell       |     0 |
 | 14 | [LearnNote](https://github.com/acumen1005/LearnNote)                             | 2016-12-09 | 2017-07-19 | md          |     0 |
 | 15 | [acumen1005.github.io](https://github.com/acumen1005/acumen1005.github.io)       | 2017-04-26 | 2021-05-28 | HTML        |     0 |
-| 16 | [my-github-status](https://github.com/acumen1005/my-github-status)               | 2021-04-11 | 2021-08-01 | md          |     0 |
+| 16 | [my-github-status](https://github.com/acumen1005/my-github-status)               | 2021-04-11 | 2021-08-08 | md          |     0 |
 | 17 | [acumen1005](https://github.com/acumen1005/acumen1005)                           | 2020-07-09 | 2020-07-09 | md          |     0 |
 | 18 | [ACPhotoPickerController](https://github.com/acumen1005/ACPhotoPickerController) | 2017-03-03 | 2018-04-02 | Swift       |     0 |
 | 19 | [flutter_calendar](https://github.com/acumen1005/flutter_calendar)               | 2021-01-16 | 2021-01-27 | Dart        |     0 |
@@ -31,22 +31,22 @@
 ## The repos I contributed to
 | ID |                               REPO                                | FIRSTDATE  | LASTEDATE  |                                        PRCOUNT                                         |
 |----|-------------------------------------------------------------------|------------|------------|----------------------------------------------------------------------------------------|
-|  1 | [Aquaman](https://github.com/bawn/Aquaman)                        | 2021-03-10 | 2021-03-10 | [1](https://github.com/bawn/Aquaman/pulls?q=is%3Apr+author%3Aacumen1005)               |
-|  2 | [zlldb](https://github.com/everettjf/zlldb)                       | 2021-04-25 | 2021-04-25 | [1](https://github.com/everettjf/zlldb/pulls?q=is%3Apr+author%3Aacumen1005)            |
-|  3 | [WeChatICU-ForMac](https://github.com/MustangYM/WeChatICU-ForMac) | 2021-04-14 | 2021-04-14 | [1](https://github.com/MustangYM/WeChatICU-ForMac/pulls?q=is%3Apr+author%3Aacumen1005) |
+|  1 | [zlldb](https://github.com/everettjf/zlldb)                       | 2021-04-25 | 2021-04-25 | [1](https://github.com/everettjf/zlldb/pulls?q=is%3Apr+author%3Aacumen1005)            |
+|  2 | [WeChatICU-ForMac](https://github.com/MustangYM/WeChatICU-ForMac) | 2021-04-14 | 2021-04-14 | [1](https://github.com/MustangYM/WeChatICU-ForMac/pulls?q=is%3Apr+author%3Aacumen1005) |
+|  3 | [Aquaman](https://github.com/bawn/Aquaman)                        | 2021-03-10 | 2021-03-10 | [1](https://github.com/bawn/Aquaman/pulls?q=is%3Apr+author%3Aacumen1005)               |
 
 ## The repos I stared (random 10)
-| ID |                                               REPO                                                | STAREDDATE |  LAUGUAGE   | LATESTUPDATE |
-|----|---------------------------------------------------------------------------------------------------|------------|-------------|--------------|
-|  1 | [ccan](https://github.com/rustyrussell/ccan)                                                      | 2019-10-25 | C           | 2021-07-22   |
-|  2 | [code-server](https://github.com/cdr/code-server)                                                 | 2019-03-15 | TypeScript  | 2021-08-07   |
-|  3 | [socket.io](https://github.com/socketio/socket.io)                                                | 2017-08-24 | JavaScript  | 2021-08-08   |
-|  4 | [N-blog](https://github.com/nswbmw/N-blog)                                                        | 2017-09-08 | JavaScript  | 2021-08-05   |
-|  5 | [English-level-up-tips-for-Chinese](https://github.com/byoungd/English-level-up-tips-for-Chinese) | 2017-12-26 | md          | 2021-08-07   |
-|  6 | [iina](https://github.com/iina/iina)                                                              | 2019-05-07 | Swift       | 2021-08-08   |
-|  7 | [NJKWebViewProgress](https://github.com/ninjinkun/NJKWebViewProgress)                             | 2017-09-27 | Objective-C | 2021-08-06   |
-|  8 | [SwiftUI-Kit](https://github.com/jordansinger/SwiftUI-Kit)                                        | 2020-07-11 | Swift       | 2021-08-07   |
-|  9 | [AirPodsPro-Motion-Sampler](https://github.com/tukuyo/AirPodsPro-Motion-Sampler)                  | 2020-10-19 | Swift       | 2021-08-03   |
-| 10 | [iWeChat](https://github.com/lefex/iWeChat)                                                       | 2019-11-20 | Objective-C | 2021-08-04   |
+| ID |                                             REPO                                              | STAREDDATE |   LAUGUAGE   | LATESTUPDATE |
+|----|-----------------------------------------------------------------------------------------------|------------|--------------|--------------|
+|  1 | [WeChatBot](https://github.com/onezens/WeChatBot)                                             | 2019-08-27 | Objective-C  | 2021-05-26   |
+|  2 | [BouncyLayout](https://github.com/roberthein/BouncyLayout)                                    | 2017-09-08 | Swift        | 2021-08-14   |
+|  3 | [ccan](https://github.com/rustyrussell/ccan)                                                  | 2019-10-25 | C            | 2021-08-13   |
+|  4 | [extended_image](https://github.com/fluttercandies/extended_image)                            | 2021-07-20 | Dart         | 2021-08-13   |
+|  5 | [swiftui-animation-library](https://github.com/amosgyamfi/swiftui-animation-library)          | 2021-05-02 | md           | 2021-08-14   |
+|  6 | [XcodeCleaner](https://github.com/waylybaye/XcodeCleaner)                                     | 2017-10-17 | Objective-C  | 2021-08-02   |
+|  7 | [chinese-copywriting-guidelines](https://github.com/sparanoid/chinese-copywriting-guidelines) | 2020-06-29 | CoffeeScript | 2021-08-14   |
+|  8 | [gitment](https://github.com/imsun/gitment)                                                   | 2018-12-19 | JavaScript   | 2021-08-14   |
+|  9 | [HidingNavigationBar](https://github.com/tristanhimmelman/HidingNavigationBar)                | 2017-11-15 | Swift        | 2021-08-14   |
+| 10 | [SwiftUI-CardStackView](https://github.com/dadalar/SwiftUI-CardStackView)                     | 2020-12-27 | Swift        | 2021-08-13   |
 
 <!--END_SECTION:my_github-->
