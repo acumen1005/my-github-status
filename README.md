@@ -22,8 +22,8 @@
 | 12 | [iSwift](https://github.com/acumen1005/iSwift)                                   | 2016-11-29 | 2016-12-27 | Swift       |     0 |
 | 13 | [LazyScript](https://github.com/acumen1005/LazyScript)                           | 2016-09-17 | 2016-09-18 | Shell       |     0 |
 | 14 | [LearnNote](https://github.com/acumen1005/LearnNote)                             | 2016-12-09 | 2017-07-19 | md          |     0 |
-| 15 | [acumen1005.github.io](https://github.com/acumen1005/acumen1005.github.io)       | 2017-04-26 | 2021-05-28 | HTML        |     0 |
-| 16 | [my-github-status](https://github.com/acumen1005/my-github-status)               | 2021-04-11 | 2021-08-15 | md          |     0 |
+| 15 | [acumen1005.github.io](https://github.com/acumen1005/acumen1005.github.io)       | 2017-04-26 | 2021-08-22 | HTML        |     0 |
+| 16 | [my-github-status](https://github.com/acumen1005/my-github-status)               | 2021-04-11 | 2021-08-22 | md          |     0 |
 | 17 | [acumen1005](https://github.com/acumen1005/acumen1005)                           | 2020-07-09 | 2020-07-09 | md          |     0 |
 | 18 | [ACPhotoPickerController](https://github.com/acumen1005/ACPhotoPickerController) | 2017-03-03 | 2018-04-02 | Swift       |     0 |
 | 19 | [flutter_calendar](https://github.com/acumen1005/flutter_calendar)               | 2021-01-16 | 2021-01-27 | Dart        |     0 |
@@ -36,17 +36,17 @@
 |  3 | [Aquaman](https://github.com/bawn/Aquaman)                        | 2021-03-10 | 2021-03-10 | [1](https://github.com/bawn/Aquaman/pulls?q=is%3Apr+author%3Aacumen1005)               |
 
 ## The repos I stared (random 10)
-| ID |                                         REPO                                         | STAREDDATE |  LAUGUAGE   | LATESTUPDATE |
-|----|--------------------------------------------------------------------------------------|------------|-------------|--------------|
-|  1 | [frp](https://github.com/fatedier/frp)                                               | 2017-11-16 | Go          | 2021-08-22   |
-|  2 | [DevUtils-app](https://github.com/DevUtilsApp/DevUtils-app)                          | 2020-11-30 | Swift       | 2021-08-21   |
-|  3 | [TZImagePickerController](https://github.com/banchichen/TZImagePickerController)     | 2018-02-24 | Objective-C | 2021-08-20   |
-|  4 | [bilibili-mac-client](https://github.com/typcn/bilibili-mac-client)                  | 2018-11-30 | Objective-C | 2021-08-20   |
-|  5 | [JASONETTE-iOS](https://github.com/Jasonette/JASONETTE-iOS)                          | 2017-02-16 | JavaScript  | 2021-08-12   |
-|  6 | [N-blog](https://github.com/nswbmw/N-blog)                                           | 2017-09-08 | JavaScript  | 2021-08-21   |
-|  7 | [ish](https://github.com/ish-app/ish)                                                | 2019-10-31 | C           | 2021-08-22   |
-|  8 | [swiftui-animation-library](https://github.com/amosgyamfi/swiftui-animation-library) | 2021-05-02 | md          | 2021-08-21   |
-|  9 | [VVeboTableViewDemo](https://github.com/johnil/VVeboTableViewDemo)                   | 2017-07-20 | Objective-C | 2021-08-19   |
-| 10 | [RxSwift](https://github.com/ReactiveX/RxSwift)                                      | 2017-03-30 | Swift       | 2021-08-21   |
+| ID |                                            REPO                                            | STAREDDATE |  LAUGUAGE   | LATESTUPDATE |
+|----|--------------------------------------------------------------------------------------------|------------|-------------|--------------|
+|  1 | [ChatBotCourse](https://github.com/lcdevelop/ChatBotCourse)                                | 2017-01-17 | Python      | 2021-08-22   |
+|  2 | [CnC_Remastered_Collection](https://github.com/electronicarts/CnC_Remastered_Collection)   | 2020-06-10 | C++         | 2021-08-22   |
+|  3 | [Dress](https://github.com/komeiji-satori/Dress)                                           | 2019-01-18 | Standard ML | 2021-08-22   |
+|  4 | [TYCyclePagerView](https://github.com/12207480/TYCyclePagerView)                           | 2017-07-27 | Objective-C | 2021-08-20   |
+|  5 | [mobilists](https://github.com/eleme/mobilists)                                            | 2017-09-14 | JavaScript  | 2020-12-25   |
+|  6 | [hangzhou_house_knowledge](https://github.com/houshanren/hangzhou_house_knowledge)         | 2018-02-26 | CSS         | 2021-08-22   |
+|  7 | [bytedance-alibaba-interview](https://github.com/colourful987/bytedance-alibaba-interview) | 2020-06-02 | Shell       | 2021-08-20   |
+|  8 | [blog](https://github.com/fouber/blog)                                                     | 2016-08-11 | md          | 2021-08-22   |
+|  9 | [KMNavigationBarTransition](https://github.com/MoZhouqi/KMNavigationBarTransition)         | 2017-09-20 | Objective-C | 2021-08-21   |
+| 10 | [NSURLProtocol-WebKitSupport](https://github.com/Yeatse/NSURLProtocol-WebKitSupport)       | 2017-11-21 | Objective-C | 2021-08-18   |
 
 <!--END_SECTION:my_github-->
