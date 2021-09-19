@@ -23,7 +23,7 @@
 | 13 | [LazyScript](https://github.com/acumen1005/LazyScript)                           | 2016-09-17 | 2016-09-18 | Shell       |     0 |
 | 14 | [LearnNote](https://github.com/acumen1005/LearnNote)                             | 2016-12-09 | 2017-07-19 | md          |     0 |
 | 15 | [acumen1005.github.io](https://github.com/acumen1005/acumen1005.github.io)       | 2017-04-26 | 2021-08-22 | HTML        |     0 |
-| 16 | [my-github-status](https://github.com/acumen1005/my-github-status)               | 2021-04-11 | 2021-09-05 | md          |     0 |
+| 16 | [my-github-status](https://github.com/acumen1005/my-github-status)               | 2021-04-11 | 2021-09-12 | md          |     0 |
 | 17 | [acumen1005](https://github.com/acumen1005/acumen1005)                           | 2020-07-09 | 2020-07-09 | md          |     0 |
 | 18 | [ACPhotoPickerController](https://github.com/acumen1005/ACPhotoPickerController) | 2017-03-03 | 2018-04-02 | Swift       |     0 |
 | 19 | [flutter_calendar](https://github.com/acumen1005/flutter_calendar)               | 2021-01-16 | 2021-01-27 | Dart        |     0 |
@@ -36,17 +36,17 @@
 |  3 | [Aquaman](https://github.com/bawn/Aquaman)                        | 2021-03-10 | 2021-03-10 | [1](https://github.com/bawn/Aquaman/pulls?q=is%3Apr+author%3Aacumen1005)               |
 
 ## The repos I stared (random 10)
-| ID |                                               REPO                                               | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|--------------------------------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [CKWaveCollectionViewTransition](https://github.com/CezaryKopacz/CKWaveCollectionViewTransition) | 2017-09-28 | Swift      | 2021-09-11   |
-|  2 | [swift-algorithm-club](https://github.com/raywenderlich/swift-algorithm-club)                    | 2017-11-27 | Swift      | 2021-09-11   |
-|  3 | [N-blog](https://github.com/nswbmw/N-blog)                                                       | 2017-09-08 | JavaScript | 2021-09-10   |
-|  4 | [open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps)                        | 2016-07-13 | Swift      | 2021-09-11   |
-|  5 | [deepClone](https://github.com/QiandaoLakeYY/deepClone)                                          | 2018-04-12 | JavaScript | 2018-04-18   |
-|  6 | [jjb](https://github.com/sunoj/jjb)                                                              | 2020-02-25 | JavaScript | 2021-09-07   |
-|  7 | [BAT-internal-referral](https://github.com/yuguo/BAT-internal-referral)                          | 2016-10-21 | md         | 2021-09-01   |
-|  8 | [scrollnum](https://github.com/SHERRYWANNA/scrollnum)                                            | 2018-11-18 | Vue        | 2019-09-05   |
-|  9 | [chinese-dos-games](https://github.com/rwv/chinese-dos-games)                                    | 2018-09-19 | Python     | 2021-09-11   |
-| 10 | [iPhoneOSDeviceSupport](https://github.com/filsv/iPhoneOSDeviceSupport)                          | 2020-06-01 | md         | 2021-09-11   |
+| ID |                                                    REPO                                                     | STAREDDATE |  LAUGUAGE   | LATESTUPDATE |
+|----|-------------------------------------------------------------------------------------------------------------|------------|-------------|--------------|
+|  1 | [doesitarm](https://github.com/ThatGuySam/doesitarm)                                                        | 2021-02-05 | JavaScript  | 2021-09-18   |
+|  2 | [socket.io](https://github.com/socketio/socket.io)                                                          | 2017-08-24 | JavaScript  | 2021-09-18   |
+|  3 | [Quick](https://github.com/Quick/Quick)                                                                     | 2018-07-16 | Swift       | 2021-09-18   |
+|  4 | [most-frequent-technology-english-words](https://github.com/Wei-Xia/most-frequent-technology-english-words) | 2019-06-23 | CSS         | 2021-09-18   |
+|  5 | [NSURLProtocol-WebKitSupport](https://github.com/Yeatse/NSURLProtocol-WebKitSupport)                        | 2017-11-21 | Objective-C | 2021-09-09   |
+|  6 | [MonkeyKing](https://github.com/nixzhu/MonkeyKing)                                                          | 2020-06-18 | Swift       | 2021-09-16   |
+|  7 | [FLEX](https://github.com/FLEXTool/FLEX)                                                                    | 2018-02-01 | Objective-C | 2021-09-18   |
+|  8 | [Swift-Daily-Tips](https://github.com/emreozdil/Swift-Daily-Tips)                                           | 2018-11-21 | Swift       | 2021-09-13   |
+|  9 | [flutter_clock](https://github.com/flutter/flutter_clock)                                                   | 2020-08-26 | Dart        | 2021-09-01   |
+| 10 | [hexo](https://github.com/hexojs/hexo)                                                                      | 2018-03-02 | JavaScript  | 2021-09-18   |
 
 <!--END_SECTION:my_github-->
