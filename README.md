@@ -8,7 +8,7 @@
 ## The repos I created
 | ID |                                       REPO                                       |   START    |   UPDATE   |  LAUGUAGE   | STARS |
 |----|----------------------------------------------------------------------------------|------------|------------|-------------|-------|
-|  1 | [rss](https://github.com/acumen1005/rss)                                         | 2020-06-28 | 2021-07-16 | Swift       |    32 |
+|  1 | [rss](https://github.com/acumen1005/rss)                                         | 2020-06-28 | 2021-10-13 | Swift       |    33 |
 |  2 | [Recommendation](https://github.com/acumen1005/Recommendation)                   | 2016-05-31 | 2021-09-07 | Java        |    19 |
 |  3 | [ACWeChat](https://github.com/acumen1005/ACWeChat)                               | 2016-05-14 | 2019-03-06 | Objective-C |    14 |
 |  4 | [ACLabelCounting](https://github.com/acumen1005/ACLabelCounting)                 | 2017-02-22 | 2021-08-08 | Swift       |    10 |
@@ -23,7 +23,7 @@
 | 13 | [LazyScript](https://github.com/acumen1005/LazyScript)                           | 2016-09-17 | 2016-09-18 | Shell       |     0 |
 | 14 | [LearnNote](https://github.com/acumen1005/LearnNote)                             | 2016-12-09 | 2017-07-19 | md          |     0 |
 | 15 | [acumen1005.github.io](https://github.com/acumen1005/acumen1005.github.io)       | 2017-04-26 | 2021-08-22 | HTML        |     0 |
-| 16 | [my-github-status](https://github.com/acumen1005/my-github-status)               | 2021-04-11 | 2021-10-03 | md          |     0 |
+| 16 | [my-github-status](https://github.com/acumen1005/my-github-status)               | 2021-04-11 | 2021-10-10 | md          |     0 |
 | 17 | [acumen1005](https://github.com/acumen1005/acumen1005)                           | 2020-07-09 | 2020-07-09 | md          |     0 |
 | 18 | [ACPhotoPickerController](https://github.com/acumen1005/ACPhotoPickerController) | 2017-03-03 | 2018-04-02 | Swift       |     0 |
 | 19 | [flutter_calendar](https://github.com/acumen1005/flutter_calendar)               | 2021-01-16 | 2021-01-27 | Dart        |     0 |
@@ -31,22 +31,22 @@
 ## The repos I contributed to
 | ID |                               REPO                                | FIRSTDATE  | LASTEDATE  |                                        PRCOUNT                                         |
 |----|-------------------------------------------------------------------|------------|------------|----------------------------------------------------------------------------------------|
-|  1 | [zlldb](https://github.com/everettjf/zlldb)                       | 2021-04-25 | 2021-04-25 | [1](https://github.com/everettjf/zlldb/pulls?q=is%3Apr+author%3Aacumen1005)            |
-|  2 | [WeChatICU-ForMac](https://github.com/MustangYM/WeChatICU-ForMac) | 2021-04-14 | 2021-04-14 | [1](https://github.com/MustangYM/WeChatICU-ForMac/pulls?q=is%3Apr+author%3Aacumen1005) |
-|  3 | [Aquaman](https://github.com/bawn/Aquaman)                        | 2021-03-10 | 2021-03-10 | [1](https://github.com/bawn/Aquaman/pulls?q=is%3Apr+author%3Aacumen1005)               |
+|  1 | [WeChatICU-ForMac](https://github.com/MustangYM/WeChatICU-ForMac) | 2021-04-14 | 2021-04-14 | [1](https://github.com/MustangYM/WeChatICU-ForMac/pulls?q=is%3Apr+author%3Aacumen1005) |
+|  2 | [Aquaman](https://github.com/bawn/Aquaman)                        | 2021-03-10 | 2021-03-10 | [1](https://github.com/bawn/Aquaman/pulls?q=is%3Apr+author%3Aacumen1005)               |
+|  3 | [zlldb](https://github.com/everettjf/zlldb)                       | 2021-04-25 | 2021-04-25 | [1](https://github.com/everettjf/zlldb/pulls?q=is%3Apr+author%3Aacumen1005)            |
 
 ## The repos I stared (random 10)
-| ID |                                             REPO                                             | STAREDDATE |  LAUGUAGE   | LATESTUPDATE |
-|----|----------------------------------------------------------------------------------------------|------------|-------------|--------------|
-|  1 | [jjb](https://github.com/sunoj/jjb)                                                          | 2020-02-25 | JavaScript  | 2021-10-08   |
-|  2 | [ChatBotCourse](https://github.com/lcdevelop/ChatBotCourse)                                  | 2017-01-17 | Python      | 2021-10-09   |
-|  3 | [DZNEmptyDataSet](https://github.com/dzenbot/DZNEmptyDataSet)                                | 2018-05-28 | Objective-C | 2021-10-09   |
-|  4 | [GitHubPoster](https://github.com/yihong0618/GitHubPoster)                                   | 2021-05-10 | Python      | 2021-10-10   |
-|  5 | [ZipArchive](https://github.com/ZipArchive/ZipArchive)                                       | 2017-12-21 | C           | 2021-10-09   |
-|  6 | [k](https://github.com/supercrabtree/k)                                                      | 2020-12-16 | Shell       | 2021-10-06   |
-|  7 | [YoCelsius](https://github.com/YouXianMing/YoCelsius)                                        | 2017-02-09 | Objective-C | 2021-10-09   |
-|  8 | [Xcode-iOS-Developer-Disk-Image](https://github.com/xushuduo/Xcode-iOS-Developer-Disk-Image) | 2019-10-31 | md          | 2021-10-07   |
-|  9 | [gold-miner](https://github.com/xitu/gold-miner)                                             | 2016-12-08 | md          | 2021-10-09   |
-| 10 | [scrapy-examples](https://github.com/geekan/scrapy-examples)                                 | 2017-03-21 | Python      | 2021-10-07   |
+| ID |                                           REPO                                            | STAREDDATE |  LAUGUAGE   | LATESTUPDATE |
+|----|-------------------------------------------------------------------------------------------|------------|-------------|--------------|
+|  1 | [flutter_clock](https://github.com/flutter/flutter_clock)                                 | 2020-08-26 | Dart        | 2021-09-01   |
+|  2 | [Solve-App-Store-Review-Problem](https://github.com/wg689/Solve-App-Store-Review-Problem) | 2016-09-12 | Objective-C | 2021-10-11   |
+|  3 | [WWDC](https://github.com/Blackjacx/WWDC)                                                 | 2019-06-17 | Shell       | 2021-10-13   |
+|  4 | [Blogs](https://github.com/LeoMobileDeveloper/Blogs)                                      | 2017-07-21 | Objective-C | 2021-10-12   |
+|  5 | [HidingNavigationBar](https://github.com/tristanhimmelman/HidingNavigationBar)            | 2017-11-15 | Swift       | 2021-10-07   |
+|  6 | [awesome-swift](https://github.com/matteocrippa/awesome-swift)                            | 2016-12-28 | Swift       | 2021-10-16   |
+|  7 | [FLEX](https://github.com/FLEXTool/FLEX)                                                  | 2018-02-01 | Objective-C | 2021-10-15   |
+|  8 | [code-server](https://github.com/cdr/code-server)                                         | 2019-03-15 | TypeScript  | 2021-10-16   |
+|  9 | [Learn-iOS-Swift-by-Examples](https://github.com/Lax/Learn-iOS-Swift-by-Examples)         | 2016-10-10 | Swift       | 2021-10-13   |
+| 10 | [react-countup](https://github.com/glennreyes/react-countup)                              | 2021-03-17 | JavaScript  | 2021-10-16   |
 
 <!--END_SECTION:my_github-->
