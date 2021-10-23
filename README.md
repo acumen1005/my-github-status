@@ -23,7 +23,7 @@
 | 13 | [LazyScript](https://github.com/acumen1005/LazyScript)                           | 2016-09-17 | 2016-09-18 | Shell       |     0 |
 | 14 | [LearnNote](https://github.com/acumen1005/LearnNote)                             | 2016-12-09 | 2017-07-19 | md          |     0 |
 | 15 | [acumen1005.github.io](https://github.com/acumen1005/acumen1005.github.io)       | 2017-04-26 | 2021-08-22 | HTML        |     0 |
-| 16 | [my-github-status](https://github.com/acumen1005/my-github-status)               | 2021-04-11 | 2021-10-10 | md          |     0 |
+| 16 | [my-github-status](https://github.com/acumen1005/my-github-status)               | 2021-04-11 | 2021-10-17 | md          |     0 |
 | 17 | [acumen1005](https://github.com/acumen1005/acumen1005)                           | 2020-07-09 | 2020-07-09 | md          |     0 |
 | 18 | [ACPhotoPickerController](https://github.com/acumen1005/ACPhotoPickerController) | 2017-03-03 | 2018-04-02 | Swift       |     0 |
 | 19 | [flutter_calendar](https://github.com/acumen1005/flutter_calendar)               | 2021-01-16 | 2021-01-27 | Dart        |     0 |
@@ -31,22 +31,22 @@
 ## The repos I contributed to
 | ID |                               REPO                                | FIRSTDATE  | LASTEDATE  |                                        PRCOUNT                                         |
 |----|-------------------------------------------------------------------|------------|------------|----------------------------------------------------------------------------------------|
-|  1 | [WeChatICU-ForMac](https://github.com/MustangYM/WeChatICU-ForMac) | 2021-04-14 | 2021-04-14 | [1](https://github.com/MustangYM/WeChatICU-ForMac/pulls?q=is%3Apr+author%3Aacumen1005) |
-|  2 | [Aquaman](https://github.com/bawn/Aquaman)                        | 2021-03-10 | 2021-03-10 | [1](https://github.com/bawn/Aquaman/pulls?q=is%3Apr+author%3Aacumen1005)               |
-|  3 | [zlldb](https://github.com/everettjf/zlldb)                       | 2021-04-25 | 2021-04-25 | [1](https://github.com/everettjf/zlldb/pulls?q=is%3Apr+author%3Aacumen1005)            |
+|  1 | [zlldb](https://github.com/everettjf/zlldb)                       | 2021-04-25 | 2021-04-25 | [1](https://github.com/everettjf/zlldb/pulls?q=is%3Apr+author%3Aacumen1005)            |
+|  2 | [WeChatICU-ForMac](https://github.com/MustangYM/WeChatICU-ForMac) | 2021-04-14 | 2021-04-14 | [1](https://github.com/MustangYM/WeChatICU-ForMac/pulls?q=is%3Apr+author%3Aacumen1005) |
+|  3 | [Aquaman](https://github.com/bawn/Aquaman)                        | 2021-03-10 | 2021-03-10 | [1](https://github.com/bawn/Aquaman/pulls?q=is%3Apr+author%3Aacumen1005)               |
 
 ## The repos I stared (random 10)
-| ID |                                           REPO                                            | STAREDDATE |  LAUGUAGE   | LATESTUPDATE |
-|----|-------------------------------------------------------------------------------------------|------------|-------------|--------------|
-|  1 | [flutter_clock](https://github.com/flutter/flutter_clock)                                 | 2020-08-26 | Dart        | 2021-09-01   |
-|  2 | [Solve-App-Store-Review-Problem](https://github.com/wg689/Solve-App-Store-Review-Problem) | 2016-09-12 | Objective-C | 2021-10-11   |
-|  3 | [WWDC](https://github.com/Blackjacx/WWDC)                                                 | 2019-06-17 | Shell       | 2021-10-13   |
-|  4 | [Blogs](https://github.com/LeoMobileDeveloper/Blogs)                                      | 2017-07-21 | Objective-C | 2021-10-12   |
-|  5 | [HidingNavigationBar](https://github.com/tristanhimmelman/HidingNavigationBar)            | 2017-11-15 | Swift       | 2021-10-07   |
-|  6 | [awesome-swift](https://github.com/matteocrippa/awesome-swift)                            | 2016-12-28 | Swift       | 2021-10-16   |
-|  7 | [FLEX](https://github.com/FLEXTool/FLEX)                                                  | 2018-02-01 | Objective-C | 2021-10-15   |
-|  8 | [code-server](https://github.com/cdr/code-server)                                         | 2019-03-15 | TypeScript  | 2021-10-16   |
-|  9 | [Learn-iOS-Swift-by-Examples](https://github.com/Lax/Learn-iOS-Swift-by-Examples)         | 2016-10-10 | Swift       | 2021-10-13   |
-| 10 | [react-countup](https://github.com/glennreyes/react-countup)                              | 2021-03-17 | JavaScript  | 2021-10-16   |
+| ID |                                    REPO                                     | STAREDDATE |  LAUGUAGE   | LATESTUPDATE |
+|----|-----------------------------------------------------------------------------|------------|-------------|--------------|
+|  1 | [ios-oss](https://github.com/kickstarter/ios-oss)                           | 2020-06-10 | Swift       | 2021-10-22   |
+|  2 | [LTNavigationBar](https://github.com/ltebean/LTNavigationBar)               | 2017-08-18 | Objective-C | 2021-10-05   |
+|  3 | [SwiftLint](https://github.com/realm/SwiftLint)                             | 2021-05-02 | Swift       | 2021-10-22   |
+|  4 | [mosaic](https://github.com/sausheong/mosaic)                               | 2017-06-12 | Go          | 2021-08-06   |
+|  5 | [SwiftHub](https://github.com/khoren93/SwiftHub)                            | 2019-04-29 | Swift       | 2021-10-22   |
+|  6 | [app-ideas](https://github.com/florinpop17/app-ideas)                       | 2020-05-19 | md          | 2021-10-22   |
+|  7 | [SocketRocket](https://github.com/facebookincubator/SocketRocket)           | 2019-08-19 | Objective-C | 2021-10-22   |
+|  8 | [MVVMReactiveCocoaDemo](https://github.com/wujunyang/MVVMReactiveCocoaDemo) | 2020-04-30 | Objective-C | 2021-10-12   |
+|  9 | [MessageKit](https://github.com/MessageKit/MessageKit)                      | 2021-04-20 | Swift       | 2021-10-21   |
+| 10 | [NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicApi)   | 2018-10-10 | JavaScript  | 2021-10-22   |
 
 <!--END_SECTION:my_github-->
