@@ -23,7 +23,7 @@
 | 13 | [LazyScript](https://github.com/acumen1005/LazyScript)                           | 2016-09-17 | 2016-09-18 | Shell       |     0 |
 | 14 | [LearnNote](https://github.com/acumen1005/LearnNote)                             | 2016-12-09 | 2017-07-19 | md          |     0 |
 | 15 | [acumen1005.github.io](https://github.com/acumen1005/acumen1005.github.io)       | 2017-04-26 | 2021-08-22 | HTML        |     0 |
-| 16 | [my-github-status](https://github.com/acumen1005/my-github-status)               | 2021-04-11 | 2021-10-17 | md          |     0 |
+| 16 | [my-github-status](https://github.com/acumen1005/my-github-status)               | 2021-04-11 | 2021-10-23 | md          |     0 |
 | 17 | [acumen1005](https://github.com/acumen1005/acumen1005)                           | 2020-07-09 | 2020-07-09 | md          |     0 |
 | 18 | [ACPhotoPickerController](https://github.com/acumen1005/ACPhotoPickerController) | 2017-03-03 | 2018-04-02 | Swift       |     0 |
 | 19 | [flutter_calendar](https://github.com/acumen1005/flutter_calendar)               | 2021-01-16 | 2021-01-27 | Dart        |     0 |
@@ -36,17 +36,17 @@
 |  3 | [Aquaman](https://github.com/bawn/Aquaman)                        | 2021-03-10 | 2021-03-10 | [1](https://github.com/bawn/Aquaman/pulls?q=is%3Apr+author%3Aacumen1005)               |
 
 ## The repos I stared (random 10)
-| ID |                                    REPO                                     | STAREDDATE |  LAUGUAGE   | LATESTUPDATE |
-|----|-----------------------------------------------------------------------------|------------|-------------|--------------|
-|  1 | [ios-oss](https://github.com/kickstarter/ios-oss)                           | 2020-06-10 | Swift       | 2021-10-22   |
-|  2 | [LTNavigationBar](https://github.com/ltebean/LTNavigationBar)               | 2017-08-18 | Objective-C | 2021-10-05   |
-|  3 | [SwiftLint](https://github.com/realm/SwiftLint)                             | 2021-05-02 | Swift       | 2021-10-22   |
-|  4 | [mosaic](https://github.com/sausheong/mosaic)                               | 2017-06-12 | Go          | 2021-08-06   |
-|  5 | [SwiftHub](https://github.com/khoren93/SwiftHub)                            | 2019-04-29 | Swift       | 2021-10-22   |
-|  6 | [app-ideas](https://github.com/florinpop17/app-ideas)                       | 2020-05-19 | md          | 2021-10-22   |
-|  7 | [SocketRocket](https://github.com/facebookincubator/SocketRocket)           | 2019-08-19 | Objective-C | 2021-10-22   |
-|  8 | [MVVMReactiveCocoaDemo](https://github.com/wujunyang/MVVMReactiveCocoaDemo) | 2020-04-30 | Objective-C | 2021-10-12   |
-|  9 | [MessageKit](https://github.com/MessageKit/MessageKit)                      | 2021-04-20 | Swift       | 2021-10-21   |
-| 10 | [NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicApi)   | 2018-10-10 | JavaScript  | 2021-10-22   |
+| ID |                                             REPO                                             | STAREDDATE |  LAUGUAGE   | LATESTUPDATE |
+|----|----------------------------------------------------------------------------------------------|------------|-------------|--------------|
+|  1 | [firefox-ios](https://github.com/mozilla-mobile/firefox-ios)                                 | 2019-06-27 | Swift       | 2021-10-23   |
+|  2 | [SwipeTableView](https://github.com/Roylee-ML/SwipeTableView)                                | 2017-08-09 | Objective-C | 2021-10-22   |
+|  3 | [SwiftUI-CardStackView](https://github.com/dadalar/SwiftUI-CardStackView)                    | 2020-12-27 | Swift       | 2021-10-15   |
+|  4 | [ZipArchive](https://github.com/ZipArchive/ZipArchive)                                       | 2017-12-21 | C           | 2021-10-23   |
+|  5 | [LYCustomTransition](https://github.com/dev-liyang/LYCustomTransition)                       | 2018-03-05 | Objective-C | 2021-10-19   |
+|  6 | [LeetCode-Swift](https://github.com/soapyigu/LeetCode-Swift)                                 | 2021-05-27 | Swift       | 2021-10-23   |
+|  7 | [mars](https://github.com/Tencent/mars)                                                      | 2018-01-20 | C++         | 2021-10-23   |
+|  8 | [TZImagePickerController](https://github.com/banchichen/TZImagePickerController)             | 2018-02-24 | Objective-C | 2021-10-22   |
+|  9 | [Optimizing-Swift-Build-Times](https://github.com/fastred/Optimizing-Swift-Build-Times)      | 2017-11-09 | Swift       | 2021-10-22   |
+| 10 | [Xcode-iOS-Developer-Disk-Image](https://github.com/xushuduo/Xcode-iOS-Developer-Disk-Image) | 2019-10-31 | md          | 2021-10-15   |
 
 <!--END_SECTION:my_github-->
