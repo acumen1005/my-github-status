@@ -23,7 +23,7 @@
 | 13 | [LazyScript](https://github.com/acumen1005/LazyScript)                           | 2016-09-17 | 2016-09-18 | Shell       |     0 |
 | 14 | [LearnNote](https://github.com/acumen1005/LearnNote)                             | 2016-12-09 | 2017-07-19 | md          |     0 |
 | 15 | [acumen1005.github.io](https://github.com/acumen1005/acumen1005.github.io)       | 2017-04-26 | 2021-08-22 | HTML        |     0 |
-| 16 | [my-github-status](https://github.com/acumen1005/my-github-status)               | 2021-04-11 | 2021-10-23 | md          |     0 |
+| 16 | [my-github-status](https://github.com/acumen1005/my-github-status)               | 2021-04-11 | 2021-10-24 | md          |     0 |
 | 17 | [acumen1005](https://github.com/acumen1005/acumen1005)                           | 2020-07-09 | 2020-07-09 | md          |     0 |
 | 18 | [ACPhotoPickerController](https://github.com/acumen1005/ACPhotoPickerController) | 2017-03-03 | 2018-04-02 | Swift       |     0 |
 | 19 | [flutter_calendar](https://github.com/acumen1005/flutter_calendar)               | 2021-01-16 | 2021-01-27 | Dart        |     0 |
@@ -31,22 +31,22 @@
 ## The repos I contributed to
 | ID |                               REPO                                | FIRSTDATE  | LASTEDATE  |                                        PRCOUNT                                         |
 |----|-------------------------------------------------------------------|------------|------------|----------------------------------------------------------------------------------------|
-|  1 | [zlldb](https://github.com/everettjf/zlldb)                       | 2021-04-25 | 2021-04-25 | [1](https://github.com/everettjf/zlldb/pulls?q=is%3Apr+author%3Aacumen1005)            |
-|  2 | [WeChatICU-ForMac](https://github.com/MustangYM/WeChatICU-ForMac) | 2021-04-14 | 2021-04-14 | [1](https://github.com/MustangYM/WeChatICU-ForMac/pulls?q=is%3Apr+author%3Aacumen1005) |
-|  3 | [Aquaman](https://github.com/bawn/Aquaman)                        | 2021-03-10 | 2021-03-10 | [1](https://github.com/bawn/Aquaman/pulls?q=is%3Apr+author%3Aacumen1005)               |
+|  1 | [WeChatICU-ForMac](https://github.com/MustangYM/WeChatICU-ForMac) | 2021-04-14 | 2021-04-14 | [1](https://github.com/MustangYM/WeChatICU-ForMac/pulls?q=is%3Apr+author%3Aacumen1005) |
+|  2 | [Aquaman](https://github.com/bawn/Aquaman)                        | 2021-03-10 | 2021-03-10 | [1](https://github.com/bawn/Aquaman/pulls?q=is%3Apr+author%3Aacumen1005)               |
+|  3 | [zlldb](https://github.com/everettjf/zlldb)                       | 2021-04-25 | 2021-04-25 | [1](https://github.com/everettjf/zlldb/pulls?q=is%3Apr+author%3Aacumen1005)            |
 
 ## The repos I stared (random 10)
-| ID |                                             REPO                                             | STAREDDATE |  LAUGUAGE   | LATESTUPDATE |
-|----|----------------------------------------------------------------------------------------------|------------|-------------|--------------|
-|  1 | [firefox-ios](https://github.com/mozilla-mobile/firefox-ios)                                 | 2019-06-27 | Swift       | 2021-10-23   |
-|  2 | [SwipeTableView](https://github.com/Roylee-ML/SwipeTableView)                                | 2017-08-09 | Objective-C | 2021-10-22   |
-|  3 | [SwiftUI-CardStackView](https://github.com/dadalar/SwiftUI-CardStackView)                    | 2020-12-27 | Swift       | 2021-10-15   |
-|  4 | [ZipArchive](https://github.com/ZipArchive/ZipArchive)                                       | 2017-12-21 | C           | 2021-10-23   |
-|  5 | [LYCustomTransition](https://github.com/dev-liyang/LYCustomTransition)                       | 2018-03-05 | Objective-C | 2021-10-19   |
-|  6 | [LeetCode-Swift](https://github.com/soapyigu/LeetCode-Swift)                                 | 2021-05-27 | Swift       | 2021-10-23   |
-|  7 | [mars](https://github.com/Tencent/mars)                                                      | 2018-01-20 | C++         | 2021-10-23   |
-|  8 | [TZImagePickerController](https://github.com/banchichen/TZImagePickerController)             | 2018-02-24 | Objective-C | 2021-10-22   |
-|  9 | [Optimizing-Swift-Build-Times](https://github.com/fastred/Optimizing-Swift-Build-Times)      | 2017-11-09 | Swift       | 2021-10-22   |
-| 10 | [Xcode-iOS-Developer-Disk-Image](https://github.com/xushuduo/Xcode-iOS-Developer-Disk-Image) | 2019-10-31 | md          | 2021-10-15   |
+| ID |                                               REPO                                                | STAREDDATE |  LAUGUAGE   | LATESTUPDATE |
+|----|---------------------------------------------------------------------------------------------------|------------|-------------|--------------|
+|  1 | [PanoramaGL](https://github.com/shaojiankui/PanoramaGL)                                           | 2017-11-07 | Objective-C | 2021-10-15   |
+|  2 | [atswift-2018-resources](https://github.com/atConf/atswift-2018-resources)                        | 2018-09-18 | md          | 2021-09-28   |
+|  3 | [N-blog](https://github.com/nswbmw/N-blog)                                                        | 2017-09-08 | JavaScript  | 2021-10-30   |
+|  4 | [jjb](https://github.com/sunoj/jjb)                                                               | 2020-02-25 | JavaScript  | 2021-10-30   |
+|  5 | [iOS-Tech-Weekly](https://github.com/BaiduHiDeviOS/iOS-Tech-Weekly)                               | 2017-10-30 | CSS         | 2021-10-03   |
+|  6 | [WeeklySwift](https://github.com/bestswifter/WeeklySwift)                                         | 2016-10-19 | md          | 2020-03-13   |
+|  7 | [English-level-up-tips-for-Chinese](https://github.com/byoungd/English-level-up-tips-for-Chinese) | 2017-12-26 | md          | 2021-10-30   |
+|  8 | [build-your-own-x](https://github.com/danistefanovic/build-your-own-x)                            | 2020-11-13 | md          | 2021-10-31   |
+|  9 | [blog](https://github.com/waynezhang/blog)                                                        | 2017-03-28 | SCSS        | 2021-08-09   |
+| 10 | [The-Economist](https://github.com/nailperry-zd/The-Economist)                                    | 2019-07-06 | md          | 2021-10-30   |
 
 <!--END_SECTION:my_github-->
