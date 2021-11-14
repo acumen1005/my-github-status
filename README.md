@@ -23,7 +23,7 @@
 | 13 | [LazyScript](https://github.com/acumen1005/LazyScript)                           | 2016-09-17 | 2016-09-18 | Shell       |     0 |
 | 14 | [LearnNote](https://github.com/acumen1005/LearnNote)                             | 2016-12-09 | 2017-07-19 | md          |     0 |
 | 15 | [acumen1005.github.io](https://github.com/acumen1005/acumen1005.github.io)       | 2017-04-26 | 2021-08-22 | HTML        |     0 |
-| 16 | [my-github-status](https://github.com/acumen1005/my-github-status)               | 2021-04-11 | 2021-10-31 | md          |     0 |
+| 16 | [my-github-status](https://github.com/acumen1005/my-github-status)               | 2021-04-11 | 2021-11-07 | md          |     0 |
 | 17 | [acumen1005](https://github.com/acumen1005/acumen1005)                           | 2020-07-09 | 2020-07-09 | md          |     0 |
 | 18 | [ACPhotoPickerController](https://github.com/acumen1005/ACPhotoPickerController) | 2017-03-03 | 2018-04-02 | Swift       |     0 |
 | 19 | [flutter_calendar](https://github.com/acumen1005/flutter_calendar)               | 2021-01-16 | 2021-01-27 | Dart        |     0 |
@@ -31,22 +31,22 @@
 ## The repos I contributed to
 | ID |                               REPO                                | FIRSTDATE  | LASTEDATE  |                                        PRCOUNT                                         |
 |----|-------------------------------------------------------------------|------------|------------|----------------------------------------------------------------------------------------|
-|  1 | [Aquaman](https://github.com/bawn/Aquaman)                        | 2021-03-10 | 2021-03-10 | [1](https://github.com/bawn/Aquaman/pulls?q=is%3Apr+author%3Aacumen1005)               |
-|  2 | [zlldb](https://github.com/everettjf/zlldb)                       | 2021-04-25 | 2021-04-25 | [1](https://github.com/everettjf/zlldb/pulls?q=is%3Apr+author%3Aacumen1005)            |
-|  3 | [WeChatICU-ForMac](https://github.com/MustangYM/WeChatICU-ForMac) | 2021-04-14 | 2021-04-14 | [1](https://github.com/MustangYM/WeChatICU-ForMac/pulls?q=is%3Apr+author%3Aacumen1005) |
+|  1 | [WeChatICU-ForMac](https://github.com/MustangYM/WeChatICU-ForMac) | 2021-04-14 | 2021-04-14 | [1](https://github.com/MustangYM/WeChatICU-ForMac/pulls?q=is%3Apr+author%3Aacumen1005) |
+|  2 | [Aquaman](https://github.com/bawn/Aquaman)                        | 2021-03-10 | 2021-03-10 | [1](https://github.com/bawn/Aquaman/pulls?q=is%3Apr+author%3Aacumen1005)               |
+|  3 | [zlldb](https://github.com/everettjf/zlldb)                       | 2021-04-25 | 2021-04-25 | [1](https://github.com/everettjf/zlldb/pulls?q=is%3Apr+author%3Aacumen1005)            |
 
 ## The repos I stared (random 10)
-| ID |                                   REPO                                    | STAREDDATE |  LAUGUAGE   | LATESTUPDATE |
-|----|---------------------------------------------------------------------------|------------|-------------|--------------|
-|  1 | [SwiftUI-CardStackView](https://github.com/dadalar/SwiftUI-CardStackView) | 2020-12-27 | Swift       | 2021-10-29   |
-|  2 | [SourceKitten](https://github.com/jpsim/SourceKitten)                     | 2021-05-03 | Swift       | 2021-11-06   |
-|  3 | [Perspective](https://github.com/kingcos/Perspective)                     | 2019-03-21 | C++         | 2021-09-26   |
-|  4 | [SkeletonView](https://github.com/Juanpe/SkeletonView)                    | 2018-12-11 | Swift       | 2021-11-06   |
-|  5 | [FBMemoryProfiler](https://github.com/facebookarchive/FBMemoryProfiler)   | 2017-09-14 | Objective-C | 2021-10-30   |
-|  6 | [react-naive-book](https://github.com/huzidaha/react-naive-book)          | 2020-10-21 | HTML        | 2021-11-05   |
-|  7 | [code-server](https://github.com/cdr/code-server)                         | 2019-03-15 | TypeScript  | 2021-11-07   |
-|  8 | [interval-content](https://github.com/idevqa/interval-content)            | 2020-02-25 | md          | 2021-10-31   |
-|  9 | [ReadyForBAT](https://github.com/MisterBooo/ReadyForBAT)                  | 2019-01-03 | Objective-C | 2021-11-02   |
-| 10 | [trip-to-iOS](https://github.com/Aufree/trip-to-iOS)                      | 2016-10-10 | Objective-C | 2021-11-06   |
+| ID |                                      REPO                                      | STAREDDATE |  LAUGUAGE   | LATESTUPDATE |
+|----|--------------------------------------------------------------------------------|------------|-------------|--------------|
+|  1 | [hexo-theme-apollo](https://github.com/pinggod/hexo-theme-apollo)              | 2016-10-31 | SCSS        | 2021-11-10   |
+|  2 | [resource](https://github.com/SHERRYWANNA/resource)                            | 2018-08-24 | JavaScript  | 2020-09-28   |
+|  3 | [wcdb](https://github.com/Tencent/wcdb)                                        | 2017-10-18 | C           | 2021-11-12   |
+|  4 | [30DaysofSwift](https://github.com/allenwong/30DaysofSwift)                    | 2017-06-05 | Swift       | 2021-11-11   |
+|  5 | [HidingNavigationBar](https://github.com/tristanhimmelman/HidingNavigationBar) | 2017-11-15 | Swift       | 2021-11-11   |
+|  6 | [SkeletonView](https://github.com/Juanpe/SkeletonView)                         | 2018-12-11 | Swift       | 2021-11-12   |
+|  7 | [TelegramSwift](https://github.com/overtake/TelegramSwift)                     | 2017-10-12 | Swift       | 2021-11-13   |
+|  8 | [lipstick](https://github.com/Ovilia/lipstick)                                 | 2018-03-08 | JavaScript  | 2021-11-10   |
+|  9 | [PNChart](https://github.com/kevinzhow/PNChart)                                | 2016-09-20 | Objective-C | 2021-11-11   |
+| 10 | [ccan](https://github.com/rustyrussell/ccan)                                   | 2019-10-25 | C           | 2021-11-08   |
 
 <!--END_SECTION:my_github-->
