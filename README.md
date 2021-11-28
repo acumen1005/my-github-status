@@ -11,7 +11,7 @@
 |  1 | [rss](https://github.com/acumen1005/rss)                                         | 2020-06-28 | 2021-11-18 | Swift       |    34 |
 |  2 | [Recommendation](https://github.com/acumen1005/Recommendation)                   | 2016-05-31 | 2021-09-07 | Java        |    19 |
 |  3 | [ACWeChat](https://github.com/acumen1005/ACWeChat)                               | 2016-05-14 | 2019-03-06 | Objective-C |    14 |
-|  4 | [ACLabelCounting](https://github.com/acumen1005/ACLabelCounting)                 | 2017-02-22 | 2021-08-08 | Swift       |    10 |
+|  4 | [ACLabelCounting](https://github.com/acumen1005/ACLabelCounting)                 | 2017-02-22 | 2021-11-23 | Swift       |    11 |
 |  5 | [Leetcode](https://github.com/acumen1005/Leetcode)                               | 2018-04-13 | 2020-07-18 | Swift       |     1 |
 |  6 | [FoodCatcher](https://github.com/acumen1005/FoodCatcher)                         | 2021-03-02 | 2021-03-09 | JavaScript  |     1 |
 |  7 | [SwiftUI-Example](https://github.com/acumen1005/SwiftUI-Example)                 | 2020-06-21 | 2020-07-18 | Swift       |     1 |
@@ -23,7 +23,7 @@
 | 13 | [LazyScript](https://github.com/acumen1005/LazyScript)                           | 2016-09-17 | 2016-09-18 | Shell       |     0 |
 | 14 | [LearnNote](https://github.com/acumen1005/LearnNote)                             | 2016-12-09 | 2017-07-19 | md          |     0 |
 | 15 | [acumen1005.github.io](https://github.com/acumen1005/acumen1005.github.io)       | 2017-04-26 | 2021-08-22 | HTML        |     0 |
-| 16 | [my-github-status](https://github.com/acumen1005/my-github-status)               | 2021-04-11 | 2021-11-21 | md          |     0 |
+| 16 | [my-github-status](https://github.com/acumen1005/my-github-status)               | 2021-04-11 | 2021-11-23 | md          |     0 |
 | 17 | [acumen1005](https://github.com/acumen1005/acumen1005)                           | 2020-07-09 | 2020-07-09 | md          |     0 |
 | 18 | [ACPhotoPickerController](https://github.com/acumen1005/ACPhotoPickerController) | 2017-03-03 | 2018-04-02 | Swift       |     0 |
 | 19 | [flutter_calendar](https://github.com/acumen1005/flutter_calendar)               | 2021-01-16 | 2021-01-27 | Dart        |     0 |
@@ -36,17 +36,17 @@
 |  3 | [Aquaman](https://github.com/bawn/Aquaman)                        | 2021-03-10 | 2021-03-10 | [1](https://github.com/bawn/Aquaman/pulls?q=is%3Apr+author%3Aacumen1005)               |
 
 ## The repos I stared (random 10)
-| ID |                                  REPO                                   | STAREDDATE |  LAUGUAGE   | LATESTUPDATE |
-|----|-------------------------------------------------------------------------|------------|-------------|--------------|
-|  1 | [react-native](https://github.com/facebook/react-native)                | 2021-02-26 | JavaScript  | 2021-11-23   |
-|  2 | [front-end-collect](https://github.com/jsfront/front-end-collect)       | 2016-10-16 | JavaScript  | 2021-11-19   |
-|  3 | [note](https://github.com/SHERRYWANNA/note)                             | 2019-06-14 | md          | 2019-06-14   |
-|  4 | [AltStore](https://github.com/rileytestut/AltStore)                     | 2020-04-24 | Swift       | 2021-11-22   |
-|  5 | [JHBlog](https://github.com/SunshineBrother/JHBlog)                     | 2020-05-24 | Objective-C | 2021-11-22   |
-|  6 | [swift](https://github.com/apple/swift)                                 | 2017-01-10 | C++         | 2021-11-22   |
-|  7 | [JXCategoryView](https://github.com/pujiaxin33/JXCategoryView)          | 2018-09-13 | Objective-C | 2021-11-22   |
-|  8 | [FBMemoryProfiler](https://github.com/facebookarchive/FBMemoryProfiler) | 2017-09-14 | Objective-C | 2021-11-17   |
-|  9 | [SwiftLint](https://github.com/realm/SwiftLint)                         | 2021-05-02 | Swift       | 2021-11-22   |
-| 10 | [Docker-OSX](https://github.com/sickcodes/Docker-OSX)                   | 2020-06-05 | Shell       | 2021-11-23   |
+| ID |                                               REPO                                               | STAREDDATE |  LAUGUAGE   | LATESTUPDATE |
+|----|--------------------------------------------------------------------------------------------------|------------|-------------|--------------|
+|  1 | [huxpro.github.io](https://github.com/Huxpro/huxpro.github.io)                                   | 2017-02-13 | HTML        | 2021-11-27   |
+|  2 | [cocoapods-binary](https://github.com/leavez/cocoapods-binary)                                   | 2019-05-05 | Ruby        | 2021-11-24   |
+|  3 | [technology-sharing](https://github.com/SHERRYWANNA/technology-sharing)                          | 2018-04-16 | HTML        | 2018-07-21   |
+|  4 | [LDRefresh](https://github.com/SNTD/LDRefresh)                                                   | 2018-04-17 | Objective-C | 2021-08-20   |
+|  5 | [CKWaveCollectionViewTransition](https://github.com/CezaryKopacz/CKWaveCollectionViewTransition) | 2017-09-28 | Swift       | 2021-11-26   |
+|  6 | [iOS-UIFont-Names](https://github.com/lionhylra/iOS-UIFont-Names)                                | 2021-05-27 | Swift       | 2021-11-24   |
+|  7 | [NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicApi)                        | 2018-10-10 | JavaScript  | 2021-11-27   |
+|  8 | [phixer](https://github.com/nateemma/phixer)                                                     | 2020-12-24 | Swift       | 2021-11-16   |
+|  9 | [Tiercel](https://github.com/Danie1s/Tiercel)                                                    | 2020-06-02 | Swift       | 2021-11-26   |
+| 10 | [MVVMReactiveCocoaDemo](https://github.com/wujunyang/MVVMReactiveCocoaDemo)                      | 2020-04-30 | Objective-C | 2021-10-12   |
 
 <!--END_SECTION:my_github-->
