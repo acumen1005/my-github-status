@@ -23,7 +23,7 @@
 | 13 | [LazyScript](https://github.com/acumen1005/LazyScript)                           | 2016-09-17 | 2016-09-18 | Shell       |     0 |
 | 14 | [LearnNote](https://github.com/acumen1005/LearnNote)                             | 2016-12-09 | 2017-07-19 | md          |     0 |
 | 15 | [acumen1005.github.io](https://github.com/acumen1005/acumen1005.github.io)       | 2017-04-26 | 2021-08-22 | HTML        |     0 |
-| 16 | [my-github-status](https://github.com/acumen1005/my-github-status)               | 2021-04-11 | 2021-11-23 | md          |     0 |
+| 16 | [my-github-status](https://github.com/acumen1005/my-github-status)               | 2021-04-11 | 2021-11-28 | md          |     0 |
 | 17 | [acumen1005](https://github.com/acumen1005/acumen1005)                           | 2020-07-09 | 2020-07-09 | md          |     0 |
 | 18 | [ACPhotoPickerController](https://github.com/acumen1005/ACPhotoPickerController) | 2017-03-03 | 2018-04-02 | Swift       |     0 |
 | 19 | [flutter_calendar](https://github.com/acumen1005/flutter_calendar)               | 2021-01-16 | 2021-01-27 | Dart        |     0 |
@@ -36,17 +36,17 @@
 |  3 | [Aquaman](https://github.com/bawn/Aquaman)                        | 2021-03-10 | 2021-03-10 | [1](https://github.com/bawn/Aquaman/pulls?q=is%3Apr+author%3Aacumen1005)               |
 
 ## The repos I stared (random 10)
-| ID |                                               REPO                                               | STAREDDATE |  LAUGUAGE   | LATESTUPDATE |
-|----|--------------------------------------------------------------------------------------------------|------------|-------------|--------------|
-|  1 | [huxpro.github.io](https://github.com/Huxpro/huxpro.github.io)                                   | 2017-02-13 | HTML        | 2021-11-27   |
-|  2 | [cocoapods-binary](https://github.com/leavez/cocoapods-binary)                                   | 2019-05-05 | Ruby        | 2021-11-24   |
-|  3 | [technology-sharing](https://github.com/SHERRYWANNA/technology-sharing)                          | 2018-04-16 | HTML        | 2018-07-21   |
-|  4 | [LDRefresh](https://github.com/SNTD/LDRefresh)                                                   | 2018-04-17 | Objective-C | 2021-08-20   |
-|  5 | [CKWaveCollectionViewTransition](https://github.com/CezaryKopacz/CKWaveCollectionViewTransition) | 2017-09-28 | Swift       | 2021-11-26   |
-|  6 | [iOS-UIFont-Names](https://github.com/lionhylra/iOS-UIFont-Names)                                | 2021-05-27 | Swift       | 2021-11-24   |
-|  7 | [NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicApi)                        | 2018-10-10 | JavaScript  | 2021-11-27   |
-|  8 | [phixer](https://github.com/nateemma/phixer)                                                     | 2020-12-24 | Swift       | 2021-11-16   |
-|  9 | [Tiercel](https://github.com/Danie1s/Tiercel)                                                    | 2020-06-02 | Swift       | 2021-11-26   |
-| 10 | [MVVMReactiveCocoaDemo](https://github.com/wujunyang/MVVMReactiveCocoaDemo)                      | 2020-04-30 | Objective-C | 2021-10-12   |
+| ID |                                   REPO                                    | STAREDDATE |  LAUGUAGE   | LATESTUPDATE |
+|----|---------------------------------------------------------------------------|------------|-------------|--------------|
+|  1 | [Apple-GitHub-Codeidea](https://github.com/CoderLN/Apple-GitHub-Codeidea) | 2017-07-07 | Objective-C | 2021-09-28   |
+|  2 | [iina](https://github.com/iina/iina)                                      | 2019-05-07 | Swift       | 2021-12-05   |
+|  3 | [LDRefresh](https://github.com/SNTD/LDRefresh)                            | 2018-04-17 | Objective-C | 2021-08-20   |
+|  4 | [LeetCode-Swift](https://github.com/soapyigu/LeetCode-Swift)              | 2021-05-27 | Swift       | 2021-12-01   |
+|  5 | [Cards](https://github.com/PaoloCuscela/Cards)                            | 2018-04-26 | Swift       | 2021-11-26   |
+|  6 | [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) | 2020-07-30 | JavaScript  | 2021-12-05   |
+|  7 | [SideMenu](https://github.com/kukushi/SideMenu)                           | 2019-03-28 | Swift       | 2021-12-02   |
+|  8 | [Monkey](https://github.com/coderyi/Monkey)                               | 2017-02-14 | Objective-C | 2021-11-18   |
+|  9 | [SPStorkController](https://github.com/ivanvorobei/SPStorkController)     | 2019-04-19 | Swift       | 2021-12-03   |
+| 10 | [SocketRocket](https://github.com/facebookincubator/SocketRocket)         | 2019-08-19 | Objective-C | 2021-12-04   |
 
 <!--END_SECTION:my_github-->
