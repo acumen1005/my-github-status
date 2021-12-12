@@ -8,7 +8,7 @@
 ## The repos I created
 | ID |                                       REPO                                       |   START    |   UPDATE   |  LAUGUAGE   | STARS |
 |----|----------------------------------------------------------------------------------|------------|------------|-------------|-------|
-|  1 | [rss](https://github.com/acumen1005/rss)                                         | 2020-06-28 | 2021-11-18 | Swift       |    34 |
+|  1 | [rss](https://github.com/acumen1005/rss)                                         | 2020-06-28 | 2021-12-11 | Swift       |    35 |
 |  2 | [Recommendation](https://github.com/acumen1005/Recommendation)                   | 2016-05-31 | 2021-09-07 | Java        |    19 |
 |  3 | [ACWeChat](https://github.com/acumen1005/ACWeChat)                               | 2016-05-14 | 2019-03-06 | Objective-C |    14 |
 |  4 | [ACLabelCounting](https://github.com/acumen1005/ACLabelCounting)                 | 2017-02-22 | 2021-11-23 | Swift       |    11 |
@@ -23,7 +23,7 @@
 | 13 | [LazyScript](https://github.com/acumen1005/LazyScript)                           | 2016-09-17 | 2016-09-18 | Shell       |     0 |
 | 14 | [LearnNote](https://github.com/acumen1005/LearnNote)                             | 2016-12-09 | 2017-07-19 | md          |     0 |
 | 15 | [acumen1005.github.io](https://github.com/acumen1005/acumen1005.github.io)       | 2017-04-26 | 2021-08-22 | HTML        |     0 |
-| 16 | [my-github-status](https://github.com/acumen1005/my-github-status)               | 2021-04-11 | 2021-11-28 | md          |     0 |
+| 16 | [my-github-status](https://github.com/acumen1005/my-github-status)               | 2021-04-11 | 2021-12-05 | md          |     0 |
 | 17 | [acumen1005](https://github.com/acumen1005/acumen1005)                           | 2020-07-09 | 2020-07-09 | md          |     0 |
 | 18 | [ACPhotoPickerController](https://github.com/acumen1005/ACPhotoPickerController) | 2017-03-03 | 2018-04-02 | Swift       |     0 |
 | 19 | [flutter_calendar](https://github.com/acumen1005/flutter_calendar)               | 2021-01-16 | 2021-01-27 | Dart        |     0 |
@@ -36,17 +36,17 @@
 |  3 | [Aquaman](https://github.com/bawn/Aquaman)                        | 2021-03-10 | 2021-03-10 | [1](https://github.com/bawn/Aquaman/pulls?q=is%3Apr+author%3Aacumen1005)               |
 
 ## The repos I stared (random 10)
-| ID |                                   REPO                                    | STAREDDATE |  LAUGUAGE   | LATESTUPDATE |
-|----|---------------------------------------------------------------------------|------------|-------------|--------------|
-|  1 | [Apple-GitHub-Codeidea](https://github.com/CoderLN/Apple-GitHub-Codeidea) | 2017-07-07 | Objective-C | 2021-09-28   |
-|  2 | [iina](https://github.com/iina/iina)                                      | 2019-05-07 | Swift       | 2021-12-05   |
-|  3 | [LDRefresh](https://github.com/SNTD/LDRefresh)                            | 2018-04-17 | Objective-C | 2021-08-20   |
-|  4 | [LeetCode-Swift](https://github.com/soapyigu/LeetCode-Swift)              | 2021-05-27 | Swift       | 2021-12-01   |
-|  5 | [Cards](https://github.com/PaoloCuscela/Cards)                            | 2018-04-26 | Swift       | 2021-11-26   |
-|  6 | [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) | 2020-07-30 | JavaScript  | 2021-12-05   |
-|  7 | [SideMenu](https://github.com/kukushi/SideMenu)                           | 2019-03-28 | Swift       | 2021-12-02   |
-|  8 | [Monkey](https://github.com/coderyi/Monkey)                               | 2017-02-14 | Objective-C | 2021-11-18   |
-|  9 | [SPStorkController](https://github.com/ivanvorobei/SPStorkController)     | 2019-04-19 | Swift       | 2021-12-03   |
-| 10 | [SocketRocket](https://github.com/facebookincubator/SocketRocket)         | 2019-08-19 | Objective-C | 2021-12-04   |
+| ID |                                       REPO                                        | STAREDDATE |  LAUGUAGE   | LATESTUPDATE |
+|----|-----------------------------------------------------------------------------------|------------|-------------|--------------|
+|  1 | [lottie-ios](https://github.com/airbnb/lottie-ios)                                | 2017-02-09 | Swift       | 2021-12-11   |
+|  2 | [Learn-iOS-Swift-by-Examples](https://github.com/Lax/Learn-iOS-Swift-by-Examples) | 2016-10-10 | Swift       | 2021-12-07   |
+|  3 | [vscode-leetcode](https://github.com/LeetCode-OpenSource/vscode-leetcode)         | 2019-03-21 | TypeScript  | 2021-12-11   |
+|  4 | [16-cell](https://github.com/oliver34/16-cell)                                    | 2018-04-12 | JavaScript  | 2018-04-18   |
+|  5 | [SwiftWebUI](https://github.com/SwiftWebUI/SwiftWebUI)                            | 2019-07-02 | Swift       | 2021-12-11   |
+|  6 | [lanproxy](https://github.com/ffay/lanproxy)                                      | 2017-11-16 | Java        | 2021-12-10   |
+|  7 | [PanoramaGL](https://github.com/shaojiankui/PanoramaGL)                           | 2017-11-07 | Objective-C | 2021-10-15   |
+|  8 | [JHBlog](https://github.com/SunshineBrother/JHBlog)                               | 2020-05-24 | Objective-C | 2021-12-09   |
+|  9 | [django-rest-framework](https://github.com/encode/django-rest-framework)          | 2016-10-25 | Python      | 2021-12-11   |
+| 10 | [wbwangk.github.io](https://github.com/wbwangk/wbwangk.github.io)                 | 2019-04-22 | HTML        | 2021-07-17   |
 
 <!--END_SECTION:my_github-->
