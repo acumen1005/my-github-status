@@ -23,7 +23,7 @@
 | 13 | [LazyScript](https://github.com/acumen1005/LazyScript)                           | 2016-09-17 | 2016-09-18 | Shell       |     0 |
 | 14 | [LearnNote](https://github.com/acumen1005/LearnNote)                             | 2016-12-09 | 2017-07-19 | md          |     0 |
 | 15 | [acumen1005.github.io](https://github.com/acumen1005/acumen1005.github.io)       | 2017-04-26 | 2021-08-22 | HTML        |     0 |
-| 16 | [my-github-status](https://github.com/acumen1005/my-github-status)               | 2021-04-11 | 2021-12-26 | md          |     0 |
+| 16 | [my-github-status](https://github.com/acumen1005/my-github-status)               | 2021-04-11 | 2022-01-02 | md          |     0 |
 | 17 | [acumen1005](https://github.com/acumen1005/acumen1005)                           | 2020-07-09 | 2020-07-09 | md          |     0 |
 | 18 | [ACPhotoPickerController](https://github.com/acumen1005/ACPhotoPickerController) | 2017-03-03 | 2018-04-02 | Swift       |     0 |
 | 19 | [flutter_calendar](https://github.com/acumen1005/flutter_calendar)               | 2021-01-16 | 2021-01-27 | Dart        |     0 |
@@ -36,17 +36,17 @@
 |  3 | [Aquaman](https://github.com/bawn/Aquaman)                        | 2021-03-10 | 2021-03-10 | [1](https://github.com/bawn/Aquaman/pulls?q=is%3Apr+author%3Aacumen1005)               |
 
 ## The repos I stared (random 10)
-| ID |                                                   REPO                                                    | STAREDDATE |  LAUGUAGE   | LATESTUPDATE |
-|----|-----------------------------------------------------------------------------------------------------------|------------|-------------|--------------|
-|  1 | [Daysquare](https://github.com/unixzii/Daysquare)                                                         | 2020-10-11 | Objective-C | 2021-11-19   |
-|  2 | [objc_msgSend_hook](https://github.com/czqasngit/objc_msgSend_hook)                                       | 2020-07-19 | C           | 2021-12-22   |
-|  3 | [SourceKitten](https://github.com/jpsim/SourceKitten)                                                     | 2021-05-03 | Swift       | 2021-12-22   |
-|  4 | [XXPerformanceMonitor](https://github.com/HJTXX/XXPerformanceMonitor)                                     | 2020-08-03 | Swift       | 2021-09-10   |
-|  5 | [Awsome-Front-End-learning-resource](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource) | 2016-10-22 | PHP         | 2022-01-01   |
-|  6 | [flutter_clock](https://github.com/flutter/flutter_clock)                                                 | 2020-08-26 | Dart        | 2021-12-25   |
-|  7 | [WWDC17-Xcode-Theme](https://github.com/mozharovsky/WWDC17-Xcode-Theme)                                   | 2017-11-15 | md          | 2021-10-31   |
-|  8 | [awesome-ios-animation](https://github.com/onmyway133/awesome-ios-animation)                              | 2016-06-03 | md          | 2022-01-01   |
-|  9 | [swift-evolution](https://github.com/apple/swift-evolution)                                               | 2018-04-26 | Markdown    | 2022-01-01   |
-| 10 | [HookZzModules](https://github.com/jmpews/HookZzModules)                                                  | 2020-03-06 | Objective-C | 2021-12-29   |
+| ID |                                                 REPO                                                 | STAREDDATE |  LAUGUAGE   | LATESTUPDATE |
+|----|------------------------------------------------------------------------------------------------------|------------|-------------|--------------|
+|  1 | [Live](https://github.com/ltebean/Live)                                                              | 2017-02-22 | Swift       | 2021-12-27   |
+|  2 | [atswift-2018-resources](https://github.com/atConf/atswift-2018-resources)                           | 2018-09-18 | md          | 2021-11-26   |
+|  3 | [MonkeyKing](https://github.com/nixzhu/MonkeyKing)                                                   | 2020-06-18 | Swift       | 2022-01-07   |
+|  4 | [echo](https://github.com/didi/echo)                                                                 | 2021-05-10 | Objective-C | 2022-01-07   |
+|  5 | [vscode-rainbow-fart](https://github.com/SaekiRaku/vscode-rainbow-fart)                              | 2020-06-22 | JavaScript  | 2022-01-08   |
+|  6 | [CleanArchitectureRxSwift](https://github.com/sergdort/CleanArchitectureRxSwift)                     | 2019-07-03 | Swift       | 2022-01-08   |
+|  7 | [WeeklySwift](https://github.com/bestswifter/WeeklySwift)                                            | 2016-10-19 | md          | 2020-03-13   |
+|  8 | [iOS-InterviewQuestion-collection](https://github.com/liberalisman/iOS-InterviewQuestion-collection) | 2018-04-18 | Objective-C | 2022-01-07   |
+|  9 | [open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps)                            | 2016-07-13 | Swift       | 2022-01-09   |
+| 10 | [Bagel](https://github.com/yagiz/Bagel)                                                              | 2021-04-15 | Swift       | 2022-01-08   |
 
 <!--END_SECTION:my_github-->
