@@ -9,7 +9,7 @@
 | ID |                                       REPO                                       |   START    |   UPDATE   |  LAUGUAGE   | STARS |
 |----|----------------------------------------------------------------------------------|------------|------------|-------------|-------|
 |  1 | [rss](https://github.com/acumen1005/rss)                                         | 2020-06-28 | 2021-12-16 | Swift       |    36 |
-|  2 | [Recommendation](https://github.com/acumen1005/Recommendation)                   | 2016-05-31 | 2021-12-15 | Java        |    20 |
+|  2 | [Recommendation](https://github.com/acumen1005/Recommendation)                   | 2016-05-31 | 2022-01-10 | Java        |    21 |
 |  3 | [ACWeChat](https://github.com/acumen1005/ACWeChat)                               | 2016-05-14 | 2019-03-06 | Objective-C |    14 |
 |  4 | [ACLabelCounting](https://github.com/acumen1005/ACLabelCounting)                 | 2017-02-22 | 2021-11-23 | Swift       |    11 |
 |  5 | [Leetcode](https://github.com/acumen1005/Leetcode)                               | 2018-04-13 | 2020-07-18 | Swift       |     1 |
@@ -23,7 +23,7 @@
 | 13 | [LazyScript](https://github.com/acumen1005/LazyScript)                           | 2016-09-17 | 2016-09-18 | Shell       |     0 |
 | 14 | [LearnNote](https://github.com/acumen1005/LearnNote)                             | 2016-12-09 | 2017-07-19 | md          |     0 |
 | 15 | [acumen1005.github.io](https://github.com/acumen1005/acumen1005.github.io)       | 2017-04-26 | 2021-08-22 | HTML        |     0 |
-| 16 | [my-github-status](https://github.com/acumen1005/my-github-status)               | 2021-04-11 | 2022-01-02 | md          |     0 |
+| 16 | [my-github-status](https://github.com/acumen1005/my-github-status)               | 2021-04-11 | 2022-01-09 | md          |     0 |
 | 17 | [acumen1005](https://github.com/acumen1005/acumen1005)                           | 2020-07-09 | 2020-07-09 | md          |     0 |
 | 18 | [ACPhotoPickerController](https://github.com/acumen1005/ACPhotoPickerController) | 2017-03-03 | 2018-04-02 | Swift       |     0 |
 | 19 | [flutter_calendar](https://github.com/acumen1005/flutter_calendar)               | 2021-01-16 | 2021-01-27 | Dart        |     0 |
@@ -36,17 +36,17 @@
 |  3 | [Aquaman](https://github.com/bawn/Aquaman)                        | 2021-03-10 | 2021-03-10 | [1](https://github.com/bawn/Aquaman/pulls?q=is%3Apr+author%3Aacumen1005)               |
 
 ## The repos I stared (random 10)
-| ID |                                                 REPO                                                 | STAREDDATE |  LAUGUAGE   | LATESTUPDATE |
-|----|------------------------------------------------------------------------------------------------------|------------|-------------|--------------|
-|  1 | [Live](https://github.com/ltebean/Live)                                                              | 2017-02-22 | Swift       | 2021-12-27   |
-|  2 | [atswift-2018-resources](https://github.com/atConf/atswift-2018-resources)                           | 2018-09-18 | md          | 2021-11-26   |
-|  3 | [MonkeyKing](https://github.com/nixzhu/MonkeyKing)                                                   | 2020-06-18 | Swift       | 2022-01-07   |
-|  4 | [echo](https://github.com/didi/echo)                                                                 | 2021-05-10 | Objective-C | 2022-01-07   |
-|  5 | [vscode-rainbow-fart](https://github.com/SaekiRaku/vscode-rainbow-fart)                              | 2020-06-22 | JavaScript  | 2022-01-08   |
-|  6 | [CleanArchitectureRxSwift](https://github.com/sergdort/CleanArchitectureRxSwift)                     | 2019-07-03 | Swift       | 2022-01-08   |
-|  7 | [WeeklySwift](https://github.com/bestswifter/WeeklySwift)                                            | 2016-10-19 | md          | 2020-03-13   |
-|  8 | [iOS-InterviewQuestion-collection](https://github.com/liberalisman/iOS-InterviewQuestion-collection) | 2018-04-18 | Objective-C | 2022-01-07   |
-|  9 | [open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps)                            | 2016-07-13 | Swift       | 2022-01-09   |
-| 10 | [Bagel](https://github.com/yagiz/Bagel)                                                              | 2021-04-15 | Swift       | 2022-01-08   |
+| ID |                                  REPO                                   | STAREDDATE |  LAUGUAGE   | LATESTUPDATE |
+|----|-------------------------------------------------------------------------|------------|-------------|--------------|
+|  1 | [k](https://github.com/supercrabtree/k)                                 | 2020-12-16 | Shell       | 2022-01-12   |
+|  2 | [NetworkLayerExample](https://github.com/tomkowz/NetworkLayerExample)   | 2017-04-26 | Swift       | 2021-10-16   |
+|  3 | [objc_msgSend_hook](https://github.com/czqasngit/objc_msgSend_hook)     | 2020-07-19 | C           | 2022-01-11   |
+|  4 | [Bagel](https://github.com/yagiz/Bagel)                                 | 2021-04-15 | Swift       | 2022-01-14   |
+|  5 | [awesome-ios](https://github.com/vsouza/awesome-ios)                    | 2017-11-23 | Swift       | 2022-01-15   |
+|  6 | [SwiftRichString](https://github.com/malcommac/SwiftRichString)         | 2019-07-08 | Swift       | 2022-01-15   |
+|  7 | [LeetCode-Swift](https://github.com/soapyigu/LeetCode-Swift)            | 2021-05-27 | Swift       | 2022-01-15   |
+|  8 | [BAT-internal-referral](https://github.com/yuguo/BAT-internal-referral) | 2016-10-21 | md          | 2021-12-12   |
+|  9 | [TLYShyNavBar](https://github.com/telly/TLYShyNavBar)                   | 2017-09-28 | Objective-C | 2022-01-15   |
+| 10 | [scrollnum](https://github.com/SHERRYWANNA/scrollnum)                   | 2018-11-18 | Vue         | 2019-09-05   |
 
 <!--END_SECTION:my_github-->
