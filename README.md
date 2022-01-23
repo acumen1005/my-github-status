@@ -36,17 +36,17 @@
 |  3 | [Aquaman](https://github.com/bawn/Aquaman)                        | 2021-03-10 | 2021-03-10 | [1](https://github.com/bawn/Aquaman/pulls?q=is%3Apr+author%3Aacumen1005)               |
 
 ## The repos I stared (random 10)
-| ID |                                  REPO                                   | STAREDDATE |  LAUGUAGE   | LATESTUPDATE |
-|----|-------------------------------------------------------------------------|------------|-------------|--------------|
-|  1 | [k](https://github.com/supercrabtree/k)                                 | 2020-12-16 | Shell       | 2022-01-12   |
-|  2 | [NetworkLayerExample](https://github.com/tomkowz/NetworkLayerExample)   | 2017-04-26 | Swift       | 2021-10-16   |
-|  3 | [objc_msgSend_hook](https://github.com/czqasngit/objc_msgSend_hook)     | 2020-07-19 | C           | 2022-01-11   |
-|  4 | [Bagel](https://github.com/yagiz/Bagel)                                 | 2021-04-15 | Swift       | 2022-01-14   |
-|  5 | [awesome-ios](https://github.com/vsouza/awesome-ios)                    | 2017-11-23 | Swift       | 2022-01-15   |
-|  6 | [SwiftRichString](https://github.com/malcommac/SwiftRichString)         | 2019-07-08 | Swift       | 2022-01-15   |
-|  7 | [LeetCode-Swift](https://github.com/soapyigu/LeetCode-Swift)            | 2021-05-27 | Swift       | 2022-01-15   |
-|  8 | [BAT-internal-referral](https://github.com/yuguo/BAT-internal-referral) | 2016-10-21 | md          | 2021-12-12   |
-|  9 | [TLYShyNavBar](https://github.com/telly/TLYShyNavBar)                   | 2017-09-28 | Objective-C | 2022-01-15   |
-| 10 | [scrollnum](https://github.com/SHERRYWANNA/scrollnum)                   | 2018-11-18 | Vue         | 2019-09-05   |
+| ID |                                          REPO                                           | STAREDDATE |   LAUGUAGE    | LATESTUPDATE |
+|----|-----------------------------------------------------------------------------------------|------------|---------------|--------------|
+|  1 | [wcdb](https://github.com/Tencent/wcdb)                                                 | 2017-10-18 | C             | 2022-01-22   |
+|  2 | [lipstick](https://github.com/Ovilia/lipstick)                                          | 2018-03-08 | JavaScript    | 2022-01-17   |
+|  3 | [objective-c-style-guide](https://github.com/raywenderlich/objective-c-style-guide)     | 2016-12-01 | md            | 2022-01-19   |
+|  4 | [iOS-Performance-Optimization](https://github.com/skyming/iOS-Performance-Optimization) | 2017-05-08 | Objective-C   | 2022-01-21   |
+|  5 | [rss](https://github.com/acumen1005/rss)                                                | 2020-11-05 | Swift         | 2021-12-16   |
+|  6 | [LYCustomTransition](https://github.com/dev-liyang/LYCustomTransition)                  | 2018-03-05 | Objective-C   | 2021-11-28   |
+|  7 | [objc_cover](https://github.com/nst/objc_cover)                                         | 2020-07-20 | Python        | 2022-01-19   |
+|  8 | [XcodeCleaner](https://github.com/waylybaye/XcodeCleaner)                               | 2017-10-17 | Objective-C   | 2022-01-17   |
+|  9 | [whats-new-in-swift-4](https://github.com/ole/whats-new-in-swift-4)                     | 2017-05-19 | Swift         | 2021-12-27   |
+| 10 | [FBRetainCycleDetector](https://github.com/facebook/FBRetainCycleDetector)              | 2017-09-14 | Objective-C++ | 2022-01-20   |
 
 <!--END_SECTION:my_github-->
