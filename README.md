@@ -31,22 +31,22 @@
 ## The repos I contributed to
 | ID |                               REPO                                | FIRSTDATE  | LASTEDATE  |                                        PRCOUNT                                         |
 |----|-------------------------------------------------------------------|------------|------------|----------------------------------------------------------------------------------------|
-|  1 | [Aquaman](https://github.com/bawn/Aquaman)                        | 2021-03-10 | 2021-03-10 | [1](https://github.com/bawn/Aquaman/pulls?q=is%3Apr+author%3Aacumen1005)               |
-|  2 | [zlldb](https://github.com/everettjf/zlldb)                       | 2021-04-25 | 2021-04-25 | [1](https://github.com/everettjf/zlldb/pulls?q=is%3Apr+author%3Aacumen1005)            |
-|  3 | [WeChatICU-ForMac](https://github.com/MustangYM/WeChatICU-ForMac) | 2021-04-14 | 2021-04-14 | [1](https://github.com/MustangYM/WeChatICU-ForMac/pulls?q=is%3Apr+author%3Aacumen1005) |
+|  1 | [zlldb](https://github.com/everettjf/zlldb)                       | 2021-04-25 | 2021-04-25 | [1](https://github.com/everettjf/zlldb/pulls?q=is%3Apr+author%3Aacumen1005)            |
+|  2 | [WeChatICU-ForMac](https://github.com/MustangYM/WeChatICU-ForMac) | 2021-04-14 | 2021-04-14 | [1](https://github.com/MustangYM/WeChatICU-ForMac/pulls?q=is%3Apr+author%3Aacumen1005) |
+|  3 | [Aquaman](https://github.com/bawn/Aquaman)                        | 2021-03-10 | 2021-03-10 | [1](https://github.com/bawn/Aquaman/pulls?q=is%3Apr+author%3Aacumen1005)               |
 
 ## The repos I stared (random 10)
-| ID |                                           REPO                                           | STAREDDATE |  LAUGUAGE   | LATESTUPDATE |
-|----|------------------------------------------------------------------------------------------|------------|-------------|--------------|
-|  1 | [front-end-rss](https://github.com/ChanceYu/front-end-rss)                               | 2020-07-15 | JavaScript  | 2022-01-28   |
-|  2 | [SwiftHub](https://github.com/khoren93/SwiftHub)                                         | 2019-04-29 | Swift       | 2022-01-28   |
-|  3 | [iOS-UIFont-Names](https://github.com/lionhylra/iOS-UIFont-Names)                        | 2021-05-27 | Swift       | 2022-01-25   |
-|  4 | [ShoB](https://github.com/bdaralan/ShoB)                                                 | 2020-07-01 | Swift       | 2022-01-24   |
-|  5 | [CnC_Remastered_Collection](https://github.com/electronicarts/CnC_Remastered_Collection) | 2020-06-10 | C++         | 2022-01-29   |
-|  6 | [SwiftRichString](https://github.com/malcommac/SwiftRichString)                          | 2019-07-08 | Swift       | 2022-01-29   |
-|  7 | [interval-content](https://github.com/idevqa/interval-content)                           | 2020-02-25 | md          | 2021-12-24   |
-|  8 | [Cards](https://github.com/PaoloCuscela/Cards)                                           | 2018-04-26 | Swift       | 2022-01-28   |
-|  9 | [SocketRocket](https://github.com/facebookincubator/SocketRocket)                        | 2019-08-19 | Objective-C | 2022-01-29   |
-| 10 | [youtube-iOS](https://github.com/aslanyanhaik/youtube-iOS)                               | 2017-06-12 | Swift       | 2022-01-12   |
+| ID |                                                 REPO                                                 | STAREDDATE |  LAUGUAGE   | LATESTUPDATE |
+|----|------------------------------------------------------------------------------------------------------|------------|-------------|--------------|
+|  1 | [react-native](https://github.com/facebook/react-native)                                             | 2021-02-26 | JavaScript  | 2022-02-06   |
+|  2 | [flat-terminal](https://github.com/ahmetsulek/flat-terminal)                                         | 2017-07-04 | md          | 2022-01-20   |
+|  3 | [iOS-InterviewQuestion-collection](https://github.com/liberalisman/iOS-InterviewQuestion-collection) | 2018-04-18 | Objective-C | 2022-02-05   |
+|  4 | [phixer](https://github.com/nateemma/phixer)                                                         | 2020-12-24 | Swift       | 2021-11-16   |
+|  5 | [swiftui-animation-library](https://github.com/amosgyamfi/swiftui-animation-library)                 | 2021-05-02 | md          | 2022-02-04   |
+|  6 | [youtube-iOS](https://github.com/aslanyanhaik/youtube-iOS)                                           | 2017-06-12 | Swift       | 2022-02-05   |
+|  7 | [ZIKCellularAuthorization](https://github.com/Zuikyo/ZIKCellularAuthorization)                       | 2018-01-12 | Objective-C | 2022-01-05   |
+|  8 | [resource](https://github.com/SHERRYWANNA/resource)                                                  | 2018-08-24 | JavaScript  | 2020-09-28   |
+|  9 | [English-level-up-tips](https://github.com/byoungd/English-level-up-tips)                            | 2017-12-26 | md          | 2022-02-05   |
+| 10 | [Splash](https://github.com/JohnSundell/Splash)                                                      | 2019-03-17 | Swift       | 2022-02-05   |
 
 <!--END_SECTION:my_github-->
