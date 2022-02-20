@@ -31,22 +31,22 @@
 ## The repos I contributed to
 | ID |                               REPO                                | FIRSTDATE  | LASTEDATE  |                                        PRCOUNT                                         |
 |----|-------------------------------------------------------------------|------------|------------|----------------------------------------------------------------------------------------|
-|  1 | [Aquaman](https://github.com/bawn/Aquaman)                        | 2021-03-10 | 2021-03-10 | [1](https://github.com/bawn/Aquaman/pulls?q=is%3Apr+author%3Aacumen1005)               |
-|  2 | [zlldb](https://github.com/everettjf/zlldb)                       | 2021-04-25 | 2021-04-25 | [1](https://github.com/everettjf/zlldb/pulls?q=is%3Apr+author%3Aacumen1005)            |
-|  3 | [WeChatICU-ForMac](https://github.com/MustangYM/WeChatICU-ForMac) | 2021-04-14 | 2021-04-14 | [1](https://github.com/MustangYM/WeChatICU-ForMac/pulls?q=is%3Apr+author%3Aacumen1005) |
+|  1 | [zlldb](https://github.com/everettjf/zlldb)                       | 2021-04-25 | 2021-04-25 | [1](https://github.com/everettjf/zlldb/pulls?q=is%3Apr+author%3Aacumen1005)            |
+|  2 | [WeChatICU-ForMac](https://github.com/MustangYM/WeChatICU-ForMac) | 2021-04-14 | 2021-04-14 | [1](https://github.com/MustangYM/WeChatICU-ForMac/pulls?q=is%3Apr+author%3Aacumen1005) |
+|  3 | [Aquaman](https://github.com/bawn/Aquaman)                        | 2021-03-10 | 2021-03-10 | [1](https://github.com/bawn/Aquaman/pulls?q=is%3Apr+author%3Aacumen1005)               |
 
 ## The repos I stared (random 10)
-| ID |                                    REPO                                     | STAREDDATE |  LAUGUAGE   | LATESTUPDATE |
-|----|-----------------------------------------------------------------------------|------------|-------------|--------------|
-|  1 | [PanoramaGL](https://github.com/shaojiankui/PanoramaGL)                     | 2017-11-07 | Objective-C | 2021-12-24   |
-|  2 | [swift-style-guide](https://github.com/raywenderlich/swift-style-guide)     | 2016-12-01 | md          | 2022-02-12   |
-|  3 | [v2ex-gae](https://github.com/livid/v2ex-gae)                               | 2017-03-22 | Python      | 2022-02-11   |
-|  4 | [ios-deploy](https://github.com/ios-control/ios-deploy)                     | 2020-07-20 | Objective-C | 2022-02-12   |
-|  5 | [SwiftUI-Animations](https://github.com/Shubham0812/SwiftUI-Animations)     | 2020-11-19 | Swift       | 2022-02-12   |
-|  6 | [Perspective](https://github.com/kingcos/Perspective)                       | 2019-03-21 | C++         | 2022-01-20   |
-|  7 | [hello](https://github.com/nat/hello)                                       | 2018-10-29 | HTML        | 2022-01-26   |
-|  8 | [system-design-primer](https://github.com/donnemartin/system-design-primer) | 2019-05-08 | Python      | 2022-02-13   |
-|  9 | [Blogs](https://github.com/LeoMobileDeveloper/Blogs)                        | 2017-07-21 | Objective-C | 2022-02-09   |
-| 10 | [SkeletonView](https://github.com/Juanpe/SkeletonView)                      | 2018-12-11 | Swift       | 2022-02-12   |
+| ID |                                                    REPO                                                     | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|-------------------------------------------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [chinese-programmer-wrong-pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation) | 2020-08-19 | Python   | 2022-02-19   |
+|  2 | [SwiftUI-CardStackView](https://github.com/dadalar/SwiftUI-CardStackView)                                   | 2020-12-27 | Swift    | 2022-02-15   |
+|  3 | [bytedance-alibaba-interview](https://github.com/colourful987/bytedance-alibaba-interview)                  | 2020-06-02 | Shell    | 2022-02-16   |
+|  4 | [haoel.github.io](https://github.com/haoel/haoel.github.io)                                                 | 2020-12-05 | Shell    | 2022-02-19   |
+|  5 | [Cards](https://github.com/PaoloCuscela/Cards)                                                              | 2018-04-26 | Swift    | 2022-02-19   |
+|  6 | [SwiftLint](https://github.com/realm/SwiftLint)                                                             | 2021-05-02 | Swift    | 2022-02-19   |
+|  7 | [OI-wiki](https://github.com/OI-wiki/OI-wiki)                                                               | 2019-11-06 | md       | 2022-02-20   |
+|  8 | [Koloda](https://github.com/Yalantis/Koloda)                                                                | 2019-01-22 | Swift    | 2022-02-18   |
+|  9 | [SPStorkController](https://github.com/ivanvorobei/SPStorkController)                                       | 2019-04-19 | Swift    | 2022-02-19   |
+| 10 | [fishhook](https://github.com/facebook/fishhook)                                                            | 2020-08-14 | C        | 2022-02-18   |
 
 <!--END_SECTION:my_github-->
