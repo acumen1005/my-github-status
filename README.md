@@ -22,7 +22,7 @@
 | 12 | [iSwift](https://github.com/acumen1005/iSwift)                                   | 2016-11-29 | 2016-12-27 | Swift       |     0 |
 | 13 | [LazyScript](https://github.com/acumen1005/LazyScript)                           | 2016-09-17 | 2016-09-18 | Shell       |     0 |
 | 14 | [LearnNote](https://github.com/acumen1005/LearnNote)                             | 2016-12-09 | 2017-07-19 | md          |     0 |
-| 15 | [acumen1005.github.io](https://github.com/acumen1005/acumen1005.github.io)       | 2017-04-26 | 2021-08-22 | HTML        |     0 |
+| 15 | [acumen1005.github.io](https://github.com/acumen1005/acumen1005.github.io)       | 2017-04-26 | 2022-03-05 | HTML        |     0 |
 | 16 | [my-github-status](https://github.com/acumen1005/my-github-status)               | 2021-04-11 | 2022-01-09 | md          |     0 |
 | 17 | [acumen1005](https://github.com/acumen1005/acumen1005)                           | 2020-07-09 | 2020-07-09 | md          |     0 |
 | 18 | [ACPhotoPickerController](https://github.com/acumen1005/ACPhotoPickerController) | 2017-03-03 | 2018-04-02 | Swift       |     0 |
@@ -36,17 +36,17 @@
 |  3 | [Aquaman](https://github.com/bawn/Aquaman)                        | 2021-03-10 | 2021-03-10 | [1](https://github.com/bawn/Aquaman/pulls?q=is%3Apr+author%3Aacumen1005)               |
 
 ## The repos I stared (random 10)
-| ID |                                   REPO                                    | STAREDDATE |  LAUGUAGE   | LATESTUPDATE |
-|----|---------------------------------------------------------------------------|------------|-------------|--------------|
-|  1 | [ShoB](https://github.com/bdaralan/ShoB)                                  | 2020-07-01 | Swift       | 2022-01-24   |
-|  2 | [GitHubPoster](https://github.com/yihong0618/GitHubPoster)                | 2021-05-10 | Python      | 2022-02-25   |
-|  3 | [front-end-rss](https://github.com/ChanceYu/front-end-rss)                | 2020-07-15 | JavaScript  | 2022-02-26   |
-|  4 | [Apple-GitHub-Codeidea](https://github.com/CoderLN/Apple-GitHub-Codeidea) | 2017-07-07 | Objective-C | 2022-01-26   |
-|  5 | [vapor](https://github.com/vapor/vapor)                                   | 2018-01-02 | Swift       | 2022-02-26   |
-|  6 | [qqbot](https://github.com/pandolia/qqbot)                                | 2016-12-07 | Python      | 2022-02-22   |
-|  7 | [blog](https://github.com/fouber/blog)                                    | 2016-08-11 | md          | 2022-02-26   |
-|  8 | [ReadyForBAT](https://github.com/MisterBooo/ReadyForBAT)                  | 2019-01-03 | Objective-C | 2022-02-23   |
-|  9 | [Hero](https://github.com/HeroTransitions/Hero)                           | 2017-08-15 | Swift       | 2022-02-26   |
-| 10 | [Aerial](https://github.com/JohnCoates/Aerial)                            | 2018-12-28 | Swift       | 2022-02-25   |
+| ID |                                                    REPO                                                     | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|-------------------------------------------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [LinearProgressBar](https://github.com/gordoneliel/LinearProgressBar)                                       | 2021-11-02 | Swift      | 2022-02-24   |
+|  2 | [flutter_particle_clock](https://github.com/miickel/flutter_particle_clock)                                 | 2020-08-26 | Dart       | 2022-03-02   |
+|  3 | [awesome-ios](https://github.com/vsouza/awesome-ios)                                                        | 2017-11-23 | Swift      | 2022-03-05   |
+|  4 | [SnowEffectViewBuilder](https://github.com/nalydadad/SnowEffectViewBuilder)                                 | 2019-11-25 | Swift      | 2020-05-21   |
+|  5 | [chinese-programmer-wrong-pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation) | 2020-08-19 | Python     | 2022-03-06   |
+|  6 | [ShoB](https://github.com/bdaralan/ShoB)                                                                    | 2020-07-01 | Swift      | 2022-01-24   |
+|  7 | [iina](https://github.com/iina/iina)                                                                        | 2019-05-07 | Swift      | 2022-03-05   |
+|  8 | [SwiftMessages](https://github.com/SwiftKickMobile/SwiftMessages)                                           | 2020-01-15 | Swift      | 2022-03-05   |
+|  9 | [iOSDataFactory](https://github.com/ifgyong/iOSDataFactory)                                                 | 2019-12-02 | md         | 2022-03-04   |
+| 10 | [javascript](https://github.com/airbnb/javascript)                                                          | 2017-08-25 | JavaScript | 2022-03-06   |
 
 <!--END_SECTION:my_github-->
