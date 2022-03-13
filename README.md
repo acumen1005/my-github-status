@@ -11,7 +11,7 @@
 |  1 | [rss](https://github.com/acumen1005/rss)                                         | 2020-06-28 | 2022-02-22 | Swift       |    37 |
 |  2 | [Recommendation](https://github.com/acumen1005/Recommendation)                   | 2016-05-31 | 2022-01-10 | Java        |    21 |
 |  3 | [ACWeChat](https://github.com/acumen1005/ACWeChat)                               | 2016-05-14 | 2019-03-06 | Objective-C |    14 |
-|  4 | [ACLabelCounting](https://github.com/acumen1005/ACLabelCounting)                 | 2017-02-22 | 2021-11-23 | Swift       |    11 |
+|  4 | [ACLabelCounting](https://github.com/acumen1005/ACLabelCounting)                 | 2017-02-22 | 2022-03-08 | Swift       |    12 |
 |  5 | [Leetcode](https://github.com/acumen1005/Leetcode)                               | 2018-04-13 | 2020-07-18 | Swift       |     1 |
 |  6 | [FoodCatcher](https://github.com/acumen1005/FoodCatcher)                         | 2021-03-02 | 2021-03-09 | JavaScript  |     1 |
 |  7 | [SwiftUI-Example](https://github.com/acumen1005/SwiftUI-Example)                 | 2020-06-21 | 2020-07-18 | Swift       |     1 |
@@ -31,22 +31,22 @@
 ## The repos I contributed to
 | ID |                               REPO                                | FIRSTDATE  | LASTEDATE  |                                        PRCOUNT                                         |
 |----|-------------------------------------------------------------------|------------|------------|----------------------------------------------------------------------------------------|
-|  1 | [zlldb](https://github.com/everettjf/zlldb)                       | 2021-04-25 | 2021-04-25 | [1](https://github.com/everettjf/zlldb/pulls?q=is%3Apr+author%3Aacumen1005)            |
-|  2 | [WeChatICU-ForMac](https://github.com/MustangYM/WeChatICU-ForMac) | 2021-04-14 | 2021-04-14 | [1](https://github.com/MustangYM/WeChatICU-ForMac/pulls?q=is%3Apr+author%3Aacumen1005) |
-|  3 | [Aquaman](https://github.com/bawn/Aquaman)                        | 2021-03-10 | 2021-03-10 | [1](https://github.com/bawn/Aquaman/pulls?q=is%3Apr+author%3Aacumen1005)               |
+|  1 | [Aquaman](https://github.com/bawn/Aquaman)                        | 2021-03-10 | 2021-03-10 | [1](https://github.com/bawn/Aquaman/pulls?q=is%3Apr+author%3Aacumen1005)               |
+|  2 | [zlldb](https://github.com/everettjf/zlldb)                       | 2021-04-25 | 2021-04-25 | [1](https://github.com/everettjf/zlldb/pulls?q=is%3Apr+author%3Aacumen1005)            |
+|  3 | [WeChatICU-ForMac](https://github.com/MustangYM/WeChatICU-ForMac) | 2021-04-14 | 2021-04-14 | [1](https://github.com/MustangYM/WeChatICU-ForMac/pulls?q=is%3Apr+author%3Aacumen1005) |
 
 ## The repos I stared (random 10)
-| ID |                                                    REPO                                                     | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|-------------------------------------------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [LinearProgressBar](https://github.com/gordoneliel/LinearProgressBar)                                       | 2021-11-02 | Swift      | 2022-02-24   |
-|  2 | [flutter_particle_clock](https://github.com/miickel/flutter_particle_clock)                                 | 2020-08-26 | Dart       | 2022-03-02   |
-|  3 | [awesome-ios](https://github.com/vsouza/awesome-ios)                                                        | 2017-11-23 | Swift      | 2022-03-05   |
-|  4 | [SnowEffectViewBuilder](https://github.com/nalydadad/SnowEffectViewBuilder)                                 | 2019-11-25 | Swift      | 2020-05-21   |
-|  5 | [chinese-programmer-wrong-pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation) | 2020-08-19 | Python     | 2022-03-06   |
-|  6 | [ShoB](https://github.com/bdaralan/ShoB)                                                                    | 2020-07-01 | Swift      | 2022-01-24   |
-|  7 | [iina](https://github.com/iina/iina)                                                                        | 2019-05-07 | Swift      | 2022-03-05   |
-|  8 | [SwiftMessages](https://github.com/SwiftKickMobile/SwiftMessages)                                           | 2020-01-15 | Swift      | 2022-03-05   |
-|  9 | [iOSDataFactory](https://github.com/ifgyong/iOSDataFactory)                                                 | 2019-12-02 | md         | 2022-03-04   |
-| 10 | [javascript](https://github.com/airbnb/javascript)                                                          | 2017-08-25 | JavaScript | 2022-03-06   |
+| ID |                                               REPO                                               | STAREDDATE |  LAUGUAGE   | LATESTUPDATE |
+|----|--------------------------------------------------------------------------------------------------|------------|-------------|--------------|
+|  1 | [xcinfo](https://github.com/xcodereleases/xcinfo)                                                | 2020-12-24 | Swift       | 2022-03-11   |
+|  2 | [BulletinBoard](https://github.com/alexisakers/BulletinBoard)                                    | 2018-12-19 | Swift       | 2022-03-11   |
+|  3 | [30DaysofSwift](https://github.com/allenwong/30DaysofSwift)                                      | 2017-06-05 | Swift       | 2022-03-12   |
+|  4 | [WebViewJavascriptBridge](https://github.com/marcuswestin/WebViewJavascriptBridge)               | 2016-12-14 | Objective-C | 2022-03-12   |
+|  5 | [hexo](https://github.com/hexojs/hexo)                                                           | 2018-03-02 | JavaScript  | 2022-03-13   |
+|  6 | [Blogs](https://github.com/LeoMobileDeveloper/Blogs)                                             | 2017-07-21 | Objective-C | 2022-03-09   |
+|  7 | [atswift-2017-resources](https://github.com/atConf/atswift-2017-resources)                       | 2017-06-01 | md          | 2022-03-02   |
+|  8 | [CKWaveCollectionViewTransition](https://github.com/CezaryKopacz/CKWaveCollectionViewTransition) | 2017-09-28 | Swift       | 2022-03-03   |
+|  9 | [ZIKCellularAuthorization](https://github.com/Zuikyo/ZIKCellularAuthorization)                   | 2018-01-12 | Objective-C | 2022-03-04   |
+| 10 | [RKCalendar](https://github.com/RaffiKian/RKCalendar)                                            | 2020-12-24 | Swift       | 2022-03-09   |
 
 <!--END_SECTION:my_github-->
