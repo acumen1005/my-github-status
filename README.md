@@ -31,22 +31,22 @@
 ## The repos I contributed to
 | ID |                               REPO                                | FIRSTDATE  | LASTEDATE  |                                        PRCOUNT                                         |
 |----|-------------------------------------------------------------------|------------|------------|----------------------------------------------------------------------------------------|
-|  1 | [Aquaman](https://github.com/bawn/Aquaman)                        | 2021-03-10 | 2021-03-10 | [1](https://github.com/bawn/Aquaman/pulls?q=is%3Apr+author%3Aacumen1005)               |
-|  2 | [zlldb](https://github.com/everettjf/zlldb)                       | 2021-04-25 | 2021-04-25 | [1](https://github.com/everettjf/zlldb/pulls?q=is%3Apr+author%3Aacumen1005)            |
-|  3 | [WeChatICU-ForMac](https://github.com/MustangYM/WeChatICU-ForMac) | 2021-04-14 | 2021-04-14 | [1](https://github.com/MustangYM/WeChatICU-ForMac/pulls?q=is%3Apr+author%3Aacumen1005) |
+|  1 | [zlldb](https://github.com/everettjf/zlldb)                       | 2021-04-25 | 2021-04-25 | [1](https://github.com/everettjf/zlldb/pulls?q=is%3Apr+author%3Aacumen1005)            |
+|  2 | [WeChatICU-ForMac](https://github.com/MustangYM/WeChatICU-ForMac) | 2021-04-14 | 2021-04-14 | [1](https://github.com/MustangYM/WeChatICU-ForMac/pulls?q=is%3Apr+author%3Aacumen1005) |
+|  3 | [Aquaman](https://github.com/bawn/Aquaman)                        | 2021-03-10 | 2021-03-10 | [1](https://github.com/bawn/Aquaman/pulls?q=is%3Apr+author%3Aacumen1005)               |
 
 ## The repos I stared (random 10)
-| ID |                                               REPO                                               | STAREDDATE |  LAUGUAGE   | LATESTUPDATE |
-|----|--------------------------------------------------------------------------------------------------|------------|-------------|--------------|
-|  1 | [xcinfo](https://github.com/xcodereleases/xcinfo)                                                | 2020-12-24 | Swift       | 2022-03-11   |
-|  2 | [BulletinBoard](https://github.com/alexisakers/BulletinBoard)                                    | 2018-12-19 | Swift       | 2022-03-11   |
-|  3 | [30DaysofSwift](https://github.com/allenwong/30DaysofSwift)                                      | 2017-06-05 | Swift       | 2022-03-12   |
-|  4 | [WebViewJavascriptBridge](https://github.com/marcuswestin/WebViewJavascriptBridge)               | 2016-12-14 | Objective-C | 2022-03-12   |
-|  5 | [hexo](https://github.com/hexojs/hexo)                                                           | 2018-03-02 | JavaScript  | 2022-03-13   |
-|  6 | [Blogs](https://github.com/LeoMobileDeveloper/Blogs)                                             | 2017-07-21 | Objective-C | 2022-03-09   |
-|  7 | [atswift-2017-resources](https://github.com/atConf/atswift-2017-resources)                       | 2017-06-01 | md          | 2022-03-02   |
-|  8 | [CKWaveCollectionViewTransition](https://github.com/CezaryKopacz/CKWaveCollectionViewTransition) | 2017-09-28 | Swift       | 2022-03-03   |
-|  9 | [ZIKCellularAuthorization](https://github.com/Zuikyo/ZIKCellularAuthorization)                   | 2018-01-12 | Objective-C | 2022-03-04   |
-| 10 | [RKCalendar](https://github.com/RaffiKian/RKCalendar)                                            | 2020-12-24 | Swift       | 2022-03-09   |
+| ID |                                             REPO                                             | STAREDDATE |  LAUGUAGE   | LATESTUPDATE |
+|----|----------------------------------------------------------------------------------------------|------------|-------------|--------------|
+|  1 | [WeChatICU-ForMac](https://github.com/MustangYM/WeChatICU-ForMac)                            | 2021-05-07 | md          | 2022-03-17   |
+|  2 | [iOS11](https://github.com/2877025939/iOS11)                                                 | 2017-09-28 | md          | 2022-02-09   |
+|  3 | [TYCyclePagerView](https://github.com/12207480/TYCyclePagerView)                             | 2017-07-27 | Objective-C | 2022-03-14   |
+|  4 | [jshistory-cn](https://github.com/doodlewind/jshistory-cn)                                   | 2020-09-30 | TypeScript  | 2022-03-20   |
+|  5 | [TLYShyNavBar](https://github.com/telly/TLYShyNavBar)                                        | 2017-09-28 | Objective-C | 2022-03-17   |
+|  6 | [JASONETTE-iOS](https://github.com/Jasonette/JASONETTE-iOS)                                  | 2017-02-16 | JavaScript  | 2022-03-18   |
+|  7 | [Xcode-iOS-Developer-Disk-Image](https://github.com/xushuduo/Xcode-iOS-Developer-Disk-Image) | 2019-10-31 | md          | 2022-03-18   |
+|  8 | [KKJSBridge](https://github.com/karosLi/KKJSBridge)                                          | 2020-05-14 | Objective-C | 2022-03-16   |
+|  9 | [Swift-Daily-Tips](https://github.com/emreozdil/Swift-Daily-Tips)                            | 2018-11-21 | Swift       | 2022-03-12   |
+| 10 | [RxSwift](https://github.com/ReactiveX/RxSwift)                                              | 2017-03-30 | Swift       | 2022-03-20   |
 
 <!--END_SECTION:my_github-->
