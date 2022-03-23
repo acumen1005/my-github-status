@@ -9,7 +9,7 @@
 | ID |                                       REPO                                       |   START    |   UPDATE   |  LAUGUAGE   | STARS |
 |----|----------------------------------------------------------------------------------|------------|------------|-------------|-------|
 |  1 | [rss](https://github.com/acumen1005/rss)                                         | 2020-06-28 | 2022-02-22 | Swift       |    37 |
-|  2 | [Recommendation](https://github.com/acumen1005/Recommendation)                   | 2016-05-31 | 2022-01-10 | Java        |    21 |
+|  2 | [Recommendation](https://github.com/acumen1005/Recommendation)                   | 2016-05-31 | 2022-03-22 | Java        |    22 |
 |  3 | [ACWeChat](https://github.com/acumen1005/ACWeChat)                               | 2016-05-14 | 2019-03-06 | Objective-C |    14 |
 |  4 | [ACLabelCounting](https://github.com/acumen1005/ACLabelCounting)                 | 2017-02-22 | 2022-03-08 | Swift       |    12 |
 |  5 | [Leetcode](https://github.com/acumen1005/Leetcode)                               | 2018-04-13 | 2020-07-18 | Swift       |     1 |
@@ -36,17 +36,17 @@
 |  3 | [Aquaman](https://github.com/bawn/Aquaman)                        | 2021-03-10 | 2021-03-10 | [1](https://github.com/bawn/Aquaman/pulls?q=is%3Apr+author%3Aacumen1005)               |
 
 ## The repos I stared (random 10)
-| ID |                                             REPO                                             | STAREDDATE |  LAUGUAGE   | LATESTUPDATE |
-|----|----------------------------------------------------------------------------------------------|------------|-------------|--------------|
-|  1 | [WeChatICU-ForMac](https://github.com/MustangYM/WeChatICU-ForMac)                            | 2021-05-07 | md          | 2022-03-17   |
-|  2 | [iOS11](https://github.com/2877025939/iOS11)                                                 | 2017-09-28 | md          | 2022-02-09   |
-|  3 | [TYCyclePagerView](https://github.com/12207480/TYCyclePagerView)                             | 2017-07-27 | Objective-C | 2022-03-14   |
-|  4 | [jshistory-cn](https://github.com/doodlewind/jshistory-cn)                                   | 2020-09-30 | TypeScript  | 2022-03-20   |
-|  5 | [TLYShyNavBar](https://github.com/telly/TLYShyNavBar)                                        | 2017-09-28 | Objective-C | 2022-03-17   |
-|  6 | [JASONETTE-iOS](https://github.com/Jasonette/JASONETTE-iOS)                                  | 2017-02-16 | JavaScript  | 2022-03-18   |
-|  7 | [Xcode-iOS-Developer-Disk-Image](https://github.com/xushuduo/Xcode-iOS-Developer-Disk-Image) | 2019-10-31 | md          | 2022-03-18   |
-|  8 | [KKJSBridge](https://github.com/karosLi/KKJSBridge)                                          | 2020-05-14 | Objective-C | 2022-03-16   |
-|  9 | [Swift-Daily-Tips](https://github.com/emreozdil/Swift-Daily-Tips)                            | 2018-11-21 | Swift       | 2022-03-12   |
-| 10 | [RxSwift](https://github.com/ReactiveX/RxSwift)                                              | 2017-03-30 | Swift       | 2022-03-20   |
+| ID |                                     REPO                                      | STAREDDATE |  LAUGUAGE   | LATESTUPDATE |
+|----|-------------------------------------------------------------------------------|------------|-------------|--------------|
+|  1 | [WeChatICU-ForMac](https://github.com/MustangYM/WeChatICU-ForMac)             | 2021-05-07 | md          | 2022-03-17   |
+|  2 | [TelegramSwift](https://github.com/overtake/TelegramSwift)                    | 2017-10-12 | Swift       | 2022-03-22   |
+|  3 | [tldraw](https://github.com/tldraw/tldraw)                                    | 2021-12-01 | TypeScript  | 2022-03-23   |
+|  4 | [v2ex-gae](https://github.com/livid/v2ex-gae)                                 | 2017-03-22 | Python      | 2022-03-04   |
+|  5 | [N-blog](https://github.com/nswbmw/N-blog)                                    | 2017-09-08 | JavaScript  | 2022-03-22   |
+|  6 | [LDRefresh](https://github.com/SNTD/LDRefresh)                                | 2018-04-17 | Objective-C | 2022-02-02   |
+|  7 | [scrollnum](https://github.com/SHERRYWANNA/scrollnum)                         | 2018-11-18 | Vue         | 2019-09-05   |
+|  8 | [iOS-DeviceSupport](https://github.com/iGhibli/iOS-DeviceSupport)             | 2022-02-28 | Python      | 2022-03-22   |
+|  9 | [shanghai_house_knowledge](https://github.com/ayuer/shanghai_house_knowledge) | 2022-02-28 | md          | 2022-03-22   |
+| 10 | [NJKWebViewProgress](https://github.com/ninjinkun/NJKWebViewProgress)         | 2017-09-27 | Objective-C | 2022-03-22   |
 
 <!--END_SECTION:my_github-->
