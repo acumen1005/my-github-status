@@ -36,17 +36,17 @@
 |  3 | [Aquaman](https://github.com/bawn/Aquaman)                        | 2021-03-10 | 2021-03-10 | [1](https://github.com/bawn/Aquaman/pulls?q=is%3Apr+author%3Aacumen1005)               |
 
 ## The repos I stared (random 10)
-| ID |                                        REPO                                        | STAREDDATE |  LAUGUAGE   | LATESTUPDATE |
-|----|------------------------------------------------------------------------------------|------------|-------------|--------------|
-|  1 | [doesitarm](https://github.com/ThatGuySam/doesitarm)                               | 2021-02-05 | JavaScript  | 2022-04-02   |
-|  2 | [App-Launching-like-Twitter](https://github.com/okmr-d/App-Launching-like-Twitter) | 2017-06-02 | Swift       | 2022-02-13   |
-|  3 | [sa-sdk-ios](https://github.com/sensorsdata/sa-sdk-ios)                            | 2021-01-13 | Objective-C | 2022-03-31   |
-|  4 | [Joy-Blog](https://github.com/joy0304/Joy-Blog)                                    | 2020-05-25 | md          | 2021-12-17   |
-|  5 | [flutter_particle_clock](https://github.com/miickel/flutter_particle_clock)        | 2020-08-26 | Dart        | 2022-03-31   |
-|  6 | [SourceKitten](https://github.com/jpsim/SourceKitten)                              | 2021-05-03 | Swift       | 2022-03-30   |
-|  7 | [XcodeCleaner](https://github.com/waylybaye/XcodeCleaner)                          | 2017-10-17 | Objective-C | 2022-04-01   |
-|  8 | [ElegantTimeline-SwiftUI](https://github.com/ThasianX/ElegantTimeline-SwiftUI)     | 2020-07-18 | Swift       | 2022-03-31   |
-|  9 | [cwa-app-ios](https://github.com/corona-warn-app/cwa-app-ios)                      | 2020-06-17 | Swift       | 2022-04-02   |
-| 10 | [extended_image](https://github.com/fluttercandies/extended_image)                 | 2021-07-20 | Dart        | 2022-04-02   |
+| ID |                                                    REPO                                                     | STAREDDATE |  LAUGUAGE   | LATESTUPDATE |
+|----|-------------------------------------------------------------------------------------------------------------|------------|-------------|--------------|
+|  1 | [study](https://github.com/ming1016/study)                                                                  | 2020-04-24 | C           | 2022-04-07   |
+|  2 | [RKCalendar](https://github.com/RaffiKian/RKCalendar)                                                       | 2020-12-24 | Swift       | 2022-04-06   |
+|  3 | [FBMemoryProfiler](https://github.com/facebookarchive/FBMemoryProfiler)                                     | 2017-09-14 | Objective-C | 2022-04-07   |
+|  4 | [WWDC](https://github.com/Blackjacx/WWDC)                                                                   | 2019-06-17 | Shell       | 2022-03-19   |
+|  5 | [china-indie-podcasts](https://github.com/typlog/china-indie-podcasts)                                      | 2020-11-04 | Nunjucks    | 2022-04-05   |
+|  6 | [SwiftWebUI](https://github.com/SwiftWebUI/SwiftWebUI)                                                      | 2019-07-02 | Swift       | 2022-04-08   |
+|  7 | [iina](https://github.com/iina/iina)                                                                        | 2019-05-07 | Swift       | 2022-04-10   |
+|  8 | [carbon](https://github.com/carbon-app/carbon)                                                              | 2019-07-23 | JavaScript  | 2022-04-09   |
+|  9 | [chinese-programmer-wrong-pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation) | 2020-08-19 | Python      | 2022-04-09   |
+| 10 | [FLEX](https://github.com/FLEXTool/FLEX)                                                                    | 2018-02-01 | Objective-C | 2022-04-09   |
 
 <!--END_SECTION:my_github-->
