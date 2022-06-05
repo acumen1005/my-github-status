@@ -38,17 +38,17 @@
 | sum |                                                                   |                                                                     |                                                                     |                                                                                      4 |
 
 ## The repos I stared (random 10)
-| ID |                                        REPO                                         | STAREDDATE |  LAUGUAGE   | LATESTUPDATE |
-|----|-------------------------------------------------------------------------------------|------------|-------------|--------------|
-|  1 | [swift-collections-benchmark](https://github.com/apple/swift-collections-benchmark) | 2021-04-06 | Swift       | 2022-05-26   |
-|  2 | [Hero](https://github.com/HeroTransitions/Hero)                                     | 2017-08-15 | Swift       | 2022-05-28   |
-|  3 | [iOS9AdaptationTips](https://github.com/ChenYilong/iOS9AdaptationTips)              | 2016-09-30 | Objective-C | 2022-05-25   |
-|  4 | [SwiftUI-Animations](https://github.com/Shubham0812/SwiftUI-Animations)             | 2020-11-19 | Swift       | 2022-05-28   |
-|  5 | [iWeChat](https://github.com/lefex/iWeChat)                                         | 2019-11-20 | Objective-C | 2022-05-25   |
-|  6 | [MockingBird](https://github.com/babysor/MockingBird)                               | 2021-11-11 | Python      | 2022-05-28   |
-|  7 | [AppCrawler](https://github.com/seveniruby/AppCrawler)                              | 2020-04-16 | Scala       | 2022-05-26   |
-|  8 | [SnowEffectViewBuilder](https://github.com/nalydadad/SnowEffectViewBuilder)         | 2019-11-25 | Swift       | 2022-04-13   |
-|  9 | [haoel.github.io](https://github.com/haoel/haoel.github.io)                         | 2020-12-05 | Shell       | 2022-05-28   |
-| 10 | [FastOCR](https://github.com/BruceZhang1993/FastOCR)                                | 2022-04-14 | Python      | 2022-05-11   |
+| ID |                                               REPO                                               | STAREDDATE |  LAUGUAGE   | LATESTUPDATE |
+|----|--------------------------------------------------------------------------------------------------|------------|-------------|--------------|
+|  1 | [LTNavigationBar](https://github.com/ltebean/LTNavigationBar)                                    | 2017-08-18 | Objective-C | 2022-06-04   |
+|  2 | [SwiftGuide](https://github.com/ipader/SwiftGuide)                                               | 2019-01-18 | Swift       | 2022-06-04   |
+|  3 | [jjb](https://github.com/sunoj/jjb)                                                              | 2020-02-25 | JavaScript  | 2022-06-03   |
+|  4 | [swift](https://github.com/apple/swift)                                                          | 2017-01-10 | C++         | 2022-06-04   |
+|  5 | [interval-content](https://github.com/idevqa/interval-content)                                   | 2020-02-25 | md          | 2022-04-13   |
+|  6 | [ShoB](https://github.com/bdaralan/ShoB)                                                         | 2020-07-01 | Swift       | 2022-06-02   |
+|  7 | [Learning-SICP](https://github.com/DeathKing/Learning-SICP)                                      | 2018-11-07 | Ruby        | 2022-06-04   |
+|  8 | [mobilists](https://github.com/eleme/mobilists)                                                  | 2017-09-14 | JavaScript  | 2021-12-15   |
+|  9 | [YYText](https://github.com/ibireme/YYText)                                                      | 2019-07-21 | Objective-C | 2022-06-02   |
+| 10 | [CKWaveCollectionViewTransition](https://github.com/CezaryKopacz/CKWaveCollectionViewTransition) | 2017-09-28 | Swift       | 2022-05-16   |
 
 <!--END_SECTION:my_github-->
