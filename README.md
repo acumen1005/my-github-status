@@ -9,7 +9,7 @@
 | ID  |                                       REPO                                       |   START    |   UPDATE   |  LAUGUAGE   | STARS |
 |-----|----------------------------------------------------------------------------------|------------|------------|-------------|-------|
 |   1 | [rss](https://github.com/acumen1005/rss)                                         | 2020-06-28 | 2022-05-10 | Swift       |    40 |
-|   2 | [Recommendation](https://github.com/acumen1005/Recommendation)                   | 2016-05-31 | 2022-05-08 | Java        |    26 |
+|   2 | [Recommendation](https://github.com/acumen1005/Recommendation)                   | 2016-05-31 | 2022-06-16 | Java        |    25 |
 |   3 | [ACWeChat](https://github.com/acumen1005/ACWeChat)                               | 2016-05-14 | 2019-03-06 | Objective-C |    14 |
 |   4 | [ACLabelCounting](https://github.com/acumen1005/ACLabelCounting)                 | 2017-02-22 | 2022-03-08 | Swift       |    12 |
 |   5 | [Leetcode](https://github.com/acumen1005/Leetcode)                               | 2018-04-13 | 2020-07-18 | Swift       |     1 |
@@ -27,7 +27,7 @@
 |  17 | [acumen1005](https://github.com/acumen1005/acumen1005)                           | 2020-07-09 | 2022-05-23 | md          |     0 |
 |  18 | [ACPhotoPickerController](https://github.com/acumen1005/ACPhotoPickerController) | 2017-03-03 | 2018-04-02 | Swift       |     0 |
 |  19 | [flutter_calendar](https://github.com/acumen1005/flutter_calendar)               | 2021-01-16 | 2021-01-27 | Dart        |     0 |
-| sum |                                                                                  |            |            |             |    95 |
+| sum |                                                                                  |            |            |             |    94 |
 
 ## The repos I contributed to
 | ID  |                               REPO                                |                              FIRSTDATE                              |                              LASTEDATE                              |                                        PRCOUNT                                         |
@@ -38,17 +38,17 @@
 | sum |                                                                   |                                                                     |                                                                     |                                                                                      4 |
 
 ## The repos I stared (random 10)
-| ID |                                                 REPO                                                 | STAREDDATE |  LAUGUAGE   | LATESTUPDATE |
-|----|------------------------------------------------------------------------------------------------------|------------|-------------|--------------|
-|  1 | [WKWebViewTips](https://github.com/ShingoFukuyama/WKWebViewTips)                                     | 2016-12-14 | md          | 2022-05-30   |
-|  2 | [Splash](https://github.com/JohnSundell/Splash)                                                      | 2019-03-17 | Swift       | 2022-06-08   |
-|  3 | [mars](https://github.com/Tencent/mars)                                                              | 2018-01-20 | C++         | 2022-06-11   |
-|  4 | [Blogs](https://github.com/LeoMobileDeveloper/Blogs)                                                 | 2017-07-21 | Objective-C | 2022-06-07   |
-|  5 | [BouncyLayout](https://github.com/roberthein/BouncyLayout)                                           | 2017-09-08 | Swift       | 2022-06-11   |
-|  6 | [CleanArchitectureRxSwift](https://github.com/sergdort/CleanArchitectureRxSwift)                     | 2019-07-03 | Swift       | 2022-06-09   |
-|  7 | [haoel.github.io](https://github.com/haoel/haoel.github.io)                                          | 2020-12-05 | Shell       | 2022-06-08   |
-|  8 | [iOS-InterviewQuestion-collection](https://github.com/liberalisman/iOS-InterviewQuestion-collection) | 2018-04-18 | Objective-C | 2022-06-11   |
-|  9 | [RealityKitLaunchScreen](https://github.com/aheze/RealityKitLaunchScreen)                            | 2022-05-13 | Swift       | 2022-06-06   |
-| 10 | [SnowEffectViewBuilder](https://github.com/nalydadad/SnowEffectViewBuilder)                          | 2019-11-25 | Swift       | 2022-04-13   |
+| ID |                                         REPO                                         | STAREDDATE |  LAUGUAGE   | LATESTUPDATE |
+|----|--------------------------------------------------------------------------------------|------------|-------------|--------------|
+|  1 | [swiftui-animation-library](https://github.com/amosgyamfi/swiftui-animation-library) | 2021-05-02 | md          | 2022-06-18   |
+|  2 | [TelegramSwift](https://github.com/overtake/TelegramSwift)                           | 2017-10-12 | Swift       | 2022-06-19   |
+|  3 | [iOSDataFactory](https://github.com/ifgyong/iOSDataFactory)                          | 2019-12-02 | md          | 2022-06-09   |
+|  4 | [ios-deploy](https://github.com/ios-control/ios-deploy)                              | 2020-07-20 | Objective-C | 2022-06-18   |
+|  5 | [myscript](https://github.com/Kewowlo/myscript)                                      | 2020-08-20 | Python      | 2020-08-20   |
+|  6 | [flat-terminal](https://github.com/ahmetsulek/flat-terminal)                         | 2017-07-04 | md          | 2022-05-03   |
+|  7 | [objc_msgSend_hook](https://github.com/czqasngit/objc_msgSend_hook)                  | 2020-07-19 | C           | 2022-05-31   |
+|  8 | [blog](https://github.com/fouber/blog)                                               | 2016-08-11 | md          | 2022-06-18   |
+|  9 | [TLYShyNavBar](https://github.com/telly/TLYShyNavBar)                                | 2017-09-28 | Objective-C | 2022-06-13   |
+| 10 | [code-server](https://github.com/coder/code-server)                                  | 2019-03-15 | TypeScript  | 2022-06-19   |
 
 <!--END_SECTION:my_github-->
