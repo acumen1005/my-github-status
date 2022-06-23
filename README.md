@@ -33,22 +33,22 @@
 | ID  |                               REPO                                |                              FIRSTDATE                              |                              LASTEDATE                              |                                        PRCOUNT                                         |
 |-----|-------------------------------------------------------------------|---------------------------------------------------------------------|---------------------------------------------------------------------|----------------------------------------------------------------------------------------|
 |   1 | [WeChatICU-ForMac](https://github.com/MustangYM/WeChatICU-ForMac) | [2021-04-14](https://github.com/MustangYM/WeChatICU-ForMac/pull/32) | [2021-05-07](https://github.com/MustangYM/WeChatICU-ForMac/pull/35) | [2](https://github.com/MustangYM/WeChatICU-ForMac/pulls?q=is%3Apr+author%3Aacumen1005) |
-|   2 | [zlldb](https://github.com/everettjf/zlldb)                       | [2021-04-25](https://github.com/everettjf/zlldb/pull/3)             | [2021-04-25](https://github.com/everettjf/zlldb/pull/3)             | [1](https://github.com/everettjf/zlldb/pulls?q=is%3Apr+author%3Aacumen1005)            |
-|   3 | [Aquaman](https://github.com/bawn/Aquaman)                        | [2021-03-10](https://github.com/bawn/Aquaman/pull/7)                | [2021-03-10](https://github.com/bawn/Aquaman/pull/7)                | [1](https://github.com/bawn/Aquaman/pulls?q=is%3Apr+author%3Aacumen1005)               |
+|   2 | [Aquaman](https://github.com/bawn/Aquaman)                        | [2021-03-10](https://github.com/bawn/Aquaman/pull/7)                | [2021-03-10](https://github.com/bawn/Aquaman/pull/7)                | [1](https://github.com/bawn/Aquaman/pulls?q=is%3Apr+author%3Aacumen1005)               |
+|   3 | [zlldb](https://github.com/everettjf/zlldb)                       | [2021-04-25](https://github.com/everettjf/zlldb/pull/3)             | [2021-04-25](https://github.com/everettjf/zlldb/pull/3)             | [1](https://github.com/everettjf/zlldb/pulls?q=is%3Apr+author%3Aacumen1005)            |
 | sum |                                                                   |                                                                     |                                                                     |                                                                                      4 |
 
 ## The repos I stared (random 10)
-| ID |                                         REPO                                         | STAREDDATE |  LAUGUAGE   | LATESTUPDATE |
-|----|--------------------------------------------------------------------------------------|------------|-------------|--------------|
-|  1 | [swiftui-animation-library](https://github.com/amosgyamfi/swiftui-animation-library) | 2021-05-02 | md          | 2022-06-18   |
-|  2 | [TelegramSwift](https://github.com/overtake/TelegramSwift)                           | 2017-10-12 | Swift       | 2022-06-19   |
-|  3 | [iOSDataFactory](https://github.com/ifgyong/iOSDataFactory)                          | 2019-12-02 | md          | 2022-06-09   |
-|  4 | [ios-deploy](https://github.com/ios-control/ios-deploy)                              | 2020-07-20 | Objective-C | 2022-06-18   |
-|  5 | [myscript](https://github.com/Kewowlo/myscript)                                      | 2020-08-20 | Python      | 2020-08-20   |
-|  6 | [flat-terminal](https://github.com/ahmetsulek/flat-terminal)                         | 2017-07-04 | md          | 2022-05-03   |
-|  7 | [objc_msgSend_hook](https://github.com/czqasngit/objc_msgSend_hook)                  | 2020-07-19 | C           | 2022-05-31   |
-|  8 | [blog](https://github.com/fouber/blog)                                               | 2016-08-11 | md          | 2022-06-18   |
-|  9 | [TLYShyNavBar](https://github.com/telly/TLYShyNavBar)                                | 2017-09-28 | Objective-C | 2022-06-13   |
-| 10 | [code-server](https://github.com/coder/code-server)                                  | 2019-03-15 | TypeScript  | 2022-06-19   |
+| ID |                                                    REPO                                                     | STAREDDATE |  LAUGUAGE   | LATESTUPDATE |
+|----|-------------------------------------------------------------------------------------------------------------|------------|-------------|--------------|
+|  1 | [most-frequent-technology-english-words](https://github.com/Wei-Xia/most-frequent-technology-english-words) | 2019-06-23 | CSS         | 2022-06-22   |
+|  2 | [gruvbox](https://github.com/morhetz/gruvbox)                                                               | 2018-03-15 | Vim script  | 2022-06-22   |
+|  3 | [react-naive-book](https://github.com/huzidaha/react-naive-book)                                            | 2020-10-21 | HTML        | 2022-06-22   |
+|  4 | [marktext](https://github.com/marktext/marktext)                                                            | 2018-04-17 | JavaScript  | 2022-06-23   |
+|  5 | [SocketRocket](https://github.com/facebookincubator/SocketRocket)                                           | 2019-08-19 | Objective-C | 2022-06-21   |
+|  6 | [WWDC](https://github.com/insidegui/WWDC)                                                                   | 2020-06-03 | Swift       | 2022-06-22   |
+|  7 | [jjb](https://github.com/sunoj/jjb)                                                                         | 2020-02-25 | JavaScript  | 2022-06-22   |
+|  8 | [SwiftLint](https://github.com/realm/SwiftLint)                                                             | 2021-05-02 | Swift       | 2022-06-22   |
+|  9 | [ios-deploy](https://github.com/ios-control/ios-deploy)                                                     | 2020-07-20 | Objective-C | 2022-06-22   |
+| 10 | [note](https://github.com/SHERRYWANNA/note)                                                                 | 2019-06-14 | md          | 2019-06-14   |
 
 <!--END_SECTION:my_github-->
