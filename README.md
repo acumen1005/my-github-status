@@ -8,7 +8,7 @@
 ## The repos I created
 | ID  |                                       REPO                                       |   START    |   UPDATE   |  LAUGUAGE   | STARS |
 |-----|----------------------------------------------------------------------------------|------------|------------|-------------|-------|
-|   1 | [rss](https://github.com/acumen1005/rss)                                         | 2020-06-28 | 2022-05-10 | Swift       |    40 |
+|   1 | [rss](https://github.com/acumen1005/rss)                                         | 2020-06-28 | 2022-06-26 | Swift       |    41 |
 |   2 | [Recommendation](https://github.com/acumen1005/Recommendation)                   | 2016-05-31 | 2022-06-16 | Java        |    25 |
 |   3 | [ACWeChat](https://github.com/acumen1005/ACWeChat)                               | 2016-05-14 | 2019-03-06 | Objective-C |    14 |
 |   4 | [ACLabelCounting](https://github.com/acumen1005/ACLabelCounting)                 | 2017-02-22 | 2022-03-08 | Swift       |    12 |
@@ -27,7 +27,7 @@
 |  17 | [acumen1005](https://github.com/acumen1005/acumen1005)                           | 2020-07-09 | 2022-05-23 | md          |     0 |
 |  18 | [ACPhotoPickerController](https://github.com/acumen1005/ACPhotoPickerController) | 2017-03-03 | 2018-04-02 | Swift       |     0 |
 |  19 | [flutter_calendar](https://github.com/acumen1005/flutter_calendar)               | 2021-01-16 | 2021-01-27 | Dart        |     0 |
-| sum |                                                                                  |            |            |             |    94 |
+| sum |                                                                                  |            |            |             |    95 |
 
 ## The repos I contributed to
 | ID  |                               REPO                                |                              FIRSTDATE                              |                              LASTEDATE                              |                                        PRCOUNT                                         |
@@ -38,17 +38,17 @@
 | sum |                                                                   |                                                                     |                                                                     |                                                                                      4 |
 
 ## The repos I stared (random 10)
-| ID |                                                    REPO                                                     | STAREDDATE |   LAUGUAGE    | LATESTUPDATE |
-|----|-------------------------------------------------------------------------------------------------------------|------------|---------------|--------------|
-|  1 | [FBAllocationTracker](https://github.com/facebookarchive/FBAllocationTracker)                               | 2017-09-14 | Objective-C++ | 2022-06-11   |
-|  2 | [swift-algorithm-club](https://github.com/raywenderlich/swift-algorithm-club)                               | 2017-11-27 | Swift         | 2022-06-25   |
-|  3 | [CleanArchitectureRxSwift](https://github.com/sergdort/CleanArchitectureRxSwift)                            | 2019-07-03 | Swift         | 2022-06-25   |
-|  4 | [FBMemoryProfiler](https://github.com/facebookarchive/FBMemoryProfiler)                                     | 2017-09-14 | Objective-C   | 2022-06-23   |
-|  5 | [FallingSnow](https://github.com/chrismaddern/FallingSnow)                                                  | 2020-12-23 | Objective-C   | 2022-03-02   |
-|  6 | [cocoapods-binary](https://github.com/leavez/cocoapods-binary)                                              | 2019-05-05 | Ruby          | 2022-06-24   |
-|  7 | [hexo-theme-apollo](https://github.com/pinggod/hexo-theme-apollo)                                           | 2016-10-31 | SCSS          | 2022-06-25   |
-|  8 | [src](https://github.com/chenhuaizhe/src)                                                                   | 2019-07-30 | Swift         | 2020-11-02   |
-|  9 | [most-frequent-technology-english-words](https://github.com/Wei-Xia/most-frequent-technology-english-words) | 2019-06-23 | CSS           | 2022-06-25   |
-| 10 | [ccan](https://github.com/rustyrussell/ccan)                                                                | 2019-10-25 | C             | 2022-06-24   |
+| ID |                                     REPO                                     | STAREDDATE |  LAUGUAGE   | LATESTUPDATE |
+|----|------------------------------------------------------------------------------|------------|-------------|--------------|
+|  1 | [JTNavigationController](https://github.com/ikanam/JTNavigationController)   | 2017-09-28 | Objective-C | 2022-06-08   |
+|  2 | [HelloGitHub](https://github.com/521xueweihan/HelloGitHub)                   | 2019-05-09 | Python      | 2022-07-03   |
+|  3 | [WWDC](https://github.com/Blackjacx/WWDC)                                    | 2019-06-17 | Shell       | 2022-07-01   |
+|  4 | [ImagePalette](https://github.com/shnhrrsn/ImagePalette)                     | 2020-12-11 | Swift       | 2022-05-05   |
+|  5 | [TelegramSwift](https://github.com/overtake/TelegramSwift)                   | 2017-10-12 | Swift       | 2022-07-02   |
+|  6 | [awesome-ios-animation](https://github.com/onmyway133/awesome-ios-animation) | 2016-06-03 | md          | 2022-07-02   |
+|  7 | [wbwangk.github.io](https://github.com/wbwangk/wbwangk.github.io)            | 2019-04-22 | HTML        | 2022-04-16   |
+|  8 | [Splash](https://github.com/JohnSundell/Splash)                              | 2019-03-17 | Swift       | 2022-07-02   |
+|  9 | [iOS-Tagent](https://github.com/AirtestProject/iOS-Tagent)                   | 2019-04-09 | Objective-C | 2022-06-22   |
+| 10 | [PocketSocket](https://github.com/zwopple/PocketSocket)                      | 2021-01-21 | Objective-C | 2022-07-01   |
 
 <!--END_SECTION:my_github-->
