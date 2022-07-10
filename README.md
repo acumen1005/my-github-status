@@ -33,22 +33,22 @@
 | ID  |                               REPO                                |                              FIRSTDATE                              |                              LASTEDATE                              |                                        PRCOUNT                                         |
 |-----|-------------------------------------------------------------------|---------------------------------------------------------------------|---------------------------------------------------------------------|----------------------------------------------------------------------------------------|
 |   1 | [WeChatICU-ForMac](https://github.com/MustangYM/WeChatICU-ForMac) | [2021-04-14](https://github.com/MustangYM/WeChatICU-ForMac/pull/32) | [2021-05-07](https://github.com/MustangYM/WeChatICU-ForMac/pull/35) | [2](https://github.com/MustangYM/WeChatICU-ForMac/pulls?q=is%3Apr+author%3Aacumen1005) |
-|   2 | [zlldb](https://github.com/everettjf/zlldb)                       | [2021-04-25](https://github.com/everettjf/zlldb/pull/3)             | [2021-04-25](https://github.com/everettjf/zlldb/pull/3)             | [1](https://github.com/everettjf/zlldb/pulls?q=is%3Apr+author%3Aacumen1005)            |
-|   3 | [Aquaman](https://github.com/bawn/Aquaman)                        | [2021-03-10](https://github.com/bawn/Aquaman/pull/7)                | [2021-03-10](https://github.com/bawn/Aquaman/pull/7)                | [1](https://github.com/bawn/Aquaman/pulls?q=is%3Apr+author%3Aacumen1005)               |
+|   2 | [Aquaman](https://github.com/bawn/Aquaman)                        | [2021-03-10](https://github.com/bawn/Aquaman/pull/7)                | [2021-03-10](https://github.com/bawn/Aquaman/pull/7)                | [1](https://github.com/bawn/Aquaman/pulls?q=is%3Apr+author%3Aacumen1005)               |
+|   3 | [zlldb](https://github.com/everettjf/zlldb)                       | [2021-04-25](https://github.com/everettjf/zlldb/pull/3)             | [2021-04-25](https://github.com/everettjf/zlldb/pull/3)             | [1](https://github.com/everettjf/zlldb/pulls?q=is%3Apr+author%3Aacumen1005)            |
 | sum |                                                                   |                                                                     |                                                                     |                                                                                      4 |
 
 ## The repos I stared (random 10)
-| ID |                                     REPO                                     | STAREDDATE |  LAUGUAGE   | LATESTUPDATE |
-|----|------------------------------------------------------------------------------|------------|-------------|--------------|
-|  1 | [JTNavigationController](https://github.com/ikanam/JTNavigationController)   | 2017-09-28 | Objective-C | 2022-06-08   |
-|  2 | [HelloGitHub](https://github.com/521xueweihan/HelloGitHub)                   | 2019-05-09 | Python      | 2022-07-03   |
-|  3 | [WWDC](https://github.com/Blackjacx/WWDC)                                    | 2019-06-17 | Shell       | 2022-07-01   |
-|  4 | [ImagePalette](https://github.com/shnhrrsn/ImagePalette)                     | 2020-12-11 | Swift       | 2022-05-05   |
-|  5 | [TelegramSwift](https://github.com/overtake/TelegramSwift)                   | 2017-10-12 | Swift       | 2022-07-02   |
-|  6 | [awesome-ios-animation](https://github.com/onmyway133/awesome-ios-animation) | 2016-06-03 | md          | 2022-07-02   |
-|  7 | [wbwangk.github.io](https://github.com/wbwangk/wbwangk.github.io)            | 2019-04-22 | HTML        | 2022-04-16   |
-|  8 | [Splash](https://github.com/JohnSundell/Splash)                              | 2019-03-17 | Swift       | 2022-07-02   |
-|  9 | [iOS-Tagent](https://github.com/AirtestProject/iOS-Tagent)                   | 2019-04-09 | Objective-C | 2022-06-22   |
-| 10 | [PocketSocket](https://github.com/zwopple/PocketSocket)                      | 2021-01-21 | Objective-C | 2022-07-01   |
+| ID |                                                       REPO                                                       | STAREDDATE |  LAUGUAGE   | LATESTUPDATE |
+|----|------------------------------------------------------------------------------------------------------------------|------------|-------------|--------------|
+|  1 | [app-privacy-policy-generator](https://github.com/nisrulz/app-privacy-policy-generator)                          | 2022-06-13 | Sass        | 2022-07-10   |
+|  2 | [LYCustomTransition](https://github.com/dev-liyang/LYCustomTransition)                                           | 2018-03-05 | Objective-C | 2022-06-22   |
+|  3 | [IBPCollectionViewCompositionalLayout](https://github.com/kishikawakatsumi/IBPCollectionViewCompositionalLayout) | 2021-05-18 | Swift       | 2022-07-01   |
+|  4 | [flutter_clock](https://github.com/flutter/flutter_clock)                                                        | 2020-08-26 | Dart        | 2022-06-17   |
+|  5 | [YYText](https://github.com/ibireme/YYText)                                                                      | 2019-07-21 | Objective-C | 2022-07-08   |
+|  6 | [ChromaColorPicker](https://github.com/joncardasis/ChromaColorPicker)                                            | 2022-05-04 | Swift       | 2022-07-08   |
+|  7 | [interval-content](https://github.com/idevqa/interval-content)                                                   | 2020-02-25 | md          | 2022-04-13   |
+|  8 | [iWeChat](https://github.com/lefex/iWeChat)                                                                      | 2019-11-20 | Objective-C | 2022-07-08   |
+|  9 | [ish](https://github.com/ish-app/ish)                                                                            | 2019-10-31 | C           | 2022-07-10   |
+| 10 | [Daysquare](https://github.com/unixzii/Daysquare)                                                                | 2020-10-11 | Objective-C | 2022-07-01   |
 
 <!--END_SECTION:my_github-->
