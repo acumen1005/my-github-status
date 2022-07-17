@@ -33,22 +33,22 @@
 | ID  |                               REPO                                |                              FIRSTDATE                              |                              LASTEDATE                              |                                        PRCOUNT                                         |
 |-----|-------------------------------------------------------------------|---------------------------------------------------------------------|---------------------------------------------------------------------|----------------------------------------------------------------------------------------|
 |   1 | [WeChatICU-ForMac](https://github.com/MustangYM/WeChatICU-ForMac) | [2021-04-14](https://github.com/MustangYM/WeChatICU-ForMac/pull/32) | [2021-05-07](https://github.com/MustangYM/WeChatICU-ForMac/pull/35) | [2](https://github.com/MustangYM/WeChatICU-ForMac/pulls?q=is%3Apr+author%3Aacumen1005) |
-|   2 | [Aquaman](https://github.com/bawn/Aquaman)                        | [2021-03-10](https://github.com/bawn/Aquaman/pull/7)                | [2021-03-10](https://github.com/bawn/Aquaman/pull/7)                | [1](https://github.com/bawn/Aquaman/pulls?q=is%3Apr+author%3Aacumen1005)               |
-|   3 | [zlldb](https://github.com/everettjf/zlldb)                       | [2021-04-25](https://github.com/everettjf/zlldb/pull/3)             | [2021-04-25](https://github.com/everettjf/zlldb/pull/3)             | [1](https://github.com/everettjf/zlldb/pulls?q=is%3Apr+author%3Aacumen1005)            |
+|   2 | [zlldb](https://github.com/everettjf/zlldb)                       | [2021-04-25](https://github.com/everettjf/zlldb/pull/3)             | [2021-04-25](https://github.com/everettjf/zlldb/pull/3)             | [1](https://github.com/everettjf/zlldb/pulls?q=is%3Apr+author%3Aacumen1005)            |
+|   3 | [Aquaman](https://github.com/bawn/Aquaman)                        | [2021-03-10](https://github.com/bawn/Aquaman/pull/7)                | [2021-03-10](https://github.com/bawn/Aquaman/pull/7)                | [1](https://github.com/bawn/Aquaman/pulls?q=is%3Apr+author%3Aacumen1005)               |
 | sum |                                                                   |                                                                     |                                                                     |                                                                                      4 |
 
 ## The repos I stared (random 10)
-| ID |                                                       REPO                                                       | STAREDDATE |  LAUGUAGE   | LATESTUPDATE |
-|----|------------------------------------------------------------------------------------------------------------------|------------|-------------|--------------|
-|  1 | [app-privacy-policy-generator](https://github.com/nisrulz/app-privacy-policy-generator)                          | 2022-06-13 | Sass        | 2022-07-10   |
-|  2 | [LYCustomTransition](https://github.com/dev-liyang/LYCustomTransition)                                           | 2018-03-05 | Objective-C | 2022-06-22   |
-|  3 | [IBPCollectionViewCompositionalLayout](https://github.com/kishikawakatsumi/IBPCollectionViewCompositionalLayout) | 2021-05-18 | Swift       | 2022-07-01   |
-|  4 | [flutter_clock](https://github.com/flutter/flutter_clock)                                                        | 2020-08-26 | Dart        | 2022-06-17   |
-|  5 | [YYText](https://github.com/ibireme/YYText)                                                                      | 2019-07-21 | Objective-C | 2022-07-08   |
-|  6 | [ChromaColorPicker](https://github.com/joncardasis/ChromaColorPicker)                                            | 2022-05-04 | Swift       | 2022-07-08   |
-|  7 | [interval-content](https://github.com/idevqa/interval-content)                                                   | 2020-02-25 | md          | 2022-04-13   |
-|  8 | [iWeChat](https://github.com/lefex/iWeChat)                                                                      | 2019-11-20 | Objective-C | 2022-07-08   |
-|  9 | [ish](https://github.com/ish-app/ish)                                                                            | 2019-10-31 | C           | 2022-07-10   |
-| 10 | [Daysquare](https://github.com/unixzii/Daysquare)                                                                | 2020-10-11 | Objective-C | 2022-07-01   |
+| ID |                                     REPO                                     | STAREDDATE |  LAUGUAGE   | LATESTUPDATE |
+|----|------------------------------------------------------------------------------|------------|-------------|--------------|
+|  1 | [awesome-ios-animation](https://github.com/onmyway133/awesome-ios-animation) | 2016-06-03 | md          | 2022-07-16   |
+|  2 | [XcodeGen](https://github.com/yonaskolb/XcodeGen)                            | 2019-09-11 | Swift       | 2022-07-15   |
+|  3 | [ios-oss](https://github.com/kickstarter/ios-oss)                            | 2020-06-10 | Swift       | 2022-07-16   |
+|  4 | [swift](https://github.com/apple/swift)                                      | 2017-01-10 | C++         | 2022-07-17   |
+|  5 | [CardsLayout](https://github.com/filletofish/CardsLayout)                    | 2021-12-02 | Swift       | 2022-07-12   |
+|  6 | [k](https://github.com/supercrabtree/k)                                      | 2020-12-16 | Shell       | 2022-07-10   |
+|  7 | [MonkeyKing](https://github.com/nixzhu/MonkeyKing)                           | 2020-06-18 | Swift       | 2022-07-15   |
+|  8 | [GitHubPoster](https://github.com/yihong0618/GitHubPoster)                   | 2021-05-10 | Python      | 2022-07-16   |
+|  9 | [MVVMReactiveCocoaDemo](https://github.com/wujunyang/MVVMReactiveCocoaDemo)  | 2020-04-30 | Objective-C | 2022-04-24   |
+| 10 | [Swift-Daily-Tips](https://github.com/emreozdil/Swift-Daily-Tips)            | 2018-11-21 | Swift       | 2022-07-01   |
 
 <!--END_SECTION:my_github-->
