@@ -39,17 +39,17 @@
 | sum |                                                                   |                                                                     |                                                                     |                                                                                      4 |
 
 ## The repos I stared (random 10)
-| ID |                                           REPO                                            | STAREDDATE |  LAUGUAGE   | LATESTUPDATE |
-|----|-------------------------------------------------------------------------------------------|------------|-------------|--------------|
-|  1 | [CloudKitCodable](https://github.com/insidegui/CloudKitCodable)                           | 2020-06-03 | Swift       | 2022-07-20   |
-|  2 | [SwiftWebUI](https://github.com/SwiftWebUI/SwiftWebUI)                                    | 2019-07-02 | Swift       | 2022-07-23   |
-|  3 | [Motion-Design-for-iOS](https://github.com/Cloudox/Motion-Design-for-iOS)                 | 2016-10-12 | md          | 2022-07-06   |
-|  4 | [socket.io](https://github.com/socketio/socket.io)                                        | 2017-08-24 | TypeScript  | 2022-07-24   |
-|  5 | [AnimatedCollectionViewLayout](https://github.com/KelvinJin/AnimatedCollectionViewLayout) | 2017-02-14 | Swift       | 2022-07-22   |
-|  6 | [spruce-ios](https://github.com/willowtreeapps/spruce-ios)                                | 2017-03-21 | Swift       | 2022-07-18   |
-|  7 | [front-end-rss](https://github.com/ChanceYu/front-end-rss)                                | 2020-07-15 | JavaScript  | 2022-07-22   |
-|  8 | [iWeChat](https://github.com/lefex/iWeChat)                                               | 2019-11-20 | Objective-C | 2022-07-08   |
-|  9 | [WebViewJavascriptBridge](https://github.com/marcuswestin/WebViewJavascriptBridge)        | 2016-12-14 | Objective-C | 2022-07-22   |
-| 10 | [RxSwift](https://github.com/ReactiveX/RxSwift)                                           | 2017-03-30 | Swift       | 2022-07-23   |
+| ID |                                                    REPO                                                     | STAREDDATE |  LAUGUAGE   | LATESTUPDATE |
+|----|-------------------------------------------------------------------------------------------------------------|------------|-------------|--------------|
+|  1 | [china-indie-podcasts](https://github.com/typlog/china-indie-podcasts)                                      | 2020-11-04 | Nunjucks    | 2022-07-21   |
+|  2 | [iOS9AdaptationTips](https://github.com/ChenYilong/iOS9AdaptationTips)                                      | 2016-09-30 | Objective-C | 2022-07-21   |
+|  3 | [SwiftLint](https://github.com/realm/SwiftLint)                                                             | 2021-05-02 | Swift       | 2022-07-30   |
+|  4 | [mycli](https://github.com/dbcli/mycli)                                                                     | 2018-05-24 | Python      | 2022-07-30   |
+|  5 | [Motion-Design-for-iOS](https://github.com/Cloudox/Motion-Design-for-iOS)                                   | 2016-10-12 | md          | 2022-07-06   |
+|  6 | [awesome-ios-animation](https://github.com/onmyway133/awesome-ios-animation)                                | 2016-06-03 | md          | 2022-07-30   |
+|  7 | [chinese-programmer-wrong-pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation) | 2020-08-19 | JavaScript  | 2022-07-30   |
+|  8 | [FLEX](https://github.com/FLEXTool/FLEX)                                                                    | 2018-02-01 | Objective-C | 2022-07-30   |
+|  9 | [LTNavigationBar](https://github.com/ltebean/LTNavigationBar)                                               | 2017-08-18 | Objective-C | 2022-07-30   |
+| 10 | [tensorflow_poems](https://github.com/jinfagang/tensorflow_poems)                                           | 2017-04-27 | Python      | 2022-07-29   |
 
 <!--END_SECTION:my_github-->
