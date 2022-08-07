@@ -39,17 +39,17 @@
 | sum |                                                                   |                                                                     |                                                                     |                                                                                      4 |
 
 ## The repos I stared (random 10)
-| ID |                                                    REPO                                                     | STAREDDATE |  LAUGUAGE   | LATESTUPDATE |
-|----|-------------------------------------------------------------------------------------------------------------|------------|-------------|--------------|
-|  1 | [china-indie-podcasts](https://github.com/typlog/china-indie-podcasts)                                      | 2020-11-04 | Nunjucks    | 2022-07-21   |
-|  2 | [iOS9AdaptationTips](https://github.com/ChenYilong/iOS9AdaptationTips)                                      | 2016-09-30 | Objective-C | 2022-07-21   |
-|  3 | [SwiftLint](https://github.com/realm/SwiftLint)                                                             | 2021-05-02 | Swift       | 2022-07-30   |
-|  4 | [mycli](https://github.com/dbcli/mycli)                                                                     | 2018-05-24 | Python      | 2022-07-30   |
-|  5 | [Motion-Design-for-iOS](https://github.com/Cloudox/Motion-Design-for-iOS)                                   | 2016-10-12 | md          | 2022-07-06   |
-|  6 | [awesome-ios-animation](https://github.com/onmyway133/awesome-ios-animation)                                | 2016-06-03 | md          | 2022-07-30   |
-|  7 | [chinese-programmer-wrong-pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation) | 2020-08-19 | JavaScript  | 2022-07-30   |
-|  8 | [FLEX](https://github.com/FLEXTool/FLEX)                                                                    | 2018-02-01 | Objective-C | 2022-07-30   |
-|  9 | [LTNavigationBar](https://github.com/ltebean/LTNavigationBar)                                               | 2017-08-18 | Objective-C | 2022-07-30   |
-| 10 | [tensorflow_poems](https://github.com/jinfagang/tensorflow_poems)                                           | 2017-04-27 | Python      | 2022-07-29   |
+| ID |                                           REPO                                            | STAREDDATE |  LAUGUAGE   | LATESTUPDATE |
+|----|-------------------------------------------------------------------------------------------|------------|-------------|--------------|
+|  1 | [AnimatedCollectionViewLayout](https://github.com/KelvinJin/AnimatedCollectionViewLayout) | 2017-02-14 | Swift       | 2022-08-04   |
+|  2 | [ios-deploy](https://github.com/ios-control/ios-deploy)                                   | 2020-07-20 | Objective-C | 2022-08-05   |
+|  3 | [study](https://github.com/ming1016/study)                                                | 2020-04-24 | C           | 2022-08-04   |
+|  4 | [vapor](https://github.com/vapor/vapor)                                                   | 2018-01-02 | Swift       | 2022-08-06   |
+|  5 | [RxTheme](https://github.com/RxSwiftCommunity/RxTheme)                                    | 2019-05-29 | Swift       | 2022-07-23   |
+|  6 | [deno](https://github.com/denoland/deno)                                                  | 2020-05-14 | Rust        | 2022-08-07   |
+|  7 | [flutter_particle_clock](https://github.com/miickel/flutter_particle_clock)               | 2020-08-26 | Dart        | 2022-07-30   |
+|  8 | [merchantkit](https://github.com/benjaminmayo/merchantkit)                                | 2018-04-08 | Swift       | 2022-08-03   |
+|  9 | [MockingBird](https://github.com/babysor/MockingBird)                                     | 2021-11-11 | Python      | 2022-08-07   |
+| 10 | [Aerial](https://github.com/JohnCoates/Aerial)                                            | 2018-12-28 | Swift       | 2022-08-03   |
 
 <!--END_SECTION:my_github-->
