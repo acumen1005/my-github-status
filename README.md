@@ -39,17 +39,17 @@
 | sum |                                                                   |                                                                     |                                                                     |                                                                                      4 |
 
 ## The repos I stared (random 10)
-| ID |                                           REPO                                            | STAREDDATE |  LAUGUAGE   | LATESTUPDATE |
-|----|-------------------------------------------------------------------------------------------|------------|-------------|--------------|
-|  1 | [AnimatedCollectionViewLayout](https://github.com/KelvinJin/AnimatedCollectionViewLayout) | 2017-02-14 | Swift       | 2022-08-04   |
-|  2 | [ios-deploy](https://github.com/ios-control/ios-deploy)                                   | 2020-07-20 | Objective-C | 2022-08-05   |
-|  3 | [study](https://github.com/ming1016/study)                                                | 2020-04-24 | C           | 2022-08-04   |
-|  4 | [vapor](https://github.com/vapor/vapor)                                                   | 2018-01-02 | Swift       | 2022-08-06   |
-|  5 | [RxTheme](https://github.com/RxSwiftCommunity/RxTheme)                                    | 2019-05-29 | Swift       | 2022-07-23   |
-|  6 | [deno](https://github.com/denoland/deno)                                                  | 2020-05-14 | Rust        | 2022-08-07   |
-|  7 | [flutter_particle_clock](https://github.com/miickel/flutter_particle_clock)               | 2020-08-26 | Dart        | 2022-07-30   |
-|  8 | [merchantkit](https://github.com/benjaminmayo/merchantkit)                                | 2018-04-08 | Swift       | 2022-08-03   |
-|  9 | [MockingBird](https://github.com/babysor/MockingBird)                                     | 2021-11-11 | Python      | 2022-08-07   |
-| 10 | [Aerial](https://github.com/JohnCoates/Aerial)                                            | 2018-12-28 | Swift       | 2022-08-03   |
+| ID |                                               REPO                                               | STAREDDATE |  LAUGUAGE   | LATESTUPDATE |
+|----|--------------------------------------------------------------------------------------------------|------------|-------------|--------------|
+|  1 | [RKCalendar](https://github.com/RaffiKian/RKCalendar)                                            | 2020-12-24 | Swift       | 2022-07-26   |
+|  2 | [ACWeChat](https://github.com/acumen1005/ACWeChat)                                               | 2016-07-28 | Objective-C | 2019-03-06   |
+|  3 | [CKWaveCollectionViewTransition](https://github.com/CezaryKopacz/CKWaveCollectionViewTransition) | 2017-09-28 | Swift       | 2022-08-01   |
+|  4 | [myscript](https://github.com/Kewowlo/myscript)                                                  | 2020-08-20 | Python      | 2020-08-20   |
+|  5 | [tldraw](https://github.com/tldraw/tldraw)                                                       | 2021-12-01 | TypeScript  | 2022-08-14   |
+|  6 | [lanproxy](https://github.com/ffay/lanproxy)                                                     | 2017-11-16 | Java        | 2022-08-13   |
+|  7 | [SourceKitten](https://github.com/jpsim/SourceKitten)                                            | 2021-05-03 | Swift       | 2022-08-13   |
+|  8 | [FluentDarkModeKit](https://github.com/microsoft/FluentDarkModeKit)                              | 2022-06-12 | Swift       | 2022-08-11   |
+|  9 | [objective-c-style-guide](https://github.com/raywenderlich/objective-c-style-guide)              | 2016-12-01 | md          | 2022-08-12   |
+| 10 | [ish](https://github.com/ish-app/ish)                                                            | 2019-10-31 | C           | 2022-08-14   |
 
 <!--END_SECTION:my_github-->
