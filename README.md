@@ -39,17 +39,17 @@
 | sum |                                                                   |                                                                     |                                                                     |                                                                                      4 |
 
 ## The repos I stared (random 10)
-| ID |                                               REPO                                               | STAREDDATE |  LAUGUAGE   | LATESTUPDATE |
-|----|--------------------------------------------------------------------------------------------------|------------|-------------|--------------|
-|  1 | [RKCalendar](https://github.com/RaffiKian/RKCalendar)                                            | 2020-12-24 | Swift       | 2022-07-26   |
-|  2 | [ACWeChat](https://github.com/acumen1005/ACWeChat)                                               | 2016-07-28 | Objective-C | 2019-03-06   |
-|  3 | [CKWaveCollectionViewTransition](https://github.com/CezaryKopacz/CKWaveCollectionViewTransition) | 2017-09-28 | Swift       | 2022-08-01   |
-|  4 | [myscript](https://github.com/Kewowlo/myscript)                                                  | 2020-08-20 | Python      | 2020-08-20   |
-|  5 | [tldraw](https://github.com/tldraw/tldraw)                                                       | 2021-12-01 | TypeScript  | 2022-08-14   |
-|  6 | [lanproxy](https://github.com/ffay/lanproxy)                                                     | 2017-11-16 | Java        | 2022-08-13   |
-|  7 | [SourceKitten](https://github.com/jpsim/SourceKitten)                                            | 2021-05-03 | Swift       | 2022-08-13   |
-|  8 | [FluentDarkModeKit](https://github.com/microsoft/FluentDarkModeKit)                              | 2022-06-12 | Swift       | 2022-08-11   |
-|  9 | [objective-c-style-guide](https://github.com/raywenderlich/objective-c-style-guide)              | 2016-12-01 | md          | 2022-08-12   |
-| 10 | [ish](https://github.com/ish-app/ish)                                                            | 2019-10-31 | C           | 2022-08-14   |
+| ID |                                            REPO                                            | STAREDDATE |  LAUGUAGE   | LATESTUPDATE |
+|----|--------------------------------------------------------------------------------------------|------------|-------------|--------------|
+|  1 | [HidingNavigationBar](https://github.com/tristanhimmelman/HidingNavigationBar)             | 2017-11-15 | Swift       | 2022-07-29   |
+|  2 | [front-end-collect](https://github.com/jsfront/front-end-collect)                          | 2016-10-16 | JavaScript  | 2022-08-17   |
+|  3 | [SideMenu](https://github.com/kukushi/SideMenu)                                            | 2019-03-28 | Swift       | 2022-08-20   |
+|  4 | [clean-architecture-swiftui](https://github.com/nalexn/clean-architecture-swiftui)         | 2020-06-30 | Swift       | 2022-08-20   |
+|  5 | [lanproxy](https://github.com/ffay/lanproxy)                                               | 2017-11-16 | Java        | 2022-08-19   |
+|  6 | [RxSwift](https://github.com/ReactiveX/RxSwift)                                            | 2017-03-30 | Swift       | 2022-08-20   |
+|  7 | [objc_msgSend_hook](https://github.com/czqasngit/objc_msgSend_hook)                        | 2020-07-19 | C           | 2022-08-08   |
+|  8 | [lottie-ios](https://github.com/airbnb/lottie-ios)                                         | 2017-02-09 | Swift       | 2022-08-20   |
+|  9 | [bytedance-alibaba-interview](https://github.com/colourful987/bytedance-alibaba-interview) | 2020-06-02 | Shell       | 2022-08-18   |
+| 10 | [PocketSocket](https://github.com/zwopple/PocketSocket)                                    | 2021-01-21 | Objective-C | 2022-08-14   |
 
 <!--END_SECTION:my_github-->
