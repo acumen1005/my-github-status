@@ -39,17 +39,17 @@
 | sum |                                                                   |                                                                     |                                                                     |                                                                                      4 |
 
 ## The repos I stared (random 10)
-| ID |                                            REPO                                            | STAREDDATE |  LAUGUAGE   | LATESTUPDATE |
-|----|--------------------------------------------------------------------------------------------|------------|-------------|--------------|
-|  1 | [HidingNavigationBar](https://github.com/tristanhimmelman/HidingNavigationBar)             | 2017-11-15 | Swift       | 2022-07-29   |
-|  2 | [front-end-collect](https://github.com/jsfront/front-end-collect)                          | 2016-10-16 | JavaScript  | 2022-08-17   |
-|  3 | [SideMenu](https://github.com/kukushi/SideMenu)                                            | 2019-03-28 | Swift       | 2022-08-20   |
-|  4 | [clean-architecture-swiftui](https://github.com/nalexn/clean-architecture-swiftui)         | 2020-06-30 | Swift       | 2022-08-20   |
-|  5 | [lanproxy](https://github.com/ffay/lanproxy)                                               | 2017-11-16 | Java        | 2022-08-19   |
-|  6 | [RxSwift](https://github.com/ReactiveX/RxSwift)                                            | 2017-03-30 | Swift       | 2022-08-20   |
-|  7 | [objc_msgSend_hook](https://github.com/czqasngit/objc_msgSend_hook)                        | 2020-07-19 | C           | 2022-08-08   |
-|  8 | [lottie-ios](https://github.com/airbnb/lottie-ios)                                         | 2017-02-09 | Swift       | 2022-08-20   |
-|  9 | [bytedance-alibaba-interview](https://github.com/colourful987/bytedance-alibaba-interview) | 2020-06-02 | Shell       | 2022-08-18   |
-| 10 | [PocketSocket](https://github.com/zwopple/PocketSocket)                                    | 2021-01-21 | Objective-C | 2022-08-14   |
+| ID |                                  REPO                                   | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|-------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [RKCalendar](https://github.com/RaffiKian/RKCalendar)                   | 2020-12-24 | Swift      | 2022-08-17   |
+|  2 | [HGPlaceholders](https://github.com/HamzaGhazouani/HGPlaceholders)      | 2017-08-14 | Swift      | 2022-08-22   |
+|  3 | [hello](https://github.com/nat/hello)                                   | 2018-10-29 | HTML       | 2022-07-12   |
+|  4 | [SkeletonView](https://github.com/Juanpe/SkeletonView)                  | 2018-12-11 | Swift      | 2022-08-22   |
+|  5 | [WWDC](https://github.com/insidegui/WWDC)                               | 2020-06-03 | Swift      | 2022-08-19   |
+|  6 | [weweChat](https://github.com/trazyn/weweChat)                          | 2017-08-24 | JavaScript | 2022-08-21   |
+|  7 | [wbwangk.github.io](https://github.com/wbwangk/wbwangk.github.io)       | 2019-04-22 | HTML       | 2022-04-16   |
+|  8 | [SyncKit](https://github.com/mentrena/SyncKit)                          | 2022-04-26 | Swift      | 2022-08-18   |
+|  9 | [ChromaColorPicker](https://github.com/joncardasis/ChromaColorPicker)   | 2022-05-04 | Swift      | 2022-08-21   |
+| 10 | [technology-sharing](https://github.com/SHERRYWANNA/technology-sharing) | 2018-04-16 | HTML       | 2018-07-21   |
 
 <!--END_SECTION:my_github-->
