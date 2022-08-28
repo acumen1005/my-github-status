@@ -34,22 +34,22 @@
 | ID  |                               REPO                                |                              FIRSTDATE                              |                              LASTEDATE                              |                                        PRCOUNT                                         |
 |-----|-------------------------------------------------------------------|---------------------------------------------------------------------|---------------------------------------------------------------------|----------------------------------------------------------------------------------------|
 |   1 | [WeChatICU-ForMac](https://github.com/MustangYM/WeChatICU-ForMac) | [2021-04-14](https://github.com/MustangYM/WeChatICU-ForMac/pull/32) | [2021-05-07](https://github.com/MustangYM/WeChatICU-ForMac/pull/35) | [2](https://github.com/MustangYM/WeChatICU-ForMac/pulls?q=is%3Apr+author%3Aacumen1005) |
-|   2 | [zlldb](https://github.com/everettjf/zlldb)                       | [2021-04-25](https://github.com/everettjf/zlldb/pull/3)             | [2021-04-25](https://github.com/everettjf/zlldb/pull/3)             | [1](https://github.com/everettjf/zlldb/pulls?q=is%3Apr+author%3Aacumen1005)            |
-|   3 | [Aquaman](https://github.com/bawn/Aquaman)                        | [2021-03-10](https://github.com/bawn/Aquaman/pull/7)                | [2021-03-10](https://github.com/bawn/Aquaman/pull/7)                | [1](https://github.com/bawn/Aquaman/pulls?q=is%3Apr+author%3Aacumen1005)               |
+|   2 | [Aquaman](https://github.com/bawn/Aquaman)                        | [2021-03-10](https://github.com/bawn/Aquaman/pull/7)                | [2021-03-10](https://github.com/bawn/Aquaman/pull/7)                | [1](https://github.com/bawn/Aquaman/pulls?q=is%3Apr+author%3Aacumen1005)               |
+|   3 | [zlldb](https://github.com/everettjf/zlldb)                       | [2021-04-25](https://github.com/everettjf/zlldb/pull/3)             | [2021-04-25](https://github.com/everettjf/zlldb/pull/3)             | [1](https://github.com/everettjf/zlldb/pulls?q=is%3Apr+author%3Aacumen1005)            |
 | sum |                                                                   |                                                                     |                                                                     |                                                                                      4 |
 
 ## The repos I stared (random 10)
-| ID |                                  REPO                                   | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|-------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [RKCalendar](https://github.com/RaffiKian/RKCalendar)                   | 2020-12-24 | Swift      | 2022-08-17   |
-|  2 | [HGPlaceholders](https://github.com/HamzaGhazouani/HGPlaceholders)      | 2017-08-14 | Swift      | 2022-08-22   |
-|  3 | [hello](https://github.com/nat/hello)                                   | 2018-10-29 | HTML       | 2022-07-12   |
-|  4 | [SkeletonView](https://github.com/Juanpe/SkeletonView)                  | 2018-12-11 | Swift      | 2022-08-22   |
-|  5 | [WWDC](https://github.com/insidegui/WWDC)                               | 2020-06-03 | Swift      | 2022-08-19   |
-|  6 | [weweChat](https://github.com/trazyn/weweChat)                          | 2017-08-24 | JavaScript | 2022-08-21   |
-|  7 | [wbwangk.github.io](https://github.com/wbwangk/wbwangk.github.io)       | 2019-04-22 | HTML       | 2022-04-16   |
-|  8 | [SyncKit](https://github.com/mentrena/SyncKit)                          | 2022-04-26 | Swift      | 2022-08-18   |
-|  9 | [ChromaColorPicker](https://github.com/joncardasis/ChromaColorPicker)   | 2022-05-04 | Swift      | 2022-08-21   |
-| 10 | [technology-sharing](https://github.com/SHERRYWANNA/technology-sharing) | 2018-04-16 | HTML       | 2018-07-21   |
+| ID |                                   REPO                                    | STAREDDATE |  LAUGUAGE   | LATESTUPDATE |
+|----|---------------------------------------------------------------------------|------------|-------------|--------------|
+|  1 | [XcodeCleaner](https://github.com/waylybaye/XcodeCleaner)                 | 2017-10-17 | Objective-C | 2022-08-26   |
+|  2 | [rss](https://github.com/acumen1005/rss)                                  | 2022-04-21 | Swift       | 2022-06-26   |
+|  3 | [Apple-GitHub-Codeidea](https://github.com/CoderLN/Apple-GitHub-Codeidea) | 2017-07-07 | Objective-C | 2022-06-20   |
+|  4 | [SwiftUI-Animations](https://github.com/Shubham0812/SwiftUI-Animations)   | 2020-11-19 | Swift       | 2022-08-26   |
+|  5 | [ipatool](https://github.com/majd/ipatool)                                | 2022-02-22 | Swift       | 2022-08-28   |
+|  6 | [swift-evolution](https://github.com/apple/swift-evolution)               | 2018-04-26 | Markdown    | 2022-08-27   |
+|  7 | [iOS-Weekly](https://github.com/SwiftOldDriver/iOS-Weekly)                | 2018-06-25 | md          | 2022-08-26   |
+|  8 | [DevUtils-app](https://github.com/DevUtilsApp/DevUtils-app)               | 2020-11-30 | Swift       | 2022-08-28   |
+|  9 | [weweChat](https://github.com/trazyn/weweChat)                            | 2017-08-24 | JavaScript  | 2022-08-25   |
+| 10 | [frp](https://github.com/fatedier/frp)                                    | 2017-11-16 | Go          | 2022-08-28   |
 
 <!--END_SECTION:my_github-->
