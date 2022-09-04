@@ -34,22 +34,22 @@
 | ID  |                               REPO                                |                              FIRSTDATE                              |                              LASTEDATE                              |                                        PRCOUNT                                         |
 |-----|-------------------------------------------------------------------|---------------------------------------------------------------------|---------------------------------------------------------------------|----------------------------------------------------------------------------------------|
 |   1 | [WeChatICU-ForMac](https://github.com/MustangYM/WeChatICU-ForMac) | [2021-04-14](https://github.com/MustangYM/WeChatICU-ForMac/pull/32) | [2021-05-07](https://github.com/MustangYM/WeChatICU-ForMac/pull/35) | [2](https://github.com/MustangYM/WeChatICU-ForMac/pulls?q=is%3Apr+author%3Aacumen1005) |
-|   2 | [Aquaman](https://github.com/bawn/Aquaman)                        | [2021-03-10](https://github.com/bawn/Aquaman/pull/7)                | [2021-03-10](https://github.com/bawn/Aquaman/pull/7)                | [1](https://github.com/bawn/Aquaman/pulls?q=is%3Apr+author%3Aacumen1005)               |
-|   3 | [zlldb](https://github.com/everettjf/zlldb)                       | [2021-04-25](https://github.com/everettjf/zlldb/pull/3)             | [2021-04-25](https://github.com/everettjf/zlldb/pull/3)             | [1](https://github.com/everettjf/zlldb/pulls?q=is%3Apr+author%3Aacumen1005)            |
+|   2 | [zlldb](https://github.com/everettjf/zlldb)                       | [2021-04-25](https://github.com/everettjf/zlldb/pull/3)             | [2021-04-25](https://github.com/everettjf/zlldb/pull/3)             | [1](https://github.com/everettjf/zlldb/pulls?q=is%3Apr+author%3Aacumen1005)            |
+|   3 | [Aquaman](https://github.com/bawn/Aquaman)                        | [2021-03-10](https://github.com/bawn/Aquaman/pull/7)                | [2021-03-10](https://github.com/bawn/Aquaman/pull/7)                | [1](https://github.com/bawn/Aquaman/pulls?q=is%3Apr+author%3Aacumen1005)               |
 | sum |                                                                   |                                                                     |                                                                     |                                                                                      4 |
 
 ## The repos I stared (random 10)
-| ID |                                   REPO                                    | STAREDDATE |  LAUGUAGE   | LATESTUPDATE |
-|----|---------------------------------------------------------------------------|------------|-------------|--------------|
-|  1 | [XcodeCleaner](https://github.com/waylybaye/XcodeCleaner)                 | 2017-10-17 | Objective-C | 2022-08-26   |
-|  2 | [rss](https://github.com/acumen1005/rss)                                  | 2022-04-21 | Swift       | 2022-06-26   |
-|  3 | [Apple-GitHub-Codeidea](https://github.com/CoderLN/Apple-GitHub-Codeidea) | 2017-07-07 | Objective-C | 2022-06-20   |
-|  4 | [SwiftUI-Animations](https://github.com/Shubham0812/SwiftUI-Animations)   | 2020-11-19 | Swift       | 2022-08-26   |
-|  5 | [ipatool](https://github.com/majd/ipatool)                                | 2022-02-22 | Swift       | 2022-08-28   |
-|  6 | [swift-evolution](https://github.com/apple/swift-evolution)               | 2018-04-26 | Markdown    | 2022-08-27   |
-|  7 | [iOS-Weekly](https://github.com/SwiftOldDriver/iOS-Weekly)                | 2018-06-25 | md          | 2022-08-26   |
-|  8 | [DevUtils-app](https://github.com/DevUtilsApp/DevUtils-app)               | 2020-11-30 | Swift       | 2022-08-28   |
-|  9 | [weweChat](https://github.com/trazyn/weweChat)                            | 2017-08-24 | JavaScript  | 2022-08-25   |
-| 10 | [frp](https://github.com/fatedier/frp)                                    | 2017-11-16 | Go          | 2022-08-28   |
+| ID |                                             REPO                                              | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|-----------------------------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [rss](https://github.com/acumen1005/rss)                                                      | 2022-04-21 | Swift    | 2022-06-26   |
+|  2 | [chinese-copywriting-guidelines](https://github.com/sparanoid/chinese-copywriting-guidelines) | 2020-06-29 | md       | 2022-09-03   |
+|  3 | [tomorrow-theme](https://github.com/chriskempson/tomorrow-theme)                              | 2016-12-06 | CSS      | 2022-09-03   |
+|  4 | [scrollnum](https://github.com/SHERRYWANNA/scrollnum)                                         | 2018-11-18 | Vue      | 2019-09-05   |
+|  5 | [SwiftUI-CardStackView](https://github.com/dadalar/SwiftUI-CardStackView)                     | 2020-12-27 | Swift    | 2022-09-01   |
+|  6 | [objective-c-style-guide](https://github.com/raywenderlich/objective-c-style-guide)           | 2016-12-01 | md       | 2022-09-02   |
+|  7 | [The-Economist](https://github.com/nailperry-zd/The-Economist)                                | 2019-07-06 | md       | 2022-09-03   |
+|  8 | [wwdc2016](https://github.com/jianpx/wwdc2016)                                                | 2016-12-07 | md       | 2021-06-30   |
+|  9 | [interval-content](https://github.com/idevqa/interval-content)                                | 2020-02-25 | md       | 2022-07-21   |
+| 10 | [ZipArchive](https://github.com/ZipArchive/ZipArchive)                                        | 2017-12-21 | C        | 2022-09-03   |
 
 <!--END_SECTION:my_github-->
