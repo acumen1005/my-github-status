@@ -39,17 +39,17 @@
 | sum |                                                                   |                                                                     |                                                                     |                                                                                      4 |
 
 ## The repos I stared (random 10)
-| ID |                                             REPO                                              | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|-----------------------------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [rss](https://github.com/acumen1005/rss)                                                      | 2022-04-21 | Swift    | 2022-06-26   |
-|  2 | [chinese-copywriting-guidelines](https://github.com/sparanoid/chinese-copywriting-guidelines) | 2020-06-29 | md       | 2022-09-03   |
-|  3 | [tomorrow-theme](https://github.com/chriskempson/tomorrow-theme)                              | 2016-12-06 | CSS      | 2022-09-03   |
-|  4 | [scrollnum](https://github.com/SHERRYWANNA/scrollnum)                                         | 2018-11-18 | Vue      | 2019-09-05   |
-|  5 | [SwiftUI-CardStackView](https://github.com/dadalar/SwiftUI-CardStackView)                     | 2020-12-27 | Swift    | 2022-09-01   |
-|  6 | [objective-c-style-guide](https://github.com/raywenderlich/objective-c-style-guide)           | 2016-12-01 | md       | 2022-09-02   |
-|  7 | [The-Economist](https://github.com/nailperry-zd/The-Economist)                                | 2019-07-06 | md       | 2022-09-03   |
-|  8 | [wwdc2016](https://github.com/jianpx/wwdc2016)                                                | 2016-12-07 | md       | 2021-06-30   |
-|  9 | [interval-content](https://github.com/idevqa/interval-content)                                | 2020-02-25 | md       | 2022-07-21   |
-| 10 | [ZipArchive](https://github.com/ZipArchive/ZipArchive)                                        | 2017-12-21 | C        | 2022-09-03   |
+| ID |                             REPO                              | STAREDDATE |  LAUGUAGE   | LATESTUPDATE |
+|----|---------------------------------------------------------------|------------|-------------|--------------|
+|  1 | [awesome-ios](https://github.com/vsouza/awesome-ios)          | 2017-11-23 | Swift       | 2022-09-10   |
+|  2 | [KKJSBridge](https://github.com/karosLi/KKJSBridge)           | 2020-05-14 | Objective-C | 2022-09-08   |
+|  3 | [tldraw](https://github.com/tldraw/tldraw)                    | 2021-12-01 | TypeScript  | 2022-09-10   |
+|  4 | [Dress](https://github.com/komeiji-satori/Dress)              | 2019-01-18 | Standard ML | 2022-09-10   |
+|  5 | [MockingBird](https://github.com/babysor/MockingBird)         | 2021-11-11 | Python      | 2022-09-11   |
+|  6 | [ipatool](https://github.com/majd/ipatool)                    | 2022-02-22 | Swift       | 2022-09-10   |
+|  7 | [hello](https://github.com/nat/hello)                         | 2018-10-29 | HTML        | 2022-07-12   |
+|  8 | [BulletinBoard](https://github.com/alexisakers/BulletinBoard) | 2018-12-19 | Swift       | 2022-09-10   |
+|  9 | [note](https://github.com/SHERRYWANNA/note)                   | 2019-06-14 | md          | 2019-06-14   |
+| 10 | [scrollnum](https://github.com/SHERRYWANNA/scrollnum)         | 2018-11-18 | Vue         | 2019-09-05   |
 
 <!--END_SECTION:my_github-->
