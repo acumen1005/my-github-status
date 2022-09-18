@@ -8,7 +8,7 @@
 ## The repos I created
 | ID  |                                        REPO                                        |   START    |   UPDATE   |  LAUGUAGE   | STARS |
 |-----|------------------------------------------------------------------------------------|------------|------------|-------------|-------|
-|   1 | [rss](https://github.com/acumen1005/rss)                                           | 2020-06-28 | 2022-06-26 | Swift       |    41 |
+|   1 | [rss](https://github.com/acumen1005/rss)                                           | 2020-06-28 | 2022-09-14 | Swift       |    40 |
 |   2 | [Recommendation](https://github.com/acumen1005/Recommendation)                     | 2016-05-31 | 2022-06-16 | Java        |    25 |
 |   3 | [ACWeChat](https://github.com/acumen1005/ACWeChat)                                 | 2016-05-14 | 2019-03-06 | Objective-C |    14 |
 |   4 | [ACLabelCounting](https://github.com/acumen1005/ACLabelCounting)                   | 2017-02-22 | 2022-03-08 | Swift       |    12 |
@@ -28,7 +28,7 @@
 |  18 | [acumen1005](https://github.com/acumen1005/acumen1005)                             | 2020-07-09 | 2022-05-23 | md          |     0 |
 |  19 | [ACPhotoPickerController](https://github.com/acumen1005/ACPhotoPickerController)   | 2017-03-03 | 2018-04-02 | Swift       |     0 |
 |  20 | [flutter_calendar](https://github.com/acumen1005/flutter_calendar)                 | 2021-01-16 | 2021-01-27 | Dart        |     0 |
-| sum |                                                                                    |            |            |             |    95 |
+| sum |                                                                                    |            |            |             |    94 |
 
 ## The repos I contributed to
 | ID  |                               REPO                                |                              FIRSTDATE                              |                              LASTEDATE                              |                                        PRCOUNT                                         |
@@ -39,17 +39,17 @@
 | sum |                                                                   |                                                                     |                                                                     |                                                                                      4 |
 
 ## The repos I stared (random 10)
-| ID |                             REPO                              | STAREDDATE |  LAUGUAGE   | LATESTUPDATE |
-|----|---------------------------------------------------------------|------------|-------------|--------------|
-|  1 | [awesome-ios](https://github.com/vsouza/awesome-ios)          | 2017-11-23 | Swift       | 2022-09-10   |
-|  2 | [KKJSBridge](https://github.com/karosLi/KKJSBridge)           | 2020-05-14 | Objective-C | 2022-09-08   |
-|  3 | [tldraw](https://github.com/tldraw/tldraw)                    | 2021-12-01 | TypeScript  | 2022-09-10   |
-|  4 | [Dress](https://github.com/komeiji-satori/Dress)              | 2019-01-18 | Standard ML | 2022-09-10   |
-|  5 | [MockingBird](https://github.com/babysor/MockingBird)         | 2021-11-11 | Python      | 2022-09-11   |
-|  6 | [ipatool](https://github.com/majd/ipatool)                    | 2022-02-22 | Swift       | 2022-09-10   |
-|  7 | [hello](https://github.com/nat/hello)                         | 2018-10-29 | HTML        | 2022-07-12   |
-|  8 | [BulletinBoard](https://github.com/alexisakers/BulletinBoard) | 2018-12-19 | Swift       | 2022-09-10   |
-|  9 | [note](https://github.com/SHERRYWANNA/note)                   | 2019-06-14 | md          | 2019-06-14   |
-| 10 | [scrollnum](https://github.com/SHERRYWANNA/scrollnum)         | 2018-11-18 | Vue         | 2019-09-05   |
+| ID |                                        REPO                                        | STAREDDATE |  LAUGUAGE   | LATESTUPDATE |
+|----|------------------------------------------------------------------------------------|------------|-------------|--------------|
+|  1 | [Live](https://github.com/ltebean/Live)                                            | 2017-02-22 | Swift       | 2022-09-10   |
+|  2 | [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)            | 2020-11-13 | md          | 2022-09-18   |
+|  3 | [DevUtils-app](https://github.com/DevUtilsApp/DevUtils-app)                        | 2020-11-30 | Swift       | 2022-09-17   |
+|  4 | [Monkey](https://github.com/coderyi/Monkey)                                        | 2017-02-14 | Objective-C | 2022-09-09   |
+|  5 | [tldraw](https://github.com/tldraw/tldraw)                                         | 2021-12-01 | TypeScript  | 2022-09-18   |
+|  6 | [App-Launching-like-Twitter](https://github.com/okmr-d/App-Launching-like-Twitter) | 2017-06-02 | Swift       | 2022-08-30   |
+|  7 | [open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps)          | 2016-07-13 | md          | 2022-09-18   |
+|  8 | [matrix](https://github.com/Tencent/matrix)                                        | 2020-09-29 | C++         | 2022-09-17   |
+|  9 | [weweChat](https://github.com/trazyn/weweChat)                                     | 2017-08-24 | JavaScript  | 2022-09-17   |
+| 10 | [ipatool](https://github.com/majd/ipatool)                                         | 2022-02-22 | Swift       | 2022-09-17   |
 
 <!--END_SECTION:my_github-->
