@@ -39,17 +39,17 @@
 | sum |                                                                   |                                                                     |                                                                     |                                                                                      4 |
 
 ## The repos I stared (random 10)
-| ID |                                                       REPO                                                       | STAREDDATE |  LAUGUAGE   | LATESTUPDATE |
-|----|------------------------------------------------------------------------------------------------------------------|------------|-------------|--------------|
-|  1 | [IBPCollectionViewCompositionalLayout](https://github.com/kishikawakatsumi/IBPCollectionViewCompositionalLayout) | 2021-05-18 | Swift       | 2022-09-23   |
-|  2 | [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)                                        | 2020-07-30 | JavaScript  | 2022-09-25   |
-|  3 | [iOS9AdaptationTips](https://github.com/ChenYilong/iOS9AdaptationTips)                                           | 2016-09-30 | Objective-C | 2022-09-20   |
-|  4 | [Monkey](https://github.com/coderyi/Monkey)                                                                      | 2017-02-14 | Objective-C | 2022-09-09   |
-|  5 | [src](https://github.com/chenhuaizhe/src)                                                                        | 2019-07-30 | Swift       | 2022-09-12   |
-|  6 | [CKWaveCollectionViewTransition](https://github.com/CezaryKopacz/CKWaveCollectionViewTransition)                 | 2017-09-28 | Swift       | 2022-09-13   |
-|  7 | [SocketRocket](https://github.com/facebookincubator/SocketRocket)                                                | 2019-08-19 | Objective-C | 2022-09-23   |
-|  8 | [WeChatBot](https://github.com/onezens/WeChatBot)                                                                | 2019-08-27 | Objective-C | 2022-07-18   |
-|  9 | [react-naive-book](https://github.com/huzidaha/react-naive-book)                                                 | 2020-10-21 | HTML        | 2022-09-24   |
-| 10 | [wbwangk.github.io](https://github.com/wbwangk/wbwangk.github.io)                                                | 2019-04-22 | HTML        | 2022-09-15   |
+| ID |                                           REPO                                            | STAREDDATE |  LAUGUAGE   | LATESTUPDATE |
+|----|-------------------------------------------------------------------------------------------|------------|-------------|--------------|
+|  1 | [AnimatedCollectionViewLayout](https://github.com/KelvinJin/AnimatedCollectionViewLayout) | 2017-02-14 | Swift       | 2022-09-30   |
+|  2 | [LxgwWenKai](https://github.com/lxgw/LxgwWenKai)                                          | 2021-04-27 | Batchfile   | 2022-10-01   |
+|  3 | [react-naive-book](https://github.com/huzidaha/react-naive-book)                          | 2020-10-21 | HTML        | 2022-09-27   |
+|  4 | [note](https://github.com/SHERRYWANNA/note)                                               | 2019-06-14 | md          | 2019-06-14   |
+|  5 | [SwiftUI-Animations](https://github.com/Shubham0812/SwiftUI-Animations)                   | 2020-11-19 | Swift       | 2022-10-01   |
+|  6 | [iWeChat](https://github.com/lefex/iWeChat)                                               | 2019-11-20 | Objective-C | 2022-09-23   |
+|  7 | [CleanArchitectureRxSwift](https://github.com/sergdort/CleanArchitectureRxSwift)          | 2019-07-03 | Swift       | 2022-10-02   |
+|  8 | [SwiftMessages](https://github.com/SwiftKickMobile/SwiftMessages)                         | 2020-01-15 | Swift       | 2022-10-01   |
+|  9 | [youtube-iOS](https://github.com/aslanyanhaik/youtube-iOS)                                | 2017-06-12 | Swift       | 2022-09-25   |
+| 10 | [YYText](https://github.com/ibireme/YYText)                                               | 2019-07-21 | Objective-C | 2022-09-29   |
 
 <!--END_SECTION:my_github-->
