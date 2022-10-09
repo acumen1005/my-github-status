@@ -39,17 +39,17 @@
 | sum |                                                                   |                                                                     |                                                                     |                                                                                      4 |
 
 ## The repos I stared (random 10)
-| ID |                                           REPO                                            | STAREDDATE |  LAUGUAGE   | LATESTUPDATE |
-|----|-------------------------------------------------------------------------------------------|------------|-------------|--------------|
-|  1 | [AnimatedCollectionViewLayout](https://github.com/KelvinJin/AnimatedCollectionViewLayout) | 2017-02-14 | Swift       | 2022-09-30   |
-|  2 | [LxgwWenKai](https://github.com/lxgw/LxgwWenKai)                                          | 2021-04-27 | Batchfile   | 2022-10-01   |
-|  3 | [react-naive-book](https://github.com/huzidaha/react-naive-book)                          | 2020-10-21 | HTML        | 2022-09-27   |
-|  4 | [note](https://github.com/SHERRYWANNA/note)                                               | 2019-06-14 | md          | 2019-06-14   |
-|  5 | [SwiftUI-Animations](https://github.com/Shubham0812/SwiftUI-Animations)                   | 2020-11-19 | Swift       | 2022-10-01   |
-|  6 | [iWeChat](https://github.com/lefex/iWeChat)                                               | 2019-11-20 | Objective-C | 2022-09-23   |
-|  7 | [CleanArchitectureRxSwift](https://github.com/sergdort/CleanArchitectureRxSwift)          | 2019-07-03 | Swift       | 2022-10-02   |
-|  8 | [SwiftMessages](https://github.com/SwiftKickMobile/SwiftMessages)                         | 2020-01-15 | Swift       | 2022-10-01   |
-|  9 | [youtube-iOS](https://github.com/aslanyanhaik/youtube-iOS)                                | 2017-06-12 | Swift       | 2022-09-25   |
-| 10 | [YYText](https://github.com/ibireme/YYText)                                               | 2019-07-21 | Objective-C | 2022-09-29   |
+| ID |                                     REPO                                     | STAREDDATE |  LAUGUAGE   | LATESTUPDATE |
+|----|------------------------------------------------------------------------------|------------|-------------|--------------|
+|  1 | [vscode-leetcode](https://github.com/LeetCode-OpenSource/vscode-leetcode)    | 2019-03-21 | TypeScript  | 2022-10-09   |
+|  2 | [FlutterExampleApps](https://github.com/iampawan/FlutterExampleApps)         | 2020-09-25 | Dart        | 2022-10-08   |
+|  3 | [carbon](https://github.com/carbon-app/carbon)                               | 2019-07-23 | JavaScript  | 2022-10-09   |
+|  4 | [SwipeTableView](https://github.com/Roylee-ML/SwipeTableView)                | 2017-08-09 | Objective-C | 2022-10-08   |
+|  5 | [awesome-ios-animation](https://github.com/onmyway133/awesome-ios-animation) | 2016-06-03 | md          | 2022-10-08   |
+|  6 | [ReadyForBAT](https://github.com/MisterBooo/ReadyForBAT)                     | 2019-01-03 | Objective-C | 2022-10-08   |
+|  7 | [mobilists](https://github.com/eleme/mobilists)                              | 2017-09-14 | JavaScript  | 2021-12-15   |
+|  8 | [WeChatICU-ForMac](https://github.com/MustangYM/WeChatICU-ForMac)            | 2021-05-07 | md          | 2022-10-02   |
+|  9 | [iOS-Source-Probe](https://github.com/Desgard/iOS-Source-Probe)              | 2018-07-05 | Shell       | 2022-09-22   |
+| 10 | [tdesktop](https://github.com/telegramdesktop/tdesktop)                      | 2019-04-04 | C++         | 2022-10-09   |
 
 <!--END_SECTION:my_github-->
