@@ -39,17 +39,17 @@
 | sum |                                                                   |                                                                     |                                                                     |                                                                                      4 |
 
 ## The repos I stared (random 10)
-| ID |                                     REPO                                     | STAREDDATE |  LAUGUAGE   | LATESTUPDATE |
-|----|------------------------------------------------------------------------------|------------|-------------|--------------|
-|  1 | [vscode-leetcode](https://github.com/LeetCode-OpenSource/vscode-leetcode)    | 2019-03-21 | TypeScript  | 2022-10-09   |
-|  2 | [FlutterExampleApps](https://github.com/iampawan/FlutterExampleApps)         | 2020-09-25 | Dart        | 2022-10-08   |
-|  3 | [carbon](https://github.com/carbon-app/carbon)                               | 2019-07-23 | JavaScript  | 2022-10-09   |
-|  4 | [SwipeTableView](https://github.com/Roylee-ML/SwipeTableView)                | 2017-08-09 | Objective-C | 2022-10-08   |
-|  5 | [awesome-ios-animation](https://github.com/onmyway133/awesome-ios-animation) | 2016-06-03 | md          | 2022-10-08   |
-|  6 | [ReadyForBAT](https://github.com/MisterBooo/ReadyForBAT)                     | 2019-01-03 | Objective-C | 2022-10-08   |
-|  7 | [mobilists](https://github.com/eleme/mobilists)                              | 2017-09-14 | JavaScript  | 2021-12-15   |
-|  8 | [WeChatICU-ForMac](https://github.com/MustangYM/WeChatICU-ForMac)            | 2021-05-07 | md          | 2022-10-02   |
-|  9 | [iOS-Source-Probe](https://github.com/Desgard/iOS-Source-Probe)              | 2018-07-05 | Shell       | 2022-09-22   |
-| 10 | [tdesktop](https://github.com/telegramdesktop/tdesktop)                      | 2019-04-04 | C++         | 2022-10-09   |
+| ID |                                                REPO                                                 | STAREDDATE |  LAUGUAGE   | LATESTUPDATE |
+|----|-----------------------------------------------------------------------------------------------------|------------|-------------|--------------|
+|  1 | [bytedance-alibaba-interview](https://github.com/colourful987/bytedance-alibaba-interview)          | 2020-06-02 | Shell       | 2022-10-15   |
+|  2 | [SwiftLint](https://github.com/realm/SwiftLint)                                                     | 2021-05-02 | Swift       | 2022-10-15   |
+|  3 | [react-native](https://github.com/facebook/react-native)                                            | 2021-02-26 | JavaScript  | 2022-10-16   |
+|  4 | [The-Lost-Art-of-C-Structure-Packing](https://github.com/ludx/The-Lost-Art-of-C-Structure-Packing)  | 2017-09-19 | md          | 2022-10-05   |
+|  5 | [UIComponent](https://github.com/lkzhao/UIComponent)                                                | 2021-11-11 | Swift       | 2022-10-11   |
+|  6 | [CardsLayout](https://github.com/filletofish/CardsLayout)                                           | 2021-12-02 | Swift       | 2022-10-05   |
+|  7 | [NVActivityIndicatorView](https://github.com/ninjaprox/NVActivityIndicatorView)                     | 2020-11-05 | Swift       | 2022-10-15   |
+|  8 | [SwiftUI-Kit](https://github.com/jordansinger/SwiftUI-Kit)                                          | 2020-07-11 | Swift       | 2022-10-15   |
+|  9 | [Daysquare](https://github.com/unixzii/Daysquare)                                                   | 2020-10-11 | Objective-C | 2022-09-09   |
+| 10 | [HalfModalPresentationController](https://github.com/martinnormark/HalfModalPresentationController) | 2019-04-19 | Swift       | 2022-10-05   |
 
 <!--END_SECTION:my_github-->
