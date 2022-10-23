@@ -39,17 +39,17 @@
 | sum |                                                                   |                                                                     |                                                                     |                                                                                      4 |
 
 ## The repos I stared (random 10)
-| ID |                                                REPO                                                 | STAREDDATE |  LAUGUAGE   | LATESTUPDATE |
-|----|-----------------------------------------------------------------------------------------------------|------------|-------------|--------------|
-|  1 | [bytedance-alibaba-interview](https://github.com/colourful987/bytedance-alibaba-interview)          | 2020-06-02 | Shell       | 2022-10-15   |
-|  2 | [SwiftLint](https://github.com/realm/SwiftLint)                                                     | 2021-05-02 | Swift       | 2022-10-15   |
-|  3 | [react-native](https://github.com/facebook/react-native)                                            | 2021-02-26 | JavaScript  | 2022-10-16   |
-|  4 | [The-Lost-Art-of-C-Structure-Packing](https://github.com/ludx/The-Lost-Art-of-C-Structure-Packing)  | 2017-09-19 | md          | 2022-10-05   |
-|  5 | [UIComponent](https://github.com/lkzhao/UIComponent)                                                | 2021-11-11 | Swift       | 2022-10-11   |
-|  6 | [CardsLayout](https://github.com/filletofish/CardsLayout)                                           | 2021-12-02 | Swift       | 2022-10-05   |
-|  7 | [NVActivityIndicatorView](https://github.com/ninjaprox/NVActivityIndicatorView)                     | 2020-11-05 | Swift       | 2022-10-15   |
-|  8 | [SwiftUI-Kit](https://github.com/jordansinger/SwiftUI-Kit)                                          | 2020-07-11 | Swift       | 2022-10-15   |
-|  9 | [Daysquare](https://github.com/unixzii/Daysquare)                                                   | 2020-10-11 | Objective-C | 2022-09-09   |
-| 10 | [HalfModalPresentationController](https://github.com/martinnormark/HalfModalPresentationController) | 2019-04-19 | Swift       | 2022-10-05   |
+| ID |                                        REPO                                        | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|------------------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [objc_cover](https://github.com/nst/objc_cover)                                    | 2020-07-20 | Python     | 2022-08-30   |
+|  2 | [socket.io](https://github.com/socketio/socket.io)                                 | 2017-08-24 | TypeScript | 2022-10-22   |
+|  3 | [scrollnum](https://github.com/SHERRYWANNA/scrollnum)                              | 2018-11-18 | Vue        | 2019-09-05   |
+|  4 | [ImpressionKit](https://github.com/623637646/ImpressionKit)                        | 2021-04-29 | Swift      | 2022-09-20   |
+|  5 | [v2ex-gae](https://github.com/livid/v2ex-gae)                                      | 2017-03-22 | Python     | 2022-10-18   |
+|  6 | [swift-algorithm-club](https://github.com/raywenderlich/swift-algorithm-club)      | 2017-11-27 | Swift      | 2022-10-22   |
+|  7 | [App-Launching-like-Twitter](https://github.com/okmr-d/App-Launching-like-Twitter) | 2017-06-02 | Swift      | 2022-08-30   |
+|  8 | [flat-terminal](https://github.com/ahmetsulek/flat-terminal)                       | 2017-07-04 | md         | 2022-10-11   |
+|  9 | [JASONETTE-iOS](https://github.com/Jasonette/JASONETTE-iOS)                        | 2017-02-16 | JavaScript | 2022-10-22   |
+| 10 | [The-Economist](https://github.com/nailperry-zd/The-Economist)                     | 2019-07-06 | md         | 2022-10-22   |
 
 <!--END_SECTION:my_github-->
