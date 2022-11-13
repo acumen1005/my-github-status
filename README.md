@@ -39,17 +39,17 @@
 | sum |                                                                   |                                                                     |                                                                     |                                                                                      4 |
 
 ## The repos I stared (random 10)
-| ID |                                    REPO                                    | STAREDDATE |  LAUGUAGE   | LATESTUPDATE |
-|----|----------------------------------------------------------------------------|------------|-------------|--------------|
-|  1 | [SyncKit](https://github.com/mentrena/SyncKit)                             | 2022-04-26 | Swift       | 2022-11-02   |
-|  2 | [JTNavigationController](https://github.com/ikanam/JTNavigationController) | 2017-09-28 | Objective-C | 2022-10-26   |
-|  3 | [CloudKitCodable](https://github.com/insidegui/CloudKitCodable)            | 2020-06-03 | Swift       | 2022-11-02   |
-|  4 | [SwiftMessages](https://github.com/SwiftKickMobile/SwiftMessages)          | 2020-01-15 | Swift       | 2022-11-03   |
-|  5 | [carbon](https://github.com/carbon-app/carbon)                             | 2019-07-23 | JavaScript  | 2022-11-05   |
-|  6 | [mars](https://github.com/Tencent/mars)                                    | 2018-01-20 | C++         | 2022-11-05   |
-|  7 | [hexo-theme-apollo](https://github.com/chongshengsun/hexo-theme-apollo)    | 2016-10-31 | SCSS        | 2022-10-28   |
-|  8 | [lipstick](https://github.com/Ovilia/lipstick)                             | 2018-03-08 | JavaScript  | 2022-11-03   |
-|  9 | [matrix](https://github.com/Tencent/matrix)                                | 2020-09-29 | C++         | 2022-11-05   |
-| 10 | [phixer](https://github.com/nateemma/phixer)                               | 2020-12-24 | Swift       | 2022-10-30   |
+| ID |                                   REPO                                    | STAREDDATE |  LAUGUAGE   | LATESTUPDATE |
+|----|---------------------------------------------------------------------------|------------|-------------|--------------|
+|  1 | [whats-new-in-swift-4](https://github.com/ole/whats-new-in-swift-4)       | 2017-05-19 | Swift       | 2022-09-26   |
+|  2 | [tldraw](https://github.com/tldraw/tldraw)                                | 2021-12-01 | TypeScript  | 2022-11-12   |
+|  3 | [gold-miner](https://github.com/xitu/gold-miner)                          | 2016-12-08 | md          | 2022-11-12   |
+|  4 | [iOS9AdaptationTips](https://github.com/ChenYilong/iOS9AdaptationTips)    | 2016-09-30 | Objective-C | 2022-11-10   |
+|  5 | [next-startd](https://github.com/jkytoela/next-startd)                    | 2022-06-13 | TypeScript  | 2022-11-11   |
+|  6 | [lizhi](https://github.com/turkyden/lizhi)                                | 2022-10-19 | CSS         | 2022-11-12   |
+|  7 | [ios-deploy](https://github.com/ios-control/ios-deploy)                   | 2020-07-20 | Objective-C | 2022-11-12   |
+|  8 | [chinese-dos-games](https://github.com/rwv/chinese-dos-games)             | 2018-09-19 | Python      | 2022-11-12   |
+|  9 | [WWDC](https://github.com/Blackjacx/WWDC)                                 | 2019-06-17 | Shell       | 2022-11-05   |
+| 10 | [open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) | 2016-07-13 | md          | 2022-11-13   |
 
 <!--END_SECTION:my_github-->
