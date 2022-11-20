@@ -8,7 +8,7 @@
 ## The repos I created
 | ID  |                                        REPO                                        |   START    |   UPDATE   |  LAUGUAGE   | STARS |
 |-----|------------------------------------------------------------------------------------|------------|------------|-------------|-------|
-|   1 | [rss](https://github.com/acumen1005/rss)                                           | 2020-06-28 | 2022-09-14 | Swift       |    40 |
+|   1 | [rss](https://github.com/acumen1005/rss)                                           | 2020-06-28 | 2022-11-13 | Swift       |    41 |
 |   2 | [Recommendation](https://github.com/acumen1005/Recommendation)                     | 2016-05-31 | 2022-06-16 | Java        |    25 |
 |   3 | [ACWeChat](https://github.com/acumen1005/ACWeChat)                                 | 2016-05-14 | 2019-03-06 | Objective-C |    14 |
 |   4 | [ACLabelCounting](https://github.com/acumen1005/ACLabelCounting)                   | 2017-02-22 | 2022-03-08 | Swift       |    12 |
@@ -28,7 +28,7 @@
 |  18 | [acumen1005](https://github.com/acumen1005/acumen1005)                             | 2020-07-09 | 2022-05-23 | md          |     0 |
 |  19 | [ACPhotoPickerController](https://github.com/acumen1005/ACPhotoPickerController)   | 2017-03-03 | 2018-04-02 | Swift       |     0 |
 |  20 | [flutter_calendar](https://github.com/acumen1005/flutter_calendar)                 | 2021-01-16 | 2021-01-27 | Dart        |     0 |
-| sum |                                                                                    |            |            |             |    94 |
+| sum |                                                                                    |            |            |             |    95 |
 
 ## The repos I contributed to
 | ID  |                               REPO                                |                              FIRSTDATE                              |                              LASTEDATE                              |                                        PRCOUNT                                         |
@@ -41,15 +41,15 @@
 ## The repos I stared (random 10)
 | ID |                                   REPO                                    | STAREDDATE |  LAUGUAGE   | LATESTUPDATE |
 |----|---------------------------------------------------------------------------|------------|-------------|--------------|
-|  1 | [whats-new-in-swift-4](https://github.com/ole/whats-new-in-swift-4)       | 2017-05-19 | Swift       | 2022-09-26   |
-|  2 | [tldraw](https://github.com/tldraw/tldraw)                                | 2021-12-01 | TypeScript  | 2022-11-12   |
-|  3 | [gold-miner](https://github.com/xitu/gold-miner)                          | 2016-12-08 | md          | 2022-11-12   |
-|  4 | [iOS9AdaptationTips](https://github.com/ChenYilong/iOS9AdaptationTips)    | 2016-09-30 | Objective-C | 2022-11-10   |
-|  5 | [next-startd](https://github.com/jkytoela/next-startd)                    | 2022-06-13 | TypeScript  | 2022-11-11   |
-|  6 | [lizhi](https://github.com/turkyden/lizhi)                                | 2022-10-19 | CSS         | 2022-11-12   |
-|  7 | [ios-deploy](https://github.com/ios-control/ios-deploy)                   | 2020-07-20 | Objective-C | 2022-11-12   |
-|  8 | [chinese-dos-games](https://github.com/rwv/chinese-dos-games)             | 2018-09-19 | Python      | 2022-11-12   |
-|  9 | [WWDC](https://github.com/Blackjacx/WWDC)                                 | 2019-06-17 | Shell       | 2022-11-05   |
-| 10 | [open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) | 2016-07-13 | md          | 2022-11-13   |
+|  1 | [iina](https://github.com/iina/iina)                                      | 2019-05-07 | Swift       | 2022-11-19   |
+|  2 | [zen](https://github.com/100mango/zen)                                    | 2018-03-29 | Swift       | 2022-11-03   |
+|  3 | [YYText](https://github.com/ibireme/YYText)                               | 2019-07-21 | Objective-C | 2022-11-19   |
+|  4 | [libstdc-](https://github.com/devdawei/libstdc-)                          | 2021-04-06 | Shell       | 2022-11-19   |
+|  5 | [Papr](https://github.com/jdisho/Papr)                                    | 2018-03-26 | Swift       | 2022-11-19   |
+|  6 | [fmdb](https://github.com/ccgus/fmdb)                                     | 2020-04-30 | Objective-C | 2022-11-19   |
+|  7 | [github-readme-stats](https://github.com/yihong0618/github-readme-stats)  | 2021-04-11 | Go          | 2022-09-21   |
+|  8 | [mbox](https://github.com/MBoxPlus/mbox)                                  | 2022-05-16 | Ruby        | 2022-11-18   |
+|  9 | [RealityKitLaunchScreen](https://github.com/aheze/RealityKitLaunchScreen) | 2022-05-13 | Swift       | 2022-11-18   |
+| 10 | [Apple-GitHub-Codeidea](https://github.com/CoderLN/Apple-GitHub-Codeidea) | 2017-07-07 | Objective-C | 2022-11-07   |
 
 <!--END_SECTION:my_github-->
