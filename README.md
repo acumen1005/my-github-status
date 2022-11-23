@@ -39,17 +39,17 @@
 | sum |                                                                   |                                                                     |                                                                     |                                                                                      4 |
 
 ## The repos I stared (random 10)
-| ID |                                   REPO                                    | STAREDDATE |  LAUGUAGE   | LATESTUPDATE |
-|----|---------------------------------------------------------------------------|------------|-------------|--------------|
-|  1 | [iina](https://github.com/iina/iina)                                      | 2019-05-07 | Swift       | 2022-11-19   |
-|  2 | [zen](https://github.com/100mango/zen)                                    | 2018-03-29 | Swift       | 2022-11-03   |
-|  3 | [YYText](https://github.com/ibireme/YYText)                               | 2019-07-21 | Objective-C | 2022-11-19   |
-|  4 | [libstdc-](https://github.com/devdawei/libstdc-)                          | 2021-04-06 | Shell       | 2022-11-19   |
-|  5 | [Papr](https://github.com/jdisho/Papr)                                    | 2018-03-26 | Swift       | 2022-11-19   |
-|  6 | [fmdb](https://github.com/ccgus/fmdb)                                     | 2020-04-30 | Objective-C | 2022-11-19   |
-|  7 | [github-readme-stats](https://github.com/yihong0618/github-readme-stats)  | 2021-04-11 | Go          | 2022-09-21   |
-|  8 | [mbox](https://github.com/MBoxPlus/mbox)                                  | 2022-05-16 | Ruby        | 2022-11-18   |
-|  9 | [RealityKitLaunchScreen](https://github.com/aheze/RealityKitLaunchScreen) | 2022-05-13 | Swift       | 2022-11-18   |
-| 10 | [Apple-GitHub-Codeidea](https://github.com/CoderLN/Apple-GitHub-Codeidea) | 2017-07-07 | Objective-C | 2022-11-07   |
+| ID |                                           REPO                                            | STAREDDATE |  LAUGUAGE   | LATESTUPDATE |
+|----|-------------------------------------------------------------------------------------------|------------|-------------|--------------|
+|  1 | [myscript](https://github.com/Kewowlo/myscript)                                           | 2020-08-20 | Python      | 2020-08-20   |
+|  2 | [mobilists](https://github.com/eleme/mobilists)                                           | 2017-09-14 | JavaScript  | 2022-10-25   |
+|  3 | [RKCalendar](https://github.com/RaffiKian/RKCalendar)                                     | 2020-12-24 | Swift       | 2022-11-22   |
+|  4 | [PanoramaGL](https://github.com/shaojiankui/PanoramaGL)                                   | 2017-11-07 | Objective-C | 2022-08-15   |
+|  5 | [VVeboTableViewDemo](https://github.com/johnil/VVeboTableViewDemo)                        | 2017-07-20 | Objective-C | 2022-10-14   |
+|  6 | [app-ideas](https://github.com/florinpop17/app-ideas)                                     | 2020-05-19 | md          | 2022-11-23   |
+|  7 | [GitHubPoster](https://github.com/yihong0618/GitHubPoster)                                | 2021-05-10 | Python      | 2022-11-21   |
+|  8 | [Solve-App-Store-Review-Problem](https://github.com/wg689/Solve-App-Store-Review-Problem) | 2016-09-12 | Objective-C | 2022-11-15   |
+|  9 | [iOS-Tech-Weekly](https://github.com/BaiduHiDeviOS/iOS-Tech-Weekly)                       | 2017-10-30 | Stylus      | 2022-11-03   |
+| 10 | [chinese-independent-blogs](https://github.com/timqian/chinese-independent-blogs)         | 2020-09-28 | JavaScript  | 2022-11-23   |
 
 <!--END_SECTION:my_github-->
