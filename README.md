@@ -8,7 +8,7 @@
 ## The repos I created
 | ID  |                                        REPO                                        |   START    |   UPDATE   |  LAUGUAGE   | STARS |
 |-----|------------------------------------------------------------------------------------|------------|------------|-------------|-------|
-|   1 | [rss](https://github.com/acumen1005/rss)                                           | 2020-06-28 | 2022-11-13 | Swift       |    41 |
+|   1 | [rss](https://github.com/acumen1005/rss)                                           | 2020-06-28 | 2022-11-23 | Swift       |    42 |
 |   2 | [Recommendation](https://github.com/acumen1005/Recommendation)                     | 2016-05-31 | 2022-06-16 | Java        |    25 |
 |   3 | [ACWeChat](https://github.com/acumen1005/ACWeChat)                                 | 2016-05-14 | 2019-03-06 | Objective-C |    14 |
 |   4 | [ACLabelCounting](https://github.com/acumen1005/ACLabelCounting)                   | 2017-02-22 | 2022-03-08 | Swift       |    12 |
@@ -28,7 +28,7 @@
 |  18 | [acumen1005](https://github.com/acumen1005/acumen1005)                             | 2020-07-09 | 2022-05-23 | md          |     0 |
 |  19 | [ACPhotoPickerController](https://github.com/acumen1005/ACPhotoPickerController)   | 2017-03-03 | 2018-04-02 | Swift       |     0 |
 |  20 | [flutter_calendar](https://github.com/acumen1005/flutter_calendar)                 | 2021-01-16 | 2021-01-27 | Dart        |     0 |
-| sum |                                                                                    |            |            |             |    95 |
+| sum |                                                                                    |            |            |             |    96 |
 
 ## The repos I contributed to
 | ID  |                               REPO                                |                              FIRSTDATE                              |                              LASTEDATE                              |                                        PRCOUNT                                         |
@@ -39,17 +39,17 @@
 | sum |                                                                   |                                                                     |                                                                     |                                                                                      4 |
 
 ## The repos I stared (random 10)
-| ID |                                           REPO                                            | STAREDDATE |  LAUGUAGE   | LATESTUPDATE |
-|----|-------------------------------------------------------------------------------------------|------------|-------------|--------------|
-|  1 | [myscript](https://github.com/Kewowlo/myscript)                                           | 2020-08-20 | Python      | 2020-08-20   |
-|  2 | [mobilists](https://github.com/eleme/mobilists)                                           | 2017-09-14 | JavaScript  | 2022-10-25   |
-|  3 | [RKCalendar](https://github.com/RaffiKian/RKCalendar)                                     | 2020-12-24 | Swift       | 2022-11-22   |
-|  4 | [PanoramaGL](https://github.com/shaojiankui/PanoramaGL)                                   | 2017-11-07 | Objective-C | 2022-08-15   |
-|  5 | [VVeboTableViewDemo](https://github.com/johnil/VVeboTableViewDemo)                        | 2017-07-20 | Objective-C | 2022-10-14   |
-|  6 | [app-ideas](https://github.com/florinpop17/app-ideas)                                     | 2020-05-19 | md          | 2022-11-23   |
-|  7 | [GitHubPoster](https://github.com/yihong0618/GitHubPoster)                                | 2021-05-10 | Python      | 2022-11-21   |
-|  8 | [Solve-App-Store-Review-Problem](https://github.com/wg689/Solve-App-Store-Review-Problem) | 2016-09-12 | Objective-C | 2022-11-15   |
-|  9 | [iOS-Tech-Weekly](https://github.com/BaiduHiDeviOS/iOS-Tech-Weekly)                       | 2017-10-30 | Stylus      | 2022-11-03   |
-| 10 | [chinese-independent-blogs](https://github.com/timqian/chinese-independent-blogs)         | 2020-09-28 | JavaScript  | 2022-11-23   |
+| ID |                                            REPO                                            | STAREDDATE |  LAUGUAGE   | LATESTUPDATE |
+|----|--------------------------------------------------------------------------------------------|------------|-------------|--------------|
+|  1 | [RxSwift](https://github.com/ReactiveX/RxSwift)                                            | 2017-03-30 | Swift       | 2022-11-26   |
+|  2 | [resource](https://github.com/SHERRYWANNA/resource)                                        | 2018-08-24 | JavaScript  | 2020-09-28   |
+|  3 | [flutter_particle_clock](https://github.com/miickel/flutter_particle_clock)                | 2020-08-26 | Dart        | 2022-11-24   |
+|  4 | [AltStore](https://github.com/rileytestut/AltStore)                                        | 2020-04-24 | Swift       | 2022-11-26   |
+|  5 | [bytedance-alibaba-interview](https://github.com/colourful987/bytedance-alibaba-interview) | 2020-06-02 | Shell       | 2022-11-08   |
+|  6 | [Motion-Design-for-iOS](https://github.com/Cloudox/Motion-Design-for-iOS)                  | 2016-10-12 | md          | 2022-11-15   |
+|  7 | [AirPodsPro-Motion-Sampler](https://github.com/tukuyo/AirPodsPro-Motion-Sampler)           | 2020-10-19 | Swift       | 2022-11-26   |
+|  8 | [atswift-2017-resources](https://github.com/atConf/atswift-2017-resources)                 | 2017-06-01 | md          | 2022-09-09   |
+|  9 | [LYCustomTransition](https://github.com/dev-liyang/LYCustomTransition)                     | 2018-03-05 | Objective-C | 2022-11-22   |
+| 10 | [iOS-DeviceSupport](https://github.com/iGhibli/iOS-DeviceSupport)                          | 2022-02-28 | Python      | 2022-11-26   |
 
 <!--END_SECTION:my_github-->
