@@ -39,17 +39,17 @@
 | sum |                                                                   |                                                                     |                                                                     |                                                                                      4 |
 
 ## The repos I stared (random 10)
-| ID |                                         REPO                                         | STAREDDATE |  LAUGUAGE   | LATESTUPDATE |
-|----|--------------------------------------------------------------------------------------|------------|-------------|--------------|
-|  1 | [NSURLProtocol-WebKitSupport](https://github.com/Yeatse/NSURLProtocol-WebKitSupport) | 2017-11-21 | Objective-C | 2022-10-31   |
-|  2 | [iOS-DeviceSupport](https://github.com/iGhibli/iOS-DeviceSupport)                    | 2022-02-28 | Python      | 2022-12-04   |
-|  3 | [N-blog](https://github.com/nswbmw/N-blog)                                           | 2017-09-08 | JavaScript  | 2022-12-03   |
-|  4 | [NetNewsWire](https://github.com/Ranchero-Software/NetNewsWire)                      | 2020-11-23 | Swift       | 2022-12-04   |
-|  5 | [javascript](https://github.com/airbnb/javascript)                                   | 2017-08-25 | JavaScript  | 2022-12-03   |
-|  6 | [merchantkit](https://github.com/benjaminmayo/merchantkit)                           | 2018-04-08 | Swift       | 2022-11-27   |
-|  7 | [JASONETTE-iOS](https://github.com/Jasonette/JASONETTE-iOS)                          | 2017-02-16 | JavaScript  | 2022-11-21   |
-|  8 | [ACHNBrowserUI](https://github.com/Dimillian/ACHNBrowserUI)                          | 2020-06-06 | Swift       | 2022-11-30   |
-|  9 | [SyncKit](https://github.com/mentrena/SyncKit)                                       | 2022-04-26 | Swift       | 2022-12-03   |
-| 10 | [zen](https://github.com/100mango/zen)                                               | 2018-03-29 | Swift       | 2022-11-30   |
+| ID |                                       REPO                                        | STAREDDATE |  LAUGUAGE   | LATESTUPDATE |
+|----|-----------------------------------------------------------------------------------|------------|-------------|--------------|
+|  1 | [DZNEmptyDataSet](https://github.com/dzenbot/DZNEmptyDataSet)                     | 2018-05-28 | Objective-C | 2022-12-09   |
+|  2 | [UIComponent](https://github.com/lkzhao/UIComponent)                              | 2021-11-11 | Swift       | 2022-12-02   |
+|  3 | [zoo](https://github.com/zoo-js/zoo)                                              | 2020-12-02 | JavaScript  | 2022-11-22   |
+|  4 | [WeChatBot](https://github.com/onezens/WeChatBot)                                 | 2019-08-27 | Objective-C | 2022-10-22   |
+|  5 | [YoCelsius](https://github.com/YouXianMing/YoCelsius)                             | 2017-02-09 | Objective-C | 2022-11-30   |
+|  6 | [PNChart](https://github.com/kevinzhow/PNChart)                                   | 2016-09-20 | Objective-C | 2022-11-22   |
+|  7 | [ipatool](https://github.com/majd/ipatool)                                        | 2022-02-22 | Go          | 2022-12-10   |
+|  8 | [WKWebViewTips](https://github.com/ShingoFukuyama/WKWebViewTips)                  | 2016-12-14 | md          | 2022-10-13   |
+|  9 | [ChromaColorPicker](https://github.com/joncardasis/ChromaColorPicker)             | 2022-05-04 | Swift       | 2022-12-05   |
+| 10 | [chinese-independent-blogs](https://github.com/timqian/chinese-independent-blogs) | 2020-09-28 | JavaScript  | 2022-12-10   |
 
 <!--END_SECTION:my_github-->
