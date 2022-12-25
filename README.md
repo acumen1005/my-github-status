@@ -39,17 +39,17 @@
 | sum |                                                                   |                                                                     |                                                                     |                                                                                      4 |
 
 ## The repos I stared (random 10)
-| ID |                                                    REPO                                                     | STAREDDATE |   LAUGUAGE    | LATESTUPDATE |
-|----|-------------------------------------------------------------------------------------------------------------|------------|---------------|--------------|
-|  1 | [github-readme-stats](https://github.com/yihong0618/github-readme-stats)                                    | 2021-04-11 | Go            | 2022-09-21   |
-|  2 | [SwipeTableView](https://github.com/Roylee-ML/SwipeTableView)                                               | 2017-08-09 | Objective-C   | 2022-11-30   |
-|  3 | [NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicApi)                                   | 2018-10-10 | JavaScript    | 2022-12-22   |
-|  4 | [SwiftWebUI](https://github.com/SwiftWebUI/SwiftWebUI)                                                      | 2019-07-02 | Swift         | 2022-12-21   |
-|  5 | [SPStorkController](https://github.com/ivanvorobei/SPStorkController)                                       | 2019-04-19 | Swift         | 2022-12-22   |
-|  6 | [swiftui-animations-island](https://github.com/amosgyamfi/swiftui-animations-island)                        | 2021-05-02 | md            | 2022-12-22   |
-|  7 | [most-frequent-technology-english-words](https://github.com/Wei-Xia/most-frequent-technology-english-words) | 2019-06-23 | CSS           | 2022-12-22   |
-|  8 | [LYCustomTransition](https://github.com/dev-liyang/LYCustomTransition)                                      | 2018-03-05 | Objective-C   | 2022-12-05   |
-|  9 | [tomorrow-theme](https://github.com/chriskempson/tomorrow-theme)                                            | 2016-12-06 | CSS           | 2022-12-22   |
-| 10 | [FBRetainCycleDetector](https://github.com/facebook/FBRetainCycleDetector)                                  | 2017-09-14 | Objective-C++ | 2022-12-19   |
+| ID |                                                 REPO                                                 | STAREDDATE |  LAUGUAGE   | LATESTUPDATE |
+|----|------------------------------------------------------------------------------------------------------|------------|-------------|--------------|
+|  1 | [ios-deploy](https://github.com/ios-control/ios-deploy)                                              | 2020-07-20 | Objective-C | 2022-12-21   |
+|  2 | [shadowsocks-iOS](https://github.com/binss/shadowsocks-iOS)                                          | 2018-02-06 | Objective-C | 2022-12-14   |
+|  3 | [WebViewJavascriptBridge](https://github.com/marcuswestin/WebViewJavascriptBridge)                   | 2016-12-14 | Objective-C | 2022-12-21   |
+|  4 | [HelloGitHub](https://github.com/521xueweihan/HelloGitHub)                                           | 2019-05-09 | Python      | 2022-12-25   |
+|  5 | [iOS-UIFont-Names](https://github.com/lionhylra/iOS-UIFont-Names)                                    | 2021-05-27 | Swift       | 2022-12-12   |
+|  6 | [NJKWebViewProgress](https://github.com/ninjinkun/NJKWebViewProgress)                                | 2017-09-27 | Objective-C | 2022-12-08   |
+|  7 | [hexo](https://github.com/hexojs/hexo)                                                               | 2018-03-02 | JavaScript  | 2022-12-24   |
+|  8 | [iOS-InterviewQuestion-collection](https://github.com/liberalisman/iOS-InterviewQuestion-collection) | 2018-04-18 | Objective-C | 2022-12-20   |
+|  9 | [cocoapods-binary](https://github.com/leavez/cocoapods-binary)                                       | 2019-05-05 | Ruby        | 2022-12-19   |
+| 10 | [injectionforxcode](https://github.com/johnno1962/injectionforxcode)                                 | 2018-01-15 | Objective-C | 2022-12-13   |
 
 <!--END_SECTION:my_github-->
