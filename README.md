@@ -8,7 +8,7 @@
 ## The repos I created
 | ID  |                                        REPO                                        |   START    |   UPDATE   |  LAUGUAGE   | STARS |
 |-----|------------------------------------------------------------------------------------|------------|------------|-------------|-------|
-|   1 | [rss](https://github.com/acumen1005/rss)                                           | 2020-06-28 | 2022-11-23 | Swift       |    42 |
+|   1 | [rss](https://github.com/acumen1005/rss)                                           | 2020-06-28 | 2022-12-28 | Swift       |    43 |
 |   2 | [Recommendation](https://github.com/acumen1005/Recommendation)                     | 2016-05-31 | 2022-06-16 | Java        |    25 |
 |   3 | [ACWeChat](https://github.com/acumen1005/ACWeChat)                                 | 2016-05-14 | 2019-03-06 | Objective-C |    14 |
 |   4 | [ACLabelCounting](https://github.com/acumen1005/ACLabelCounting)                   | 2017-02-22 | 2022-03-08 | Swift       |    12 |
@@ -28,7 +28,7 @@
 |  18 | [acumen1005](https://github.com/acumen1005/acumen1005)                             | 2020-07-09 | 2022-05-23 | md          |     0 |
 |  19 | [ACPhotoPickerController](https://github.com/acumen1005/ACPhotoPickerController)   | 2017-03-03 | 2018-04-02 | Swift       |     0 |
 |  20 | [flutter_calendar](https://github.com/acumen1005/flutter_calendar)                 | 2021-01-16 | 2021-01-27 | Dart        |     0 |
-| sum |                                                                                    |            |            |             |    96 |
+| sum |                                                                                    |            |            |             |    97 |
 
 ## The repos I contributed to
 | ID  |                               REPO                                |                              FIRSTDATE                              |                              LASTEDATE                              |                                        PRCOUNT                                         |
@@ -39,17 +39,17 @@
 | sum |                                                                   |                                                                     |                                                                     |                                                                                      4 |
 
 ## The repos I stared (random 10)
-| ID |                                                 REPO                                                 | STAREDDATE |  LAUGUAGE   | LATESTUPDATE |
-|----|------------------------------------------------------------------------------------------------------|------------|-------------|--------------|
-|  1 | [ios-deploy](https://github.com/ios-control/ios-deploy)                                              | 2020-07-20 | Objective-C | 2022-12-21   |
-|  2 | [shadowsocks-iOS](https://github.com/binss/shadowsocks-iOS)                                          | 2018-02-06 | Objective-C | 2022-12-14   |
-|  3 | [WebViewJavascriptBridge](https://github.com/marcuswestin/WebViewJavascriptBridge)                   | 2016-12-14 | Objective-C | 2022-12-21   |
-|  4 | [HelloGitHub](https://github.com/521xueweihan/HelloGitHub)                                           | 2019-05-09 | Python      | 2022-12-25   |
-|  5 | [iOS-UIFont-Names](https://github.com/lionhylra/iOS-UIFont-Names)                                    | 2021-05-27 | Swift       | 2022-12-12   |
-|  6 | [NJKWebViewProgress](https://github.com/ninjinkun/NJKWebViewProgress)                                | 2017-09-27 | Objective-C | 2022-12-08   |
-|  7 | [hexo](https://github.com/hexojs/hexo)                                                               | 2018-03-02 | JavaScript  | 2022-12-24   |
-|  8 | [iOS-InterviewQuestion-collection](https://github.com/liberalisman/iOS-InterviewQuestion-collection) | 2018-04-18 | Objective-C | 2022-12-20   |
-|  9 | [cocoapods-binary](https://github.com/leavez/cocoapods-binary)                                       | 2019-05-05 | Ruby        | 2022-12-19   |
-| 10 | [injectionforxcode](https://github.com/johnno1962/injectionforxcode)                                 | 2018-01-15 | Objective-C | 2022-12-13   |
+| ID |                                      REPO                                      | STAREDDATE |  LAUGUAGE   | LATESTUPDATE |
+|----|--------------------------------------------------------------------------------|------------|-------------|--------------|
+|  1 | [lizhi](https://github.com/turkyden/lizhi)                                     | 2022-10-19 | TypeScript  | 2022-12-31   |
+|  2 | [33-js-concepts](https://github.com/stephentian/33-js-concepts)                | 2018-10-24 | JavaScript  | 2022-12-31   |
+|  3 | [k](https://github.com/supercrabtree/k)                                        | 2020-12-16 | Shell       | 2022-12-26   |
+|  4 | [LeetCode-Swift](https://github.com/soapyigu/LeetCode-Swift)                   | 2021-05-27 | Swift       | 2022-12-31   |
+|  5 | [HidingNavigationBar](https://github.com/tristanhimmelman/HidingNavigationBar) | 2017-11-15 | Swift       | 2022-12-21   |
+|  6 | [Apple-GitHub-Codeidea](https://github.com/CoderLN/Apple-GitHub-Codeidea)      | 2017-07-07 | Objective-C | 2022-11-07   |
+|  7 | [ConfettiSwiftUI](https://github.com/simibac/ConfettiSwiftUI)                  | 2022-05-21 | Swift       | 2022-12-30   |
+|  8 | [HookZzModules](https://github.com/jmpews/HookZzModules)                       | 2020-03-06 | Objective-C | 2022-12-26   |
+|  9 | [socket.io](https://github.com/socketio/socket.io)                             | 2017-08-24 | TypeScript  | 2022-12-31   |
+| 10 | [myscript](https://github.com/Kewowlo/myscript)                                | 2020-08-20 | Python      | 2020-08-20   |
 
 <!--END_SECTION:my_github-->
