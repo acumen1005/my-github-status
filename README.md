@@ -39,17 +39,17 @@
 | sum |                                                                   |                                                                     |                                                                     |                                                                                      4 |
 
 ## The repos I stared (random 10)
-| ID |                                      REPO                                      | STAREDDATE |  LAUGUAGE   | LATESTUPDATE |
-|----|--------------------------------------------------------------------------------|------------|-------------|--------------|
-|  1 | [lizhi](https://github.com/turkyden/lizhi)                                     | 2022-10-19 | TypeScript  | 2022-12-31   |
-|  2 | [33-js-concepts](https://github.com/stephentian/33-js-concepts)                | 2018-10-24 | JavaScript  | 2022-12-31   |
-|  3 | [k](https://github.com/supercrabtree/k)                                        | 2020-12-16 | Shell       | 2022-12-26   |
-|  4 | [LeetCode-Swift](https://github.com/soapyigu/LeetCode-Swift)                   | 2021-05-27 | Swift       | 2022-12-31   |
-|  5 | [HidingNavigationBar](https://github.com/tristanhimmelman/HidingNavigationBar) | 2017-11-15 | Swift       | 2022-12-21   |
-|  6 | [Apple-GitHub-Codeidea](https://github.com/CoderLN/Apple-GitHub-Codeidea)      | 2017-07-07 | Objective-C | 2022-11-07   |
-|  7 | [ConfettiSwiftUI](https://github.com/simibac/ConfettiSwiftUI)                  | 2022-05-21 | Swift       | 2022-12-30   |
-|  8 | [HookZzModules](https://github.com/jmpews/HookZzModules)                       | 2020-03-06 | Objective-C | 2022-12-26   |
-|  9 | [socket.io](https://github.com/socketio/socket.io)                             | 2017-08-24 | TypeScript  | 2022-12-31   |
-| 10 | [myscript](https://github.com/Kewowlo/myscript)                                | 2020-08-20 | Python      | 2020-08-20   |
+| ID |                                                REPO                                                | STAREDDATE |  LAUGUAGE   | LATESTUPDATE |
+|----|----------------------------------------------------------------------------------------------------|------------|-------------|--------------|
+|  1 | [hexo-theme-apollo](https://github.com/chongshengsun/hexo-theme-apollo)                            | 2016-10-31 | SCSS        | 2022-12-22   |
+|  2 | [Mantis](https://github.com/guoyingtao/Mantis)                                                     | 2022-07-14 | Swift       | 2023-01-07   |
+|  3 | [Swift-Daily-Tips](https://github.com/emreozdil/Swift-Daily-Tips)                                  | 2018-11-21 | Swift       | 2023-01-02   |
+|  4 | [CloudKitCodable](https://github.com/insidegui/CloudKitCodable)                                    | 2020-06-03 | Swift       | 2022-12-31   |
+|  5 | [The-Lost-Art-of-C-Structure-Packing](https://github.com/ludx/The-Lost-Art-of-C-Structure-Packing) | 2017-09-19 | md          | 2022-12-31   |
+|  6 | [scrapy-examples](https://github.com/geekan/scrapy-examples)                                       | 2017-03-21 | Python      | 2023-01-06   |
+|  7 | [objc_msgSend_hook](https://github.com/czqasngit/objc_msgSend_hook)                                | 2020-07-19 | C           | 2022-11-18   |
+|  8 | [ZIKCellularAuthorization](https://github.com/Zuikyo/ZIKCellularAuthorization)                     | 2018-01-12 | Objective-C | 2022-12-09   |
+|  9 | [Design-Patterns-In-Swift](https://github.com/ochococo/Design-Patterns-In-Swift)                   | 2017-07-07 | Swift       | 2023-01-07   |
+| 10 | [HookZzModules](https://github.com/jmpews/HookZzModules)                                           | 2020-03-06 | Objective-C | 2022-12-26   |
 
 <!--END_SECTION:my_github-->
