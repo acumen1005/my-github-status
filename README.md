@@ -8,7 +8,7 @@
 ## The repos I created
 | ID  |                                        REPO                                        |   START    |   UPDATE   |  LAUGUAGE   | STARS |
 |-----|------------------------------------------------------------------------------------|------------|------------|-------------|-------|
-|   1 | [rss](https://github.com/acumen1005/rss)                                           | 2020-06-28 | 2022-12-28 | Swift       |    43 |
+|   1 | [rss](https://github.com/acumen1005/rss)                                           | 2020-06-28 | 2023-01-19 | Swift       |    42 |
 |   2 | [Recommendation](https://github.com/acumen1005/Recommendation)                     | 2016-05-31 | 2022-06-16 | Java        |    25 |
 |   3 | [ACWeChat](https://github.com/acumen1005/ACWeChat)                                 | 2016-05-14 | 2019-03-06 | Objective-C |    14 |
 |   4 | [ACLabelCounting](https://github.com/acumen1005/ACLabelCounting)                   | 2017-02-22 | 2022-03-08 | Swift       |    12 |
@@ -28,7 +28,7 @@
 |  18 | [acumen1005](https://github.com/acumen1005/acumen1005)                             | 2020-07-09 | 2022-05-23 | md          |     0 |
 |  19 | [ACPhotoPickerController](https://github.com/acumen1005/ACPhotoPickerController)   | 2017-03-03 | 2018-04-02 | Swift       |     0 |
 |  20 | [flutter_calendar](https://github.com/acumen1005/flutter_calendar)                 | 2021-01-16 | 2021-01-27 | Dart        |     0 |
-| sum |                                                                                    |            |            |             |    97 |
+| sum |                                                                                    |            |            |             |    96 |
 
 ## The repos I contributed to
 | ID  |                               REPO                                |                              FIRSTDATE                              |                              LASTEDATE                              |                                        PRCOUNT                                         |
@@ -39,17 +39,17 @@
 | sum |                                                                   |                                                                     |                                                                     |                                                                                      4 |
 
 ## The repos I stared (random 10)
-| ID |                                  REPO                                   | STAREDDATE |  LAUGUAGE   | LATESTUPDATE |
-|----|-------------------------------------------------------------------------|------------|-------------|--------------|
-|  1 | [TYCyclePagerView](https://github.com/12207480/TYCyclePagerView)        | 2017-07-27 | Objective-C | 2023-01-12   |
-|  2 | [power_image](https://github.com/alibaba/power_image)                   | 2022-05-18 | Dart        | 2023-01-12   |
-|  3 | [SideMenu](https://github.com/kukushi/SideMenu)                         | 2019-03-28 | Swift       | 2023-01-10   |
-|  4 | [Learning-SICP](https://github.com/DeathKing/Learning-SICP)             | 2018-11-07 | Ruby        | 2023-01-14   |
-|  5 | [blog](https://github.com/waynezhang/blog)                              | 2017-03-28 | SCSS        | 2022-10-14   |
-|  6 | [Joy-Blog](https://github.com/joy0304/Joy-Blog)                         | 2020-05-25 | md          | 2022-11-29   |
-|  7 | [WWDC17-Xcode-Theme](https://github.com/mozharovsky/WWDC17-Xcode-Theme) | 2017-11-15 | md          | 2022-11-13   |
-|  8 | [app-ideas](https://github.com/florinpop17/app-ideas)                   | 2020-05-19 | md          | 2023-01-15   |
-|  9 | [swift-style-guide](https://github.com/kodecocodes/swift-style-guide)   | 2016-12-01 | md          | 2023-01-14   |
-| 10 | [echo](https://github.com/didi/echo)                                    | 2021-05-10 | Objective-C | 2023-01-12   |
+| ID |                                                    REPO                                                     | STAREDDATE |  LAUGUAGE   | LATESTUPDATE |
+|----|-------------------------------------------------------------------------------------------------------------|------------|-------------|--------------|
+|  1 | [iOS9AdaptationTips](https://github.com/ChenYilong/iOS9AdaptationTips)                                      | 2016-09-30 | Objective-C | 2023-01-17   |
+|  2 | [SwiftyStoreKit](https://github.com/bizz84/SwiftyStoreKit)                                                  | 2022-05-05 | Swift       | 2023-01-20   |
+|  3 | [chinese-programmer-wrong-pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation) | 2020-08-19 | JavaScript  | 2023-01-21   |
+|  4 | [Figma-Net-OK](https://github.com/Moonvy/Figma-Net-OK)                                                      | 2022-05-13 | JavaScript  | 2023-01-17   |
+|  5 | [tensorflow_poems](https://github.com/jinfagang/tensorflow_poems)                                           | 2017-04-27 | Python      | 2023-01-18   |
+|  6 | [FlutterExampleApps](https://github.com/iampawan/FlutterExampleApps)                                        | 2020-09-25 | Dart        | 2023-01-21   |
+|  7 | [trip-to-iOS](https://github.com/Aufree/trip-to-iOS)                                                        | 2016-10-10 | Objective-C | 2023-01-21   |
+|  8 | [CnC_Remastered_Collection](https://github.com/electronicarts/CnC_Remastered_Collection)                    | 2020-06-10 | C++         | 2023-01-21   |
+|  9 | [wbwangk.github.io](https://github.com/wbwangk/wbwangk.github.io)                                           | 2019-04-22 | HTML        | 2023-01-09   |
+| 10 | [SplitSheet](https://github.com/aheze/SplitSheet)                                                           | 2022-12-11 | Swift       | 2023-01-02   |
 
 <!--END_SECTION:my_github-->
