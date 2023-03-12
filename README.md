@@ -8,7 +8,7 @@
 ## The repos I created
 | ID  |                                        REPO                                        |   START    |   UPDATE   |  LAUGUAGE   | STARS |
 |-----|------------------------------------------------------------------------------------|------------|------------|-------------|-------|
-|   1 | [rss](https://github.com/acumen1005/rss)                                           | 2020-06-28 | 2023-01-19 | Swift       |    42 |
+|   1 | [rss](https://github.com/acumen1005/rss)                                           | 2020-06-28 | 2023-03-11 | Swift       |    44 |
 |   2 | [Recommendation](https://github.com/acumen1005/Recommendation)                     | 2016-05-31 | 2023-02-15 | Java        |    26 |
 |   3 | [ACWeChat](https://github.com/acumen1005/ACWeChat)                                 | 2016-05-14 | 2019-03-06 | Objective-C |    14 |
 |   4 | [ACLabelCounting](https://github.com/acumen1005/ACLabelCounting)                   | 2017-02-22 | 2022-03-08 | Swift       |    12 |
@@ -28,7 +28,7 @@
 |  18 | [acumen1005](https://github.com/acumen1005/acumen1005)                             | 2020-07-09 | 2022-05-23 | md          |     0 |
 |  19 | [ACPhotoPickerController](https://github.com/acumen1005/ACPhotoPickerController)   | 2017-03-03 | 2018-04-02 | Swift       |     0 |
 |  20 | [flutter_calendar](https://github.com/acumen1005/flutter_calendar)                 | 2021-01-16 | 2021-01-27 | Dart        |     0 |
-| sum |                                                                                    |            |            |             |    97 |
+| sum |                                                                                    |            |            |             |    99 |
 
 ## The repos I contributed to
 | ID  |                               REPO                                |                              FIRSTDATE                              |                              LASTEDATE                              | LANGUAGE |                                        PRCOUNT                                         |
@@ -40,17 +40,17 @@
 | sum |                                                                   |                                                                     |                                                                     |          |                                                                                      5 |
 
 ## The repos I stared (random 10)
-| ID |                                            REPO                                            | STAREDDATE |  LAUGUAGE   | LATESTUPDATE |
-|----|--------------------------------------------------------------------------------------------|------------|-------------|--------------|
-|  1 | [lipstick](https://github.com/Ovilia/lipstick)                                             | 2018-03-08 | JavaScript  | 2023-03-03   |
-|  2 | [SocketRocket](https://github.com/facebookincubator/SocketRocket)                          | 2019-08-19 | Objective-C | 2023-02-25   |
-|  3 | [NVActivityIndicatorView](https://github.com/ninjaprox/NVActivityIndicatorView)            | 2020-11-05 | Swift       | 2023-03-03   |
-|  4 | [ccan](https://github.com/rustyrussell/ccan)                                               | 2019-10-25 | C           | 2023-03-04   |
-|  5 | [merchantkit](https://github.com/benjaminmayo/merchantkit)                                 | 2018-04-08 | Swift       | 2023-03-02   |
-|  6 | [SwiftLint](https://github.com/realm/SwiftLint)                                            | 2021-05-02 | Swift       | 2023-03-04   |
-|  7 | [awesome-ios-animation](https://github.com/onmyway133/awesome-ios-animation)               | 2016-06-03 | md          | 2023-03-03   |
-|  8 | [bytedance-alibaba-interview](https://github.com/colourful987/bytedance-alibaba-interview) | 2020-06-02 | Shell       | 2023-03-02   |
-|  9 | [iOS-UIFont-Names](https://github.com/lionhylra/iOS-UIFont-Names)                          | 2021-05-27 | Swift       | 2023-02-18   |
-| 10 | [FallingSnow](https://github.com/chrismaddern/FallingSnow)                                 | 2020-12-23 | Objective-C | 2022-12-04   |
+| ID |                                                    REPO                                                     | STAREDDATE |  LAUGUAGE   | LATESTUPDATE |
+|----|-------------------------------------------------------------------------------------------------------------|------------|-------------|--------------|
+|  1 | [WRNavigationBar](https://github.com/wangrui460/WRNavigationBar)                                            | 2017-07-12 | Objective-C | 2023-03-08   |
+|  2 | [react-naive-book](https://github.com/huzidaha/react-naive-book)                                            | 2020-10-21 | HTML        | 2023-03-11   |
+|  3 | [lottie-ios](https://github.com/airbnb/lottie-ios)                                                          | 2017-02-09 | Swift       | 2023-03-11   |
+|  4 | [next-startd](https://github.com/jkytoela/next-startd)                                                      | 2022-06-13 | TypeScript  | 2023-03-09   |
+|  5 | [JHBlog](https://github.com/SunshineBrother/JHBlog)                                                         | 2020-05-24 | Objective-C | 2023-03-09   |
+|  6 | [chinese-copywriting-guidelines](https://github.com/sparanoid/chinese-copywriting-guidelines)               | 2020-06-29 | md          | 2023-03-11   |
+|  7 | [XcodeCleaner](https://github.com/waylybaye/XcodeCleaner)                                                   | 2017-10-17 | Objective-C | 2023-02-28   |
+|  8 | [AirPodsPro-Motion-Sampler](https://github.com/tukuyo/AirPodsPro-Motion-Sampler)                            | 2020-10-19 | Swift       | 2023-03-06   |
+|  9 | [iOS-Source-Probe](https://github.com/Desgard/iOS-Source-Probe)                                             | 2018-07-05 | Shell       | 2023-02-22   |
+| 10 | [chinese-programmer-wrong-pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation) | 2020-08-19 | JavaScript  | 2023-03-12   |
 
 <!--END_SECTION:my_github-->
