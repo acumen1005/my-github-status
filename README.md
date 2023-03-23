@@ -40,17 +40,17 @@
 | sum |                                                                   |                                                                     |                                                                     |          |                                                                                      6 |
 
 ## The repos I stared (random 10)
-| ID |                                           REPO                                            | STAREDDATE |  LAUGUAGE   | LATESTUPDATE |
-|----|-------------------------------------------------------------------------------------------|------------|-------------|--------------|
-|  1 | [ZIKCellularAuthorization](https://github.com/Zuikyo/ZIKCellularAuthorization)            | 2018-01-12 | Objective-C | 2023-03-17   |
-|  2 | [YoCelsius](https://github.com/YouXianMing/YoCelsius)                                     | 2017-02-09 | Objective-C | 2023-02-20   |
-|  3 | [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)                   | 2020-11-13 | md          | 2023-03-21   |
-|  4 | [ccan](https://github.com/rustyrussell/ccan)                                              | 2019-10-25 | C           | 2023-03-16   |
-|  5 | [ZipArchive](https://github.com/ZipArchive/ZipArchive)                                    | 2017-12-21 | C           | 2023-03-20   |
-|  6 | [ImpressionKit](https://github.com/623637646/ImpressionKit)                               | 2021-04-29 | Swift       | 2023-03-18   |
-|  7 | [SwipeTableView](https://github.com/Roylee-ML/SwipeTableView)                             | 2017-08-09 | Objective-C | 2023-03-19   |
-|  8 | [AnimatedCollectionViewLayout](https://github.com/KelvinJin/AnimatedCollectionViewLayout) | 2017-02-14 | Swift       | 2023-03-21   |
-|  9 | [ios-deploy](https://github.com/ios-control/ios-deploy)                                   | 2020-07-20 | Objective-C | 2023-03-21   |
-| 10 | [ish](https://github.com/ish-app/ish)                                                     | 2019-10-31 | C           | 2023-03-21   |
+| ID |                                    REPO                                     | STAREDDATE |  LAUGUAGE   | LATESTUPDATE |
+|----|-----------------------------------------------------------------------------|------------|-------------|--------------|
+|  1 | [swift-best-practices](https://github.com/Lickability/swift-best-practices) | 2019-08-03 | md          | 2023-03-15   |
+|  2 | [SwipeTableView](https://github.com/Roylee-ML/SwipeTableView)               | 2017-08-09 | Objective-C | 2023-03-19   |
+|  3 | [iOS-DeviceSupport](https://github.com/iGhibli/iOS-DeviceSupport)           | 2022-02-28 | Python      | 2023-03-22   |
+|  4 | [github-readme-stats](https://github.com/yihong0618/github-readme-stats)    | 2021-04-11 | Go          | 2023-03-21   |
+|  5 | [vscode-leetcode](https://github.com/LeetCode-OpenSource/vscode-leetcode)   | 2019-03-21 | TypeScript  | 2023-03-22   |
+|  6 | [vscode-rainbow-fart](https://github.com/SaekiRaku/vscode-rainbow-fart)     | 2020-06-22 | JavaScript  | 2023-03-21   |
+|  7 | [mosaic](https://github.com/sausheong/mosaic)                               | 2017-06-12 | Go          | 2021-08-06   |
+|  8 | [shadowsocks-iOS](https://github.com/binss/shadowsocks-iOS)                 | 2018-02-06 | Objective-C | 2022-12-14   |
+|  9 | [xcinfo](https://github.com/xcodereleases/xcinfo)                           | 2020-12-24 | Swift       | 2023-03-09   |
+| 10 | [flutter-go](https://github.com/alibaba/flutter-go)                         | 2019-04-29 | Dart        | 2023-03-22   |
 
 <!--END_SECTION:my_github-->
