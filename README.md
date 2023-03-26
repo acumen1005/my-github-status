@@ -40,17 +40,17 @@
 | sum |                                                                   |                                                                     |                                                                     |          |                                                                                      6 |
 
 ## The repos I stared (random 10)
-| ID |                                    REPO                                     | STAREDDATE |  LAUGUAGE   | LATESTUPDATE |
-|----|-----------------------------------------------------------------------------|------------|-------------|--------------|
-|  1 | [swift-best-practices](https://github.com/Lickability/swift-best-practices) | 2019-08-03 | md          | 2023-03-15   |
-|  2 | [SwipeTableView](https://github.com/Roylee-ML/SwipeTableView)               | 2017-08-09 | Objective-C | 2023-03-19   |
-|  3 | [iOS-DeviceSupport](https://github.com/iGhibli/iOS-DeviceSupport)           | 2022-02-28 | Python      | 2023-03-22   |
-|  4 | [github-readme-stats](https://github.com/yihong0618/github-readme-stats)    | 2021-04-11 | Go          | 2023-03-21   |
-|  5 | [vscode-leetcode](https://github.com/LeetCode-OpenSource/vscode-leetcode)   | 2019-03-21 | TypeScript  | 2023-03-22   |
-|  6 | [vscode-rainbow-fart](https://github.com/SaekiRaku/vscode-rainbow-fart)     | 2020-06-22 | JavaScript  | 2023-03-21   |
-|  7 | [mosaic](https://github.com/sausheong/mosaic)                               | 2017-06-12 | Go          | 2021-08-06   |
-|  8 | [shadowsocks-iOS](https://github.com/binss/shadowsocks-iOS)                 | 2018-02-06 | Objective-C | 2022-12-14   |
-|  9 | [xcinfo](https://github.com/xcodereleases/xcinfo)                           | 2020-12-24 | Swift       | 2023-03-09   |
-| 10 | [flutter-go](https://github.com/alibaba/flutter-go)                         | 2019-04-29 | Dart        | 2023-03-22   |
+| ID |                                                   REPO                                                    | STAREDDATE |  LAUGUAGE   | LATESTUPDATE |
+|----|-----------------------------------------------------------------------------------------------------------|------------|-------------|--------------|
+|  1 | [swift-algorithm-club](https://github.com/kodecocodes/swift-algorithm-club)                               | 2017-11-27 | Swift       | 2023-03-25   |
+|  2 | [Blogs](https://github.com/LeoMobileDeveloper/Blogs)                                                      | 2017-07-21 | Objective-C | 2023-03-17   |
+|  3 | [HGPlaceholders](https://github.com/HamzaGhazouani/HGPlaceholders)                                        | 2017-08-14 | Swift       | 2023-03-25   |
+|  4 | [Figma-Net-OK](https://github.com/Moonvy/Figma-Net-OK)                                                    | 2022-05-13 | JavaScript  | 2023-03-20   |
+|  5 | [cwa-app-ios](https://github.com/corona-warn-app/cwa-app-ios)                                             | 2020-06-17 | Swift       | 2023-03-25   |
+|  6 | [WeChatICU-ForMac](https://github.com/MustangYM/WeChatICU-ForMac)                                         | 2021-05-07 | md          | 2023-03-15   |
+|  7 | [swift-collections-benchmark](https://github.com/apple/swift-collections-benchmark)                       | 2021-04-06 | Swift       | 2023-03-19   |
+|  8 | [XXPerformanceMonitor](https://github.com/HJTXX/XXPerformanceMonitor)                                     | 2020-08-03 | Swift       | 2023-02-07   |
+|  9 | [WeeklySwift](https://github.com/bestswifter/WeeklySwift)                                                 | 2016-10-19 | md          | 2022-06-10   |
+| 10 | [Awsome-Front-End-learning-resource](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource) | 2016-10-22 | PHP         | 2023-03-25   |
 
 <!--END_SECTION:my_github-->
