@@ -40,17 +40,17 @@
 | sum |                                                                   |                                                                     |                                                                     |          |                                                                                      6 |
 
 ## The repos I stared (random 10)
-| ID |                                                   REPO                                                    | STAREDDATE |  LAUGUAGE   | LATESTUPDATE |
-|----|-----------------------------------------------------------------------------------------------------------|------------|-------------|--------------|
-|  1 | [swift-algorithm-club](https://github.com/kodecocodes/swift-algorithm-club)                               | 2017-11-27 | Swift       | 2023-03-25   |
-|  2 | [Blogs](https://github.com/LeoMobileDeveloper/Blogs)                                                      | 2017-07-21 | Objective-C | 2023-03-17   |
-|  3 | [HGPlaceholders](https://github.com/HamzaGhazouani/HGPlaceholders)                                        | 2017-08-14 | Swift       | 2023-03-25   |
-|  4 | [Figma-Net-OK](https://github.com/Moonvy/Figma-Net-OK)                                                    | 2022-05-13 | JavaScript  | 2023-03-20   |
-|  5 | [cwa-app-ios](https://github.com/corona-warn-app/cwa-app-ios)                                             | 2020-06-17 | Swift       | 2023-03-25   |
-|  6 | [WeChatICU-ForMac](https://github.com/MustangYM/WeChatICU-ForMac)                                         | 2021-05-07 | md          | 2023-03-15   |
-|  7 | [swift-collections-benchmark](https://github.com/apple/swift-collections-benchmark)                       | 2021-04-06 | Swift       | 2023-03-19   |
-|  8 | [XXPerformanceMonitor](https://github.com/HJTXX/XXPerformanceMonitor)                                     | 2020-08-03 | Swift       | 2023-02-07   |
-|  9 | [WeeklySwift](https://github.com/bestswifter/WeeklySwift)                                                 | 2016-10-19 | md          | 2022-06-10   |
-| 10 | [Awsome-Front-End-learning-resource](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource) | 2016-10-22 | PHP         | 2023-03-25   |
+| ID |                                 REPO                                  | STAREDDATE |  LAUGUAGE   | LATESTUPDATE |
+|----|-----------------------------------------------------------------------|------------|-------------|--------------|
+|  1 | [SplitSheet](https://github.com/aheze/SplitSheet)                     | 2022-12-11 | Swift       | 2023-03-07   |
+|  2 | [Koloda](https://github.com/Yalantis/Koloda)                          | 2019-01-22 | Swift       | 2023-03-30   |
+|  3 | [SkeletonView](https://github.com/Juanpe/SkeletonView)                | 2018-12-11 | Swift       | 2023-04-01   |
+|  4 | [BulletinBoard](https://github.com/alexisakers/BulletinBoard)         | 2018-12-19 | Swift       | 2023-03-28   |
+|  5 | [trip-to-iOS](https://github.com/Aufree/trip-to-iOS)                  | 2016-10-10 | Objective-C | 2023-03-31   |
+|  6 | [CloudKitCodable](https://github.com/insidegui/CloudKitCodable)       | 2020-06-03 | Swift       | 2023-04-01   |
+|  7 | [XcodeGen](https://github.com/yonaskolb/XcodeGen)                     | 2019-09-11 | Swift       | 2023-04-01   |
+|  8 | [16-cell](https://github.com/oliver34/16-cell)                        | 2018-04-12 | JavaScript  | 2023-03-07   |
+|  9 | [ChromaColorPicker](https://github.com/joncardasis/ChromaColorPicker) | 2022-05-04 | Swift       | 2023-03-23   |
+| 10 | [RedditOS](https://github.com/Dimillian/RedditOS)                     | 2020-12-16 | Swift       | 2023-04-01   |
 
 <!--END_SECTION:my_github-->
