@@ -6,9 +6,9 @@
 
 <!--START_SECTION:my_github-->
 ## The repos I created
-| ID  |                                        REPO                                        |   START    |   UPDATE   |  LAUGUAGE   | STARS |
+| ID  |                                        REPO                                        |   START    |   UPDATE   |  LANGUAGE   | STARS |
 |-----|------------------------------------------------------------------------------------|------------|------------|-------------|-------|
-|   1 | [rss](https://github.com/acumen1005/rss)                                           | 2020-06-28 | 2023-03-11 | Swift       |    44 |
+|   1 | [rss](https://github.com/acumen1005/rss)                                           | 2020-06-28 | 2023-04-15 | Swift       |    43 |
 |   2 | [Recommendation](https://github.com/acumen1005/Recommendation)                     | 2016-05-31 | 2023-02-15 | Java        |    26 |
 |   3 | [ACWeChat](https://github.com/acumen1005/ACWeChat)                                 | 2016-05-14 | 2019-03-06 | Objective-C |    14 |
 |   4 | [ACLabelCounting](https://github.com/acumen1005/ACLabelCounting)                   | 2017-02-22 | 2022-03-08 | Swift       |    12 |
@@ -28,29 +28,29 @@
 |  18 | [acumen1005](https://github.com/acumen1005/acumen1005)                             | 2020-07-09 | 2022-05-23 | md          |     0 |
 |  19 | [ACPhotoPickerController](https://github.com/acumen1005/ACPhotoPickerController)   | 2017-03-03 | 2018-04-02 | Swift       |     0 |
 |  20 | [flutter_calendar](https://github.com/acumen1005/flutter_calendar)                 | 2021-01-16 | 2021-01-27 | Dart        |     0 |
-| sum |                                                                                    |            |            |             |    99 |
+| sum |                                                                                    |            |            |             |    98 |
 
 ## The repos I contributed to
 | ID  |                               REPO                                |                              FIRSTDATE                              |                              LASTEDATE                              | LANGUAGE |                                        PRCOUNT                                         |
 |-----|-------------------------------------------------------------------|---------------------------------------------------------------------|---------------------------------------------------------------------|----------|----------------------------------------------------------------------------------------|
 |   1 | [flutter](https://github.com/flutter/flutter)                     | [2023-02-06](https://github.com/flutter/flutter/pull/120081)        | [2023-03-19](https://github.com/flutter/flutter/pull/122973)        | Dart     | [2](https://github.com/flutter/flutter/pulls?q=is%3Apr+author%3Aacumen1005)            |
 |   2 | [WeChatICU-ForMac](https://github.com/MustangYM/WeChatICU-ForMac) | [2021-04-14](https://github.com/MustangYM/WeChatICU-ForMac/pull/32) | [2021-05-07](https://github.com/MustangYM/WeChatICU-ForMac/pull/35) | md       | [2](https://github.com/MustangYM/WeChatICU-ForMac/pulls?q=is%3Apr+author%3Aacumen1005) |
-|   3 | [Aquaman](https://github.com/bawn/Aquaman)                        | [2021-03-10](https://github.com/bawn/Aquaman/pull/7)                | [2021-03-10](https://github.com/bawn/Aquaman/pull/7)                | Swift    | [1](https://github.com/bawn/Aquaman/pulls?q=is%3Apr+author%3Aacumen1005)               |
-|   4 | [zlldb](https://github.com/everettjf/zlldb)                       | [2021-04-25](https://github.com/everettjf/zlldb/pull/3)             | [2021-04-25](https://github.com/everettjf/zlldb/pull/3)             | Python   | [1](https://github.com/everettjf/zlldb/pulls?q=is%3Apr+author%3Aacumen1005)            |
+|   3 | [zlldb](https://github.com/everettjf/zlldb)                       | [2021-04-25](https://github.com/everettjf/zlldb/pull/3)             | [2021-04-25](https://github.com/everettjf/zlldb/pull/3)             | Python   | [1](https://github.com/everettjf/zlldb/pulls?q=is%3Apr+author%3Aacumen1005)            |
+|   4 | [Aquaman](https://github.com/bawn/Aquaman)                        | [2021-03-10](https://github.com/bawn/Aquaman/pull/7)                | [2021-03-10](https://github.com/bawn/Aquaman/pull/7)                | Swift    | [1](https://github.com/bawn/Aquaman/pulls?q=is%3Apr+author%3Aacumen1005)               |
 | sum |                                                                   |                                                                     |                                                                     |          |                                                                                      6 |
 
 ## The repos I stared (random 10)
-| ID |                                             REPO                                             | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|----------------------------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [HGPlaceholders](https://github.com/HamzaGhazouani/HGPlaceholders)                           | 2017-08-14 | Swift      | 2023-04-08   |
-|  2 | [WWDC](https://github.com/insidegui/WWDC)                                                    | 2020-06-03 | Swift      | 2023-04-08   |
-|  3 | [NetNewsWire](https://github.com/Ranchero-Software/NetNewsWire)                              | 2020-11-23 | Swift      | 2023-04-09   |
-|  4 | [cwa-app-ios](https://github.com/corona-warn-app/cwa-app-ios)                                | 2020-06-17 | Swift      | 2023-04-07   |
-|  5 | [The-Economist](https://github.com/nailperry-zd/The-Economist)                               | 2019-07-06 | md         | 2023-04-08   |
-|  6 | [Windless](https://github.com/ParkGwangBeom/Windless)                                        | 2018-12-11 | Swift      | 2023-03-19   |
-|  7 | [gruvbox](https://github.com/morhetz/gruvbox)                                                | 2018-03-15 | Vim script | 2023-04-09   |
-|  8 | [Xcode-iOS-Developer-Disk-Image](https://github.com/xushuduo/Xcode-iOS-Developer-Disk-Image) | 2019-10-31 | md         | 2023-02-24   |
-|  9 | [iOS-Weekly](https://github.com/SwiftOldDriver/iOS-Weekly)                                   | 2018-06-25 | md         | 2023-04-08   |
-| 10 | [CleanArchitectureRxSwift](https://github.com/sergdort/CleanArchitectureRxSwift)             | 2019-07-03 | Swift      | 2023-04-08   |
+| ID |                                                          REPO                                                          | STAREDDATE | LANGUAGE | LATESTUPDATE |
+|----|------------------------------------------------------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [SwiftRichString](https://github.com/malcommac/SwiftRichString)                                                        | 2019-07-08 | Swift    | 2023-04-13   |
+|  2 | [ish](https://github.com/ish-app/ish)                                                                                  | 2019-10-31 | C        | 2023-04-15   |
+|  3 | [FeedKit](https://github.com/nmdias/FeedKit)                                                                           | 2020-06-23 | Swift    | 2023-04-13   |
+|  4 | [app-privacy-policy-generator](https://github.com/nisrulz/app-privacy-policy-generator)                                | 2022-06-13 | Sass     | 2023-04-15   |
+|  5 | [flutter_clock](https://github.com/flutter/flutter_clock)                                                              | 2020-08-26 | Dart     | 2023-04-09   |
+|  6 | [Programmers-Overseas-Job-Interview-Handbook](https://github.com/eliaszon/Programmers-Overseas-Job-Interview-Handbook) | 2023-02-14 | md       | 2023-04-15   |
+|  7 | [ChromaColorPicker](https://github.com/joncardasis/ChromaColorPicker)                                                  | 2022-05-04 | Swift    | 2023-03-23   |
+|  8 | [iOSDeviceSupport](https://github.com/filsv/iOSDeviceSupport)                                                          | 2020-06-01 | md       | 2023-04-16   |
+|  9 | [ACHNBrowserUI](https://github.com/Dimillian/ACHNBrowserUI)                                                            | 2020-06-06 | Swift    | 2023-04-15   |
+| 10 | [phixer](https://github.com/nateemma/phixer)                                                                           | 2020-12-24 | Swift    | 2023-04-06   |
 
 <!--END_SECTION:my_github-->
