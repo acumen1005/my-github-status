@@ -40,17 +40,17 @@
 | sum |                                                                   |                                                                     |                                                                     |          |                                                                                      6 |
 
 ## The repos I stared (random 10)
-| ID |                                                          REPO                                                          | STAREDDATE | LANGUAGE | LATESTUPDATE |
-|----|------------------------------------------------------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [SwiftRichString](https://github.com/malcommac/SwiftRichString)                                                        | 2019-07-08 | Swift    | 2023-04-13   |
-|  2 | [ish](https://github.com/ish-app/ish)                                                                                  | 2019-10-31 | C        | 2023-04-15   |
-|  3 | [FeedKit](https://github.com/nmdias/FeedKit)                                                                           | 2020-06-23 | Swift    | 2023-04-13   |
-|  4 | [app-privacy-policy-generator](https://github.com/nisrulz/app-privacy-policy-generator)                                | 2022-06-13 | Sass     | 2023-04-15   |
-|  5 | [flutter_clock](https://github.com/flutter/flutter_clock)                                                              | 2020-08-26 | Dart     | 2023-04-09   |
-|  6 | [Programmers-Overseas-Job-Interview-Handbook](https://github.com/eliaszon/Programmers-Overseas-Job-Interview-Handbook) | 2023-02-14 | md       | 2023-04-15   |
-|  7 | [ChromaColorPicker](https://github.com/joncardasis/ChromaColorPicker)                                                  | 2022-05-04 | Swift    | 2023-03-23   |
-|  8 | [iOSDeviceSupport](https://github.com/filsv/iOSDeviceSupport)                                                          | 2020-06-01 | md       | 2023-04-16   |
-|  9 | [ACHNBrowserUI](https://github.com/Dimillian/ACHNBrowserUI)                                                            | 2020-06-06 | Swift    | 2023-04-15   |
-| 10 | [phixer](https://github.com/nateemma/phixer)                                                                           | 2020-12-24 | Swift    | 2023-04-06   |
+| ID |                                   REPO                                    | STAREDDATE |  LANGUAGE   | LATESTUPDATE |
+|----|---------------------------------------------------------------------------|------------|-------------|--------------|
+|  1 | [ACWeChat](https://github.com/acumen1005/ACWeChat)                        | 2016-07-28 | Objective-C | 2019-03-06   |
+|  2 | [LxgwWenKai](https://github.com/lxgw/LxgwWenKai)                          | 2021-04-27 | Batchfile   | 2023-04-23   |
+|  3 | [LinearProgressBar](https://github.com/gordoneliel/LinearProgressBar)     | 2021-11-02 | Swift       | 2023-04-21   |
+|  4 | [Hero](https://github.com/HeroTransitions/Hero)                           | 2017-08-15 | Swift       | 2023-04-22   |
+|  5 | [SwiftTUI](https://github.com/rensbreur/SwiftTUI)                         | 2022-08-24 | Swift       | 2023-04-18   |
+|  6 | [NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicApi) | 2018-10-10 | JavaScript  | 2023-04-23   |
+|  7 | [zlldb](https://github.com/everettjf/zlldb)                               | 2020-07-20 | Python      | 2022-12-29   |
+|  8 | [SwiftLint](https://github.com/realm/SwiftLint)                           | 2021-05-02 | Swift       | 2023-04-23   |
+|  9 | [china-indie-podcasts](https://github.com/typlog/china-indie-podcasts)    | 2020-11-04 | Nunjucks    | 2023-04-14   |
+| 10 | [zen](https://github.com/100mango/zen)                                    | 2018-03-29 | Swift       | 2023-04-19   |
 
 <!--END_SECTION:my_github-->
