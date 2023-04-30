@@ -40,17 +40,17 @@
 | sum |                                                                   |                                                                     |                                                                     |          |                                                                                      6 |
 
 ## The repos I stared (random 10)
-| ID |                                   REPO                                    | STAREDDATE |  LANGUAGE   | LATESTUPDATE |
-|----|---------------------------------------------------------------------------|------------|-------------|--------------|
-|  1 | [ACWeChat](https://github.com/acumen1005/ACWeChat)                        | 2016-07-28 | Objective-C | 2019-03-06   |
-|  2 | [LxgwWenKai](https://github.com/lxgw/LxgwWenKai)                          | 2021-04-27 | Batchfile   | 2023-04-23   |
-|  3 | [LinearProgressBar](https://github.com/gordoneliel/LinearProgressBar)     | 2021-11-02 | Swift       | 2023-04-21   |
-|  4 | [Hero](https://github.com/HeroTransitions/Hero)                           | 2017-08-15 | Swift       | 2023-04-22   |
-|  5 | [SwiftTUI](https://github.com/rensbreur/SwiftTUI)                         | 2022-08-24 | Swift       | 2023-04-18   |
-|  6 | [NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicApi) | 2018-10-10 | JavaScript  | 2023-04-23   |
-|  7 | [zlldb](https://github.com/everettjf/zlldb)                               | 2020-07-20 | Python      | 2022-12-29   |
-|  8 | [SwiftLint](https://github.com/realm/SwiftLint)                           | 2021-05-02 | Swift       | 2023-04-23   |
-|  9 | [china-indie-podcasts](https://github.com/typlog/china-indie-podcasts)    | 2020-11-04 | Nunjucks    | 2023-04-14   |
-| 10 | [zen](https://github.com/100mango/zen)                                    | 2018-03-29 | Swift       | 2023-04-19   |
+| ID |                                        REPO                                        | STAREDDATE |   LANGUAGE    | LATESTUPDATE |
+|----|------------------------------------------------------------------------------------|------------|---------------|--------------|
+|  1 | [resource](https://github.com/SHERRYWANNA/resource)                                | 2018-08-24 | JavaScript    | 2020-09-28   |
+|  2 | [youtube-iOS](https://github.com/aslanyanhaik/youtube-iOS)                         | 2017-06-12 | Swift         | 2023-04-25   |
+|  3 | [SocketRocket](https://github.com/facebookincubator/SocketRocket)                  | 2019-08-19 | Objective-C   | 2023-04-28   |
+|  4 | [FBAllocationTracker](https://github.com/facebookarchive/FBAllocationTracker)      | 2017-09-14 | Objective-C++ | 2023-04-25   |
+|  5 | [KMNavigationBarTransition](https://github.com/MoZhouqi/KMNavigationBarTransition) | 2017-09-20 | Objective-C   | 2023-04-28   |
+|  6 | [spruce-ios](https://github.com/willowtreeapps/spruce-ios)                         | 2017-03-21 | Swift         | 2023-04-18   |
+|  7 | [MusadoraKit](https://github.com/rryam/MusadoraKit)                                | 2023-04-15 | Swift         | 2023-04-28   |
+|  8 | [v2ex-gae](https://github.com/livid/v2ex-gae)                                      | 2017-03-22 | Python        | 2023-04-29   |
+|  9 | [flat-terminal](https://github.com/ahmetsulek/flat-terminal)                       | 2017-07-04 | md            | 2023-03-31   |
+| 10 | [LeetCode-Swift](https://github.com/soapyigu/LeetCode-Swift)                       | 2021-05-27 | Swift         | 2023-04-30   |
 
 <!--END_SECTION:my_github-->
