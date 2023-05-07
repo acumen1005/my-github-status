@@ -40,17 +40,17 @@
 | sum |                                                                   |                                                                     |                                                                     |          |                                                                                      6 |
 
 ## The repos I stared (random 10)
-| ID |                                        REPO                                        | STAREDDATE |   LANGUAGE    | LATESTUPDATE |
-|----|------------------------------------------------------------------------------------|------------|---------------|--------------|
-|  1 | [resource](https://github.com/SHERRYWANNA/resource)                                | 2018-08-24 | JavaScript    | 2020-09-28   |
-|  2 | [youtube-iOS](https://github.com/aslanyanhaik/youtube-iOS)                         | 2017-06-12 | Swift         | 2023-04-25   |
-|  3 | [SocketRocket](https://github.com/facebookincubator/SocketRocket)                  | 2019-08-19 | Objective-C   | 2023-04-28   |
-|  4 | [FBAllocationTracker](https://github.com/facebookarchive/FBAllocationTracker)      | 2017-09-14 | Objective-C++ | 2023-04-25   |
-|  5 | [KMNavigationBarTransition](https://github.com/MoZhouqi/KMNavigationBarTransition) | 2017-09-20 | Objective-C   | 2023-04-28   |
-|  6 | [spruce-ios](https://github.com/willowtreeapps/spruce-ios)                         | 2017-03-21 | Swift         | 2023-04-18   |
-|  7 | [MusadoraKit](https://github.com/rryam/MusadoraKit)                                | 2023-04-15 | Swift         | 2023-04-28   |
-|  8 | [v2ex-gae](https://github.com/livid/v2ex-gae)                                      | 2017-03-22 | Python        | 2023-04-29   |
-|  9 | [flat-terminal](https://github.com/ahmetsulek/flat-terminal)                       | 2017-07-04 | md            | 2023-03-31   |
-| 10 | [LeetCode-Swift](https://github.com/soapyigu/LeetCode-Swift)                       | 2021-05-27 | Swift         | 2023-04-30   |
+| ID |                                          REPO                                          | STAREDDATE |  LANGUAGE  | LATESTUPDATE |
+|----|----------------------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [resource](https://github.com/SHERRYWANNA/resource)                                    | 2018-08-24 | JavaScript | 2020-09-28   |
+|  2 | [ml-stable-diffusion](https://github.com/apple/ml-stable-diffusion)                    | 2023-04-02 | Python     | 2023-05-07   |
+|  3 | [power_image](https://github.com/alibaba/power_image)                                  | 2022-05-18 | Dart       | 2023-05-06   |
+|  4 | [WeChatICU-ForMac](https://github.com/MustangYM/WeChatICU-ForMac)                      | 2021-05-07 | md         | 2023-05-03   |
+|  5 | [AltStore](https://github.com/altstoreio/AltStore)                                     | 2020-04-24 | Swift      | 2023-05-06   |
+|  6 | [socket.io](https://github.com/socketio/socket.io)                                     | 2017-08-24 | TypeScript | 2023-05-06   |
+|  7 | [LxgwWenKai](https://github.com/lxgw/LxgwWenKai)                                       | 2021-04-27 | Batchfile  | 2023-05-07   |
+|  8 | [bob-plugin-openai-translator](https://github.com/yetone/bob-plugin-openai-translator) | 2023-03-01 | JavaScript | 2023-05-06   |
+|  9 | [Papr](https://github.com/jdisho/Papr)                                                 | 2018-03-26 | Swift      | 2023-04-23   |
+| 10 | [Learning-SICP](https://github.com/DeathKing/Learning-SICP)                            | 2018-11-07 | Ruby       | 2023-05-06   |
 
 <!--END_SECTION:my_github-->
