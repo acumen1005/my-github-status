@@ -41,17 +41,17 @@
 | sum |                                                                   |                                                                     |                                                                     |          |                                                                                      6 |
 
 ## The repos I stared (random 10)
-| ID |                                    REPO                                     | STAREDDATE |  LANGUAGE   | LATESTUPDATE |
-|----|-----------------------------------------------------------------------------|------------|-------------|--------------|
-|  1 | [firefox-ios](https://github.com/mozilla-mobile/firefox-ios)                | 2019-06-27 | Swift       | 2023-05-20   |
-|  2 | [iOS-UIFont-Names](https://github.com/lionhylra/iOS-UIFont-Names)           | 2021-05-27 | Swift       | 2023-05-19   |
-|  3 | [system-design-primer](https://github.com/donnemartin/system-design-primer) | 2019-05-08 | Python      | 2023-05-21   |
-|  4 | [RealityKitLaunchScreen](https://github.com/aheze/RealityKitLaunchScreen)   | 2022-05-13 | Swift       | 2023-05-12   |
-|  5 | [AppCrawler](https://github.com/seveniruby/AppCrawler)                      | 2020-04-16 | Scala       | 2023-05-09   |
-|  6 | [N-blog](https://github.com/nswbmw/N-blog)                                  | 2017-09-08 | JavaScript  | 2023-05-20   |
-|  7 | [Quick](https://github.com/Quick/Quick)                                     | 2018-07-16 | Swift       | 2023-05-20   |
-|  8 | [huxpro.github.io](https://github.com/Huxpro/huxpro.github.io)              | 2017-02-13 | HTML        | 2023-05-20   |
-|  9 | [LDRefresh](https://github.com/SNTD/LDRefresh)                              | 2018-04-17 | Objective-C | 2023-03-05   |
-| 10 | [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy)                         | 2023-04-25 | Rust        | 2023-05-21   |
+| ID |                                               REPO                                               | STAREDDATE |  LANGUAGE  | LATESTUPDATE |
+|----|--------------------------------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [SwiftUI-CardStackView](https://github.com/dadalar/SwiftUI-CardStackView)                        | 2020-12-27 | Swift      | 2023-05-21   |
+|  2 | [iOSDeviceSupport](https://github.com/filsv/iOSDeviceSupport)                                    | 2020-06-01 | md         | 2023-05-22   |
+|  3 | [CKWaveCollectionViewTransition](https://github.com/CezaryKopacz/CKWaveCollectionViewTransition) | 2017-09-28 | Swift      | 2023-05-11   |
+|  4 | [awesome-swift](https://github.com/matteocrippa/awesome-swift)                                   | 2016-12-28 | Ruby       | 2023-05-22   |
+|  5 | [iOSInterviewQuestions](https://github.com/ChenYilong/iOSInterviewQuestions)                     | 2016-05-23 | C++        | 2023-05-23   |
+|  6 | [vscode-rainbow-fart](https://github.com/SaekiRaku/vscode-rainbow-fart)                          | 2020-06-22 | JavaScript | 2023-05-22   |
+|  7 | [HidingNavigationBar](https://github.com/tristanhimmelman/HidingNavigationBar)                   | 2017-11-15 | Swift      | 2023-05-20   |
+|  8 | [IceCream](https://github.com/caiyue1993/IceCream)                                               | 2022-04-26 | Swift      | 2023-05-17   |
+|  9 | [qqbot](https://github.com/pandolia/qqbot)                                                       | 2016-12-07 | Python     | 2023-05-23   |
+| 10 | [XXPerformanceMonitor](https://github.com/HJTXX/XXPerformanceMonitor)                            | 2020-08-03 | Swift      | 2023-02-07   |
 
 <!--END_SECTION:my_github-->
