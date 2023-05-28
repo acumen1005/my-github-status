@@ -41,17 +41,17 @@
 | sum |                                                                   |                                                                     |                                                                     |          |                                                                                      6 |
 
 ## The repos I stared (random 10)
-| ID |                                               REPO                                               | STAREDDATE |  LANGUAGE  | LATESTUPDATE |
-|----|--------------------------------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [SwiftUI-CardStackView](https://github.com/dadalar/SwiftUI-CardStackView)                        | 2020-12-27 | Swift      | 2023-05-21   |
-|  2 | [iOSDeviceSupport](https://github.com/filsv/iOSDeviceSupport)                                    | 2020-06-01 | md         | 2023-05-22   |
-|  3 | [CKWaveCollectionViewTransition](https://github.com/CezaryKopacz/CKWaveCollectionViewTransition) | 2017-09-28 | Swift      | 2023-05-11   |
-|  4 | [awesome-swift](https://github.com/matteocrippa/awesome-swift)                                   | 2016-12-28 | Ruby       | 2023-05-22   |
-|  5 | [iOSInterviewQuestions](https://github.com/ChenYilong/iOSInterviewQuestions)                     | 2016-05-23 | C++        | 2023-05-23   |
-|  6 | [vscode-rainbow-fart](https://github.com/SaekiRaku/vscode-rainbow-fart)                          | 2020-06-22 | JavaScript | 2023-05-22   |
-|  7 | [HidingNavigationBar](https://github.com/tristanhimmelman/HidingNavigationBar)                   | 2017-11-15 | Swift      | 2023-05-20   |
-|  8 | [IceCream](https://github.com/caiyue1993/IceCream)                                               | 2022-04-26 | Swift      | 2023-05-17   |
-|  9 | [qqbot](https://github.com/pandolia/qqbot)                                                       | 2016-12-07 | Python     | 2023-05-23   |
-| 10 | [XXPerformanceMonitor](https://github.com/HJTXX/XXPerformanceMonitor)                            | 2020-08-03 | Swift      | 2023-02-07   |
+| ID |                                    REPO                                    | STAREDDATE | LANGUAGE | LATESTUPDATE |
+|----|----------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [remote-jobs-in-china](https://github.com/LinuxSuRen/remote-jobs-in-china) | 2023-05-11 | md       | 2023-05-26   |
+|  2 | [Joy-Blog](https://github.com/joy0304/Joy-Blog)                            | 2020-05-25 | md       | 2022-11-29   |
+|  3 | [github-readme-stats](https://github.com/yihong0618/github-readme-stats)   | 2021-04-11 | Go       | 2023-05-22   |
+|  4 | [SwiftTUI](https://github.com/rensbreur/SwiftTUI)                          | 2022-08-24 | Swift    | 2023-05-25   |
+|  5 | [forever-coolshell](https://github.com/soulteary/forever-coolshell)        | 2023-05-17 | HTML     | 2023-05-27   |
+|  6 | [tomorrow-theme](https://github.com/chriskempson/tomorrow-theme)           | 2016-12-06 | CSS      | 2023-05-27   |
+|  7 | [zen](https://github.com/100mango/zen)                                     | 2018-03-29 | Swift    | 2023-05-27   |
+|  8 | [spruce-ios](https://github.com/willowtreeapps/spruce-ios)                 | 2017-03-21 | Swift    | 2023-05-20   |
+|  9 | [scrapy-examples](https://github.com/geekan/scrapy-examples)               | 2017-03-21 | Python   | 2023-05-26   |
+| 10 | [deno](https://github.com/denoland/deno)                                   | 2020-05-14 | Rust     | 2023-05-28   |
 
 <!--END_SECTION:my_github-->
