@@ -41,17 +41,17 @@
 | sum |                                                                   |                                                                     |                                                                     |          |                                                                                      6 |
 
 ## The repos I stared (random 10)
-| ID |                                        REPO                                        | STAREDDATE |  LANGUAGE   | LATESTUPDATE |
-|----|------------------------------------------------------------------------------------|------------|-------------|--------------|
-|  1 | [Joy-Blog](https://github.com/joy0304/Joy-Blog)                                    | 2020-05-25 | md          | 2023-06-14   |
-|  2 | [gruvbox](https://github.com/morhetz/gruvbox)                                      | 2018-03-15 | Vim script  | 2023-06-17   |
-|  3 | [iOS-DeviceSupport](https://github.com/iGhibli/iOS-DeviceSupport)                  | 2022-02-28 | Python      | 2023-06-18   |
-|  4 | [iWeChat](https://github.com/lefex/iWeChat)                                        | 2019-11-20 | Objective-C | 2023-06-14   |
-|  5 | [mobilists](https://github.com/eleme/mobilists)                                    | 2017-09-14 | JavaScript  | 2023-04-12   |
-|  6 | [Hero](https://github.com/HeroTransitions/Hero)                                    | 2017-08-15 | Swift       | 2023-06-17   |
-|  7 | [clean-architecture-swiftui](https://github.com/nalexn/clean-architecture-swiftui) | 2020-06-30 | Swift       | 2023-06-17   |
-|  8 | [TZImagePickerController](https://github.com/banchichen/TZImagePickerController)   | 2018-02-24 | Objective-C | 2023-06-12   |
-|  9 | [iOSDataFactory](https://github.com/ifgyong/iOSDataFactory)                        | 2019-12-02 | md          | 2023-06-06   |
-| 10 | [FluentDarkModeKit](https://github.com/microsoft/FluentDarkModeKit)                | 2022-06-12 | Swift       | 2023-06-15   |
+| ID |                                          REPO                                           | STAREDDATE |  LANGUAGE  | LATESTUPDATE |
+|----|-----------------------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [flat-terminal](https://github.com/ahmetsulek/flat-terminal)                            | 2017-07-04 | md         | 2023-06-11   |
+|  2 | [Fluid_DynamicIsland](https://github.com/pratikg29/Fluid_DynamicIsland)                 | 2023-05-29 | Swift      | 2023-06-21   |
+|  3 | [AppCrawler](https://github.com/seveniruby/AppCrawler)                                  | 2020-04-16 | Scala      | 2023-06-18   |
+|  4 | [English-level-up-tips](https://github.com/byoungd/English-level-up-tips)               | 2017-12-26 | md         | 2023-06-22   |
+|  5 | [ish](https://github.com/ish-app/ish)                                                   | 2019-10-31 | C          | 2023-06-22   |
+|  6 | [deepClone](https://github.com/QiandaoLakeYY/deepClone)                                 | 2018-04-12 | JavaScript | 2018-04-18   |
+|  7 | [app-privacy-policy-generator](https://github.com/nisrulz/app-privacy-policy-generator) | 2022-06-13 | Sass       | 2023-06-22   |
+|  8 | [note](https://github.com/SHERRYWANNA/note)                                             | 2019-06-14 | md         | 2019-06-14   |
+|  9 | [Swift-Daily-Tips](https://github.com/emreozdil/Swift-Daily-Tips)                       | 2018-11-21 | Swift      | 2023-06-12   |
+| 10 | [SwiftUI-Code-Examples](https://github.com/NilCoalescing/SwiftUI-Code-Examples)         | 2023-04-10 | Swift      | 2023-06-15   |
 
 <!--END_SECTION:my_github-->
