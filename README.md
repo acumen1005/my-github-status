@@ -36,22 +36,22 @@
 |-----|-------------------------------------------------------------------|---------------------------------------------------------------------|---------------------------------------------------------------------|----------|----------------------------------------------------------------------------------------|
 |   1 | [flutter](https://github.com/flutter/flutter)                     | [2023-02-06](https://github.com/flutter/flutter/pull/120081)        | [2023-03-19](https://github.com/flutter/flutter/pull/122973)        | Dart     | [2](https://github.com/flutter/flutter/pulls?q=is%3Apr+author%3Aacumen1005)            |
 |   2 | [WeChatICU-ForMac](https://github.com/MustangYM/WeChatICU-ForMac) | [2021-04-14](https://github.com/MustangYM/WeChatICU-ForMac/pull/32) | [2021-05-07](https://github.com/MustangYM/WeChatICU-ForMac/pull/35) | md       | [2](https://github.com/MustangYM/WeChatICU-ForMac/pulls?q=is%3Apr+author%3Aacumen1005) |
-|   3 | [Aquaman](https://github.com/bawn/Aquaman)                        | [2021-03-10](https://github.com/bawn/Aquaman/pull/7)                | [2021-03-10](https://github.com/bawn/Aquaman/pull/7)                | Swift    | [1](https://github.com/bawn/Aquaman/pulls?q=is%3Apr+author%3Aacumen1005)               |
-|   4 | [zlldb](https://github.com/everettjf/zlldb)                       | [2021-04-25](https://github.com/everettjf/zlldb/pull/3)             | [2021-04-25](https://github.com/everettjf/zlldb/pull/3)             | Python   | [1](https://github.com/everettjf/zlldb/pulls?q=is%3Apr+author%3Aacumen1005)            |
+|   3 | [zlldb](https://github.com/everettjf/zlldb)                       | [2021-04-25](https://github.com/everettjf/zlldb/pull/3)             | [2021-04-25](https://github.com/everettjf/zlldb/pull/3)             | Python   | [1](https://github.com/everettjf/zlldb/pulls?q=is%3Apr+author%3Aacumen1005)            |
+|   4 | [Aquaman](https://github.com/bawn/Aquaman)                        | [2021-03-10](https://github.com/bawn/Aquaman/pull/7)                | [2021-03-10](https://github.com/bawn/Aquaman/pull/7)                | Swift    | [1](https://github.com/bawn/Aquaman/pulls?q=is%3Apr+author%3Aacumen1005)               |
 | sum |                                                                   |                                                                     |                                                                     |          |                                                                                      6 |
 
 ## The repos I stared (random 10)
-| ID |                                             REPO                                              | STAREDDATE |  LANGUAGE   | LATESTUPDATE |
-|----|-----------------------------------------------------------------------------------------------|------------|-------------|--------------|
-|  1 | [JASONETTE-iOS](https://github.com/Jasonette/JASONETTE-iOS)                                   | 2017-02-16 | JavaScript  | 2023-06-23   |
-|  2 | [UIComponent](https://github.com/lkzhao/UIComponent)                                          | 2021-11-11 | Swift       | 2023-06-21   |
-|  3 | [SkeletonView](https://github.com/Juanpe/SkeletonView)                                        | 2018-12-11 | Swift       | 2023-06-24   |
-|  4 | [study](https://github.com/ming1016/study)                                                    | 2020-04-24 | C           | 2023-06-16   |
-|  5 | [BulletinBoard](https://github.com/alexisakers/BulletinBoard)                                 | 2018-12-19 | Swift       | 2023-06-20   |
-|  6 | [XcodeCleaner](https://github.com/waylybaye/XcodeCleaner)                                     | 2017-10-17 | Objective-C | 2023-06-17   |
-|  7 | [lizhi](https://github.com/turkyden/lizhi)                                                    | 2022-10-19 | TypeScript  | 2023-06-20   |
-|  8 | [flat-terminal](https://github.com/ahmetsulek/flat-terminal)                                  | 2017-07-04 | md          | 2023-06-11   |
-|  9 | [JXCategoryView](https://github.com/pujiaxin33/JXCategoryView)                                | 2018-09-13 | Objective-C | 2023-06-21   |
-| 10 | [chinese-copywriting-guidelines](https://github.com/sparanoid/chinese-copywriting-guidelines) | 2020-06-29 | md          | 2023-06-24   |
+| ID |                                      REPO                                      | STAREDDATE |  LANGUAGE   | LATESTUPDATE |
+|----|--------------------------------------------------------------------------------|------------|-------------|--------------|
+|  1 | [TodoList](https://github.com/Kewowlo/TodoList)                                | 2018-05-11 | Python      | 2018-05-14   |
+|  2 | [scrapy-examples](https://github.com/geekan/scrapy-examples)                   | 2017-03-21 | Python      | 2023-06-30   |
+|  3 | [flat-terminal](https://github.com/ahmetsulek/flat-terminal)                   | 2017-07-04 | md          | 2023-06-29   |
+|  4 | [Learning-SICP](https://github.com/DeathKing/Learning-SICP)                    | 2018-11-07 | Ruby        | 2023-07-01   |
+|  5 | [BouncyLayout](https://github.com/roberthein/BouncyLayout)                     | 2017-09-08 | Swift       | 2023-06-27   |
+|  6 | [WRNavigationBar](https://github.com/wangrui460/WRNavigationBar)               | 2017-07-12 | Objective-C | 2023-06-14   |
+|  7 | [marktext](https://github.com/marktext/marktext)                               | 2018-04-17 | JavaScript  | 2023-07-01   |
+|  8 | [Fluid_DynamicIsland](https://github.com/pratikg29/Fluid_DynamicIsland)        | 2023-05-29 | Swift       | 2023-06-27   |
+|  9 | [ElegantTimeline-SwiftUI](https://github.com/ThasianX/ElegantTimeline-SwiftUI) | 2020-07-18 | Swift       | 2023-07-02   |
+| 10 | [Bagel](https://github.com/yagiz/Bagel)                                        | 2021-04-15 | Swift       | 2023-06-29   |
 
 <!--END_SECTION:my_github-->
