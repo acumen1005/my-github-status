@@ -41,17 +41,17 @@
 | sum |                                                                   |                                                                     |                                                                     |          |                                                                                      6 |
 
 ## The repos I stared (random 10)
-| ID |                                                       REPO                                                       | STAREDDATE |  LANGUAGE   | LATESTUPDATE |
-|----|------------------------------------------------------------------------------------------------------------------|------------|-------------|--------------|
-|  1 | [react-countup](https://github.com/glennreyes/react-countup)                                                     | 2021-03-17 | JavaScript  | 2023-07-05   |
-|  2 | [zoo](https://github.com/zoo-js/zoo)                                                                             | 2020-12-02 | JavaScript  | 2023-06-28   |
-|  3 | [ml-stable-diffusion](https://github.com/apple/ml-stable-diffusion)                                              | 2023-04-02 | Python      | 2023-07-09   |
-|  4 | [WebViewJavascriptBridge](https://github.com/marcuswestin/WebViewJavascriptBridge)                               | 2016-12-14 | Objective-C | 2023-07-07   |
-|  5 | [swift-algorithm-club](https://github.com/kodecocodes/swift-algorithm-club)                                      | 2017-11-27 | Swift       | 2023-07-08   |
-|  6 | [HGPlaceholders](https://github.com/HamzaGhazouani/HGPlaceholders)                                               | 2017-08-14 | Swift       | 2023-07-05   |
-|  7 | [IBPCollectionViewCompositionalLayout](https://github.com/kishikawakatsumi/IBPCollectionViewCompositionalLayout) | 2021-05-18 | Swift       | 2023-07-07   |
-|  8 | [MockingBird](https://github.com/babysor/MockingBird)                                                            | 2021-11-11 | Python      | 2023-07-08   |
-|  9 | [gold-miner](https://github.com/xitu/gold-miner)                                                                 | 2016-12-08 | md          | 2023-07-08   |
-| 10 | [flutter-go](https://github.com/alibaba/flutter-go)                                                              | 2019-04-29 | Dart        | 2023-07-08   |
+| ID |                                                    REPO                                                     | STAREDDATE |  LANGUAGE   | LATESTUPDATE |
+|----|-------------------------------------------------------------------------------------------------------------|------------|-------------|--------------|
+|  1 | [chinese-programmer-wrong-pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation) | 2020-08-19 | JavaScript  | 2023-07-15   |
+|  2 | [ControlNet](https://github.com/lllyasviel/ControlNet)                                                      | 2023-03-26 | Python      | 2023-07-15   |
+|  3 | [MVVMReactiveCocoaDemo](https://github.com/wujunyang/MVVMReactiveCocoaDemo)                                 | 2020-04-30 | Objective-C | 2023-04-09   |
+|  4 | [wwdc2016](https://github.com/jianpx/wwdc2016)                                                              | 2016-12-07 | md          | 2023-07-04   |
+|  5 | [Xcode_Developer_Disk_Images](https://github.com/mspvirajpatel/Xcode_Developer_Disk_Images)                 | 2023-02-22 | md          | 2023-07-11   |
+|  6 | [NSURLProtocol-WebKitSupport](https://github.com/yeatse/NSURLProtocol-WebKitSupport)                        | 2017-11-21 | Objective-C | 2023-06-12   |
+|  7 | [swift-best-practices](https://github.com/Lickability/swift-best-practices)                                 | 2019-08-03 | md          | 2023-07-07   |
+|  8 | [xcinfo](https://github.com/xcodereleases/xcinfo)                                                           | 2020-12-24 | Swift       | 2023-07-14   |
+|  9 | [next-startd](https://github.com/jkytoela/next-startd)                                                      | 2022-06-13 | TypeScript  | 2023-07-15   |
+| 10 | [DispatchQueueTest](https://github.com/pmtao/DispatchQueueTest)                                             | 2021-01-23 | Swift       | 2022-09-23   |
 
 <!--END_SECTION:my_github-->
