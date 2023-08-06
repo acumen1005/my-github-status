@@ -41,17 +41,17 @@
 | sum |                                                                   |                                                                     |                                                                     |          |                                                                                      6 |
 
 ## The repos I stared (random 10)
-| ID |                                                    REPO                                                     | STAREDDATE |  LANGUAGE   | LATESTUPDATE |
-|----|-------------------------------------------------------------------------------------------------------------|------------|-------------|--------------|
-|  1 | [iOSDataFactory](https://github.com/ifgyong/iOSDataFactory)                                                 | 2019-12-02 | md          | 2023-07-28   |
-|  2 | [SwiftRichString](https://github.com/malcommac/SwiftRichString)                                             | 2019-07-08 | Swift       | 2023-07-28   |
-|  3 | [most-frequent-technology-english-words](https://github.com/Wei-Xia/most-frequent-technology-english-words) | 2019-06-23 | CSS         | 2023-07-28   |
-|  4 | [IceCream](https://github.com/caiyue1993/IceCream)                                                          | 2022-04-26 | Swift       | 2023-07-26   |
-|  5 | [Monkey](https://github.com/coderyi/Monkey)                                                                 | 2017-02-14 | Objective-C | 2023-07-18   |
-|  6 | [MockingBird](https://github.com/babysor/MockingBird)                                                       | 2021-11-11 | Python      | 2023-07-29   |
-|  7 | [myscript](https://github.com/Kewowlo/myscript)                                                             | 2020-08-20 | Python      | 2020-08-20   |
-|  8 | [vscode-rainbow-fart](https://github.com/SaekiRaku/vscode-rainbow-fart)                                     | 2020-06-22 | JavaScript  | 2023-07-28   |
-|  9 | [vscode-leetcode](https://github.com/LeetCode-OpenSource/vscode-leetcode)                                   | 2019-03-21 | TypeScript  | 2023-07-29   |
-| 10 | [iOSDeviceSupport](https://github.com/filsv/iOSDeviceSupport)                                               | 2020-06-01 | md          | 2023-07-28   |
+| ID |                                                REPO                                                | STAREDDATE |  LANGUAGE  | LATESTUPDATE |
+|----|----------------------------------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [swift-collections-benchmark](https://github.com/apple/swift-collections-benchmark)                | 2021-04-06 | Swift      | 2023-08-04   |
+|  2 | [The-Lost-Art-of-C-Structure-Packing](https://github.com/ludx/The-Lost-Art-of-C-Structure-Packing) | 2017-09-19 | md         | 2023-06-13   |
+|  3 | [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)                          | 2020-07-30 | JavaScript | 2023-08-06   |
+|  4 | [SwiftTips](https://github.com/JohnSundell/SwiftTips)                                              | 2018-05-17 | md         | 2023-08-02   |
+|  5 | [spruce-ios](https://github.com/willowtreeapps/spruce-ios)                                         | 2017-03-21 | Swift      | 2023-08-05   |
+|  6 | [Windless](https://github.com/ParkGwangBeom/Windless)                                              | 2018-12-11 | Swift      | 2023-07-17   |
+|  7 | [forever-coolshell](https://github.com/soulteary/forever-coolshell)                                | 2023-05-17 | HTML       | 2023-08-05   |
+|  8 | [CloudKitCKAssetSample](https://github.com/naosekig/CloudKitCKAssetSample)                         | 2022-06-26 | Swift      | 2022-06-26   |
+|  9 | [Motion-Design-for-iOS](https://github.com/Cloudox/Motion-Design-for-iOS)                          | 2016-10-12 | md         | 2023-05-17   |
+| 10 | [NetNewsWire](https://github.com/Ranchero-Software/NetNewsWire)                                    | 2020-11-23 | Swift      | 2023-08-05   |
 
 <!--END_SECTION:my_github-->
