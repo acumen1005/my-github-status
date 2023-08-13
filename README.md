@@ -41,17 +41,17 @@
 | sum |                                                                   |                                                                     |                                                                     |          |                                                                                      6 |
 
 ## The repos I stared (random 10)
-| ID |                                                REPO                                                | STAREDDATE |  LANGUAGE  | LATESTUPDATE |
-|----|----------------------------------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [swift-collections-benchmark](https://github.com/apple/swift-collections-benchmark)                | 2021-04-06 | Swift      | 2023-08-04   |
-|  2 | [The-Lost-Art-of-C-Structure-Packing](https://github.com/ludx/The-Lost-Art-of-C-Structure-Packing) | 2017-09-19 | md         | 2023-06-13   |
-|  3 | [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)                          | 2020-07-30 | JavaScript | 2023-08-06   |
-|  4 | [SwiftTips](https://github.com/JohnSundell/SwiftTips)                                              | 2018-05-17 | md         | 2023-08-02   |
-|  5 | [spruce-ios](https://github.com/willowtreeapps/spruce-ios)                                         | 2017-03-21 | Swift      | 2023-08-05   |
-|  6 | [Windless](https://github.com/ParkGwangBeom/Windless)                                              | 2018-12-11 | Swift      | 2023-07-17   |
-|  7 | [forever-coolshell](https://github.com/soulteary/forever-coolshell)                                | 2023-05-17 | HTML       | 2023-08-05   |
-|  8 | [CloudKitCKAssetSample](https://github.com/naosekig/CloudKitCKAssetSample)                         | 2022-06-26 | Swift      | 2022-06-26   |
-|  9 | [Motion-Design-for-iOS](https://github.com/Cloudox/Motion-Design-for-iOS)                          | 2016-10-12 | md         | 2023-05-17   |
-| 10 | [NetNewsWire](https://github.com/Ranchero-Software/NetNewsWire)                                    | 2020-11-23 | Swift      | 2023-08-05   |
+| ID |                                               REPO                                                | STAREDDATE |  LANGUAGE   | LATESTUPDATE |
+|----|---------------------------------------------------------------------------------------------------|------------|-------------|--------------|
+|  1 | [tomorrow-theme](https://github.com/chriskempson/tomorrow-theme)                                  | 2016-12-06 | CSS         | 2023-08-11   |
+|  2 | [hello](https://github.com/nat/hello)                                                             | 2018-10-29 | HTML        | 2023-03-04   |
+|  3 | [WeeklySwift](https://github.com/bestswifter/WeeklySwift)                                         | 2016-10-19 | md          | 2022-06-10   |
+|  4 | [chinese-dos-games](https://github.com/rwv/chinese-dos-games)                                     | 2018-09-19 | Python      | 2023-08-11   |
+|  5 | [jshistory-cn](https://github.com/doodlewind/jshistory-cn)                                        | 2020-09-30 | TypeScript  | 2023-08-07   |
+|  6 | [YoCelsius](https://github.com/YouXianMing/YoCelsius)                                             | 2017-02-09 | Objective-C | 2023-08-09   |
+|  7 | [FastOCR](https://github.com/BruceZhang1993/FastOCR)                                              | 2022-04-14 | Python      | 2023-07-31   |
+|  8 | [merchantkit](https://github.com/benjaminmayo/merchantkit)                                        | 2018-04-08 | Swift       | 2023-08-03   |
+|  9 | [30DaysofSwift](https://github.com/allenwong/30DaysofSwift)                                       | 2017-06-05 | Swift       | 2023-08-12   |
+| 10 | [CHTCollectionViewWaterfallLayout](https://github.com/chiahsien/CHTCollectionViewWaterfallLayout) | 2020-08-28 | Objective-C | 2023-08-08   |
 
 <!--END_SECTION:my_github-->
