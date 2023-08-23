@@ -41,17 +41,17 @@
 | sum |                                                                   |                                                                     |                                                                     |          |                                                                                      6 |
 
 ## The repos I stared (random 10)
-| ID |                                             REPO                                              | STAREDDATE |  LANGUAGE   | LATESTUPDATE |
-|----|-----------------------------------------------------------------------------------------------|------------|-------------|--------------|
-|  1 | [folding-cell](https://github.com/Ramotion/folding-cell)                                      | 2021-12-02 | Swift       | 2023-08-18   |
-|  2 | [chinese-copywriting-guidelines](https://github.com/sparanoid/chinese-copywriting-guidelines) | 2020-06-29 | md          | 2023-08-19   |
-|  3 | [ControlNet](https://github.com/lllyasviel/ControlNet)                                        | 2023-03-26 | Python      | 2023-08-20   |
-|  4 | [SourceKitten](https://github.com/jpsim/SourceKitten)                                         | 2021-05-03 | Swift       | 2023-08-15   |
-|  5 | [Popovers](https://github.com/aheze/Popovers)                                                 | 2022-05-13 | Swift       | 2023-08-18   |
-|  6 | [TZImagePickerController](https://github.com/banchichen/TZImagePickerController)              | 2018-02-24 | Objective-C | 2023-08-16   |
-|  7 | [SwiftGuide](https://github.com/ipader/SwiftGuide)                                            | 2019-01-18 | Swift       | 2023-08-19   |
-|  8 | [Design-Patterns-In-Swift](https://github.com/ochococo/Design-Patterns-In-Swift)              | 2017-07-07 | Swift       | 2023-08-19   |
-|  9 | [GitHubPoster](https://github.com/yihong0618/GitHubPoster)                                    | 2021-05-10 | Python      | 2023-08-17   |
-| 10 | [Quick](https://github.com/Quick/Quick)                                                       | 2018-07-16 | Swift       | 2023-08-18   |
+| ID |                                        REPO                                        | STAREDDATE |  LANGUAGE   | LATESTUPDATE |
+|----|------------------------------------------------------------------------------------|------------|-------------|--------------|
+|  1 | [src](https://github.com/chenhuaizhe/src)                                          | 2019-07-30 | Swift       | 2022-09-12   |
+|  2 | [WebViewJavascriptBridge](https://github.com/marcuswestin/WebViewJavascriptBridge) | 2016-12-14 | Objective-C | 2023-08-21   |
+|  3 | [mbox](https://github.com/MBoxPlus/mbox)                                           | 2022-05-16 | Ruby        | 2023-08-22   |
+|  4 | [TYCyclePagerView](https://github.com/12207480/TYCyclePagerView)                   | 2017-07-27 | Objective-C | 2023-08-22   |
+|  5 | [open-swiftui-animations](https://github.com/amosgyamfi/open-swiftui-animations)   | 2021-05-02 | md          | 2023-08-22   |
+|  6 | [WRNavigationBar](https://github.com/wangrui460/WRNavigationBar)                   | 2017-07-12 | Objective-C | 2023-08-18   |
+|  7 | [clean-architecture-swiftui](https://github.com/nalexn/clean-architecture-swiftui) | 2020-06-30 | Swift       | 2023-08-22   |
+|  8 | [iOS11](https://github.com/2877025939/iOS11)                                       | 2017-09-28 | md          | 2023-03-19   |
+|  9 | [MusadoraKit](https://github.com/rryam/MusadoraKit)                                | 2023-04-15 | Swift       | 2023-08-15   |
+| 10 | [iOS-UIFont-Names](https://github.com/lionhylra/iOS-UIFont-Names)                  | 2021-05-27 | Swift       | 2023-07-17   |
 
 <!--END_SECTION:my_github-->
