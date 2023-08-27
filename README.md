@@ -41,17 +41,17 @@
 | sum |                                                                   |                                                                     |                                                                     |          |                                                                                      6 |
 
 ## The repos I stared (random 10)
-| ID |                                        REPO                                        | STAREDDATE |  LANGUAGE   | LATESTUPDATE |
-|----|------------------------------------------------------------------------------------|------------|-------------|--------------|
-|  1 | [src](https://github.com/chenhuaizhe/src)                                          | 2019-07-30 | Swift       | 2022-09-12   |
-|  2 | [WebViewJavascriptBridge](https://github.com/marcuswestin/WebViewJavascriptBridge) | 2016-12-14 | Objective-C | 2023-08-21   |
-|  3 | [mbox](https://github.com/MBoxPlus/mbox)                                           | 2022-05-16 | Ruby        | 2023-08-22   |
-|  4 | [TYCyclePagerView](https://github.com/12207480/TYCyclePagerView)                   | 2017-07-27 | Objective-C | 2023-08-22   |
-|  5 | [open-swiftui-animations](https://github.com/amosgyamfi/open-swiftui-animations)   | 2021-05-02 | md          | 2023-08-22   |
-|  6 | [WRNavigationBar](https://github.com/wangrui460/WRNavigationBar)                   | 2017-07-12 | Objective-C | 2023-08-18   |
-|  7 | [clean-architecture-swiftui](https://github.com/nalexn/clean-architecture-swiftui) | 2020-06-30 | Swift       | 2023-08-22   |
-|  8 | [iOS11](https://github.com/2877025939/iOS11)                                       | 2017-09-28 | md          | 2023-03-19   |
-|  9 | [MusadoraKit](https://github.com/rryam/MusadoraKit)                                | 2023-04-15 | Swift       | 2023-08-15   |
-| 10 | [iOS-UIFont-Names](https://github.com/lionhylra/iOS-UIFont-Names)                  | 2021-05-27 | Swift       | 2023-07-17   |
+| ID |                                          REPO                                           | STAREDDATE |  LANGUAGE   | LATESTUPDATE |
+|----|-----------------------------------------------------------------------------------------|------------|-------------|--------------|
+|  1 | [ReadyForBAT](https://github.com/MisterBooo/ReadyForBAT)                                | 2019-01-03 | Objective-C | 2023-08-25   |
+|  2 | [sa-sdk-ios](https://github.com/sensorsdata/sa-sdk-ios)                                 | 2021-01-13 | Objective-C | 2023-08-25   |
+|  3 | [Daysquare](https://github.com/unixzii/Daysquare)                                       | 2020-10-11 | Objective-C | 2023-05-29   |
+|  4 | [NVActivityIndicatorView](https://github.com/ninjaprox/NVActivityIndicatorView)         | 2020-11-05 | Swift       | 2023-08-26   |
+|  5 | [Papr](https://github.com/jdisho/Papr)                                                  | 2018-03-26 | Swift       | 2023-08-25   |
+|  6 | [injectionforxcode](https://github.com/johnno1962/injectionforxcode)                    | 2018-01-15 | Objective-C | 2023-08-26   |
+|  7 | [WRNavigationBar](https://github.com/wangrui460/WRNavigationBar)                        | 2017-07-12 | Objective-C | 2023-08-18   |
+|  8 | [BSBacktraceLogger](https://github.com/bestswifter/BSBacktraceLogger)                   | 2020-08-05 | Objective-C | 2023-08-24   |
+|  9 | [Optimizing-Swift-Build-Times](https://github.com/fastred/Optimizing-Swift-Build-Times) | 2017-11-09 | Swift       | 2023-08-25   |
+| 10 | [BulletinBoard](https://github.com/alexisakers/BulletinBoard)                           | 2018-12-19 | Swift       | 2023-08-26   |
 
 <!--END_SECTION:my_github-->
