@@ -41,17 +41,17 @@
 | sum |                                                                   |                                                                     |                                                                     |          |                                                                                      6 |
 
 ## The repos I stared (random 10)
-| ID |                                          REPO                                           | STAREDDATE |  LANGUAGE   | LATESTUPDATE |
-|----|-----------------------------------------------------------------------------------------|------------|-------------|--------------|
-|  1 | [ReadyForBAT](https://github.com/MisterBooo/ReadyForBAT)                                | 2019-01-03 | Objective-C | 2023-08-25   |
-|  2 | [sa-sdk-ios](https://github.com/sensorsdata/sa-sdk-ios)                                 | 2021-01-13 | Objective-C | 2023-08-25   |
-|  3 | [Daysquare](https://github.com/unixzii/Daysquare)                                       | 2020-10-11 | Objective-C | 2023-05-29   |
-|  4 | [NVActivityIndicatorView](https://github.com/ninjaprox/NVActivityIndicatorView)         | 2020-11-05 | Swift       | 2023-08-26   |
-|  5 | [Papr](https://github.com/jdisho/Papr)                                                  | 2018-03-26 | Swift       | 2023-08-25   |
-|  6 | [injectionforxcode](https://github.com/johnno1962/injectionforxcode)                    | 2018-01-15 | Objective-C | 2023-08-26   |
-|  7 | [WRNavigationBar](https://github.com/wangrui460/WRNavigationBar)                        | 2017-07-12 | Objective-C | 2023-08-18   |
-|  8 | [BSBacktraceLogger](https://github.com/bestswifter/BSBacktraceLogger)                   | 2020-08-05 | Objective-C | 2023-08-24   |
-|  9 | [Optimizing-Swift-Build-Times](https://github.com/fastred/Optimizing-Swift-Build-Times) | 2017-11-09 | Swift       | 2023-08-25   |
-| 10 | [BulletinBoard](https://github.com/alexisakers/BulletinBoard)                           | 2018-12-19 | Swift       | 2023-08-26   |
+| ID |                                      REPO                                       | STAREDDATE |  LANGUAGE  | LATESTUPDATE |
+|----|---------------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [NetNewsWire](https://github.com/Ranchero-Software/NetNewsWire)                 | 2020-11-23 | Swift      | 2023-09-02   |
+|  2 | [chatgpt-google-extension](https://github.com/wong2/chatgpt-google-extension)   | 2022-12-06 | TypeScript | 2023-09-02   |
+|  3 | [wcdb](https://github.com/Tencent/wcdb)                                         | 2017-10-18 | C          | 2023-09-02   |
+|  4 | [SourceKitten](https://github.com/jpsim/SourceKitten)                           | 2021-05-03 | Swift      | 2023-08-31   |
+|  5 | [rss](https://github.com/acumen1005/rss)                                        | 2022-04-21 | Swift      | 2023-07-07   |
+|  6 | [swift-coreml-diffusers](https://github.com/huggingface/swift-coreml-diffusers) | 2023-04-02 | Swift      | 2023-09-02   |
+|  7 | [lipstick](https://github.com/Ovilia/lipstick)                                  | 2018-03-08 | JavaScript | 2023-09-02   |
+|  8 | [mobilists](https://github.com/eleme/mobilists)                                 | 2017-09-14 | JavaScript | 2023-04-12   |
+|  9 | [SideMenu](https://github.com/kukushi/SideMenu)                                 | 2019-03-28 | Swift      | 2023-09-02   |
+| 10 | [slate](https://github.com/ianstormtaylor/slate)                                | 2023-04-11 | TypeScript | 2023-09-03   |
 
 <!--END_SECTION:my_github-->
