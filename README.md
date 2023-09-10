@@ -41,17 +41,17 @@
 | sum |                                                                   |                                                                     |                                                                     |          |                                                                                      6 |
 
 ## The repos I stared (random 10)
-| ID |                                      REPO                                       | STAREDDATE |  LANGUAGE  | LATESTUPDATE |
-|----|---------------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [NetNewsWire](https://github.com/Ranchero-Software/NetNewsWire)                 | 2020-11-23 | Swift      | 2023-09-02   |
-|  2 | [chatgpt-google-extension](https://github.com/wong2/chatgpt-google-extension)   | 2022-12-06 | TypeScript | 2023-09-02   |
-|  3 | [wcdb](https://github.com/Tencent/wcdb)                                         | 2017-10-18 | C          | 2023-09-02   |
-|  4 | [SourceKitten](https://github.com/jpsim/SourceKitten)                           | 2021-05-03 | Swift      | 2023-08-31   |
-|  5 | [rss](https://github.com/acumen1005/rss)                                        | 2022-04-21 | Swift      | 2023-07-07   |
-|  6 | [swift-coreml-diffusers](https://github.com/huggingface/swift-coreml-diffusers) | 2023-04-02 | Swift      | 2023-09-02   |
-|  7 | [lipstick](https://github.com/Ovilia/lipstick)                                  | 2018-03-08 | JavaScript | 2023-09-02   |
-|  8 | [mobilists](https://github.com/eleme/mobilists)                                 | 2017-09-14 | JavaScript | 2023-04-12   |
-|  9 | [SideMenu](https://github.com/kukushi/SideMenu)                                 | 2019-03-28 | Swift      | 2023-09-02   |
-| 10 | [slate](https://github.com/ianstormtaylor/slate)                                | 2023-04-11 | TypeScript | 2023-09-03   |
+| ID |                                        REPO                                        | STAREDDATE | LANGUAGE | LATESTUPDATE |
+|----|------------------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [WKWebViewTips](https://github.com/ShingoFukuyama/WKWebViewTips)                   | 2016-12-14 | md       | 2023-08-26   |
+|  2 | [reverse-interview-zh](https://github.com/yifeikong/reverse-interview-zh)          | 2019-10-24 | md       | 2023-09-09   |
+|  3 | [hangzhou_house_knowledge](https://github.com/houshanren/hangzhou_house_knowledge) | 2018-02-26 | CSS      | 2023-09-08   |
+|  4 | [system-design-primer](https://github.com/donnemartin/system-design-primer)        | 2019-05-08 | Python   | 2023-09-09   |
+|  5 | [Joy-Blog](https://github.com/joy0304/Joy-Blog)                                    | 2020-05-25 | md       | 2023-06-14   |
+|  6 | [SwiftTrace](https://github.com/johnno1962/SwiftTrace)                             | 2020-08-15 | Swift    | 2023-08-31   |
+|  7 | [swift-coreml-diffusers](https://github.com/huggingface/swift-coreml-diffusers)    | 2023-04-02 | Swift    | 2023-09-08   |
+|  8 | [ml-stable-diffusion](https://github.com/apple/ml-stable-diffusion)                | 2023-04-02 | Python   | 2023-09-09   |
+|  9 | [NetworkLayerExample](https://github.com/tomkowz/NetworkLayerExample)              | 2017-04-26 | Swift    | 2023-07-15   |
+| 10 | [tensorflow_poems](https://github.com/lucasjinreal/tensorflow_poems)               | 2017-04-27 | Python   | 2023-09-08   |
 
 <!--END_SECTION:my_github-->
