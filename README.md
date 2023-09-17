@@ -41,17 +41,17 @@
 | sum |                                                                   |                                                                     |                                                                     |          |                                                                                      6 |
 
 ## The repos I stared (random 10)
-| ID |                                        REPO                                        | STAREDDATE | LANGUAGE | LATESTUPDATE |
-|----|------------------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [WKWebViewTips](https://github.com/ShingoFukuyama/WKWebViewTips)                   | 2016-12-14 | md       | 2023-08-26   |
-|  2 | [reverse-interview-zh](https://github.com/yifeikong/reverse-interview-zh)          | 2019-10-24 | md       | 2023-09-09   |
-|  3 | [hangzhou_house_knowledge](https://github.com/houshanren/hangzhou_house_knowledge) | 2018-02-26 | CSS      | 2023-09-08   |
-|  4 | [system-design-primer](https://github.com/donnemartin/system-design-primer)        | 2019-05-08 | Python   | 2023-09-09   |
-|  5 | [Joy-Blog](https://github.com/joy0304/Joy-Blog)                                    | 2020-05-25 | md       | 2023-06-14   |
-|  6 | [SwiftTrace](https://github.com/johnno1962/SwiftTrace)                             | 2020-08-15 | Swift    | 2023-08-31   |
-|  7 | [swift-coreml-diffusers](https://github.com/huggingface/swift-coreml-diffusers)    | 2023-04-02 | Swift    | 2023-09-08   |
-|  8 | [ml-stable-diffusion](https://github.com/apple/ml-stable-diffusion)                | 2023-04-02 | Python   | 2023-09-09   |
-|  9 | [NetworkLayerExample](https://github.com/tomkowz/NetworkLayerExample)              | 2017-04-26 | Swift    | 2023-07-15   |
-| 10 | [tensorflow_poems](https://github.com/lucasjinreal/tensorflow_poems)               | 2017-04-27 | Python   | 2023-09-08   |
+| ID |                                             REPO                                             | STAREDDATE |  LANGUAGE   | LATESTUPDATE |
+|----|----------------------------------------------------------------------------------------------|------------|-------------|--------------|
+|  1 | [Xcode-iOS-Developer-Disk-Image](https://github.com/xushuduo/Xcode-iOS-Developer-Disk-Image) | 2019-10-31 | md          | 2023-09-16   |
+|  2 | [open-swiftui-animations](https://github.com/amosgyamfi/open-swiftui-animations)             | 2021-05-02 | md          | 2023-09-16   |
+|  3 | [mars](https://github.com/Tencent/mars)                                                      | 2018-01-20 | C++         | 2023-09-16   |
+|  4 | [v2ex-gae](https://github.com/livid/v2ex-gae)                                                | 2017-03-22 | Python      | 2023-09-12   |
+|  5 | [FastOCR](https://github.com/BruceZhang1993/FastOCR)                                         | 2022-04-14 | Python      | 2023-08-31   |
+|  6 | [gold-miner](https://github.com/xitu/gold-miner)                                             | 2016-12-08 | md          | 2023-09-16   |
+|  7 | [ConfettiSwiftUI](https://github.com/simibac/ConfettiSwiftUI)                                | 2022-05-21 | Swift       | 2023-09-16   |
+|  8 | [iOS-Developer-Roadmap](https://github.com/BohdanOrlov/iOS-Developer-Roadmap)                | 2019-01-18 | Swift       | 2023-09-16   |
+|  9 | [iOS9AdaptationTips](https://github.com/ChenYilong/iOS9AdaptationTips)                       | 2016-09-30 | Objective-C | 2023-09-15   |
+| 10 | [FLEX](https://github.com/FLEXTool/FLEX)                                                     | 2018-02-01 | Objective-C | 2023-09-16   |
 
 <!--END_SECTION:my_github-->
