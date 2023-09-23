@@ -9,7 +9,7 @@
 | ID  |                                        REPO                                        |   START    |   UPDATE   |  LANGUAGE   | STARS |
 |-----|------------------------------------------------------------------------------------|------------|------------|-------------|-------|
 |   1 | [rss](https://github.com/acumen1005/rss)                                           | 2020-06-28 | 2023-07-07 | Swift       |    45 |
-|   2 | [Recommendation](https://github.com/acumen1005/Recommendation)                     | 2016-05-31 | 2023-02-15 | Java        |    26 |
+|   2 | [Recommendation](https://github.com/acumen1005/Recommendation)                     | 2016-05-31 | 2023-09-21 | Java        |    27 |
 |   3 | [ACWeChat](https://github.com/acumen1005/ACWeChat)                                 | 2016-05-14 | 2019-03-06 | Objective-C |    14 |
 |   4 | [ACLabelCounting](https://github.com/acumen1005/ACLabelCounting)                   | 2017-02-22 | 2022-03-08 | Swift       |    12 |
 |   5 | [WeChatICU-ForMac](https://github.com/acumen1005/WeChatICU-ForMac)                 | 2020-12-28 | 2022-06-28 | md          |     6 |
@@ -29,7 +29,7 @@
 |  19 | [ACPhotoPickerController](https://github.com/acumen1005/ACPhotoPickerController)   | 2017-03-03 | 2018-04-02 | Swift       |     0 |
 |  20 | [CodeClean](https://github.com/acumen1005/CodeClean)                               | 2021-03-24 | 2021-03-24 | Python      |     0 |
 |  21 | [flutter_calendar](https://github.com/acumen1005/flutter_calendar)                 | 2021-01-16 | 2021-01-27 | Dart        |     0 |
-| sum |                                                                                    |            |            |             |   106 |
+| sum |                                                                                    |            |            |             |   107 |
 
 ## The repos I contributed to
 | ID  |                               REPO                                |                              FIRSTDATE                              |                              LASTEDATE                              | LANGUAGE |                                        PRCOUNT                                         |
@@ -41,17 +41,17 @@
 | sum |                                                                   |                                                                     |                                                                     |          |                                                                                      6 |
 
 ## The repos I stared (random 10)
-| ID |                                             REPO                                             | STAREDDATE |  LANGUAGE   | LATESTUPDATE |
-|----|----------------------------------------------------------------------------------------------|------------|-------------|--------------|
-|  1 | [Xcode-iOS-Developer-Disk-Image](https://github.com/xushuduo/Xcode-iOS-Developer-Disk-Image) | 2019-10-31 | md          | 2023-09-16   |
-|  2 | [open-swiftui-animations](https://github.com/amosgyamfi/open-swiftui-animations)             | 2021-05-02 | md          | 2023-09-16   |
-|  3 | [mars](https://github.com/Tencent/mars)                                                      | 2018-01-20 | C++         | 2023-09-16   |
-|  4 | [v2ex-gae](https://github.com/livid/v2ex-gae)                                                | 2017-03-22 | Python      | 2023-09-12   |
-|  5 | [FastOCR](https://github.com/BruceZhang1993/FastOCR)                                         | 2022-04-14 | Python      | 2023-08-31   |
-|  6 | [gold-miner](https://github.com/xitu/gold-miner)                                             | 2016-12-08 | md          | 2023-09-16   |
-|  7 | [ConfettiSwiftUI](https://github.com/simibac/ConfettiSwiftUI)                                | 2022-05-21 | Swift       | 2023-09-16   |
-|  8 | [iOS-Developer-Roadmap](https://github.com/BohdanOrlov/iOS-Developer-Roadmap)                | 2019-01-18 | Swift       | 2023-09-16   |
-|  9 | [iOS9AdaptationTips](https://github.com/ChenYilong/iOS9AdaptationTips)                       | 2016-09-30 | Objective-C | 2023-09-15   |
-| 10 | [FLEX](https://github.com/FLEXTool/FLEX)                                                     | 2018-02-01 | Objective-C | 2023-09-16   |
+| ID |                                            REPO                                             | STAREDDATE |   LANGUAGE    | LATESTUPDATE |
+|----|---------------------------------------------------------------------------------------------|------------|---------------|--------------|
+|  1 | [ios-crash-dump-analysis-book](https://github.com/faisalmemon/ios-crash-dump-analysis-book) | 2021-05-14 | Objective-C   | 2023-09-19   |
+|  2 | [FBRetainCycleDetector](https://github.com/facebook/FBRetainCycleDetector)                  | 2017-09-14 | Objective-C++ | 2023-09-14   |
+|  3 | [iOS-Source-Probe](https://github.com/Desgard/iOS-Source-Probe)                             | 2018-07-05 | Shell         | 2023-09-12   |
+|  4 | [ios-deploy](https://github.com/ios-control/ios-deploy)                                     | 2020-07-20 | Objective-C   | 2023-09-22   |
+|  5 | [tensorflow_poems](https://github.com/lucasjinreal/tensorflow_poems)                        | 2017-04-27 | Python        | 2023-09-13   |
+|  6 | [TypeScript](https://github.com/zhongsp/TypeScript)                                         | 2023-04-12 | TypeScript    | 2023-09-22   |
+|  7 | [iOS-Tagent](https://github.com/AirtestProject/iOS-Tagent)                                  | 2019-04-09 | Objective-C   | 2023-09-22   |
+|  8 | [lanproxy](https://github.com/ffay/lanproxy)                                                | 2017-11-16 | Java          | 2023-09-22   |
+|  9 | [vapor](https://github.com/vapor/vapor)                                                     | 2018-01-02 | Swift         | 2023-09-22   |
+| 10 | [WeChatICU-ForMac](https://github.com/MustangYM/WeChatICU-ForMac)                           | 2021-05-07 | md            | 2023-09-21   |
 
 <!--END_SECTION:my_github-->
