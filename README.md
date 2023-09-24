@@ -41,17 +41,17 @@
 | sum |                                                                   |                                                                     |                                                                     |          |                                                                                      6 |
 
 ## The repos I stared (random 10)
-| ID |                                            REPO                                             | STAREDDATE |   LANGUAGE    | LATESTUPDATE |
-|----|---------------------------------------------------------------------------------------------|------------|---------------|--------------|
-|  1 | [ios-crash-dump-analysis-book](https://github.com/faisalmemon/ios-crash-dump-analysis-book) | 2021-05-14 | Objective-C   | 2023-09-19   |
-|  2 | [FBRetainCycleDetector](https://github.com/facebook/FBRetainCycleDetector)                  | 2017-09-14 | Objective-C++ | 2023-09-14   |
-|  3 | [iOS-Source-Probe](https://github.com/Desgard/iOS-Source-Probe)                             | 2018-07-05 | Shell         | 2023-09-12   |
-|  4 | [ios-deploy](https://github.com/ios-control/ios-deploy)                                     | 2020-07-20 | Objective-C   | 2023-09-22   |
-|  5 | [tensorflow_poems](https://github.com/lucasjinreal/tensorflow_poems)                        | 2017-04-27 | Python        | 2023-09-13   |
-|  6 | [TypeScript](https://github.com/zhongsp/TypeScript)                                         | 2023-04-12 | TypeScript    | 2023-09-22   |
-|  7 | [iOS-Tagent](https://github.com/AirtestProject/iOS-Tagent)                                  | 2019-04-09 | Objective-C   | 2023-09-22   |
-|  8 | [lanproxy](https://github.com/ffay/lanproxy)                                                | 2017-11-16 | Java          | 2023-09-22   |
-|  9 | [vapor](https://github.com/vapor/vapor)                                                     | 2018-01-02 | Swift         | 2023-09-22   |
-| 10 | [WeChatICU-ForMac](https://github.com/MustangYM/WeChatICU-ForMac)                           | 2021-05-07 | md            | 2023-09-21   |
+| ID |                                  REPO                                  | STAREDDATE |  LANGUAGE   | LATESTUPDATE |
+|----|------------------------------------------------------------------------|------------|-------------|--------------|
+|  1 | [firefox-ios](https://github.com/mozilla-mobile/firefox-ios)           | 2019-06-27 | Swift       | 2023-09-23   |
+|  2 | [Live](https://github.com/ltebean/Live)                                | 2017-02-22 | Swift       | 2023-09-14   |
+|  3 | [weweChat](https://github.com/trazyn/weweChat)                         | 2017-08-24 | JavaScript  | 2023-09-21   |
+|  4 | [marktext](https://github.com/marktext/marktext)                       | 2018-04-17 | JavaScript  | 2023-09-23   |
+|  5 | [AFFiNE](https://github.com/toeverything/AFFiNE)                       | 2023-04-12 | TypeScript  | 2023-09-23   |
+|  6 | [LeetCode-Swift](https://github.com/soapyigu/LeetCode-Swift)           | 2021-05-27 | Swift       | 2023-09-23   |
+|  7 | [LYCustomTransition](https://github.com/dev-liyang/LYCustomTransition) | 2018-03-05 | Objective-C | 2023-09-19   |
+|  8 | [huxpro.github.io](https://github.com/Huxpro/huxpro.github.io)         | 2017-02-13 | HTML        | 2023-09-23   |
+|  9 | [haoel.github.io](https://github.com/haoel/haoel.github.io)            | 2020-12-05 | Shell       | 2023-09-23   |
+| 10 | [jjb](https://github.com/sunoj/jjb)                                    | 2020-02-25 | JavaScript  | 2023-09-22   |
 
 <!--END_SECTION:my_github-->
