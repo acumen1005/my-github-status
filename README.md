@@ -41,17 +41,17 @@
 | sum |                                                                   |                                                                     |                                                                     |          |                                                                                      6 |
 
 ## The repos I stared (random 10)
-| ID |                                  REPO                                  | STAREDDATE |  LANGUAGE   | LATESTUPDATE |
-|----|------------------------------------------------------------------------|------------|-------------|--------------|
-|  1 | [firefox-ios](https://github.com/mozilla-mobile/firefox-ios)           | 2019-06-27 | Swift       | 2023-09-23   |
-|  2 | [Live](https://github.com/ltebean/Live)                                | 2017-02-22 | Swift       | 2023-09-14   |
-|  3 | [weweChat](https://github.com/trazyn/weweChat)                         | 2017-08-24 | JavaScript  | 2023-09-21   |
-|  4 | [marktext](https://github.com/marktext/marktext)                       | 2018-04-17 | JavaScript  | 2023-09-23   |
-|  5 | [AFFiNE](https://github.com/toeverything/AFFiNE)                       | 2023-04-12 | TypeScript  | 2023-09-23   |
-|  6 | [LeetCode-Swift](https://github.com/soapyigu/LeetCode-Swift)           | 2021-05-27 | Swift       | 2023-09-23   |
-|  7 | [LYCustomTransition](https://github.com/dev-liyang/LYCustomTransition) | 2018-03-05 | Objective-C | 2023-09-19   |
-|  8 | [huxpro.github.io](https://github.com/Huxpro/huxpro.github.io)         | 2017-02-13 | HTML        | 2023-09-23   |
-|  9 | [haoel.github.io](https://github.com/haoel/haoel.github.io)            | 2020-12-05 | Shell       | 2023-09-23   |
-| 10 | [jjb](https://github.com/sunoj/jjb)                                    | 2020-02-25 | JavaScript  | 2023-09-22   |
+| ID |                                                          REPO                                                          | STAREDDATE |  LANGUAGE   | LATESTUPDATE |
+|----|------------------------------------------------------------------------------------------------------------------------|------------|-------------|--------------|
+|  1 | [NVActivityIndicatorView](https://github.com/ninjaprox/NVActivityIndicatorView)                                        | 2020-11-05 | Swift       | 2023-09-29   |
+|  2 | [SwipeTableView](https://github.com/liangdrime/SwipeTableView)                                                         | 2017-08-09 | Objective-C | 2023-09-06   |
+|  3 | [Calendr](https://github.com/pakerwreah/Calendr)                                                                       | 2023-04-28 | Swift       | 2023-09-29   |
+|  4 | [whats-new-in-swift-4](https://github.com/ole/whats-new-in-swift-4)                                                    | 2017-05-19 | Swift       | 2023-09-29   |
+|  5 | [gold-miner](https://github.com/xitu/gold-miner)                                                                       | 2016-12-08 | md          | 2023-09-30   |
+|  6 | [ReadyForBAT](https://github.com/MisterBooo/ReadyForBAT)                                                               | 2019-01-03 | Objective-C | 2023-09-24   |
+|  7 | [Programmers-Overseas-Job-Interview-Handbook](https://github.com/eliaszon/Programmers-Overseas-Job-Interview-Handbook) | 2023-02-14 | md          | 2023-09-30   |
+|  8 | [haoel.github.io](https://github.com/haoel/haoel.github.io)                                                            | 2020-12-05 | Shell       | 2023-09-28   |
+|  9 | [WWDC2022-SwiftUINodeEditor](https://github.com/JustinFincher/WWDC2022-SwiftUINodeEditor)                              | 2022-05-25 | Swift       | 2023-09-19   |
+| 10 | [GitHubPoster](https://github.com/yihong0618/GitHubPoster)                                                             | 2021-05-10 | Python      | 2023-09-28   |
 
 <!--END_SECTION:my_github-->
