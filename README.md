@@ -41,17 +41,17 @@
 | sum |                                                                   |                                                                     |                                                                     |          |                                                                                      6 |
 
 ## The repos I stared (random 10)
-| ID |                                                          REPO                                                          | STAREDDATE |  LANGUAGE   | LATESTUPDATE |
-|----|------------------------------------------------------------------------------------------------------------------------|------------|-------------|--------------|
-|  1 | [NVActivityIndicatorView](https://github.com/ninjaprox/NVActivityIndicatorView)                                        | 2020-11-05 | Swift       | 2023-09-29   |
-|  2 | [SwipeTableView](https://github.com/liangdrime/SwipeTableView)                                                         | 2017-08-09 | Objective-C | 2023-09-06   |
-|  3 | [Calendr](https://github.com/pakerwreah/Calendr)                                                                       | 2023-04-28 | Swift       | 2023-09-29   |
-|  4 | [whats-new-in-swift-4](https://github.com/ole/whats-new-in-swift-4)                                                    | 2017-05-19 | Swift       | 2023-09-29   |
-|  5 | [gold-miner](https://github.com/xitu/gold-miner)                                                                       | 2016-12-08 | md          | 2023-09-30   |
-|  6 | [ReadyForBAT](https://github.com/MisterBooo/ReadyForBAT)                                                               | 2019-01-03 | Objective-C | 2023-09-24   |
-|  7 | [Programmers-Overseas-Job-Interview-Handbook](https://github.com/eliaszon/Programmers-Overseas-Job-Interview-Handbook) | 2023-02-14 | md          | 2023-09-30   |
-|  8 | [haoel.github.io](https://github.com/haoel/haoel.github.io)                                                            | 2020-12-05 | Shell       | 2023-09-28   |
-|  9 | [WWDC2022-SwiftUINodeEditor](https://github.com/JustinFincher/WWDC2022-SwiftUINodeEditor)                              | 2022-05-25 | Swift       | 2023-09-19   |
-| 10 | [GitHubPoster](https://github.com/yihong0618/GitHubPoster)                                                             | 2021-05-10 | Python      | 2023-09-28   |
+| ID |                                      REPO                                      | STAREDDATE | LANGUAGE | LATESTUPDATE |
+|----|--------------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [Joy-Blog](https://github.com/joy0304/Joy-Blog)                                | 2020-05-25 | md       | 2023-06-14   |
+|  2 | [Aerial](https://github.com/JohnCoates/Aerial)                                 | 2018-12-28 | Swift    | 2023-10-07   |
+|  3 | [awesome-ios-animation](https://github.com/onmyway133/awesome-ios-animation)   | 2016-06-03 | md       | 2023-10-06   |
+|  4 | [RealityKitLaunchScreen](https://github.com/aheze/RealityKitLaunchScreen)      | 2022-05-13 | Swift    | 2023-10-03   |
+|  5 | [SwiftUI-Animations](https://github.com/Shubham0812/SwiftUI-Animations)        | 2020-11-19 | Swift    | 2023-10-05   |
+|  6 | [LinearProgressBar](https://github.com/gordoneliel/LinearProgressBar)          | 2021-11-02 | Swift    | 2023-10-06   |
+|  7 | [HidingNavigationBar](https://github.com/tristanhimmelman/HidingNavigationBar) | 2017-11-15 | Swift    | 2023-10-02   |
+|  8 | [chatgptProxyAPI](https://github.com/x-dr/chatgptProxyAPI)                     | 2023-03-29 | HTML     | 2023-10-07   |
+|  9 | [BulletinBoard](https://github.com/alexisakers/BulletinBoard)                  | 2018-12-19 | Swift    | 2023-09-30   |
+| 10 | [qqbot](https://github.com/pandolia/qqbot)                                     | 2016-12-07 | Python   | 2023-09-30   |
 
 <!--END_SECTION:my_github-->
