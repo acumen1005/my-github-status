@@ -41,17 +41,17 @@
 | sum |                                                                   |                                                                     |                                                                     |          |                                                                                      6 |
 
 ## The repos I stared (random 10)
-| ID |                                      REPO                                      | STAREDDATE | LANGUAGE | LATESTUPDATE |
-|----|--------------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [Joy-Blog](https://github.com/joy0304/Joy-Blog)                                | 2020-05-25 | md       | 2023-06-14   |
-|  2 | [Aerial](https://github.com/JohnCoates/Aerial)                                 | 2018-12-28 | Swift    | 2023-10-07   |
-|  3 | [awesome-ios-animation](https://github.com/onmyway133/awesome-ios-animation)   | 2016-06-03 | md       | 2023-10-06   |
-|  4 | [RealityKitLaunchScreen](https://github.com/aheze/RealityKitLaunchScreen)      | 2022-05-13 | Swift    | 2023-10-03   |
-|  5 | [SwiftUI-Animations](https://github.com/Shubham0812/SwiftUI-Animations)        | 2020-11-19 | Swift    | 2023-10-05   |
-|  6 | [LinearProgressBar](https://github.com/gordoneliel/LinearProgressBar)          | 2021-11-02 | Swift    | 2023-10-06   |
-|  7 | [HidingNavigationBar](https://github.com/tristanhimmelman/HidingNavigationBar) | 2017-11-15 | Swift    | 2023-10-02   |
-|  8 | [chatgptProxyAPI](https://github.com/x-dr/chatgptProxyAPI)                     | 2023-03-29 | HTML     | 2023-10-07   |
-|  9 | [BulletinBoard](https://github.com/alexisakers/BulletinBoard)                  | 2018-12-19 | Swift    | 2023-09-30   |
-| 10 | [qqbot](https://github.com/pandolia/qqbot)                                     | 2016-12-07 | Python   | 2023-09-30   |
+| ID |                                                          REPO                                                          | STAREDDATE |  LANGUAGE   | LATESTUPDATE |
+|----|------------------------------------------------------------------------------------------------------------------------|------------|-------------|--------------|
+|  1 | [Awsome-Front-End-learning-resource](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource)              | 2016-10-22 | PHP         | 2023-10-13   |
+|  2 | [vscode-leetcode](https://github.com/LeetCode-OpenSource/vscode-leetcode)                                              | 2019-03-21 | TypeScript  | 2023-10-13   |
+|  3 | [Programmers-Overseas-Job-Interview-Handbook](https://github.com/eliaszon/Programmers-Overseas-Job-Interview-Handbook) | 2023-02-14 | md          | 2023-10-14   |
+|  4 | [SocketRocket](https://github.com/facebookincubator/SocketRocket)                                                      | 2019-08-19 | Objective-C | 2023-10-12   |
+|  5 | [react-naive-book](https://github.com/huzidaha/react-naive-book)                                                       | 2020-10-21 | HTML        | 2023-10-13   |
+|  6 | [cocoapods-binary](https://github.com/leavez/cocoapods-binary)                                                         | 2019-05-05 | Ruby        | 2023-10-10   |
+|  7 | [IceCubesApp](https://github.com/Dimillian/IceCubesApp)                                                                | 2023-10-14 | Swift       | 2023-10-14   |
+|  8 | [ACWeChat](https://github.com/acumen1005/ACWeChat)                                                                     | 2016-07-28 | Objective-C | 2019-03-06   |
+|  9 | [folding-cell](https://github.com/Ramotion/folding-cell)                                                               | 2021-12-02 | Swift       | 2023-10-12   |
+| 10 | [reverse-interview-zh](https://github.com/yifeikong/reverse-interview-zh)                                              | 2019-10-24 | md          | 2023-10-14   |
 
 <!--END_SECTION:my_github-->
