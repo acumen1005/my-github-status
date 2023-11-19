@@ -41,17 +41,17 @@
 | sum |                                                                   |                                                                     |                                                                     |          |                                                                                      6 |
 
 ## The repos I stared (random 10)
-| ID |                                    REPO                                     | STAREDDATE |  LANGUAGE   | LATESTUPDATE |
-|----|-----------------------------------------------------------------------------|------------|-------------|--------------|
-|  1 | [Student-resources](https://github.com/ivmm/Student-resources)              | 2017-06-05 | md          | 2023-11-11   |
-|  2 | [BSBacktraceLogger](https://github.com/bestswifter/BSBacktraceLogger)       | 2020-08-05 | Objective-C | 2023-10-27   |
-|  3 | [IceCubesApp](https://github.com/Dimillian/IceCubesApp)                     | 2023-10-14 | Swift       | 2023-11-11   |
-|  4 | [dalai](https://github.com/cocktailpeanut/dalai)                            | 2023-03-24 | CSS         | 2023-11-10   |
-|  5 | [MonkeyKing](https://github.com/nixzhu/MonkeyKing)                          | 2020-06-18 | Swift       | 2023-11-01   |
-|  6 | [iOSDataFactory](https://github.com/ifgyong/iOSDataFactory)                 | 2019-12-02 | md          | 2023-11-07   |
-|  7 | [PanModal](https://github.com/slackhq/PanModal)                             | 2019-12-13 | Swift       | 2023-11-10   |
-|  8 | [flutter_particle_clock](https://github.com/miickel/flutter_particle_clock) | 2020-08-26 | Dart        | 2023-11-07   |
-|  9 | [Bagel](https://github.com/yagiz/Bagel)                                     | 2021-04-15 | Swift       | 2023-11-11   |
-| 10 | [swift](https://github.com/apple/swift)                                     | 2017-01-10 | C++         | 2023-11-11   |
+| ID |                                               REPO                                                | STAREDDATE |   LANGUAGE    | LATESTUPDATE |
+|----|---------------------------------------------------------------------------------------------------|------------|---------------|--------------|
+|  1 | [GRsync](https://github.com/clyang/GRsync)                                                        | 2023-10-11 | Python        | 2023-11-12   |
+|  2 | [ChromaColorPicker](https://github.com/joncardasis/ChromaColorPicker)                             | 2022-05-04 | Swift         | 2023-11-15   |
+|  3 | [CnC_Remastered_Collection](https://github.com/electronicarts/CnC_Remastered_Collection)          | 2020-06-10 | C++           | 2023-11-19   |
+|  4 | [zoo](https://github.com/zoo-js/zoo)                                                              | 2020-12-02 | JavaScript    | 2023-11-07   |
+|  5 | [Tiercel](https://github.com/Danie1s/Tiercel)                                                     | 2020-06-02 | Swift         | 2023-11-18   |
+|  6 | [atswift-2017-resources](https://github.com/atConf/atswift-2017-resources)                        | 2017-06-01 | md            | 2023-08-26   |
+|  7 | [note](https://github.com/SHERRYWANNA/note)                                                       | 2019-06-14 | md            | 2019-06-14   |
+|  8 | [CHTCollectionViewWaterfallLayout](https://github.com/chiahsien/CHTCollectionViewWaterfallLayout) | 2020-08-28 | Objective-C   | 2023-11-18   |
+|  9 | [FBRetainCycleDetector](https://github.com/facebook/FBRetainCycleDetector)                        | 2017-09-14 | Objective-C++ | 2023-11-15   |
+| 10 | [Motion-Design-for-iOS](https://github.com/Cloudox/Motion-Design-for-iOS)                         | 2016-10-12 | md            | 2023-10-31   |
 
 <!--END_SECTION:my_github-->
