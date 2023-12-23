@@ -41,17 +41,17 @@
 | sum |                                                                   |                                                                     |                                                                     |          |                                                                                      6 |
 
 ## The repos I stared (random 10)
-| ID |                                  REPO                                   | STAREDDATE |  LANGUAGE  | LATESTUPDATE |
-|----|-------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [reference](https://github.com/jaywcjlove/reference)                    | 2023-12-02 | Dockerfile | 2023-12-16   |
-|  2 | [v2ex-gae](https://github.com/livid/v2ex-gae)                           | 2017-03-22 | Python     | 2023-12-12   |
-|  3 | [iina](https://github.com/iina/iina)                                    | 2019-05-07 | Swift      | 2023-12-16   |
-|  4 | [BAT-internal-referral](https://github.com/yuguo/BAT-internal-referral) | 2016-10-21 | md         | 2023-10-27   |
-|  5 | [code-server](https://github.com/coder/code-server)                     | 2019-03-15 | TypeScript | 2023-12-16   |
-|  6 | [react-naive-book](https://github.com/huzidaha/react-naive-book)        | 2020-10-21 | HTML       | 2023-12-15   |
-|  7 | [spruce-ios](https://github.com/willowtreeapps/spruce-ios)              | 2017-03-21 | Swift      | 2023-12-16   |
-|  8 | [The-Economist](https://github.com/nailperry-zd/The-Economist)          | 2019-07-06 | md         | 2023-12-15   |
-|  9 | [hexo-theme-apollo](https://github.com/chongshengsun/hexo-theme-apollo) | 2016-10-31 | SCSS       | 2023-12-14   |
-| 10 | [zlldb](https://github.com/everettjf/zlldb)                             | 2020-07-20 | Python     | 2023-11-21   |
+| ID |                                           REPO                                            | STAREDDATE |  LANGUAGE   | LATESTUPDATE |
+|----|-------------------------------------------------------------------------------------------|------------|-------------|--------------|
+|  1 | [The-Economist](https://github.com/nailperry-zd/The-Economist)                            | 2019-07-06 | md          | 2023-12-22   |
+|  2 | [LYCustomTransition](https://github.com/dev-liyang/LYCustomTransition)                    | 2018-03-05 | Objective-C | 2023-12-14   |
+|  3 | [hello](https://github.com/nat/hello)                                                     | 2018-10-29 | HTML        | 2023-03-04   |
+|  4 | [YoCelsius](https://github.com/YouXianMing/YoCelsius)                                     | 2017-02-09 | Objective-C | 2023-11-13   |
+|  5 | [LeetCode-Swift](https://github.com/soapyigu/LeetCode-Swift)                              | 2021-05-27 | Swift       | 2023-12-22   |
+|  6 | [extended_image](https://github.com/fluttercandies/extended_image)                        | 2021-07-20 | Dart        | 2023-12-22   |
+|  7 | [PocketSocket](https://github.com/zwopple/PocketSocket)                                   | 2021-01-21 | Objective-C | 2023-12-10   |
+|  8 | [WWDC2022-SwiftUINodeEditor](https://github.com/JustinFincher/WWDC2022-SwiftUINodeEditor) | 2022-05-25 | Swift       | 2023-11-29   |
+|  9 | [shadowsocks-iOS](https://github.com/binss/shadowsocks-iOS)                               | 2018-02-06 | Objective-C | 2023-10-13   |
+| 10 | [smiley-sans](https://github.com/atelier-anchor/smiley-sans)                              | 2022-11-24 | HTML        | 2023-12-22   |
 
 <!--END_SECTION:my_github-->
