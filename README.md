@@ -41,17 +41,17 @@
 | sum |                                                                   |                                                                     |                                                                     |          |                                                                                      6 |
 
 ## The repos I stared (random 10)
-| ID |                                           REPO                                            | STAREDDATE |  LANGUAGE   | LATESTUPDATE |
-|----|-------------------------------------------------------------------------------------------|------------|-------------|--------------|
-|  1 | [The-Economist](https://github.com/nailperry-zd/The-Economist)                            | 2019-07-06 | md          | 2023-12-22   |
-|  2 | [LYCustomTransition](https://github.com/dev-liyang/LYCustomTransition)                    | 2018-03-05 | Objective-C | 2023-12-14   |
-|  3 | [hello](https://github.com/nat/hello)                                                     | 2018-10-29 | HTML        | 2023-03-04   |
-|  4 | [YoCelsius](https://github.com/YouXianMing/YoCelsius)                                     | 2017-02-09 | Objective-C | 2023-11-13   |
-|  5 | [LeetCode-Swift](https://github.com/soapyigu/LeetCode-Swift)                              | 2021-05-27 | Swift       | 2023-12-22   |
-|  6 | [extended_image](https://github.com/fluttercandies/extended_image)                        | 2021-07-20 | Dart        | 2023-12-22   |
-|  7 | [PocketSocket](https://github.com/zwopple/PocketSocket)                                   | 2021-01-21 | Objective-C | 2023-12-10   |
-|  8 | [WWDC2022-SwiftUINodeEditor](https://github.com/JustinFincher/WWDC2022-SwiftUINodeEditor) | 2022-05-25 | Swift       | 2023-11-29   |
-|  9 | [shadowsocks-iOS](https://github.com/binss/shadowsocks-iOS)                               | 2018-02-06 | Objective-C | 2023-10-13   |
-| 10 | [smiley-sans](https://github.com/atelier-anchor/smiley-sans)                              | 2022-11-24 | HTML        | 2023-12-22   |
+| ID |                                             REPO                                             | STAREDDATE |  LANGUAGE   | LATESTUPDATE |
+|----|----------------------------------------------------------------------------------------------|------------|-------------|--------------|
+|  1 | [xcinfo](https://github.com/xcodereleases/xcinfo)                                            | 2020-12-24 | Swift       | 2023-10-17   |
+|  2 | [awesome-ios-animation](https://github.com/onmyway133/awesome-ios-animation)                 | 2016-06-03 | md          | 2023-12-20   |
+|  3 | [BSBacktraceLogger](https://github.com/bestswifter/BSBacktraceLogger)                        | 2020-08-05 | Objective-C | 2023-12-19   |
+|  4 | [MonkeyKing](https://github.com/nixzhu/MonkeyKing)                                           | 2020-06-18 | Swift       | 2023-12-15   |
+|  5 | [ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web)                       | 2023-03-31 | TypeScript  | 2023-12-24   |
+|  6 | [blog](https://github.com/waynezhang/blog)                                                   | 2017-03-28 | SCSS        | 2023-01-22   |
+|  7 | [Xcode-iOS-Developer-Disk-Image](https://github.com/xushuduo/Xcode-iOS-Developer-Disk-Image) | 2019-10-31 | md          | 2023-11-14   |
+|  8 | [SourceCodeAnalysis](https://github.com/CoderLNHui/SourceCodeAnalysis)                       | 2017-07-07 | Objective-C | 2023-11-26   |
+|  9 | [Sheeeeeeeeet](https://github.com/danielsaidi/Sheeeeeeeeet)                                  | 2023-11-18 | Swift       | 2023-12-22   |
+| 10 | [IceCubesApp](https://github.com/Dimillian/IceCubesApp)                                      | 2023-10-14 | Swift       | 2023-12-23   |
 
 <!--END_SECTION:my_github-->
