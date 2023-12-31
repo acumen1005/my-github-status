@@ -41,17 +41,17 @@
 | sum |                                                                   |                                                                     |                                                                     |          |                                                                                      6 |
 
 ## The repos I stared (random 10)
-| ID |                                             REPO                                             | STAREDDATE |  LANGUAGE   | LATESTUPDATE |
-|----|----------------------------------------------------------------------------------------------|------------|-------------|--------------|
-|  1 | [xcinfo](https://github.com/xcodereleases/xcinfo)                                            | 2020-12-24 | Swift       | 2023-10-17   |
-|  2 | [awesome-ios-animation](https://github.com/onmyway133/awesome-ios-animation)                 | 2016-06-03 | md          | 2023-12-20   |
-|  3 | [BSBacktraceLogger](https://github.com/bestswifter/BSBacktraceLogger)                        | 2020-08-05 | Objective-C | 2023-12-19   |
-|  4 | [MonkeyKing](https://github.com/nixzhu/MonkeyKing)                                           | 2020-06-18 | Swift       | 2023-12-15   |
-|  5 | [ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web)                       | 2023-03-31 | TypeScript  | 2023-12-24   |
-|  6 | [blog](https://github.com/waynezhang/blog)                                                   | 2017-03-28 | SCSS        | 2023-01-22   |
-|  7 | [Xcode-iOS-Developer-Disk-Image](https://github.com/xushuduo/Xcode-iOS-Developer-Disk-Image) | 2019-10-31 | md          | 2023-11-14   |
-|  8 | [SourceCodeAnalysis](https://github.com/CoderLNHui/SourceCodeAnalysis)                       | 2017-07-07 | Objective-C | 2023-11-26   |
-|  9 | [Sheeeeeeeeet](https://github.com/danielsaidi/Sheeeeeeeeet)                                  | 2023-11-18 | Swift       | 2023-12-22   |
-| 10 | [IceCubesApp](https://github.com/Dimillian/IceCubesApp)                                      | 2023-10-14 | Swift       | 2023-12-23   |
+| ID |                                          REPO                                           | STAREDDATE |  LANGUAGE   | LATESTUPDATE |
+|----|-----------------------------------------------------------------------------------------|------------|-------------|--------------|
+|  1 | [SwipeTableView](https://github.com/liangdrime/SwipeTableView)                          | 2017-08-09 | Objective-C | 2023-12-29   |
+|  2 | [app-privacy-policy-generator](https://github.com/nisrulz/app-privacy-policy-generator) | 2022-06-13 | Sass        | 2023-12-28   |
+|  3 | [socket.io](https://github.com/socketio/socket.io)                                      | 2017-08-24 | TypeScript  | 2023-12-30   |
+|  4 | [ImagePalette](https://github.com/shnhrrsn/ImagePalette)                                | 2020-12-11 | Swift       | 2023-10-08   |
+|  5 | [Quick](https://github.com/Quick/Quick)                                                 | 2018-07-16 | Swift       | 2023-12-29   |
+|  6 | [iOS-DeviceSupport](https://github.com/iGhibli/iOS-DeviceSupport)                       | 2022-02-28 | Python      | 2023-12-28   |
+|  7 | [Tiercel](https://github.com/Danie1s/Tiercel)                                           | 2020-06-02 | Swift       | 2023-12-30   |
+|  8 | [SwiftLint](https://github.com/realm/SwiftLint)                                         | 2021-05-02 | Swift       | 2023-12-30   |
+|  9 | [SwiftRichString](https://github.com/malcommac/SwiftRichString)                         | 2019-07-08 | Swift       | 2023-12-30   |
+| 10 | [objc_cover](https://github.com/nst/objc_cover)                                         | 2020-07-20 | Python      | 2023-12-08   |
 
 <!--END_SECTION:my_github-->
