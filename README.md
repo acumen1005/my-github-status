@@ -36,22 +36,22 @@
 |-----|-------------------------------------------------------------------|---------------------------------------------------------------------|---------------------------------------------------------------------|----------|----------------------------------------------------------------------------------------|
 |   1 | [flutter](https://github.com/flutter/flutter)                     | [2023-02-06](https://github.com/flutter/flutter/pull/120081)        | [2023-03-19](https://github.com/flutter/flutter/pull/122973)        | Dart     | [2](https://github.com/flutter/flutter/pulls?q=is%3Apr+author%3Aacumen1005)            |
 |   2 | [WeChatICU-ForMac](https://github.com/MustangYM/WeChatICU-ForMac) | [2021-04-14](https://github.com/MustangYM/WeChatICU-ForMac/pull/32) | [2021-05-07](https://github.com/MustangYM/WeChatICU-ForMac/pull/35) | md       | [2](https://github.com/MustangYM/WeChatICU-ForMac/pulls?q=is%3Apr+author%3Aacumen1005) |
-|   3 | [zlldb](https://github.com/everettjf/zlldb)                       | [2021-04-25](https://github.com/everettjf/zlldb/pull/3)             | [2021-04-25](https://github.com/everettjf/zlldb/pull/3)             | Python   | [1](https://github.com/everettjf/zlldb/pulls?q=is%3Apr+author%3Aacumen1005)            |
-|   4 | [Aquaman](https://github.com/bawn/Aquaman)                        | [2021-03-10](https://github.com/bawn/Aquaman/pull/7)                | [2021-03-10](https://github.com/bawn/Aquaman/pull/7)                | Swift    | [1](https://github.com/bawn/Aquaman/pulls?q=is%3Apr+author%3Aacumen1005)               |
+|   3 | [Aquaman](https://github.com/bawn/Aquaman)                        | [2021-03-10](https://github.com/bawn/Aquaman/pull/7)                | [2021-03-10](https://github.com/bawn/Aquaman/pull/7)                | Swift    | [1](https://github.com/bawn/Aquaman/pulls?q=is%3Apr+author%3Aacumen1005)               |
+|   4 | [zlldb](https://github.com/everettjf/zlldb)                       | [2021-04-25](https://github.com/everettjf/zlldb/pull/3)             | [2021-04-25](https://github.com/everettjf/zlldb/pull/3)             | Python   | [1](https://github.com/everettjf/zlldb/pulls?q=is%3Apr+author%3Aacumen1005)            |
 | sum |                                                                   |                                                                     |                                                                     |          |                                                                                      6 |
 
 ## The repos I stared (random 10)
 | ID |                                          REPO                                           | STAREDDATE |  LANGUAGE   | LATESTUPDATE |
 |----|-----------------------------------------------------------------------------------------|------------|-------------|--------------|
-|  1 | [SwipeTableView](https://github.com/liangdrime/SwipeTableView)                          | 2017-08-09 | Objective-C | 2023-12-29   |
-|  2 | [app-privacy-policy-generator](https://github.com/nisrulz/app-privacy-policy-generator) | 2022-06-13 | Sass        | 2023-12-28   |
-|  3 | [socket.io](https://github.com/socketio/socket.io)                                      | 2017-08-24 | TypeScript  | 2023-12-30   |
-|  4 | [ImagePalette](https://github.com/shnhrrsn/ImagePalette)                                | 2020-12-11 | Swift       | 2023-10-08   |
-|  5 | [Quick](https://github.com/Quick/Quick)                                                 | 2018-07-16 | Swift       | 2023-12-29   |
-|  6 | [iOS-DeviceSupport](https://github.com/iGhibli/iOS-DeviceSupport)                       | 2022-02-28 | Python      | 2023-12-28   |
-|  7 | [Tiercel](https://github.com/Danie1s/Tiercel)                                           | 2020-06-02 | Swift       | 2023-12-30   |
-|  8 | [SwiftLint](https://github.com/realm/SwiftLint)                                         | 2021-05-02 | Swift       | 2023-12-30   |
-|  9 | [SwiftRichString](https://github.com/malcommac/SwiftRichString)                         | 2019-07-08 | Swift       | 2023-12-30   |
-| 10 | [objc_cover](https://github.com/nst/objc_cover)                                         | 2020-07-20 | Python      | 2023-12-08   |
+|  1 | [SwiftUI-Animations](https://github.com/Shubham0812/SwiftUI-Animations)                 | 2020-11-19 | Swift       | 2024-01-04   |
+|  2 | [ios-oss](https://github.com/kickstarter/ios-oss)                                       | 2020-06-10 | Swift       | 2024-01-05   |
+|  3 | [iOS-Performance-Optimization](https://github.com/skyming/iOS-Performance-Optimization) | 2017-05-08 | Objective-C | 2024-01-05   |
+|  4 | [RxTheme](https://github.com/RxSwiftCommunity/RxTheme)                                  | 2019-05-29 | Swift       | 2023-12-07   |
+|  5 | [chrome-plugin](https://github.com/SHERRYWANNA/chrome-plugin)                           | 2020-02-28 | md          | 2020-02-28   |
+|  6 | [SplitSheet](https://github.com/aheze/SplitSheet)                                       | 2022-12-11 | Swift       | 2023-12-06   |
+|  7 | [Learning-SICP](https://github.com/DeathKing/Learning-SICP)                             | 2018-11-07 | Ruby        | 2024-01-06   |
+|  8 | [open-swiftui-animations](https://github.com/amosgyamfi/open-swiftui-animations)        | 2021-05-02 | Swift       | 2024-01-06   |
+|  9 | [ZIKCellularAuthorization](https://github.com/Zuikyo/ZIKCellularAuthorization)          | 2018-01-12 | Objective-C | 2023-12-28   |
+| 10 | [AltStore](https://github.com/altstoreio/AltStore)                                      | 2020-04-24 | Swift       | 2024-01-07   |
 
 <!--END_SECTION:my_github-->
