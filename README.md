@@ -34,24 +34,24 @@
 ## The repos I contributed to
 | ID  |                               REPO                                |                              FIRSTDATE                              |                              LASTDATE                               | LANGUAGE |                                        PRCOUNT                                         |
 |-----|-------------------------------------------------------------------|---------------------------------------------------------------------|---------------------------------------------------------------------|----------|----------------------------------------------------------------------------------------|
-|   1 | [flutter](https://github.com/flutter/flutter)                     | [2023-02-06](https://github.com/flutter/flutter/pull/120081)        | [2023-03-19](https://github.com/flutter/flutter/pull/122973)        | Dart     | [2](https://github.com/flutter/flutter/pulls?q=is%3Apr+author%3Aacumen1005)            |
-|   2 | [WeChatICU-ForMac](https://github.com/MustangYM/WeChatICU-ForMac) | [2021-04-14](https://github.com/MustangYM/WeChatICU-ForMac/pull/32) | [2021-05-07](https://github.com/MustangYM/WeChatICU-ForMac/pull/35) | md       | [2](https://github.com/MustangYM/WeChatICU-ForMac/pulls?q=is%3Apr+author%3Aacumen1005) |
+|   1 | [WeChatICU-ForMac](https://github.com/MustangYM/WeChatICU-ForMac) | [2021-04-14](https://github.com/MustangYM/WeChatICU-ForMac/pull/32) | [2021-05-07](https://github.com/MustangYM/WeChatICU-ForMac/pull/35) | md       | [2](https://github.com/MustangYM/WeChatICU-ForMac/pulls?q=is%3Apr+author%3Aacumen1005) |
+|   2 | [flutter](https://github.com/flutter/flutter)                     | [2023-02-06](https://github.com/flutter/flutter/pull/120081)        | [2023-03-19](https://github.com/flutter/flutter/pull/122973)        | Dart     | [2](https://github.com/flutter/flutter/pulls?q=is%3Apr+author%3Aacumen1005)            |
 |   3 | [zlldb](https://github.com/everettjf/zlldb)                       | [2021-04-25](https://github.com/everettjf/zlldb/pull/3)             | [2021-04-25](https://github.com/everettjf/zlldb/pull/3)             | Python   | [1](https://github.com/everettjf/zlldb/pulls?q=is%3Apr+author%3Aacumen1005)            |
 |   4 | [Aquaman](https://github.com/bawn/Aquaman)                        | [2021-03-10](https://github.com/bawn/Aquaman/pull/7)                | [2021-03-10](https://github.com/bawn/Aquaman/pull/7)                | Swift    | [1](https://github.com/bawn/Aquaman/pulls?q=is%3Apr+author%3Aacumen1005)               |
 | sum |                                                                   |                                                                     |                                                                     |          |                                                                                      6 |
 
 ## The repos I stared (random 10)
-| ID |                               REPO                               | STAREDDATE |  LANGUAGE   | LATESTUPDATE |
-|----|------------------------------------------------------------------|------------|-------------|--------------|
-|  1 | [FLEX](https://github.com/FLEXTool/FLEX)                         | 2018-02-01 | Objective-C | 2024-01-13   |
-|  2 | [awesome-swift](https://github.com/matteocrippa/awesome-swift)   | 2016-12-28 | Ruby        | 2024-01-13   |
-|  3 | [front-end-rss](https://github.com/ChanceYu/front-end-rss)       | 2020-07-15 | Vue         | 2024-01-12   |
-|  4 | [marktext](https://github.com/marktext/marktext)                 | 2018-04-17 | JavaScript  | 2024-01-13   |
-|  5 | [HowToCook](https://github.com/Anduin2017/HowToCook)             | 2022-02-19 | Shell       | 2024-01-14   |
-|  6 | [matrix](https://github.com/Tencent/matrix)                      | 2020-09-29 | Java        | 2024-01-12   |
-|  7 | [dalai](https://github.com/cocktailpeanut/dalai)                 | 2023-03-24 | CSS         | 2024-01-13   |
-|  8 | [CloudKitCodable](https://github.com/insidegui/CloudKitCodable)  | 2020-06-03 | Swift       | 2024-01-11   |
-|  9 | [NetNewsWire](https://github.com/Ranchero-Software/NetNewsWire)  | 2020-11-23 | Swift       | 2024-01-13   |
-| 10 | [tomorrow-theme](https://github.com/chriskempson/tomorrow-theme) | 2016-12-06 | CSS         | 2024-01-13   |
+| ID |                                            REPO                                            | STAREDDATE |  LANGUAGE   | LATESTUPDATE |
+|----|--------------------------------------------------------------------------------------------|------------|-------------|--------------|
+|  1 | [SwipeTableView](https://github.com/liangdrime/SwipeTableView)                             | 2017-08-09 | Objective-C | 2024-01-04   |
+|  2 | [Optimizing-Swift-Build-Times](https://github.com/fastred/Optimizing-Swift-Build-Times)    | 2017-11-09 | Swift       | 2024-01-12   |
+|  3 | [SwiftMessages](https://github.com/SwiftKickMobile/SwiftMessages)                          | 2020-01-15 | Swift       | 2024-01-20   |
+|  4 | [ConfettiSwiftUI](https://github.com/simibac/ConfettiSwiftUI)                              | 2022-05-21 | Swift       | 2024-01-19   |
+|  5 | [FLEX](https://github.com/FLEXTool/FLEX)                                                   | 2018-02-01 | Objective-C | 2024-01-20   |
+|  6 | [app-privacy-policy-generator](https://github.com/nisrulz/app-privacy-policy-generator)    | 2022-06-13 | Sass        | 2024-01-20   |
+|  7 | [NetworkLayerExample](https://github.com/tomkowz/NetworkLayerExample)                      | 2017-04-26 | Swift       | 2023-07-15   |
+|  8 | [bytedance-alibaba-interview](https://github.com/colourful987/bytedance-alibaba-interview) | 2020-06-02 | Shell       | 2024-01-18   |
+|  9 | [SwiftRichString](https://github.com/malcommac/SwiftRichString)                            | 2019-07-08 | Swift       | 2024-01-20   |
+| 10 | [swift-collections-benchmark](https://github.com/apple/swift-collections-benchmark)        | 2021-04-06 | Swift       | 2024-01-15   |
 
 <!--END_SECTION:my_github-->
