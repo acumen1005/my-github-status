@@ -41,17 +41,17 @@
 | sum |                                                                   |                                                                     |                                                                     |          |                                                                                      6 |
 
 ## The repos I stared (random 10)
-| ID |                                    REPO                                    | STAREDDATE |  LANGUAGE   | LATESTUPDATE |
-|----|----------------------------------------------------------------------------|------------|-------------|--------------|
-|  1 | [ShoB](https://github.com/bdaralan/ShoB)                                   | 2020-07-01 | Swift       | 2024-01-03   |
-|  2 | [XcodeGen](https://github.com/yonaskolb/XcodeGen)                          | 2019-09-11 | Swift       | 2024-02-17   |
-|  3 | [TYCyclePagerView](https://github.com/12207480/TYCyclePagerView)           | 2017-07-27 | Objective-C | 2024-02-04   |
-|  4 | [atswift-2018-resources](https://github.com/atConf/atswift-2018-resources) | 2018-09-18 | md          | 2023-09-19   |
-|  5 | [xcinfo](https://github.com/xcodereleases/xcinfo)                          | 2020-12-24 | Swift       | 2024-02-13   |
-|  6 | [YoCelsius](https://github.com/YouXianMing/YoCelsius)                      | 2017-02-09 | Objective-C | 2024-01-30   |
-|  7 | [Cards](https://github.com/PaoloCuscela/Cards)                             | 2018-04-26 | Swift       | 2024-02-04   |
-|  8 | [cwa-app-ios](https://github.com/corona-warn-app/cwa-app-ios)              | 2020-06-17 | Swift       | 2024-01-28   |
-|  9 | [SocketRocket](https://github.com/facebookincubator/SocketRocket)          | 2019-08-19 | Objective-C | 2024-02-16   |
-| 10 | [v2ex-gae](https://github.com/livid/v2ex-gae)                              | 2017-03-22 | Python      | 2024-01-28   |
+| ID |                                           REPO                                            | STAREDDATE |  LANGUAGE   | LATESTUPDATE |
+|----|-------------------------------------------------------------------------------------------|------------|-------------|--------------|
+|  1 | [MochiDiffusion](https://github.com/godly-devotion/MochiDiffusion)                        | 2023-04-02 | Swift       | 2024-02-22   |
+|  2 | [Setting](https://github.com/aheze/Setting)                                               | 2024-02-03 | Swift       | 2024-02-23   |
+|  3 | [SPStorkController](https://github.com/ivanvorobei/SPStorkController)                     | 2019-04-19 | Swift       | 2024-02-20   |
+|  4 | [django-rest-framework](https://github.com/encode/django-rest-framework)                  | 2016-10-25 | Python      | 2024-02-22   |
+|  5 | [iOS-Performance-Optimization](https://github.com/skyming/iOS-Performance-Optimization)   | 2017-05-08 | Objective-C | 2024-02-21   |
+|  6 | [XcodeCleaner](https://github.com/waylybaye/XcodeCleaner)                                 | 2017-10-17 | Objective-C | 2024-02-22   |
+|  7 | [JASONETTE-iOS](https://github.com/Jasonette/JASONETTE-iOS)                               | 2017-02-16 | JavaScript  | 2024-02-21   |
+|  8 | [analyze](https://github.com/draveness/analyze)                                           | 2017-09-12 | Objective-C | 2024-02-22   |
+|  9 | [IrregularGradient](https://github.com/joogps/IrregularGradient)                          | 2024-02-06 | Swift       | 2024-02-22   |
+| 10 | [Solve-App-Store-Review-Problem](https://github.com/wg689/Solve-App-Store-Review-Problem) | 2016-09-12 | Objective-C | 2024-02-19   |
 
 <!--END_SECTION:my_github-->
