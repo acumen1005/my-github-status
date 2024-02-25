@@ -41,17 +41,17 @@
 | sum |                                                                   |                                                                     |                                                                     |          |                                                                                      6 |
 
 ## The repos I stared (random 10)
-| ID |                                           REPO                                            | STAREDDATE |  LANGUAGE   | LATESTUPDATE |
-|----|-------------------------------------------------------------------------------------------|------------|-------------|--------------|
-|  1 | [MochiDiffusion](https://github.com/godly-devotion/MochiDiffusion)                        | 2023-04-02 | Swift       | 2024-02-22   |
-|  2 | [Setting](https://github.com/aheze/Setting)                                               | 2024-02-03 | Swift       | 2024-02-23   |
-|  3 | [SPStorkController](https://github.com/ivanvorobei/SPStorkController)                     | 2019-04-19 | Swift       | 2024-02-20   |
-|  4 | [django-rest-framework](https://github.com/encode/django-rest-framework)                  | 2016-10-25 | Python      | 2024-02-22   |
-|  5 | [iOS-Performance-Optimization](https://github.com/skyming/iOS-Performance-Optimization)   | 2017-05-08 | Objective-C | 2024-02-21   |
-|  6 | [XcodeCleaner](https://github.com/waylybaye/XcodeCleaner)                                 | 2017-10-17 | Objective-C | 2024-02-22   |
-|  7 | [JASONETTE-iOS](https://github.com/Jasonette/JASONETTE-iOS)                               | 2017-02-16 | JavaScript  | 2024-02-21   |
-|  8 | [analyze](https://github.com/draveness/analyze)                                           | 2017-09-12 | Objective-C | 2024-02-22   |
-|  9 | [IrregularGradient](https://github.com/joogps/IrregularGradient)                          | 2024-02-06 | Swift       | 2024-02-22   |
-| 10 | [Solve-App-Store-Review-Problem](https://github.com/wg689/Solve-App-Store-Review-Problem) | 2016-09-12 | Objective-C | 2024-02-19   |
+| ID |                                REPO                                 | STAREDDATE |  LANGUAGE   | LATESTUPDATE |
+|----|---------------------------------------------------------------------|------------|-------------|--------------|
+|  1 | [WRNavigationBar](https://github.com/wangrui460/WRNavigationBar)    | 2017-07-12 | Objective-C | 2024-02-24   |
+|  2 | [hello-algo](https://github.com/krahets/hello-algo)                 | 2023-11-30 | Java        | 2024-02-25   |
+|  3 | [iOS11](https://github.com/2877025939/iOS11)                        | 2017-09-28 | md          | 2023-12-29   |
+|  4 | [DZNEmptyDataSet](https://github.com/dzenbot/DZNEmptyDataSet)       | 2018-05-28 | Objective-C | 2024-02-24   |
+|  5 | [GRsync](https://github.com/clyang/GRsync)                          | 2023-10-11 | Python      | 2024-02-04   |
+|  6 | [PNChart](https://github.com/kevinzhow/PNChart)                     | 2016-09-20 | Objective-C | 2024-02-24   |
+|  7 | [iWeChat](https://github.com/lefex/iWeChat)                         | 2019-11-20 | Objective-C | 2024-02-22   |
+|  8 | [merchantkit](https://github.com/benjaminmayo/merchantkit)          | 2018-04-08 | Swift       | 2024-02-19   |
+|  9 | [forever-coolshell](https://github.com/soulteary/forever-coolshell) | 2023-05-17 | HTML        | 2024-02-23   |
+| 10 | [FastOCR](https://github.com/BruceZhang1993/FastOCR)                | 2022-04-14 | Python      | 2024-01-31   |
 
 <!--END_SECTION:my_github-->
