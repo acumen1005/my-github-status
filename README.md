@@ -38,20 +38,21 @@
 |   2 | [WeChatICU-ForMac](https://github.com/MustangYM/WeChatICU-ForMac) | [2021-04-14](https://github.com/MustangYM/WeChatICU-ForMac/pull/32) | [2021-05-07](https://github.com/MustangYM/WeChatICU-ForMac/pull/35) | md       | [2](https://github.com/MustangYM/WeChatICU-ForMac/pulls?q=is%3Apr+author%3Aacumen1005) |
 |   3 | [zlldb](https://github.com/everettjf/zlldb)                       | [2021-04-25](https://github.com/everettjf/zlldb/pull/3)             | [2021-04-25](https://github.com/everettjf/zlldb/pull/3)             | Python   | [1](https://github.com/everettjf/zlldb/pulls?q=is%3Apr+author%3Aacumen1005)            |
 |   4 | [Aquaman](https://github.com/bawn/Aquaman)                        | [2021-03-10](https://github.com/bawn/Aquaman/pull/7)                | [2021-03-10](https://github.com/bawn/Aquaman/pull/7)                | Swift    | [1](https://github.com/bawn/Aquaman/pulls?q=is%3Apr+author%3Aacumen1005)               |
-| sum |                                                                   |                                                                     |                                                                     |          |                                                                                      6 |
+|   5 | [HanziPinyin](https://github.com/teambition/HanziPinyin)          | [2024-03-02](https://github.com/teambition/HanziPinyin/pull/9)      | [2024-03-02](https://github.com/teambition/HanziPinyin/pull/9)      | Swift    | [1](https://github.com/teambition/HanziPinyin/pulls?q=is%3Apr+author%3Aacumen1005)     |
+| sum |                                                                   |                                                                     |                                                                     |          |                                                                                      7 |
 
 ## The repos I stared (random 10)
-| ID |                                REPO                                 | STAREDDATE |  LANGUAGE   | LATESTUPDATE |
-|----|---------------------------------------------------------------------|------------|-------------|--------------|
-|  1 | [WRNavigationBar](https://github.com/wangrui460/WRNavigationBar)    | 2017-07-12 | Objective-C | 2024-02-24   |
-|  2 | [hello-algo](https://github.com/krahets/hello-algo)                 | 2023-11-30 | Java        | 2024-02-25   |
-|  3 | [iOS11](https://github.com/2877025939/iOS11)                        | 2017-09-28 | md          | 2023-12-29   |
-|  4 | [DZNEmptyDataSet](https://github.com/dzenbot/DZNEmptyDataSet)       | 2018-05-28 | Objective-C | 2024-02-24   |
-|  5 | [GRsync](https://github.com/clyang/GRsync)                          | 2023-10-11 | Python      | 2024-02-04   |
-|  6 | [PNChart](https://github.com/kevinzhow/PNChart)                     | 2016-09-20 | Objective-C | 2024-02-24   |
-|  7 | [iWeChat](https://github.com/lefex/iWeChat)                         | 2019-11-20 | Objective-C | 2024-02-22   |
-|  8 | [merchantkit](https://github.com/benjaminmayo/merchantkit)          | 2018-04-08 | Swift       | 2024-02-19   |
-|  9 | [forever-coolshell](https://github.com/soulteary/forever-coolshell) | 2023-05-17 | HTML        | 2024-02-23   |
-| 10 | [FastOCR](https://github.com/BruceZhang1993/FastOCR)                | 2022-04-14 | Python      | 2024-01-31   |
+| ID |                                                REPO                                                 | STAREDDATE | LANGUAGE | LATESTUPDATE |
+|----|-----------------------------------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [iOS-Weekly](https://github.com/SwiftOldDriver/iOS-Weekly)                                          | 2018-06-25 | md       | 2024-03-01   |
+|  2 | [Tiercel](https://github.com/Danie1s/Tiercel)                                                       | 2020-06-02 | Swift    | 2024-02-29   |
+|  3 | [RxTheme](https://github.com/RxSwiftCommunity/RxTheme)                                              | 2019-05-29 | Swift    | 2024-02-20   |
+|  4 | [SwiftUI-Code-Examples](https://github.com/NilCoalescing/SwiftUI-Code-Examples)                     | 2023-04-10 | Swift    | 2024-02-25   |
+|  5 | [tuist](https://github.com/tuist/tuist)                                                             | 2023-04-11 | Swift    | 2024-03-02   |
+|  6 | [HalfModalPresentationController](https://github.com/martinnormark/HalfModalPresentationController) | 2019-04-19 | Swift    | 2024-02-11   |
+|  7 | [English-level-up-tips](https://github.com/byoungd/English-level-up-tips)                           | 2017-12-26 | HTML     | 2024-03-03   |
+|  8 | [HelloGitHub](https://github.com/521xueweihan/HelloGitHub)                                          | 2019-05-09 | Python   | 2024-03-03   |
+|  9 | [fishhook](https://github.com/facebook/fishhook)                                                    | 2020-08-14 | C        | 2024-03-01   |
+| 10 | [play_with_llvm](https://github.com/tuoxie007/play_with_llvm)                                       | 2018-07-27 | C++      | 2024-02-19   |
 
 <!--END_SECTION:my_github-->
