@@ -42,17 +42,17 @@
 | sum |                                                                   |                                                                     |                                                                     |          |                                                                                      7 |
 
 ## The repos I stared (random 10)
-| ID |                                                REPO                                                 | STAREDDATE | LANGUAGE | LATESTUPDATE |
-|----|-----------------------------------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [iOS-Weekly](https://github.com/SwiftOldDriver/iOS-Weekly)                                          | 2018-06-25 | md       | 2024-03-01   |
-|  2 | [Tiercel](https://github.com/Danie1s/Tiercel)                                                       | 2020-06-02 | Swift    | 2024-02-29   |
-|  3 | [RxTheme](https://github.com/RxSwiftCommunity/RxTheme)                                              | 2019-05-29 | Swift    | 2024-02-20   |
-|  4 | [SwiftUI-Code-Examples](https://github.com/NilCoalescing/SwiftUI-Code-Examples)                     | 2023-04-10 | Swift    | 2024-02-25   |
-|  5 | [tuist](https://github.com/tuist/tuist)                                                             | 2023-04-11 | Swift    | 2024-03-02   |
-|  6 | [HalfModalPresentationController](https://github.com/martinnormark/HalfModalPresentationController) | 2019-04-19 | Swift    | 2024-02-11   |
-|  7 | [English-level-up-tips](https://github.com/byoungd/English-level-up-tips)                           | 2017-12-26 | HTML     | 2024-03-03   |
-|  8 | [HelloGitHub](https://github.com/521xueweihan/HelloGitHub)                                          | 2019-05-09 | Python   | 2024-03-03   |
-|  9 | [fishhook](https://github.com/facebook/fishhook)                                                    | 2020-08-14 | C        | 2024-03-01   |
-| 10 | [play_with_llvm](https://github.com/tuoxie007/play_with_llvm)                                       | 2018-07-27 | C++      | 2024-02-19   |
+| ID |                              REPO                              | STAREDDATE |  LANGUAGE   | LATESTUPDATE |
+|----|----------------------------------------------------------------|------------|-------------|--------------|
+|  1 | [mosaic](https://github.com/sausheong/mosaic)                  | 2017-06-12 | Go          | 2023-04-03   |
+|  2 | [Student-resources](https://github.com/ivmm/Student-resources) | 2017-06-05 | md          | 2024-03-09   |
+|  3 | [flutter_clock](https://github.com/flutter/flutter_clock)      | 2020-08-26 | Dart        | 2024-02-19   |
+|  4 | [iina](https://github.com/iina/iina)                           | 2019-05-07 | Swift       | 2024-03-09   |
+|  5 | [JHBlog](https://github.com/SunshineBrother/JHBlog)            | 2020-05-24 | Objective-C | 2024-03-09   |
+|  6 | [PNChart](https://github.com/kevinzhow/PNChart)                | 2016-09-20 | Objective-C | 2024-03-04   |
+|  7 | [tldraw](https://github.com/tldraw/tldraw)                     | 2021-12-01 | TypeScript  | 2024-03-09   |
+|  8 | [front-end-rss](https://github.com/ChanceYu/front-end-rss)     | 2020-07-15 | Vue         | 2024-03-08   |
+|  9 | [JXCategoryView](https://github.com/pujiaxin33/JXCategoryView) | 2018-09-13 | Objective-C | 2024-03-08   |
+| 10 | [hexo](https://github.com/hexojs/hexo)                         | 2018-03-02 | TypeScript  | 2024-03-09   |
 
 <!--END_SECTION:my_github-->
