@@ -42,17 +42,17 @@
 | sum |                                                                   |                                                                     |                                                                     |          |                                                                                      7 |
 
 ## The repos I stared (random 10)
-| ID |                              REPO                              | STAREDDATE |  LANGUAGE   | LATESTUPDATE |
-|----|----------------------------------------------------------------|------------|-------------|--------------|
-|  1 | [mosaic](https://github.com/sausheong/mosaic)                  | 2017-06-12 | Go          | 2023-04-03   |
-|  2 | [Student-resources](https://github.com/ivmm/Student-resources) | 2017-06-05 | md          | 2024-03-09   |
-|  3 | [flutter_clock](https://github.com/flutter/flutter_clock)      | 2020-08-26 | Dart        | 2024-02-19   |
-|  4 | [iina](https://github.com/iina/iina)                           | 2019-05-07 | Swift       | 2024-03-09   |
-|  5 | [JHBlog](https://github.com/SunshineBrother/JHBlog)            | 2020-05-24 | Objective-C | 2024-03-09   |
-|  6 | [PNChart](https://github.com/kevinzhow/PNChart)                | 2016-09-20 | Objective-C | 2024-03-04   |
-|  7 | [tldraw](https://github.com/tldraw/tldraw)                     | 2021-12-01 | TypeScript  | 2024-03-09   |
-|  8 | [front-end-rss](https://github.com/ChanceYu/front-end-rss)     | 2020-07-15 | Vue         | 2024-03-08   |
-|  9 | [JXCategoryView](https://github.com/pujiaxin33/JXCategoryView) | 2018-09-13 | Objective-C | 2024-03-08   |
-| 10 | [hexo](https://github.com/hexojs/hexo)                         | 2018-03-02 | TypeScript  | 2024-03-09   |
+| ID |                                                 REPO                                                 | STAREDDATE |  LANGUAGE   | LATESTUPDATE |
+|----|------------------------------------------------------------------------------------------------------|------------|-------------|--------------|
+|  1 | [ios-crash-dump-analysis-book](https://github.com/faisalmemon/ios-crash-dump-analysis-book)          | 2021-05-14 | Objective-C | 2024-03-15   |
+|  2 | [FBMemoryProfiler](https://github.com/facebookarchive/FBMemoryProfiler)                              | 2017-09-14 | Objective-C | 2024-03-15   |
+|  3 | [Todo](https://github.com/fatbobman/Todo)                                                            | 2024-02-24 | Swift       | 2024-02-24   |
+|  4 | [iOS-InterviewQuestion-collection](https://github.com/liberalisman/iOS-InterviewQuestion-collection) | 2018-04-18 | Objective-C | 2024-03-16   |
+|  5 | [Papr](https://github.com/jdisho/Papr)                                                               | 2018-03-26 | Swift       | 2024-03-10   |
+|  6 | [rework](https://github.com/livid/rework)                                                            | 2023-02-27 | md          | 2024-01-24   |
+|  7 | [swift-coreml-diffusers](https://github.com/huggingface/swift-coreml-diffusers)                      | 2023-04-02 | Swift       | 2024-03-15   |
+|  8 | [NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicApi)                            | 2018-10-10 | md          | 2024-03-17   |
+|  9 | [Koloda](https://github.com/Yalantis/Koloda)                                                         | 2019-01-22 | Swift       | 2024-03-16   |
+| 10 | [quill](https://github.com/quilljs/quill)                                                            | 2024-02-28 | TypeScript  | 2024-03-16   |
 
 <!--END_SECTION:my_github-->
