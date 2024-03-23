@@ -36,23 +36,23 @@
 |-----|-------------------------------------------------------------------|---------------------------------------------------------------------|---------------------------------------------------------------------|----------|----------------------------------------------------------------------------------------|
 |   1 | [flutter](https://github.com/flutter/flutter)                     | [2023-02-06](https://github.com/flutter/flutter/pull/120081)        | [2023-03-19](https://github.com/flutter/flutter/pull/122973)        | Dart     | [2](https://github.com/flutter/flutter/pulls?q=is%3Apr+author%3Aacumen1005)            |
 |   2 | [WeChatICU-ForMac](https://github.com/MustangYM/WeChatICU-ForMac) | [2021-04-14](https://github.com/MustangYM/WeChatICU-ForMac/pull/32) | [2021-05-07](https://github.com/MustangYM/WeChatICU-ForMac/pull/35) | md       | [2](https://github.com/MustangYM/WeChatICU-ForMac/pulls?q=is%3Apr+author%3Aacumen1005) |
-|   3 | [zlldb](https://github.com/everettjf/zlldb)                       | [2021-04-25](https://github.com/everettjf/zlldb/pull/3)             | [2021-04-25](https://github.com/everettjf/zlldb/pull/3)             | Python   | [1](https://github.com/everettjf/zlldb/pulls?q=is%3Apr+author%3Aacumen1005)            |
-|   4 | [Aquaman](https://github.com/bawn/Aquaman)                        | [2021-03-10](https://github.com/bawn/Aquaman/pull/7)                | [2021-03-10](https://github.com/bawn/Aquaman/pull/7)                | Swift    | [1](https://github.com/bawn/Aquaman/pulls?q=is%3Apr+author%3Aacumen1005)               |
-|   5 | [HanziPinyin](https://github.com/teambition/HanziPinyin)          | [2024-03-02](https://github.com/teambition/HanziPinyin/pull/9)      | [2024-03-02](https://github.com/teambition/HanziPinyin/pull/9)      | Swift    | [1](https://github.com/teambition/HanziPinyin/pulls?q=is%3Apr+author%3Aacumen1005)     |
+|   3 | [HanziPinyin](https://github.com/teambition/HanziPinyin)          | [2024-03-02](https://github.com/teambition/HanziPinyin/pull/9)      | [2024-03-02](https://github.com/teambition/HanziPinyin/pull/9)      | Swift    | [1](https://github.com/teambition/HanziPinyin/pulls?q=is%3Apr+author%3Aacumen1005)     |
+|   4 | [zlldb](https://github.com/everettjf/zlldb)                       | [2021-04-25](https://github.com/everettjf/zlldb/pull/3)             | [2021-04-25](https://github.com/everettjf/zlldb/pull/3)             | Python   | [1](https://github.com/everettjf/zlldb/pulls?q=is%3Apr+author%3Aacumen1005)            |
+|   5 | [Aquaman](https://github.com/bawn/Aquaman)                        | [2021-03-10](https://github.com/bawn/Aquaman/pull/7)                | [2021-03-10](https://github.com/bawn/Aquaman/pull/7)                | Swift    | [1](https://github.com/bawn/Aquaman/pulls?q=is%3Apr+author%3Aacumen1005)               |
 | sum |                                                                   |                                                                     |                                                                     |          |                                                                                      7 |
 
 ## The repos I stared (random 10)
-| ID |                                                 REPO                                                 | STAREDDATE |  LANGUAGE   | LATESTUPDATE |
-|----|------------------------------------------------------------------------------------------------------|------------|-------------|--------------|
-|  1 | [ios-crash-dump-analysis-book](https://github.com/faisalmemon/ios-crash-dump-analysis-book)          | 2021-05-14 | Objective-C | 2024-03-15   |
-|  2 | [FBMemoryProfiler](https://github.com/facebookarchive/FBMemoryProfiler)                              | 2017-09-14 | Objective-C | 2024-03-15   |
-|  3 | [Todo](https://github.com/fatbobman/Todo)                                                            | 2024-02-24 | Swift       | 2024-02-24   |
-|  4 | [iOS-InterviewQuestion-collection](https://github.com/liberalisman/iOS-InterviewQuestion-collection) | 2018-04-18 | Objective-C | 2024-03-16   |
-|  5 | [Papr](https://github.com/jdisho/Papr)                                                               | 2018-03-26 | Swift       | 2024-03-10   |
-|  6 | [rework](https://github.com/livid/rework)                                                            | 2023-02-27 | md          | 2024-01-24   |
-|  7 | [swift-coreml-diffusers](https://github.com/huggingface/swift-coreml-diffusers)                      | 2023-04-02 | Swift       | 2024-03-15   |
-|  8 | [NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicApi)                            | 2018-10-10 | md          | 2024-03-17   |
-|  9 | [Koloda](https://github.com/Yalantis/Koloda)                                                         | 2019-01-22 | Swift       | 2024-03-16   |
-| 10 | [quill](https://github.com/quilljs/quill)                                                            | 2024-02-28 | TypeScript  | 2024-03-16   |
+| ID |                                               REPO                                                | STAREDDATE |  LANGUAGE  | LATESTUPDATE |
+|----|---------------------------------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [swift-algorithm-club](https://github.com/kodecocodes/swift-algorithm-club)                       | 2017-11-27 | Swift      | 2024-03-22   |
+|  2 | [remote-jobs-in-china](https://github.com/LinuxSuRen/remote-jobs-in-china)                        | 2023-05-11 | md         | 2024-03-21   |
+|  3 | [ios-oss](https://github.com/kickstarter/ios-oss)                                                 | 2020-06-10 | Swift      | 2024-03-20   |
+|  4 | [flutter_clock](https://github.com/flutter/flutter_clock)                                         | 2020-08-26 | Dart       | 2024-02-19   |
+|  5 | [Fluid_DynamicIsland](https://github.com/pratikg29/Fluid_DynamicIsland)                           | 2023-05-29 | Swift      | 2024-02-27   |
+|  6 | [bob-plugin-openai-translator](https://github.com/openai-translator/bob-plugin-openai-translator) | 2023-03-01 | JavaScript | 2024-03-22   |
+|  7 | [SplitSheet](https://github.com/aheze/SplitSheet)                                                 | 2022-12-11 | Swift      | 2024-03-11   |
+|  8 | [SideMenu](https://github.com/kukushi/SideMenu)                                                   | 2019-03-28 | Swift      | 2024-03-21   |
+|  9 | [spruce-ios](https://github.com/willowtreeapps/spruce-ios)                                        | 2017-03-21 | Swift      | 2024-03-18   |
+| 10 | [smiley-sans](https://github.com/atelier-anchor/smiley-sans)                                      | 2022-11-24 | HTML       | 2024-03-23   |
 
 <!--END_SECTION:my_github-->
