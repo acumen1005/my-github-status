@@ -34,25 +34,25 @@
 ## The repos I contributed to
 | ID  |                               REPO                                |                              FIRSTDATE                              |                              LASTDATE                               | LANGUAGE |                                        PRCOUNT                                         |
 |-----|-------------------------------------------------------------------|---------------------------------------------------------------------|---------------------------------------------------------------------|----------|----------------------------------------------------------------------------------------|
-|   1 | [WeChatICU-ForMac](https://github.com/MustangYM/WeChatICU-ForMac) | [2021-04-14](https://github.com/MustangYM/WeChatICU-ForMac/pull/32) | [2021-05-07](https://github.com/MustangYM/WeChatICU-ForMac/pull/35) | md       | [2](https://github.com/MustangYM/WeChatICU-ForMac/pulls?q=is%3Apr+author%3Aacumen1005) |
-|   2 | [flutter](https://github.com/flutter/flutter)                     | [2023-02-06](https://github.com/flutter/flutter/pull/120081)        | [2023-03-19](https://github.com/flutter/flutter/pull/122973)        | Dart     | [2](https://github.com/flutter/flutter/pulls?q=is%3Apr+author%3Aacumen1005)            |
+|   1 | [flutter](https://github.com/flutter/flutter)                     | [2023-02-06](https://github.com/flutter/flutter/pull/120081)        | [2023-03-19](https://github.com/flutter/flutter/pull/122973)        | Dart     | [2](https://github.com/flutter/flutter/pulls?q=is%3Apr+author%3Aacumen1005)            |
+|   2 | [WeChatICU-ForMac](https://github.com/MustangYM/WeChatICU-ForMac) | [2021-04-14](https://github.com/MustangYM/WeChatICU-ForMac/pull/32) | [2021-05-07](https://github.com/MustangYM/WeChatICU-ForMac/pull/35) | md       | [2](https://github.com/MustangYM/WeChatICU-ForMac/pulls?q=is%3Apr+author%3Aacumen1005) |
 |   3 | [zlldb](https://github.com/everettjf/zlldb)                       | [2021-04-25](https://github.com/everettjf/zlldb/pull/3)             | [2021-04-25](https://github.com/everettjf/zlldb/pull/3)             | Python   | [1](https://github.com/everettjf/zlldb/pulls?q=is%3Apr+author%3Aacumen1005)            |
 |   4 | [Aquaman](https://github.com/bawn/Aquaman)                        | [2021-03-10](https://github.com/bawn/Aquaman/pull/7)                | [2021-03-10](https://github.com/bawn/Aquaman/pull/7)                | Swift    | [1](https://github.com/bawn/Aquaman/pulls?q=is%3Apr+author%3Aacumen1005)               |
 |   5 | [HanziPinyin](https://github.com/teambition/HanziPinyin)          | [2024-03-02](https://github.com/teambition/HanziPinyin/pull/9)      | [2024-03-02](https://github.com/teambition/HanziPinyin/pull/9)      | Swift    | [1](https://github.com/teambition/HanziPinyin/pulls?q=is%3Apr+author%3Aacumen1005)     |
 | sum |                                                                   |                                                                     |                                                                     |          |                                                                                      7 |
 
 ## The repos I stared (random 10)
-| ID |                                                        REPO                                                         | STAREDDATE |  LANGUAGE   | LATESTUPDATE |
-|----|---------------------------------------------------------------------------------------------------------------------|------------|-------------|--------------|
-|  1 | [mars](https://github.com/Tencent/mars)                                                                             | 2018-01-20 | C++         | 2024-04-05   |
-|  2 | [ChartView](https://github.com/AppPear/ChartView)                                                                   | 2024-03-10 | Swift       | 2024-04-06   |
-|  3 | [swift-best-practices](https://github.com/Lickability/swift-best-practices)                                         | 2019-08-03 | md          | 2024-04-01   |
-|  4 | [iOS9AdaptationTips](https://github.com/ChenYilong/iOS9AdaptationTips)                                              | 2016-09-30 | Objective-C | 2024-04-03   |
-|  5 | [MidJourney-Styles-and-Keywords-Reference](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference) | 2023-03-26 | md          | 2024-04-06   |
-|  6 | [Aerial](https://github.com/JohnCoates/Aerial)                                                                      | 2018-12-28 | Swift       | 2024-04-06   |
-|  7 | [GitHubPoster](https://github.com/yihong0618/GitHubPoster)                                                          | 2021-05-10 | Python      | 2024-04-04   |
-|  8 | [myscript](https://github.com/Kewowlo/myscript)                                                                     | 2020-08-20 | Python      | 2020-08-20   |
-|  9 | [PanoramaGL](https://github.com/shaojiankui/PanoramaGL)                                                             | 2017-11-07 | Objective-C | 2023-10-20   |
-| 10 | [WWDC](https://github.com/Blackjacx/WWDC)                                                                           | 2019-06-17 | Shell       | 2024-04-05   |
+| ID |                                                 REPO                                                 | STAREDDATE |  LANGUAGE   | LATESTUPDATE |
+|----|------------------------------------------------------------------------------------------------------|------------|-------------|--------------|
+|  1 | [Sensei](https://github.com/nixzhu/Sensei)                                                           | 2023-04-11 | Swift       | 2024-04-04   |
+|  2 | [FLEX](https://github.com/FLEXTool/FLEX)                                                             | 2018-02-01 | Objective-C | 2024-04-12   |
+|  3 | [ChromaColorPicker](https://github.com/joncardasis/ChromaColorPicker)                                | 2022-05-04 | Swift       | 2024-04-12   |
+|  4 | [LeetCode-Swift](https://github.com/soapyigu/LeetCode-Swift)                                         | 2021-05-27 | Swift       | 2024-04-12   |
+|  5 | [FBMemoryProfiler](https://github.com/facebookarchive/FBMemoryProfiler)                              | 2017-09-14 | Objective-C | 2024-04-08   |
+|  6 | [HelloGitHub](https://github.com/521xueweihan/HelloGitHub)                                           | 2019-05-09 | Python      | 2024-04-14   |
+|  7 | [tuist](https://github.com/tuist/tuist)                                                              | 2023-04-11 | Swift       | 2024-04-13   |
+|  8 | [SwiftyStoreKit](https://github.com/bizz84/SwiftyStoreKit)                                           | 2022-05-05 | Swift       | 2024-04-13   |
+|  9 | [iOS-InterviewQuestion-collection](https://github.com/liberalisman/iOS-InterviewQuestion-collection) | 2018-04-18 | Objective-C | 2024-04-11   |
+| 10 | [RTRootNavigationController](https://github.com/rickytan/RTRootNavigationController)                 | 2017-08-24 | Objective-C | 2024-04-09   |
 
 <!--END_SECTION:my_github-->
