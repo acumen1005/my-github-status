@@ -24,7 +24,7 @@
 |  14 | [LazyScript](https://github.com/acumen1005/LazyScript)                             | 2016-09-17 | 2016-09-18 | Shell       |     0 |
 |  15 | [LearnNote](https://github.com/acumen1005/LearnNote)                               | 2016-12-09 | 2017-07-19 | md          |     0 |
 |  16 | [Crawler](https://github.com/acumen1005/Crawler)                                   | 2016-03-04 | 2016-03-15 | HTML        |     0 |
-|  17 | [my-github-status](https://github.com/acumen1005/my-github-status)                 | 2021-04-11 | 2024-04-23 | md          |     0 |
+|  17 | [my-github-status](https://github.com/acumen1005/my-github-status)                 | 2021-04-11 | 2024-04-28 | md          |     0 |
 |  18 | [acumen1005](https://github.com/acumen1005/acumen1005)                             | 2020-07-09 | 2022-05-23 | md          |     0 |
 |  19 | [ACPhotoPickerController](https://github.com/acumen1005/ACPhotoPickerController)   | 2017-03-03 | 2018-04-02 | Swift       |     0 |
 |  20 | [CodeClean](https://github.com/acumen1005/CodeClean)                               | 2021-03-24 | 2021-03-24 | Python      |     0 |
@@ -42,17 +42,17 @@
 | sum |                                                                   |                                                                     |                                                                     |          |                                                                                      7 |
 
 ## The repos I stared (random 10)
-| ID |                                       REPO                                       | STAREDDATE |  LANGUAGE   | LATESTUPDATE |
-|----|----------------------------------------------------------------------------------|------------|-------------|--------------|
-|  1 | [awesome-swift](https://github.com/matteocrippa/awesome-swift)                   | 2016-12-28 | Ruby        | 2024-04-27   |
-|  2 | [CleanArchitectureRxSwift](https://github.com/sergdort/CleanArchitectureRxSwift) | 2019-07-03 | Swift       | 2024-04-21   |
-|  3 | [cocoapods-binary](https://github.com/leavez/cocoapods-binary)                   | 2019-05-05 | Ruby        | 2024-04-18   |
-|  4 | [wwdc2016](https://github.com/jianpx/wwdc2016)                                   | 2016-12-07 | md          | 2023-07-25   |
-|  5 | [SwipeTableView](https://github.com/liangdrime/SwipeTableView)                   | 2017-08-09 | Objective-C | 2024-04-19   |
-|  6 | [TLYShyNavBar](https://github.com/telly/TLYShyNavBar)                            | 2017-09-28 | Objective-C | 2024-04-19   |
-|  7 | [bilibili-mac-client](https://github.com/typcn/bilibili-mac-client)              | 2018-11-30 | Objective-C | 2024-04-26   |
-|  8 | [ReadyForBAT](https://github.com/MisterBooo/ReadyForBAT)                         | 2019-01-03 | Objective-C | 2024-04-16   |
-|  9 | [reverse-interview-zh](https://github.com/yifeikong/reverse-interview-zh)        | 2019-10-24 | md          | 2024-04-27   |
-| 10 | [scrollnum](https://github.com/SHERRYWANNA/scrollnum)                            | 2018-11-18 | Vue         | 2019-09-05   |
+| ID |                                                                 REPO                                                                  | STAREDDATE |  LANGUAGE  | LATESTUPDATE |
+|----|---------------------------------------------------------------------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [flutter-go](https://github.com/alibaba/flutter-go)                                                                                   | 2019-04-29 | Dart       | 2024-05-04   |
+|  2 | [resource](https://github.com/SHERRYWANNA/resource)                                                                                   | 2018-08-24 | JavaScript | 2020-09-28   |
+|  3 | [TelegramSwift](https://github.com/overtake/TelegramSwift)                                                                            | 2017-10-12 | Swift      | 2024-05-04   |
+|  4 | [RedditOS](https://github.com/Dimillian/RedditOS)                                                                                     | 2020-12-16 | Swift      | 2024-05-01   |
+|  5 | [remote-jobs-in-china](https://github.com/LinuxSuRen/remote-jobs-in-china)                                                            | 2023-05-11 | md         | 2024-05-01   |
+|  6 | [haoel.github.io](https://github.com/haoel/haoel.github.io)                                                                           | 2020-12-05 | Shell      | 2024-05-04   |
+|  7 | [iOS-Drawing-Practical-UIKit-Soluations-Translation](https://github.com/wangdicen/iOS-Drawing-Practical-UIKit-Soluations-Translation) | 2024-02-01 | md         | 2024-02-21   |
+|  8 | [marktext](https://github.com/marktext/marktext)                                                                                      | 2018-04-17 | JavaScript | 2024-05-05   |
+|  9 | [NetworkLayerExample](https://github.com/tomkowz/NetworkLayerExample)                                                                 | 2017-04-26 | Swift      | 2024-01-22   |
+| 10 | [ml-stable-diffusion](https://github.com/apple/ml-stable-diffusion)                                                                   | 2023-04-02 | Python     | 2024-05-05   |
 
 <!--END_SECTION:my_github-->
