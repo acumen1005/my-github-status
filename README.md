@@ -24,7 +24,7 @@
 |  14 | [LazyScript](https://github.com/acumen1005/LazyScript)                             | 2016-09-17 | 2016-09-18 | Shell       |     0 |
 |  15 | [LearnNote](https://github.com/acumen1005/LearnNote)                               | 2016-12-09 | 2017-07-19 | md          |     0 |
 |  16 | [Crawler](https://github.com/acumen1005/Crawler)                                   | 2016-03-04 | 2016-03-15 | HTML        |     0 |
-|  17 | [my-github-status](https://github.com/acumen1005/my-github-status)                 | 2021-04-11 | 2024-05-12 | md          |     0 |
+|  17 | [my-github-status](https://github.com/acumen1005/my-github-status)                 | 2021-04-11 | 2024-05-19 | md          |     0 |
 |  18 | [acumen1005](https://github.com/acumen1005/acumen1005)                             | 2020-07-09 | 2022-05-23 | md          |     0 |
 |  19 | [ACPhotoPickerController](https://github.com/acumen1005/ACPhotoPickerController)   | 2017-03-03 | 2018-04-02 | Swift       |     0 |
 |  20 | [CodeClean](https://github.com/acumen1005/CodeClean)                               | 2021-03-24 | 2021-03-24 | Python      |     0 |
@@ -36,23 +36,23 @@
 |-----|-------------------------------------------------------------------|---------------------------------------------------------------------|---------------------------------------------------------------------|----------|----------------------------------------------------------------------------------------|
 |   1 | [flutter](https://github.com/flutter/flutter)                     | [2023-02-06](https://github.com/flutter/flutter/pull/120081)        | [2023-03-19](https://github.com/flutter/flutter/pull/122973)        | Dart     | [2](https://github.com/flutter/flutter/pulls?q=is%3Apr+author%3Aacumen1005)            |
 |   2 | [WeChatICU-ForMac](https://github.com/MustangYM/WeChatICU-ForMac) | [2021-04-14](https://github.com/MustangYM/WeChatICU-ForMac/pull/32) | [2021-05-07](https://github.com/MustangYM/WeChatICU-ForMac/pull/35) | md       | [2](https://github.com/MustangYM/WeChatICU-ForMac/pulls?q=is%3Apr+author%3Aacumen1005) |
-|   3 | [Aquaman](https://github.com/bawn/Aquaman)                        | [2021-03-10](https://github.com/bawn/Aquaman/pull/7)                | [2021-03-10](https://github.com/bawn/Aquaman/pull/7)                | Swift    | [1](https://github.com/bawn/Aquaman/pulls?q=is%3Apr+author%3Aacumen1005)               |
-|   4 | [HanziPinyin](https://github.com/teambition/HanziPinyin)          | [2024-03-02](https://github.com/teambition/HanziPinyin/pull/9)      | [2024-03-02](https://github.com/teambition/HanziPinyin/pull/9)      | Swift    | [1](https://github.com/teambition/HanziPinyin/pulls?q=is%3Apr+author%3Aacumen1005)     |
-|   5 | [zlldb](https://github.com/everettjf/zlldb)                       | [2021-04-25](https://github.com/everettjf/zlldb/pull/3)             | [2021-04-25](https://github.com/everettjf/zlldb/pull/3)             | Python   | [1](https://github.com/everettjf/zlldb/pulls?q=is%3Apr+author%3Aacumen1005)            |
+|   3 | [HanziPinyin](https://github.com/teambition/HanziPinyin)          | [2024-03-02](https://github.com/teambition/HanziPinyin/pull/9)      | [2024-03-02](https://github.com/teambition/HanziPinyin/pull/9)      | Swift    | [1](https://github.com/teambition/HanziPinyin/pulls?q=is%3Apr+author%3Aacumen1005)     |
+|   4 | [zlldb](https://github.com/everettjf/zlldb)                       | [2021-04-25](https://github.com/everettjf/zlldb/pull/3)             | [2021-04-25](https://github.com/everettjf/zlldb/pull/3)             | Python   | [1](https://github.com/everettjf/zlldb/pulls?q=is%3Apr+author%3Aacumen1005)            |
+|   5 | [Aquaman](https://github.com/bawn/Aquaman)                        | [2021-03-10](https://github.com/bawn/Aquaman/pull/7)                | [2021-03-10](https://github.com/bawn/Aquaman/pull/7)                | Swift    | [1](https://github.com/bawn/Aquaman/pulls?q=is%3Apr+author%3Aacumen1005)               |
 | sum |                                                                   |                                                                     |                                                                     |          |                                                                                      7 |
 
 ## The repos I stared (random 10)
-| ID |                                               REPO                                                | STAREDDATE |  LANGUAGE   | LATESTUPDATE |
-|----|---------------------------------------------------------------------------------------------------|------------|-------------|--------------|
-|  1 | [power_image](https://github.com/alibaba/power_image)                                             | 2022-05-18 | Dart        | 2024-05-10   |
-|  2 | [lottie-ios](https://github.com/airbnb/lottie-ios)                                                | 2017-02-09 | Swift       | 2024-05-18   |
-|  3 | [blog](https://github.com/fouber/blog)                                                            | 2016-08-11 | md          | 2024-05-18   |
-|  4 | [Japan-restaurant](https://github.com/RanceJen/Japan-restaurant)                                  | 2024-05-12 | md          | 2024-05-15   |
-|  5 | [Student-resources](https://github.com/ivmm/Student-resources)                                    | 2017-06-05 | md          | 2024-05-18   |
-|  6 | [NSURLProtocol-WebKitSupport](https://github.com/yeatse/NSURLProtocol-WebKitSupport)              | 2017-11-21 | Objective-C | 2024-04-30   |
-|  7 | [myscript](https://github.com/Kewowlo/myscript)                                                   | 2020-08-20 | Python      | 2020-08-20   |
-|  8 | [XXPerformanceMonitor](https://github.com/HJTXX/XXPerformanceMonitor)                             | 2020-08-03 | Swift       | 2023-08-29   |
-|  9 | [bob-plugin-openai-translator](https://github.com/openai-translator/bob-plugin-openai-translator) | 2023-03-01 | JavaScript  | 2024-05-18   |
-| 10 | [play_with_llvm](https://github.com/tuoxie007/play_with_llvm)                                     | 2018-07-27 | C++         | 2024-04-26   |
+| ID |                                                                 REPO                                                                  | STAREDDATE |  LANGUAGE   | LATESTUPDATE |
+|----|---------------------------------------------------------------------------------------------------------------------------------------|------------|-------------|--------------|
+|  1 | [KMNavigationBarTransition](https://github.com/MoZhouqi/KMNavigationBarTransition)                                                    | 2017-09-20 | Objective-C | 2024-05-10   |
+|  2 | [AnimatedCollectionViewLayout](https://github.com/KelvinJin/AnimatedCollectionViewLayout)                                             | 2017-02-14 | Swift       | 2024-05-14   |
+|  3 | [iOS-Drawing-Practical-UIKit-Soluations-Translation](https://github.com/wangdicen/iOS-Drawing-Practical-UIKit-Soluations-Translation) | 2024-02-01 | md          | 2024-02-21   |
+|  4 | [rework](https://github.com/livid/rework)                                                                                             | 2023-02-27 | md          | 2024-01-24   |
+|  5 | [GitHubPoster](https://github.com/yihong0618/GitHubPoster)                                                                            | 2021-05-10 | Python      | 2024-05-23   |
+|  6 | [LTNavigationBar](https://github.com/ltebean/LTNavigationBar)                                                                         | 2017-08-18 | Objective-C | 2024-04-12   |
+|  7 | [automatic-app-landing-page](https://github.com/emilbaehr/automatic-app-landing-page)                                                 | 2024-04-24 | SCSS        | 2024-05-23   |
+|  8 | [iOSInterviewQuestions](https://github.com/ChenYilong/iOSInterviewQuestions)                                                          | 2016-05-23 | Swift       | 2024-05-22   |
+|  9 | [LDRefresh](https://github.com/SNTD/LDRefresh)                                                                                        | 2018-04-17 | Objective-C | 2023-08-01   |
+| 10 | [flutter-go](https://github.com/alibaba/flutter-go)                                                                                   | 2019-04-29 | Dart        | 2024-05-22   |
 
 <!--END_SECTION:my_github-->
