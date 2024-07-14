@@ -24,7 +24,7 @@
 |  14 | [LazyScript](https://github.com/acumen1005/LazyScript)                             | 2016-09-17 | 2016-09-18 | Shell       |     0 |
 |  15 | [LearnNote](https://github.com/acumen1005/LearnNote)                               | 2016-12-09 | 2017-07-19 | md          |     0 |
 |  16 | [Crawler](https://github.com/acumen1005/Crawler)                                   | 2016-03-04 | 2016-03-15 | HTML        |     0 |
-|  17 | [my-github-status](https://github.com/acumen1005/my-github-status)                 | 2021-04-11 | 2024-06-30 | md          |     0 |
+|  17 | [my-github-status](https://github.com/acumen1005/my-github-status)                 | 2021-04-11 | 2024-07-07 | md          |     0 |
 |  18 | [acumen1005](https://github.com/acumen1005/acumen1005)                             | 2020-07-09 | 2022-05-23 | md          |     0 |
 |  19 | [ACPhotoPickerController](https://github.com/acumen1005/ACPhotoPickerController)   | 2017-03-03 | 2018-04-02 | Swift       |     0 |
 |  20 | [CodeClean](https://github.com/acumen1005/CodeClean)                               | 2021-03-24 | 2021-03-24 | Python      |     0 |
@@ -42,17 +42,17 @@
 | sum |                                                                   |                                                                     |                                                                     |          |                                                                                      7 |
 
 ## The repos I stared (random 10)
-| ID |                                      REPO                                       | STAREDDATE |  LANGUAGE   | LATESTUPDATE |
-|----|---------------------------------------------------------------------------------|------------|-------------|--------------|
-|  1 | [ImagePalette](https://github.com/shnhrrsn/ImagePalette)                        | 2020-12-11 | Swift       | 2024-04-03   |
-|  2 | [NetNewsWire](https://github.com/Ranchero-Software/NetNewsWire)                 | 2020-11-23 | Swift       | 2024-07-07   |
-|  3 | [lanproxy](https://github.com/ffay/lanproxy)                                    | 2017-11-16 | Java        | 2024-07-06   |
-|  4 | [echo](https://github.com/didi/echo)                                            | 2021-05-10 | Objective-C | 2024-02-26   |
-|  5 | [open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps)       | 2016-07-13 | md          | 2024-07-07   |
-|  6 | [SwiftMessages](https://github.com/SwiftKickMobile/SwiftMessages)               | 2020-01-15 | Swift       | 2024-07-05   |
-|  7 | [iina](https://github.com/iina/iina)                                            | 2019-05-07 | Swift       | 2024-07-07   |
-|  8 | [quill](https://github.com/slab/quill)                                          | 2024-02-28 | TypeScript  | 2024-07-07   |
-|  9 | [SwiftTips](https://github.com/JohnSundell/SwiftTips)                           | 2018-05-17 | md          | 2024-06-26   |
-| 10 | [swift-coreml-diffusers](https://github.com/huggingface/swift-coreml-diffusers) | 2023-04-02 | Swift       | 2024-07-05   |
+| ID |                                         REPO                                         | STAREDDATE |  LANGUAGE   | LATESTUPDATE |
+|----|--------------------------------------------------------------------------------------|------------|-------------|--------------|
+|  1 | [lizhi](https://github.com/turkyden/lizhi)                                           | 2022-10-19 | TypeScript  | 2024-07-11   |
+|  2 | [interval-content](https://github.com/idevqa/interval-content)                       | 2020-02-25 | md          | 2023-09-19   |
+|  3 | [16-cell](https://github.com/oliver34/16-cell)                                       | 2018-04-12 | JavaScript  | 2023-03-07   |
+|  4 | [HookZzModules](https://github.com/jmpews/HookZzModules)                             | 2020-03-06 | Objective-C | 2024-07-05   |
+|  5 | [VariableBlurView](https://github.com/aheze/VariableBlurView)                        | 2024-02-03 | Swift       | 2024-07-03   |
+|  6 | [cv](https://github.com/fanzeyi/cv)                                                  | 2019-08-03 | TeX         | 2023-09-02   |
+|  7 | [objc_cover](https://github.com/nst/objc_cover)                                      | 2020-07-20 | Python      | 2024-05-11   |
+|  8 | [react-countup](https://github.com/glennreyes/react-countup)                         | 2021-03-17 | JavaScript  | 2024-07-11   |
+|  9 | [ChromaColorPicker](https://github.com/joncardasis/ChromaColorPicker)                | 2022-05-04 | Swift       | 2024-07-01   |
+| 10 | [NSURLProtocol-WebKitSupport](https://github.com/yeatse/NSURLProtocol-WebKitSupport) | 2017-11-21 | Objective-C | 2024-04-30   |
 
 <!--END_SECTION:my_github-->
