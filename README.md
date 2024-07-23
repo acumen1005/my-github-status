@@ -24,7 +24,7 @@
 |  14 | [LazyScript](https://github.com/acumen1005/LazyScript)                             | 2016-09-17 | 2016-09-18 | Shell       |     0 |
 |  15 | [LearnNote](https://github.com/acumen1005/LearnNote)                               | 2016-12-09 | 2017-07-19 | md          |     0 |
 |  16 | [Crawler](https://github.com/acumen1005/Crawler)                                   | 2016-03-04 | 2016-03-15 | HTML        |     0 |
-|  17 | [my-github-status](https://github.com/acumen1005/my-github-status)                 | 2021-04-11 | 2024-07-14 | md          |     0 |
+|  17 | [my-github-status](https://github.com/acumen1005/my-github-status)                 | 2021-04-11 | 2024-07-21 | md          |     0 |
 |  18 | [acumen1005](https://github.com/acumen1005/acumen1005)                             | 2020-07-09 | 2022-05-23 | md          |     0 |
 |  19 | [ACPhotoPickerController](https://github.com/acumen1005/ACPhotoPickerController)   | 2017-03-03 | 2018-04-02 | Swift       |     0 |
 |  20 | [CodeClean](https://github.com/acumen1005/CodeClean)                               | 2021-03-24 | 2021-03-24 | Python      |     0 |
@@ -42,17 +42,17 @@
 | sum |                                                                   |                                                                     |                                                                     |          |                                                                                      7 |
 
 ## The repos I stared (random 10)
-| ID |                                               REPO                                               | STAREDDATE |   LANGUAGE    | LATESTUPDATE |
-|----|--------------------------------------------------------------------------------------------------|------------|---------------|--------------|
-|  1 | [CKWaveCollectionViewTransition](https://github.com/CezaryKopacz/CKWaveCollectionViewTransition) | 2017-09-28 | Swift         | 2024-06-19   |
-|  2 | [flutter_clock](https://github.com/flutter/flutter_clock)                                        | 2020-08-26 | Dart          | 2024-06-17   |
-|  3 | [BouncyLayout](https://github.com/roberthein/BouncyLayout)                                       | 2017-09-08 | Swift         | 2024-07-16   |
-|  4 | [JASONETTE-iOS](https://github.com/Jasonette/JASONETTE-iOS)                                      | 2017-02-16 | JavaScript    | 2024-07-19   |
-|  5 | [ijkplayer](https://github.com/bilibili/ijkplayer)                                               | 2016-09-15 | C             | 2024-07-21   |
-|  6 | [FBRetainCycleDetector](https://github.com/facebook/FBRetainCycleDetector)                       | 2017-09-14 | Objective-C++ | 2024-07-19   |
-|  7 | [SwiftLint](https://github.com/realm/SwiftLint)                                                  | 2021-05-02 | Swift         | 2024-07-20   |
-|  8 | [FluidGradient](https://github.com/Cindori/FluidGradient)                                        | 2023-12-02 | Swift         | 2024-07-12   |
-|  9 | [FallingSnow](https://github.com/chrismaddern/FallingSnow)                                       | 2020-12-23 | Objective-C   | 2024-06-12   |
-| 10 | [swift](https://github.com/swiftlang/swift)                                                      | 2017-01-10 | C++           | 2024-07-20   |
+| ID |                                     REPO                                      | STAREDDATE |  LANGUAGE   | LATESTUPDATE |
+|----|-------------------------------------------------------------------------------|------------|-------------|--------------|
+|  1 | [SourceKitten](https://github.com/jpsim/SourceKitten)                         | 2021-05-03 | Swift       | 2024-07-14   |
+|  2 | [next-startd](https://github.com/jkytoela/next-startd)                        | 2022-06-13 | TypeScript  | 2024-07-16   |
+|  3 | [LYCustomTransition](https://github.com/dev-liyang/LYCustomTransition)        | 2018-03-05 | Objective-C | 2024-06-21   |
+|  4 | [YoCelsius](https://github.com/YouXianMing/YoCelsius)                         | 2017-02-09 | Objective-C | 2024-04-29   |
+|  5 | [chatgpt-google-extension](https://github.com/wong2/chatgpt-google-extension) | 2022-12-06 | TypeScript  | 2024-07-21   |
+|  6 | [interval-content](https://github.com/idevqa/interval-content)                | 2020-02-25 | md          | 2023-09-19   |
+|  7 | [shadowsocks-iOS](https://github.com/binss/shadowsocks-iOS)                   | 2018-02-06 | Objective-C | 2023-10-13   |
+|  8 | [tomorrow-theme](https://github.com/chriskempson/tomorrow-theme)              | 2016-12-06 | CSS         | 2024-07-22   |
+|  9 | [lipstick](https://github.com/Ovilia/lipstick)                                | 2018-03-08 | JavaScript  | 2024-07-15   |
+| 10 | [SwiftRichString](https://github.com/malcommac/SwiftRichString)               | 2019-07-08 | Swift       | 2024-07-22   |
 
 <!--END_SECTION:my_github-->
