@@ -24,7 +24,7 @@
 |  14 | [LazyScript](https://github.com/acumen1005/LazyScript)                             | 2016-09-17 | 2016-09-18 | Shell       |     0 |
 |  15 | [LearnNote](https://github.com/acumen1005/LearnNote)                               | 2016-12-09 | 2017-07-19 | md          |     0 |
 |  16 | [Crawler](https://github.com/acumen1005/Crawler)                                   | 2016-03-04 | 2016-03-15 | HTML        |     0 |
-|  17 | [my-github-status](https://github.com/acumen1005/my-github-status)                 | 2021-04-11 | 2024-07-28 | md          |     0 |
+|  17 | [my-github-status](https://github.com/acumen1005/my-github-status)                 | 2021-04-11 | 2024-08-04 | md          |     0 |
 |  18 | [acumen1005](https://github.com/acumen1005/acumen1005)                             | 2020-07-09 | 2022-05-23 | md          |     0 |
 |  19 | [ACPhotoPickerController](https://github.com/acumen1005/ACPhotoPickerController)   | 2017-03-03 | 2018-04-02 | Swift       |     0 |
 |  20 | [CodeClean](https://github.com/acumen1005/CodeClean)                               | 2021-03-24 | 2021-03-24 | Python      |     0 |
@@ -34,25 +34,25 @@
 ## The repos I contributed to
 | ID  |                               REPO                                |                              FIRSTDATE                              |                              LASTDATE                               | LANGUAGE |                                        PRCOUNT                                         |
 |-----|-------------------------------------------------------------------|---------------------------------------------------------------------|---------------------------------------------------------------------|----------|----------------------------------------------------------------------------------------|
-|   1 | [flutter](https://github.com/flutter/flutter)                     | [2023-02-06](https://github.com/flutter/flutter/pull/120081)        | [2023-03-19](https://github.com/flutter/flutter/pull/122973)        | Dart     | [2](https://github.com/flutter/flutter/pulls?q=is%3Apr+author%3Aacumen1005)            |
-|   2 | [WeChatICU-ForMac](https://github.com/MustangYM/WeChatICU-ForMac) | [2021-04-14](https://github.com/MustangYM/WeChatICU-ForMac/pull/32) | [2021-05-07](https://github.com/MustangYM/WeChatICU-ForMac/pull/35) | md       | [2](https://github.com/MustangYM/WeChatICU-ForMac/pulls?q=is%3Apr+author%3Aacumen1005) |
-|   3 | [HanziPinyin](https://github.com/teambition/HanziPinyin)          | [2024-03-02](https://github.com/teambition/HanziPinyin/pull/9)      | [2024-03-02](https://github.com/teambition/HanziPinyin/pull/9)      | Swift    | [1](https://github.com/teambition/HanziPinyin/pulls?q=is%3Apr+author%3Aacumen1005)     |
-|   4 | [zlldb](https://github.com/everettjf/zlldb)                       | [2021-04-25](https://github.com/everettjf/zlldb/pull/3)             | [2021-04-25](https://github.com/everettjf/zlldb/pull/3)             | Python   | [1](https://github.com/everettjf/zlldb/pulls?q=is%3Apr+author%3Aacumen1005)            |
-|   5 | [Aquaman](https://github.com/bawn/Aquaman)                        | [2021-03-10](https://github.com/bawn/Aquaman/pull/7)                | [2021-03-10](https://github.com/bawn/Aquaman/pull/7)                | Swift    | [1](https://github.com/bawn/Aquaman/pulls?q=is%3Apr+author%3Aacumen1005)               |
+|   1 | [WeChatICU-ForMac](https://github.com/MustangYM/WeChatICU-ForMac) | [2021-04-14](https://github.com/MustangYM/WeChatICU-ForMac/pull/32) | [2021-05-07](https://github.com/MustangYM/WeChatICU-ForMac/pull/35) | md       | [2](https://github.com/MustangYM/WeChatICU-ForMac/pulls?q=is%3Apr+author%3Aacumen1005) |
+|   2 | [flutter](https://github.com/flutter/flutter)                     | [2023-02-06](https://github.com/flutter/flutter/pull/120081)        | [2023-03-19](https://github.com/flutter/flutter/pull/122973)        | Dart     | [2](https://github.com/flutter/flutter/pulls?q=is%3Apr+author%3Aacumen1005)            |
+|   3 | [zlldb](https://github.com/everettjf/zlldb)                       | [2021-04-25](https://github.com/everettjf/zlldb/pull/3)             | [2021-04-25](https://github.com/everettjf/zlldb/pull/3)             | Python   | [1](https://github.com/everettjf/zlldb/pulls?q=is%3Apr+author%3Aacumen1005)            |
+|   4 | [Aquaman](https://github.com/bawn/Aquaman)                        | [2021-03-10](https://github.com/bawn/Aquaman/pull/7)                | [2021-03-10](https://github.com/bawn/Aquaman/pull/7)                | Swift    | [1](https://github.com/bawn/Aquaman/pulls?q=is%3Apr+author%3Aacumen1005)               |
+|   5 | [HanziPinyin](https://github.com/teambition/HanziPinyin)          | [2024-03-02](https://github.com/teambition/HanziPinyin/pull/9)      | [2024-03-02](https://github.com/teambition/HanziPinyin/pull/9)      | Swift    | [1](https://github.com/teambition/HanziPinyin/pulls?q=is%3Apr+author%3Aacumen1005)     |
 | sum |                                                                   |                                                                     |                                                                     |          |                                                                                      7 |
 
 ## The repos I stared (random 10)
-| ID |                                        REPO                                        | STAREDDATE |  LANGUAGE   | LATESTUPDATE |
-|----|------------------------------------------------------------------------------------|------------|-------------|--------------|
-|  1 | [ACWeChat](https://github.com/acumen1005/ACWeChat)                                 | 2016-07-28 | Objective-C | 2019-03-06   |
-|  2 | [App-Launching-like-Twitter](https://github.com/okmr-d/App-Launching-like-Twitter) | 2017-06-02 | Swift       | 2024-07-22   |
-|  3 | [iWeChat](https://github.com/lefex/iWeChat)                                        | 2019-11-20 | Objective-C | 2024-08-01   |
-|  4 | [XcodeCleaner-SwiftUI](https://github.com/waylybaye/XcodeCleaner-SwiftUI)          | 2021-01-19 | Swift       | 2024-07-25   |
-|  5 | [iOSInterviewQuestions](https://github.com/ChenYilong/iOSInterviewQuestions)       | 2016-05-23 | Swift       | 2024-08-02   |
-|  6 | [TYCyclePagerView](https://github.com/12207480/TYCyclePagerView)                   | 2017-07-27 | Objective-C | 2024-07-27   |
-|  7 | [CloudKitCKAssetSample](https://github.com/naosekig/CloudKitCKAssetSample)         | 2022-06-26 | Swift       | 2024-03-20   |
-|  8 | [ColorfulX](https://github.com/Lakr233/ColorfulX)                                  | 2024-03-11 | Swift       | 2024-07-26   |
-|  9 | [ZIKCellularAuthorization](https://github.com/Zuikyo/ZIKCellularAuthorization)     | 2018-01-12 | Objective-C | 2024-07-11   |
-| 10 | [ish](https://github.com/ish-app/ish)                                              | 2019-10-31 | C           | 2024-08-03   |
+| ID |                                        REPO                                        | STAREDDATE |  LANGUAGE  | LATESTUPDATE |
+|----|------------------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [flash-linux0.11-talk](https://github.com/dibingfa/flash-linux0.11-talk)           | 2023-12-15 | HTML       | 2024-08-10   |
+|  2 | [swift-style-guide](https://github.com/kodecocodes/swift-style-guide)              | 2016-12-01 | md         | 2024-08-09   |
+|  3 | [CleanArchitectureRxSwift](https://github.com/sergdort/CleanArchitectureRxSwift)   | 2019-07-03 | Swift      | 2024-08-10   |
+|  4 | [gold-miner](https://github.com/xitu/gold-miner)                                   | 2016-12-08 | md         | 2024-08-10   |
+|  5 | [LxgwWenKai](https://github.com/lxgw/LxgwWenKai)                                   | 2021-04-27 | Batchfile  | 2024-08-10   |
+|  6 | [swift-coreml-diffusers](https://github.com/huggingface/swift-coreml-diffusers)    | 2023-04-02 | Swift      | 2024-08-09   |
+|  7 | [App-Launching-like-Twitter](https://github.com/okmr-d/App-Launching-like-Twitter) | 2017-06-02 | Swift      | 2024-07-22   |
+|  8 | [note](https://github.com/SHERRYWANNA/note)                                        | 2019-06-14 | md         | 2019-06-14   |
+|  9 | [quill](https://github.com/slab/quill)                                             | 2024-02-28 | TypeScript | 2024-08-10   |
+| 10 | [wcdb](https://github.com/Tencent/wcdb)                                            | 2017-10-18 | C          | 2024-08-10   |
 
 <!--END_SECTION:my_github-->
