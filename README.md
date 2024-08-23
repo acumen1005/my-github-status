@@ -24,7 +24,7 @@
 |  14 | [LazyScript](https://github.com/acumen1005/LazyScript)                             | 2016-09-17 | 2016-09-18 | Shell       |     0 |
 |  15 | [LearnNote](https://github.com/acumen1005/LearnNote)                               | 2016-12-09 | 2017-07-19 | md          |     0 |
 |  16 | [Crawler](https://github.com/acumen1005/Crawler)                                   | 2016-03-04 | 2016-03-15 | HTML        |     0 |
-|  17 | [my-github-status](https://github.com/acumen1005/my-github-status)                 | 2021-04-11 | 2024-08-11 | md          |     0 |
+|  17 | [my-github-status](https://github.com/acumen1005/my-github-status)                 | 2021-04-11 | 2024-08-18 | md          |     0 |
 |  18 | [acumen1005](https://github.com/acumen1005/acumen1005)                             | 2020-07-09 | 2022-05-23 | md          |     0 |
 |  19 | [ACPhotoPickerController](https://github.com/acumen1005/ACPhotoPickerController)   | 2017-03-03 | 2018-04-02 | Swift       |     0 |
 |  20 | [CodeClean](https://github.com/acumen1005/CodeClean)                               | 2021-03-24 | 2021-03-24 | Python      |     0 |
@@ -42,17 +42,17 @@
 | sum |                                                                   |                                                                     |                                                                     |          |                                                                                      7 |
 
 ## The repos I stared (random 10)
-| ID |                                          REPO                                           | STAREDDATE |  LANGUAGE   | LATESTUPDATE |
-|----|-----------------------------------------------------------------------------------------|------------|-------------|--------------|
-|  1 | [NVActivityIndicatorView](https://github.com/ninjaprox/NVActivityIndicatorView)         | 2020-11-05 | Swift       | 2024-08-16   |
-|  2 | [Hero](https://github.com/HeroTransitions/Hero)                                         | 2017-08-15 | Swift       | 2024-08-16   |
-|  3 | [Learning-SICP](https://github.com/DeathKing/Learning-SICP)                             | 2018-11-07 | Ruby        | 2024-08-16   |
-|  4 | [SwiftUI-Animations](https://github.com/Shubham0812/SwiftUI-Animations)                 | 2020-11-19 | Swift       | 2024-08-14   |
-|  5 | [ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web)                  | 2023-03-31 | TypeScript  | 2024-08-18   |
-|  6 | [trip-to-iOS](https://github.com/Aufree/trip-to-iOS)                                    | 2016-10-10 | Objective-C | 2024-08-17   |
-|  7 | [Optimizing-Swift-Build-Times](https://github.com/fastred/Optimizing-Swift-Build-Times) | 2017-11-09 | Swift       | 2024-08-15   |
-|  8 | [javascript](https://github.com/airbnb/javascript)                                      | 2017-08-25 | JavaScript  | 2024-08-17   |
-|  9 | [ChartView](https://github.com/AppPear/ChartView)                                       | 2024-03-10 | Swift       | 2024-08-18   |
-| 10 | [ControlNet](https://github.com/lllyasviel/ControlNet)                                  | 2023-03-26 | Python      | 2024-08-17   |
+| ID |                                    REPO                                     | STAREDDATE | LANGUAGE | LATESTUPDATE |
+|----|-----------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [SourceKitten](https://github.com/jpsim/SourceKitten)                       | 2021-05-03 | Swift    | 2024-08-19   |
+|  2 | [src](https://github.com/chenhuaizhe/src)                                   | 2019-07-30 | Swift    | 2024-07-24   |
+|  3 | [BAT-internal-referral](https://github.com/yuguo/BAT-internal-referral)     | 2016-10-21 | md       | 2024-08-18   |
+|  4 | [BulletinBoard](https://github.com/alexisakers/BulletinBoard)               | 2018-12-19 | Swift    | 2024-08-22   |
+|  5 | [photoprism](https://github.com/photoprism/photoprism)                      | 2023-12-16 | Go       | 2024-08-23   |
+|  6 | [Japan-restaurant](https://github.com/RanceJen/Japan-restaurant)            | 2024-05-12 | md       | 2024-08-21   |
+|  7 | [qqbot](https://github.com/pandolia/qqbot)                                  | 2016-12-07 | Python   | 2024-08-22   |
+|  8 | [vapor](https://github.com/vapor/vapor)                                     | 2018-01-02 | Swift    | 2024-08-22   |
+|  9 | [system-design-primer](https://github.com/donnemartin/system-design-primer) | 2019-05-08 | Python   | 2024-08-23   |
+| 10 | [SwiftUI](https://github.com/ivanvorobei/SwiftUI)                           | 2020-05-31 | Swift    | 2024-08-22   |
 
 <!--END_SECTION:my_github-->
