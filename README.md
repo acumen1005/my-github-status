@@ -24,7 +24,7 @@
 |  14 | [LazyScript](https://github.com/acumen1005/LazyScript)                             | 2016-09-17 | 2016-09-18 | Shell       |     0 |
 |  15 | [LearnNote](https://github.com/acumen1005/LearnNote)                               | 2016-12-09 | 2017-07-19 | md          |     0 |
 |  16 | [Crawler](https://github.com/acumen1005/Crawler)                                   | 2016-03-04 | 2016-03-15 | HTML        |     0 |
-|  17 | [my-github-status](https://github.com/acumen1005/my-github-status)                 | 2021-04-11 | 2024-08-23 | md          |     0 |
+|  17 | [my-github-status](https://github.com/acumen1005/my-github-status)                 | 2021-04-11 | 2024-08-25 | md          |     0 |
 |  18 | [acumen1005](https://github.com/acumen1005/acumen1005)                             | 2020-07-09 | 2022-05-23 | md          |     0 |
 |  19 | [ACPhotoPickerController](https://github.com/acumen1005/ACPhotoPickerController)   | 2017-03-03 | 2018-04-02 | Swift       |     0 |
 |  20 | [CodeClean](https://github.com/acumen1005/CodeClean)                               | 2021-03-24 | 2021-03-24 | Python      |     0 |
@@ -42,17 +42,17 @@
 | sum |                                                                   |                                                                     |                                                                     |          |                                                                                      7 |
 
 ## The repos I stared (random 10)
-| ID |                                    REPO                                     | STAREDDATE |  LANGUAGE   | LATESTUPDATE |
-|----|-----------------------------------------------------------------------------|------------|-------------|--------------|
-|  1 | [SwipeTableView](https://github.com/liangdrime/SwipeTableView)              | 2017-08-09 | Objective-C | 2024-07-30   |
-|  2 | [RxSwift](https://github.com/ReactiveX/RxSwift)                             | 2017-03-30 | Swift       | 2024-08-24   |
-|  3 | [rework](https://github.com/livid/rework)                                   | 2023-02-27 | md          | 2024-08-06   |
-|  4 | [swift-algorithm-club](https://github.com/kodecocodes/swift-algorithm-club) | 2017-11-27 | Swift       | 2024-08-24   |
-|  5 | [The-Economist](https://github.com/nailperry-zd/The-Economist)              | 2019-07-06 | md          | 2024-08-24   |
-|  6 | [xcinfo](https://github.com/xcodereleases/xcinfo)                           | 2020-12-24 | Swift       | 2024-06-21   |
-|  7 | [SwiftHub](https://github.com/khoren93/SwiftHub)                            | 2019-04-29 | Swift       | 2024-08-21   |
-|  8 | [UIComponent](https://github.com/lkzhao/UIComponent)                        | 2021-11-11 | Swift       | 2024-08-24   |
-|  9 | [Signal-iOS](https://github.com/signalapp/Signal-iOS)                       | 2023-12-16 | Swift       | 2024-08-24   |
-| 10 | [Hero](https://github.com/HeroTransitions/Hero)                             | 2017-08-15 | Swift       | 2024-08-24   |
+| ID |                                            REPO                                             | STAREDDATE |  LANGUAGE   | LATESTUPDATE |
+|----|---------------------------------------------------------------------------------------------|------------|-------------|--------------|
+|  1 | [SwiftMessages](https://github.com/SwiftKickMobile/SwiftMessages)                           | 2020-01-15 | Swift       | 2024-08-29   |
+|  2 | [open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps)                   | 2016-07-13 | md          | 2024-08-31   |
+|  3 | [16-cell](https://github.com/oliver34/16-cell)                                              | 2018-04-12 | JavaScript  | 2023-03-07   |
+|  4 | [GPTs](https://github.com/linexjlin/GPTs)                                                   | 2024-07-04 | md          | 2024-08-31   |
+|  5 | [Xcode_Developer_Disk_Images](https://github.com/mspvirajpatel/Xcode_Developer_Disk_Images) | 2023-02-22 | md          | 2024-08-26   |
+|  6 | [sa-sdk-ios](https://github.com/sensorsdata/sa-sdk-ios)                                     | 2021-01-13 | Objective-C | 2024-08-27   |
+|  7 | [clean-architecture-swiftui](https://github.com/nalexn/clean-architecture-swiftui)          | 2020-06-30 | Swift       | 2024-08-31   |
+|  8 | [SwiftUI-MulticolorGradient](https://github.com/ArthurGuibert/SwiftUI-MulticolorGradient)   | 2023-12-02 | Swift       | 2024-08-31   |
+|  9 | [WebViewJavascriptBridge](https://github.com/marcuswestin/WebViewJavascriptBridge)          | 2016-12-14 | Objective-C | 2024-08-28   |
+| 10 | [QuickSearch](https://github.com/danielsaidi/QuickSearch)                                   | 2024-03-14 | Swift       | 2024-07-19   |
 
 <!--END_SECTION:my_github-->
