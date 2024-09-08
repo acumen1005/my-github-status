@@ -24,7 +24,7 @@
 |  14 | [LazyScript](https://github.com/acumen1005/LazyScript)                             | 2016-09-17 | 2016-09-18 | Shell       |     0 |
 |  15 | [LearnNote](https://github.com/acumen1005/LearnNote)                               | 2016-12-09 | 2017-07-19 | md          |     0 |
 |  16 | [Crawler](https://github.com/acumen1005/Crawler)                                   | 2016-03-04 | 2016-03-15 | HTML        |     0 |
-|  17 | [my-github-status](https://github.com/acumen1005/my-github-status)                 | 2021-04-11 | 2024-08-25 | md          |     0 |
+|  17 | [my-github-status](https://github.com/acumen1005/my-github-status)                 | 2021-04-11 | 2024-09-01 | md          |     0 |
 |  18 | [acumen1005](https://github.com/acumen1005/acumen1005)                             | 2020-07-09 | 2022-05-23 | md          |     0 |
 |  19 | [ACPhotoPickerController](https://github.com/acumen1005/ACPhotoPickerController)   | 2017-03-03 | 2018-04-02 | Swift       |     0 |
 |  20 | [CodeClean](https://github.com/acumen1005/CodeClean)                               | 2021-03-24 | 2021-03-24 | Python      |     0 |
@@ -42,17 +42,17 @@
 | sum |                                                                   |                                                                     |                                                                     |          |                                                                                      7 |
 
 ## The repos I stared (random 10)
-| ID |                                            REPO                                             | STAREDDATE |  LANGUAGE   | LATESTUPDATE |
-|----|---------------------------------------------------------------------------------------------|------------|-------------|--------------|
-|  1 | [SwiftMessages](https://github.com/SwiftKickMobile/SwiftMessages)                           | 2020-01-15 | Swift       | 2024-08-29   |
-|  2 | [open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps)                   | 2016-07-13 | md          | 2024-08-31   |
-|  3 | [16-cell](https://github.com/oliver34/16-cell)                                              | 2018-04-12 | JavaScript  | 2023-03-07   |
-|  4 | [GPTs](https://github.com/linexjlin/GPTs)                                                   | 2024-07-04 | md          | 2024-08-31   |
-|  5 | [Xcode_Developer_Disk_Images](https://github.com/mspvirajpatel/Xcode_Developer_Disk_Images) | 2023-02-22 | md          | 2024-08-26   |
-|  6 | [sa-sdk-ios](https://github.com/sensorsdata/sa-sdk-ios)                                     | 2021-01-13 | Objective-C | 2024-08-27   |
-|  7 | [clean-architecture-swiftui](https://github.com/nalexn/clean-architecture-swiftui)          | 2020-06-30 | Swift       | 2024-08-31   |
-|  8 | [SwiftUI-MulticolorGradient](https://github.com/ArthurGuibert/SwiftUI-MulticolorGradient)   | 2023-12-02 | Swift       | 2024-08-31   |
-|  9 | [WebViewJavascriptBridge](https://github.com/marcuswestin/WebViewJavascriptBridge)          | 2016-12-14 | Objective-C | 2024-08-28   |
-| 10 | [QuickSearch](https://github.com/danielsaidi/QuickSearch)                                   | 2024-03-14 | Swift       | 2024-07-19   |
+| ID |                                   REPO                                    | STAREDDATE |  LANGUAGE   | LATESTUPDATE |
+|----|---------------------------------------------------------------------------|------------|-------------|--------------|
+|  1 | [Mantis](https://github.com/guoyingtao/Mantis)                            | 2022-07-14 | Swift       | 2024-09-06   |
+|  2 | [SourceCodeAnalysis](https://github.com/CoderLNHui/SourceCodeAnalysis)    | 2017-07-07 | Objective-C | 2024-05-07   |
+|  3 | [open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) | 2016-07-13 | md          | 2024-09-07   |
+|  4 | [deepClone](https://github.com/QiandaoLakeYY/deepClone)                   | 2018-04-12 | JavaScript  | 2018-04-18   |
+|  5 | [django-rest-framework](https://github.com/encode/django-rest-framework)  | 2016-10-25 | Python      | 2024-09-08   |
+|  6 | [app-ideas](https://github.com/florinpop17/app-ideas)                     | 2020-05-19 | md          | 2024-09-08   |
+|  7 | [reference](https://github.com/jaywcjlove/reference)                      | 2023-12-02 | Dockerfile  | 2024-09-07   |
+|  8 | [awesome-swift](https://github.com/matteocrippa/awesome-swift)            | 2016-12-28 | Ruby        | 2024-09-07   |
+|  9 | [flutter_clock](https://github.com/flutter/flutter_clock)                 | 2020-08-26 | Dart        | 2024-08-26   |
+| 10 | [Calendr](https://github.com/pakerwreah/Calendr)                          | 2023-04-28 | Swift       | 2024-09-07   |
 
 <!--END_SECTION:my_github-->
