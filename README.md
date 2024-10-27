@@ -24,7 +24,7 @@
 |  14 | [LazyScript](https://github.com/acumen1005/LazyScript)                             | 2016-09-17 | 2016-09-18 | Shell       |     0 |
 |  15 | [LearnNote](https://github.com/acumen1005/LearnNote)                               | 2016-12-09 | 2017-07-19 | md          |     0 |
 |  16 | [Crawler](https://github.com/acumen1005/Crawler)                                   | 2016-03-04 | 2016-03-15 | HTML        |     0 |
-|  17 | [my-github-status](https://github.com/acumen1005/my-github-status)                 | 2021-04-11 | 2024-10-20 | md          |     0 |
+|  17 | [my-github-status](https://github.com/acumen1005/my-github-status)                 | 2021-04-11 | 2024-10-23 | md          |     0 |
 |  18 | [acumen1005](https://github.com/acumen1005/acumen1005)                             | 2020-07-09 | 2022-05-23 | md          |     0 |
 |  19 | [ACPhotoPickerController](https://github.com/acumen1005/ACPhotoPickerController)   | 2017-03-03 | 2018-04-02 | Swift       |     0 |
 |  20 | [CodeClean](https://github.com/acumen1005/CodeClean)                               | 2021-03-24 | 2021-03-24 | Python      |     0 |
@@ -42,17 +42,17 @@
 | sum |                                                                   |                                                                     |                                                                     |          |                                                                                      7 |
 
 ## The repos I stared (random 10)
-| ID |                                           REPO                                            | STAREDDATE |  LANGUAGE  | LATESTUPDATE |
-|----|-------------------------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [SkeletonView](https://github.com/Juanpe/SkeletonView)                                    | 2018-12-11 | Swift      | 2024-10-22   |
-|  2 | [Perspective](https://github.com/kingcos/Perspective)                                     | 2019-03-21 | C++        | 2024-03-26   |
-|  3 | [WWDC2022-SwiftUINodeEditor](https://github.com/JustinFincher/WWDC2022-SwiftUINodeEditor) | 2022-05-25 | Swift      | 2024-10-14   |
-|  4 | [WWDC](https://github.com/Blackjacx/WWDC)                                                 | 2019-06-17 | Shell      | 2024-09-27   |
-|  5 | [javascript](https://github.com/airbnb/javascript)                                        | 2017-08-25 | JavaScript | 2024-10-23   |
-|  6 | [iOS-DeviceSupport](https://github.com/iGhibli/iOS-DeviceSupport)                         | 2022-02-28 | Python     | 2024-10-22   |
-|  7 | [AirPodsPro-Motion-Sampler](https://github.com/tukuyo/AirPodsPro-Motion-Sampler)          | 2020-10-19 | Swift      | 2024-09-22   |
-|  8 | [IceCream](https://github.com/caiyue1993/IceCream)                                        | 2022-04-26 | Swift      | 2024-09-25   |
-|  9 | [Popovers](https://github.com/aheze/Popovers)                                             | 2022-05-13 | Swift      | 2024-10-21   |
-| 10 | [HGPlaceholders](https://github.com/HamzaGhazouani/HGPlaceholders)                        | 2017-08-14 | Swift      | 2024-10-17   |
+| ID |                                          REPO                                           | STAREDDATE |  LANGUAGE   | LATESTUPDATE |
+|----|-----------------------------------------------------------------------------------------|------------|-------------|--------------|
+|  1 | [vscode-rainbow-fart](https://github.com/SaekiRaku/vscode-rainbow-fart)                 | 2020-06-22 | JavaScript  | 2024-10-22   |
+|  2 | [iOS-Performance-Optimization](https://github.com/skyming/iOS-Performance-Optimization) | 2017-05-08 | Objective-C | 2024-10-25   |
+|  3 | [CardsLayout](https://github.com/filletofish/CardsLayout)                               | 2021-12-02 | Swift       | 2024-10-25   |
+|  4 | [chinese-independent-blogs](https://github.com/timqian/chinese-independent-blogs)       | 2020-09-28 | Python      | 2024-10-27   |
+|  5 | [iOS-UIFont-Names](https://github.com/lionhylra/iOS-UIFont-Names)                       | 2021-05-27 | Swift       | 2024-10-20   |
+|  6 | [FabulaItemsProvider](https://github.com/jasudev/FabulaItemsProvider)                   | 2024-04-11 | Swift       | 2024-10-21   |
+|  7 | [flash-linux0.11-talk](https://github.com/dibingfa/flash-linux0.11-talk)                | 2023-12-15 | HTML        | 2024-10-26   |
+|  8 | [rework](https://github.com/livid/rework)                                               | 2023-02-27 | md          | 2024-10-25   |
+|  9 | [mbox](https://github.com/MBoxPlus/mbox)                                                | 2022-05-16 | Ruby        | 2024-10-22   |
+| 10 | [awesome-ios](https://github.com/vsouza/awesome-ios)                                    | 2017-11-23 | Swift       | 2024-10-26   |
 
 <!--END_SECTION:my_github-->
