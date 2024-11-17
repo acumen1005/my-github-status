@@ -24,7 +24,7 @@
 |  14 | [LazyScript](https://github.com/acumen1005/LazyScript)                             | 2016-09-17 | 2016-09-18 | Shell       |     0 |
 |  15 | [LearnNote](https://github.com/acumen1005/LearnNote)                               | 2016-12-09 | 2017-07-19 | md          |     0 |
 |  16 | [Crawler](https://github.com/acumen1005/Crawler)                                   | 2016-03-04 | 2016-03-15 | HTML        |     0 |
-|  17 | [my-github-status](https://github.com/acumen1005/my-github-status)                 | 2021-04-11 | 2024-11-03 | md          |     0 |
+|  17 | [my-github-status](https://github.com/acumen1005/my-github-status)                 | 2021-04-11 | 2024-11-10 | md          |     0 |
 |  18 | [acumen1005](https://github.com/acumen1005/acumen1005)                             | 2020-07-09 | 2022-05-23 | md          |     0 |
 |  19 | [ACPhotoPickerController](https://github.com/acumen1005/ACPhotoPickerController)   | 2017-03-03 | 2018-04-02 | Swift       |     0 |
 |  20 | [CodeClean](https://github.com/acumen1005/CodeClean)                               | 2021-03-24 | 2021-03-24 | Python      |     0 |
@@ -42,17 +42,17 @@
 | sum |                                                                   |                                                                     |                                                                     |          |                                                                                      7 |
 
 ## The repos I stared (random 10)
-| ID |                                          REPO                                           | STAREDDATE |  LANGUAGE   | LATESTUPDATE |
-|----|-----------------------------------------------------------------------------------------|------------|-------------|--------------|
-|  1 | [iOS-Performance-Optimization](https://github.com/skyming/iOS-Performance-Optimization) | 2017-05-08 | Objective-C | 2024-11-06   |
-|  2 | [Signal-iOS](https://github.com/signalapp/Signal-iOS)                                   | 2023-12-16 | Swift       | 2024-11-09   |
-|  3 | [Joy-Blog](https://github.com/joy0304/Joy-Blog)                                         | 2020-05-25 | md          | 2024-05-16   |
-|  4 | [SnowEffectViewBuilder](https://github.com/nalydadad/SnowEffectViewBuilder)             | 2019-11-25 | Swift       | 2022-09-05   |
-|  5 | [HGPlaceholders](https://github.com/HamzaGhazouani/HGPlaceholders)                      | 2017-08-14 | Swift       | 2024-11-08   |
-|  6 | [flutter-go](https://github.com/alibaba/flutter-go)                                     | 2019-04-29 | Dart        | 2024-11-09   |
-|  7 | [Daysquare](https://github.com/unixzii/Daysquare)                                       | 2020-10-11 | Objective-C | 2024-07-26   |
-|  8 | [gold-miner](https://github.com/xitu/gold-miner)                                        | 2016-12-08 | md          | 2024-11-09   |
-|  9 | [iOS11](https://github.com/2877025939/iOS11)                                            | 2017-09-28 | md          | 2024-06-21   |
-| 10 | [PNChart](https://github.com/kevinzhow/PNChart)                                         | 2016-09-20 | Objective-C | 2024-11-09   |
+| ID |                                          REPO                                           | STAREDDATE |  LANGUAGE  | LATESTUPDATE |
+|----|-----------------------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [Koloda](https://github.com/Yalantis/Koloda)                                            | 2019-01-22 | Swift      | 2024-11-15   |
+|  2 | [BouncyLayout](https://github.com/roberthein/BouncyLayout)                              | 2017-09-08 | Swift      | 2024-11-14   |
+|  3 | [RedditOS](https://github.com/Dimillian/RedditOS)                                       | 2020-12-16 | Swift      | 2024-11-16   |
+|  4 | [CleanArchitectureRxSwift](https://github.com/sergdort/CleanArchitectureRxSwift)        | 2019-07-03 | Swift      | 2024-11-13   |
+|  5 | [fishhook](https://github.com/facebook/fishhook)                                        | 2020-08-14 | C          | 2024-11-15   |
+|  6 | [Windless](https://github.com/ParkGwangBeom/Windless)                                   | 2018-12-11 | Swift      | 2024-11-14   |
+|  7 | [app-privacy-policy-generator](https://github.com/nisrulz/app-privacy-policy-generator) | 2022-06-13 | Sass       | 2024-11-16   |
+|  8 | [SwiftHub](https://github.com/khoren93/SwiftHub)                                        | 2019-04-29 | Swift      | 2024-11-14   |
+|  9 | [ipatool](https://github.com/majd/ipatool)                                              | 2022-02-22 | Go         | 2024-11-16   |
+| 10 | [deepClone](https://github.com/QiandaoLakeYY/deepClone)                                 | 2018-04-12 | JavaScript | 2018-04-18   |
 
 <!--END_SECTION:my_github-->
