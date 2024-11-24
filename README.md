@@ -24,7 +24,7 @@
 |  14 | [LazyScript](https://github.com/acumen1005/LazyScript)                             | 2016-09-17 | 2016-09-18 | Shell       |     0 |
 |  15 | [LearnNote](https://github.com/acumen1005/LearnNote)                               | 2016-12-09 | 2017-07-19 | md          |     0 |
 |  16 | [Crawler](https://github.com/acumen1005/Crawler)                                   | 2016-03-04 | 2016-03-15 | HTML        |     0 |
-|  17 | [my-github-status](https://github.com/acumen1005/my-github-status)                 | 2021-04-11 | 2024-11-17 | md          |     0 |
+|  17 | [my-github-status](https://github.com/acumen1005/my-github-status)                 | 2021-04-11 | 2024-11-23 | md          |     0 |
 |  18 | [acumen1005](https://github.com/acumen1005/acumen1005)                             | 2020-07-09 | 2022-05-23 | md          |     0 |
 |  19 | [ACPhotoPickerController](https://github.com/acumen1005/ACPhotoPickerController)   | 2017-03-03 | 2018-04-02 | Swift       |     0 |
 |  20 | [CodeClean](https://github.com/acumen1005/CodeClean)                               | 2021-03-24 | 2021-03-24 | Python      |     0 |
@@ -42,17 +42,17 @@
 | sum |                                                                   |                                                                     |                                                                     |          |                                                                                      7 |
 
 ## The repos I stared (random 10)
-| ID |                                               REPO                                                | STAREDDATE |  LANGUAGE   | LATESTUPDATE |
-|----|---------------------------------------------------------------------------------------------------|------------|-------------|--------------|
-|  1 | [TZImagePickerController](https://github.com/banchichen/TZImagePickerController)                  | 2018-02-24 | Objective-C | 2024-11-22   |
-|  2 | [ios-crash-dump-analysis-book](https://github.com/faisalmemon/ios-crash-dump-analysis-book)       | 2021-05-14 | Objective-C | 2024-11-18   |
-|  3 | [Solve-App-Store-Review-Problem](https://github.com/wg689/Solve-App-Store-Review-Problem)         | 2016-09-12 | Objective-C | 2024-11-19   |
-|  4 | [CHTCollectionViewWaterfallLayout](https://github.com/chiahsien/CHTCollectionViewWaterfallLayout) | 2020-08-28 | Objective-C | 2024-11-18   |
-|  5 | [app-ideas](https://github.com/florinpop17/app-ideas)                                             | 2020-05-19 | md          | 2024-11-22   |
-|  6 | [ipatool](https://github.com/majd/ipatool)                                                        | 2022-02-22 | Go          | 2024-11-22   |
-|  7 | [swift-collections-benchmark](https://github.com/apple/swift-collections-benchmark)               | 2021-04-06 | Swift       | 2024-11-22   |
-|  8 | [BSBacktraceLogger](https://github.com/bestswifter/BSBacktraceLogger)                             | 2020-08-05 | Objective-C | 2024-11-13   |
-|  9 | [WBBlades](https://github.com/wuba/WBBlades)                                                      | 2020-11-18 | Objective-C | 2024-11-21   |
-| 10 | [SourceKitten](https://github.com/jpsim/SourceKitten)                                             | 2021-05-03 | Swift       | 2024-11-19   |
+| ID |                                   REPO                                    | STAREDDATE |  LANGUAGE   | LATESTUPDATE |
+|----|---------------------------------------------------------------------------|------------|-------------|--------------|
+|  1 | [WeChatBot](https://github.com/onezens/WeChatBot)                         | 2019-08-27 | Objective-C | 2024-11-14   |
+|  2 | [RxSwift](https://github.com/ReactiveX/RxSwift)                           | 2017-03-30 | Swift       | 2024-11-23   |
+|  3 | [Sensei](https://github.com/nixzhu/Sensei)                                | 2023-04-11 | Swift       | 2024-11-04   |
+|  4 | [ImagePalette](https://github.com/shnhrrsn/ImagePalette)                  | 2020-12-11 | Swift       | 2024-07-30   |
+|  5 | [FastOCR](https://github.com/BruceZhang1993/FastOCR)                      | 2022-04-14 | Python      | 2024-11-11   |
+|  6 | [Hero](https://github.com/HeroTransitions/Hero)                           | 2017-08-15 | Swift       | 2024-11-23   |
+|  7 | [SPStorkController](https://github.com/ivanvorobei/SPStorkController)     | 2019-04-19 | Swift       | 2024-11-17   |
+|  8 | [MochiDiffusion](https://github.com/MochiDiffusion/MochiDiffusion)        | 2023-04-02 | Swift       | 2024-11-24   |
+|  9 | [SwiftRichString](https://github.com/malcommac/SwiftRichString)           | 2019-07-08 | Swift       | 2024-11-22   |
+| 10 | [SwiftUI-CardStackView](https://github.com/dadalar/SwiftUI-CardStackView) | 2020-12-27 | Swift       | 2024-11-23   |
 
 <!--END_SECTION:my_github-->
