@@ -24,7 +24,7 @@
 |  14 | [LazyScript](https://github.com/acumen1005/LazyScript)                             | 2016-09-17 | 2016-09-18 | Shell       |     0 |
 |  15 | [LearnNote](https://github.com/acumen1005/LearnNote)                               | 2016-12-09 | 2017-07-19 | md          |     0 |
 |  16 | [Crawler](https://github.com/acumen1005/Crawler)                                   | 2016-03-04 | 2016-03-15 | HTML        |     0 |
-|  17 | [my-github-status](https://github.com/acumen1005/my-github-status)                 | 2021-04-11 | 2024-12-01 | md          |     0 |
+|  17 | [my-github-status](https://github.com/acumen1005/my-github-status)                 | 2021-04-11 | 2024-12-08 | md          |     0 |
 |  18 | [acumen1005](https://github.com/acumen1005/acumen1005)                             | 2020-07-09 | 2022-05-23 | md          |     0 |
 |  19 | [ACPhotoPickerController](https://github.com/acumen1005/ACPhotoPickerController)   | 2017-03-03 | 2018-04-02 | Swift       |     0 |
 |  20 | [CodeClean](https://github.com/acumen1005/CodeClean)                               | 2021-03-24 | 2021-03-24 | Python      |     0 |
@@ -42,17 +42,17 @@
 | sum |                                                                   |                                                                     |                                                                     |          |                                                                                      7 |
 
 ## The repos I stared (random 10)
-| ID |                                      REPO                                      | STAREDDATE |  LANGUAGE  | LATESTUPDATE |
-|----|--------------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [ish](https://github.com/ish-app/ish)                                          | 2019-10-31 | C          | 2024-12-07   |
-|  2 | [youtube-iOS](https://github.com/aslanyanhaik/youtube-iOS)                     | 2017-06-12 | Swift      | 2024-12-07   |
-|  3 | [quill](https://github.com/slab/quill)                                         | 2024-02-28 | TypeScript | 2024-12-07   |
-|  4 | [HowToCook](https://github.com/Anduin2017/HowToCook)                           | 2022-02-19 | Dockerfile | 2024-12-07   |
-|  5 | [TelegramSwift](https://github.com/overtake/TelegramSwift)                     | 2017-10-12 | Swift      | 2024-12-08   |
-|  6 | [FluidGradient](https://github.com/Cindori/FluidGradient)                      | 2023-12-02 | Swift      | 2024-12-07   |
-|  7 | [ElegantTimeline-SwiftUI](https://github.com/ThasianX/ElegantTimeline-SwiftUI) | 2020-07-18 | Swift      | 2024-12-02   |
-|  8 | [V2rayU](https://github.com/yanue/V2rayU)                                      | 2020-06-02 | md         | 2024-12-07   |
-|  9 | [Motrix](https://github.com/agalwood/Motrix)                                   | 2022-11-13 | JavaScript | 2024-12-07   |
-| 10 | [SwiftUI-CardStackView](https://github.com/dadalar/SwiftUI-CardStackView)      | 2020-12-27 | Swift      | 2024-12-03   |
+| ID |                                               REPO                                                | STAREDDATE |  LANGUAGE   | LATESTUPDATE |
+|----|---------------------------------------------------------------------------------------------------|------------|-------------|--------------|
+|  1 | [MochiDiffusion](https://github.com/MochiDiffusion/MochiDiffusion)                                | 2023-04-02 | Swift       | 2024-12-14   |
+|  2 | [CHTCollectionViewWaterfallLayout](https://github.com/chiahsien/CHTCollectionViewWaterfallLayout) | 2020-08-28 | Objective-C | 2024-12-14   |
+|  3 | [FabulaItemsProvider](https://github.com/jasudev/FabulaItemsProvider)                             | 2024-04-11 | Swift       | 2024-12-10   |
+|  4 | [WRNavigationBar](https://github.com/wangrui460/WRNavigationBar)                                  | 2017-07-12 | Objective-C | 2024-12-06   |
+|  5 | [hangzhou_house_knowledge](https://github.com/houshanren/hangzhou_house_knowledge)                | 2018-02-26 | CSS         | 2024-12-14   |
+|  6 | [FBMemoryProfiler](https://github.com/facebookarchive/FBMemoryProfiler)                           | 2017-09-14 | Objective-C | 2024-12-07   |
+|  7 | [open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps)                         | 2016-07-13 | md          | 2024-12-15   |
+|  8 | [jshistory-cn](https://github.com/doodlewind/jshistory-cn)                                        | 2020-09-30 | TypeScript  | 2024-12-09   |
+|  9 | [ChatGPT](https://github.com/acheong08/ChatGPT)                                                   | 2022-12-09 | Python      | 2024-12-14   |
+| 10 | [Todo](https://github.com/fatbobman/Todo)                                                         | 2024-02-24 | Swift       | 2024-10-30   |
 
 <!--END_SECTION:my_github-->
