@@ -24,7 +24,7 @@
 |  14 | [LazyScript](https://github.com/acumen1005/LazyScript)                             | 2016-09-17 | 2016-09-18 | Shell       |     0 |
 |  15 | [LearnNote](https://github.com/acumen1005/LearnNote)                               | 2016-12-09 | 2017-07-19 | md          |     0 |
 |  16 | [Crawler](https://github.com/acumen1005/Crawler)                                   | 2016-03-04 | 2016-03-15 | HTML        |     0 |
-|  17 | [my-github-status](https://github.com/acumen1005/my-github-status)                 | 2021-04-11 | 2024-12-23 | md          |     0 |
+|  17 | [my-github-status](https://github.com/acumen1005/my-github-status)                 | 2021-04-11 | 2024-12-29 | md          |     0 |
 |  18 | [acumen1005](https://github.com/acumen1005/acumen1005)                             | 2020-07-09 | 2022-05-23 | md          |     0 |
 |  19 | [ACPhotoPickerController](https://github.com/acumen1005/ACPhotoPickerController)   | 2017-03-03 | 2018-04-02 | Swift       |     0 |
 |  20 | [CodeClean](https://github.com/acumen1005/CodeClean)                               | 2021-03-24 | 2021-03-24 | Python      |     0 |
@@ -42,17 +42,17 @@
 | sum |                                                                   |                                                                     |                                                                     |          |                                                                                      7 |
 
 ## The repos I stared (random 10)
-| ID |                                           REPO                                           | STAREDDATE |  LANGUAGE   | LATESTUPDATE |
-|----|------------------------------------------------------------------------------------------|------------|-------------|--------------|
-|  1 | [33-js-concepts](https://github.com/stephentian/33-js-concepts)                          | 2018-10-24 | JavaScript  | 2024-12-28   |
-|  2 | [CnC_Remastered_Collection](https://github.com/electronicarts/CnC_Remastered_Collection) | 2020-06-10 | C++         | 2024-12-29   |
-|  3 | [ijkplayer](https://github.com/bilibili/ijkplayer)                                       | 2016-09-15 | C           | 2024-12-28   |
-|  4 | [Paolujichang](https://github.com/limbopro/Paolujichang)                                 | 2022-10-10 | md          | 2024-12-28   |
-|  5 | [IceCubesApp](https://github.com/Dimillian/IceCubesApp)                                  | 2023-10-14 | Swift       | 2024-12-28   |
-|  6 | [awesome-ios-animation](https://github.com/onmyway133/awesome-ios-animation)             | 2016-06-03 | md          | 2024-12-28   |
-|  7 | [ChatGPT](https://github.com/acheong08/ChatGPT)                                          | 2022-12-09 | Python      | 2024-12-28   |
-|  8 | [SocketRocket](https://github.com/facebookincubator/SocketRocket)                        | 2019-08-19 | Objective-C | 2024-12-27   |
-|  9 | [NetworkLayerExample](https://github.com/tomkowz/NetworkLayerExample)                    | 2017-04-26 | Swift       | 2024-08-06   |
-| 10 | [V2rayU](https://github.com/yanue/V2rayU)                                                | 2020-06-02 | md          | 2024-12-28   |
+| ID |                                       REPO                                        | STAREDDATE |  LANGUAGE   | LATESTUPDATE |
+|----|-----------------------------------------------------------------------------------|------------|-------------|--------------|
+|  1 | [atswift-2017-resources](https://github.com/atConf/atswift-2017-resources)        | 2017-06-01 | md          | 2024-11-29   |
+|  2 | [SourceKitten](https://github.com/jpsim/SourceKitten)                             | 2021-05-03 | Swift       | 2024-12-23   |
+|  3 | [NJKWebViewProgress](https://github.com/ninjinkun/NJKWebViewProgress)             | 2017-09-27 | Objective-C | 2025-01-01   |
+|  4 | [mobilists](https://github.com/eleme/mobilists)                                   | 2017-09-14 | JavaScript  | 2024-03-18   |
+|  5 | [PocketSocket](https://github.com/zwopple/PocketSocket)                           | 2021-01-21 | Objective-C | 2024-11-06   |
+|  6 | [objective-c-style-guide](https://github.com/kodecocodes/objective-c-style-guide) | 2016-12-01 | md          | 2024-12-23   |
+|  7 | [LYCustomTransition](https://github.com/dev-liyang/LYCustomTransition)            | 2018-03-05 | Objective-C | 2025-01-03   |
+|  8 | [phixer](https://github.com/nateemma/phixer)                                      | 2020-12-24 | Swift       | 2024-11-02   |
+|  9 | [Docker-OSX](https://github.com/sickcodes/Docker-OSX)                             | 2020-06-05 | Shell       | 2025-01-04   |
+| 10 | [SkeletonView](https://github.com/Juanpe/SkeletonView)                            | 2018-12-11 | Swift       | 2024-12-31   |
 
 <!--END_SECTION:my_github-->
