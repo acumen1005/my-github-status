@@ -24,7 +24,7 @@
 |  14 | [LazyScript](https://github.com/acumen1005/LazyScript)                             | 2016-09-17 | 2016-09-18 | Shell       |     0 |
 |  15 | [LearnNote](https://github.com/acumen1005/LearnNote)                               | 2016-12-09 | 2017-07-19 | md          |     0 |
 |  16 | [Crawler](https://github.com/acumen1005/Crawler)                                   | 2016-03-04 | 2016-03-15 | HTML        |     0 |
-|  17 | [my-github-status](https://github.com/acumen1005/my-github-status)                 | 2021-04-11 | 2025-01-19 | md          |     0 |
+|  17 | [my-github-status](https://github.com/acumen1005/my-github-status)                 | 2021-04-11 | 2025-01-23 | md          |     0 |
 |  18 | [acumen1005](https://github.com/acumen1005/acumen1005)                             | 2020-07-09 | 2022-05-23 | md          |     0 |
 |  19 | [ACPhotoPickerController](https://github.com/acumen1005/ACPhotoPickerController)   | 2017-03-03 | 2018-04-02 | Swift       |     0 |
 |  20 | [CodeClean](https://github.com/acumen1005/CodeClean)                               | 2021-03-24 | 2021-03-24 | Python      |     0 |
@@ -42,17 +42,17 @@
 | sum |                                                                   |                                                                     |                                                                     |          |                                                                                      7 |
 
 ## The repos I stared (random 10)
-| ID |                                         REPO                                          | STAREDDATE |  LANGUAGE  | LATESTUPDATE |
-|----|---------------------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [ha_xiaomi_home](https://github.com/XiaoMi/ha_xiaomi_home)                            | 2024-12-16 | Python     | 2025-01-23   |
-|  2 | [automatic-app-landing-page](https://github.com/emilbaehr/automatic-app-landing-page) | 2024-04-24 | SCSS       | 2025-01-22   |
-|  3 | [forever-coolshell](https://github.com/soulteary/forever-coolshell)                   | 2023-05-17 | HTML       | 2025-01-21   |
-|  4 | [SunKit](https://github.com/SunKit-Swift/SunKit)                                      | 2023-08-22 | Swift      | 2024-12-17   |
-|  5 | [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy)                                   | 2023-04-25 | Dart       | 2025-01-23   |
-|  6 | [next-startd](https://github.com/jkytoela/next-startd)                                | 2022-06-13 | TypeScript | 2025-01-15   |
-|  7 | [Paolujichang](https://github.com/limbopro/Paolujichang)                              | 2022-10-10 | md         | 2025-01-22   |
-|  8 | [OutlinedLabel](https://github.com/adrianorezena/OutlinedLabel)                       | 2024-11-20 | Swift      | 2025-01-17   |
-|  9 | [ConfettiSwiftUI](https://github.com/simibac/ConfettiSwiftUI)                         | 2022-05-21 | Swift      | 2025-01-22   |
-| 10 | [LLM101n](https://github.com/karpathy/LLM101n)                                        | 2024-07-22 | md         | 2025-01-23   |
+| ID |                                               REPO                                                | STAREDDATE |  LANGUAGE  | LATESTUPDATE |
+|----|---------------------------------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [dalai](https://github.com/cocktailpeanut/dalai)                                                  | 2023-03-24 | CSS        | 2025-01-25   |
+|  2 | [Japan-restaurant](https://github.com/RanceJen/Japan-restaurant)                                  | 2024-05-12 | md         | 2024-11-18   |
+|  3 | [ChatGPT-Siri](https://github.com/Yue-Yang/ChatGPT-Siri)                                          | 2023-03-05 | md         | 2025-01-24   |
+|  4 | [swiftui-charts](https://github.com/spacenation/swiftui-charts)                                   | 2024-04-15 | Swift      | 2025-01-24   |
+|  5 | [IrregularGradient](https://github.com/joogps/IrregularGradient)                                  | 2024-02-06 | Swift      | 2025-01-17   |
+|  6 | [bob-plugin-openai-translator](https://github.com/openai-translator/bob-plugin-openai-translator) | 2023-03-01 | TypeScript | 2025-01-24   |
+|  7 | [Swift-Charts-Examples](https://github.com/jordibruin/Swift-Charts-Examples)                      | 2024-04-07 | Swift      | 2025-01-25   |
+|  8 | [SwiftUI-Code-Examples](https://github.com/NilCoalescing/SwiftUI-Code-Examples)                   | 2023-04-10 | Swift      | 2025-01-18   |
+|  9 | [tuist](https://github.com/tuist/tuist)                                                           | 2023-04-11 | Swift      | 2025-01-25   |
+| 10 | [Sheeeeeeeeet](https://github.com/danielsaidi/Sheeeeeeeeet)                                       | 2023-11-18 | Swift      | 2025-01-15   |
 
 <!--END_SECTION:my_github-->
