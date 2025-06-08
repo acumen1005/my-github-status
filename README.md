@@ -24,7 +24,7 @@
 |  14 | [LazyScript](https://github.com/acumen1005/LazyScript)                             | 2016-09-17 | 2016-09-18 | Shell       |     0 |
 |  15 | [LearnNote](https://github.com/acumen1005/LearnNote)                               | 2016-12-09 | 2017-07-19 | md          |     0 |
 |  16 | [Crawler](https://github.com/acumen1005/Crawler)                                   | 2016-03-04 | 2016-03-15 | HTML        |     0 |
-|  17 | [my-github-status](https://github.com/acumen1005/my-github-status)                 | 2021-04-11 | 2025-05-25 | md          |     0 |
+|  17 | [my-github-status](https://github.com/acumen1005/my-github-status)                 | 2021-04-11 | 2025-06-01 | md          |     0 |
 |  18 | [acumen1005](https://github.com/acumen1005/acumen1005)                             | 2020-07-09 | 2022-05-23 | md          |     0 |
 |  19 | [ACPhotoPickerController](https://github.com/acumen1005/ACPhotoPickerController)   | 2017-03-03 | 2018-04-02 | Swift       |     0 |
 |  20 | [CodeClean](https://github.com/acumen1005/CodeClean)                               | 2021-03-24 | 2021-03-24 | Python      |     0 |
@@ -42,17 +42,17 @@
 | sum |                                                                   |                                                                     |                                                                     |          |                                                                                      7 |
 
 ## The repos I stared (random 10)
-| ID |                                                                 REPO                                                                  | STAREDDATE |  LANGUAGE  | LATESTUPDATE |
-|----|---------------------------------------------------------------------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [mbox](https://github.com/MBoxPlus/mbox)                                                                                              | 2022-05-16 | Ruby       | 2025-05-27   |
-|  2 | [Motrix](https://github.com/agalwood/Motrix)                                                                                          | 2022-11-13 | JavaScript | 2025-06-01   |
-|  3 | [OutlinedLabel](https://github.com/adrianorezena/OutlinedLabel)                                                                       | 2024-11-20 | Swift      | 2025-05-19   |
-|  4 | [iOS-Drawing-Practical-UIKit-Soluations-Translation](https://github.com/wangdicen/iOS-Drawing-Practical-UIKit-Soluations-Translation) | 2024-02-01 | md         | 2024-12-27   |
-|  5 | [Downloader-for-Apple-Developers](https://github.com/vineetchoudhary/Downloader-for-Apple-Developers)                                 | 2024-04-21 | Swift      | 2025-02-28   |
-|  6 | [Calendr](https://github.com/pakerwreah/Calendr)                                                                                      | 2023-04-28 | Swift      | 2025-05-31   |
-|  7 | [Sheeeeeeeeet](https://github.com/danielsaidi/Sheeeeeeeeet)                                                                           | 2023-11-18 | Swift      | 2025-05-28   |
-|  8 | [slate](https://github.com/ianstormtaylor/slate)                                                                                      | 2023-04-11 | TypeScript | 2025-05-31   |
-|  9 | [Paolujichang](https://github.com/limbopro/Paolujichang)                                                                              | 2022-10-10 | md         | 2025-05-31   |
-| 10 | [rework](https://github.com/livid/rework)                                                                                             | 2023-02-27 | md         | 2025-04-23   |
+| ID |                                     REPO                                      | STAREDDATE |  LANGUAGE  | LATESTUPDATE |
+|----|-------------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [ml-stable-diffusion](https://github.com/apple/ml-stable-diffusion)           | 2023-04-02 | Python     | 2025-06-07   |
+|  2 | [Popovers](https://github.com/aheze/Popovers)                                 | 2022-05-13 | Swift      | 2025-06-06   |
+|  3 | [chatgpt-google-extension](https://github.com/wong2/chatgpt-google-extension) | 2022-12-06 | TypeScript | 2025-06-06   |
+|  4 | [Calendr](https://github.com/pakerwreah/Calendr)                              | 2023-04-28 | Swift      | 2025-06-08   |
+|  5 | [screenshot-to-code](https://github.com/abi/screenshot-to-code)               | 2024-03-03 | Python     | 2025-06-08   |
+|  6 | [rework](https://github.com/livid/rework)                                     | 2023-02-27 | md         | 2025-06-05   |
+|  7 | [Fluid_DynamicIsland](https://github.com/pratikg29/Fluid_DynamicIsland)       | 2023-05-29 | Swift      | 2025-05-30   |
+|  8 | [TypeScript](https://github.com/zhongsp/TypeScript)                           | 2023-04-12 | TypeScript | 2025-06-08   |
+|  9 | [Swift-Charts-Examples](https://github.com/jordibruin/Swift-Charts-Examples)  | 2024-04-07 | Swift      | 2025-06-06   |
+| 10 | [Glur](https://github.com/joogps/Glur)                                        | 2024-02-06 | Swift      | 2025-06-07   |
 
 <!--END_SECTION:my_github-->
