@@ -24,7 +24,7 @@
 |  14 | [LazyScript](https://github.com/acumen1005/LazyScript)                             | 2016-09-17 | 2016-09-18 | Shell       |     0 |
 |  15 | [LearnNote](https://github.com/acumen1005/LearnNote)                               | 2016-12-09 | 2017-07-19 | md          |     0 |
 |  16 | [Crawler](https://github.com/acumen1005/Crawler)                                   | 2016-03-04 | 2016-03-15 | HTML        |     0 |
-|  17 | [my-github-status](https://github.com/acumen1005/my-github-status)                 | 2021-04-11 | 2025-07-06 | md          |     0 |
+|  17 | [my-github-status](https://github.com/acumen1005/my-github-status)                 | 2021-04-11 | 2025-07-13 | md          |     0 |
 |  18 | [acumen1005](https://github.com/acumen1005/acumen1005)                             | 2020-07-09 | 2022-05-23 | md          |     0 |
 |  19 | [ACPhotoPickerController](https://github.com/acumen1005/ACPhotoPickerController)   | 2017-03-03 | 2018-04-02 | Swift       |     0 |
 |  20 | [CodeClean](https://github.com/acumen1005/CodeClean)                               | 2021-03-24 | 2021-03-24 | Python      |     0 |
@@ -42,17 +42,17 @@
 | sum |                                                                   |                                                                     |                                                                     |          |                                                                                      7 |
 
 ## The repos I stared (random 10)
-| ID |                                   REPO                                    | STAREDDATE |  LANGUAGE  | LATESTUPDATE |
-|----|---------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [IrregularGradient](https://github.com/joogps/IrregularGradient)          | 2024-02-06 | Swift      | 2025-05-03   |
-|  2 | [dalai](https://github.com/cocktailpeanut/dalai)                          | 2023-03-24 | CSS        | 2025-07-11   |
-|  3 | [RealityKitLaunchScreen](https://github.com/aheze/RealityKitLaunchScreen) | 2022-05-13 | Swift      | 2025-05-21   |
-|  4 | [Sheeeeeeeeet](https://github.com/danielsaidi/Sheeeeeeeeet)               | 2023-11-18 | Swift      | 2025-07-03   |
-|  5 | [super_editor](https://github.com/superlistapp/super_editor)              | 2023-08-09 | Dart       | 2025-07-12   |
-|  6 | [CotEditor](https://github.com/coteditor/CotEditor)                       | 2023-09-14 | Swift      | 2025-07-13   |
-|  7 | [Todo](https://github.com/fatbobman/Todo)                                 | 2024-02-24 | Swift      | 2024-10-30   |
-|  8 | [TypeScript](https://github.com/microsoft/TypeScript)                     | 2023-04-12 | TypeScript | 2025-07-13   |
-|  9 | [RubyText](https://github.com/YeungKC/RubyText)                           | 2025-02-13 | Dart       | 2025-07-05   |
-| 10 | [Japan-restaurant](https://github.com/RanceJen/Japan-restaurant)          | 2024-05-12 | md         | 2025-06-09   |
+| ID |                                                                 REPO                                                                  | STAREDDATE | LANGUAGE | LATESTUPDATE |
+|----|---------------------------------------------------------------------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [iOS-Drawing-Practical-UIKit-Soluations-Translation](https://github.com/wangdicen/iOS-Drawing-Practical-UIKit-Soluations-Translation) | 2024-02-01 | md       | 2024-12-27   |
+|  2 | [mbox](https://github.com/MBoxPlus/mbox)                                                                                              | 2022-05-16 | Ruby     | 2025-05-27   |
+|  3 | [QuickSearch](https://github.com/danielsaidi/QuickSearch)                                                                             | 2024-03-14 | Shell    | 2025-06-05   |
+|  4 | [ml-stable-diffusion](https://github.com/apple/ml-stable-diffusion)                                                                   | 2023-04-02 | Python   | 2025-07-20   |
+|  5 | [MidJourney-Styles-and-Keywords-Reference](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference)                   | 2023-03-26 | md       | 2025-07-18   |
+|  6 | [Sensei](https://github.com/nixzhu/Sensei)                                                                                            | 2023-04-11 | Swift    | 2025-07-14   |
+|  7 | [remote-jobs-in-china](https://github.com/LinuxSuRen/remote-jobs-in-china)                                                            | 2023-05-11 | md       | 2025-07-19   |
+|  8 | [FluidGradient](https://github.com/Cindori/FluidGradient)                                                                             | 2023-12-02 | Swift    | 2025-07-13   |
+|  9 | [Setting](https://github.com/aheze/Setting)                                                                                           | 2024-02-03 | Swift    | 2025-07-19   |
+| 10 | [Mantis](https://github.com/guoyingtao/Mantis)                                                                                        | 2022-07-14 | Swift    | 2025-07-18   |
 
 <!--END_SECTION:my_github-->
