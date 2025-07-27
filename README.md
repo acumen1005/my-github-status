@@ -24,7 +24,7 @@
 |  14 | [LazyScript](https://github.com/acumen1005/LazyScript)                             | 2016-09-17 | 2016-09-18 | Shell       |     0 |
 |  15 | [LearnNote](https://github.com/acumen1005/LearnNote)                               | 2016-12-09 | 2017-07-19 | md          |     0 |
 |  16 | [Crawler](https://github.com/acumen1005/Crawler)                                   | 2016-03-04 | 2016-03-15 | HTML        |     0 |
-|  17 | [my-github-status](https://github.com/acumen1005/my-github-status)                 | 2021-04-11 | 2025-07-20 | md          |     0 |
+|  17 | [my-github-status](https://github.com/acumen1005/my-github-status)                 | 2021-04-11 | 2025-07-23 | md          |     0 |
 |  18 | [acumen1005](https://github.com/acumen1005/acumen1005)                             | 2020-07-09 | 2022-05-23 | md          |     0 |
 |  19 | [ACPhotoPickerController](https://github.com/acumen1005/ACPhotoPickerController)   | 2017-03-03 | 2018-04-02 | Swift       |     0 |
 |  20 | [CodeClean](https://github.com/acumen1005/CodeClean)                               | 2021-03-24 | 2021-03-24 | Python      |     0 |
@@ -42,17 +42,17 @@
 | sum |                                                                   |                                                                     |                                                                     |          |                                                                                      7 |
 
 ## The repos I stared (random 10)
-| ID |                                                                 REPO                                                                  | STAREDDATE |  LANGUAGE  | LATESTUPDATE |
-|----|---------------------------------------------------------------------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [FluentDarkModeKit](https://github.com/microsoft/FluentDarkModeKit)                                                                   | 2022-06-12 | Swift      | 2025-06-20   |
-|  2 | [ColorfulX](https://github.com/Lakr233/ColorfulX)                                                                                     | 2024-03-11 | Swift      | 2025-07-15   |
-|  3 | [ml-stable-diffusion](https://github.com/apple/ml-stable-diffusion)                                                                   | 2023-04-02 | Python     | 2025-07-22   |
-|  4 | [LLM101n](https://github.com/karpathy/LLM101n)                                                                                        | 2024-07-22 | md         | 2025-07-22   |
-|  5 | [Charts](https://github.com/ChartsOrg/Charts)                                                                                         | 2024-04-07 | Swift      | 2025-07-23   |
-|  6 | [AFFiNE](https://github.com/toeverything/AFFiNE)                                                                                      | 2023-04-12 | TypeScript | 2025-07-23   |
-|  7 | [power_image](https://github.com/alibaba/power_image)                                                                                 | 2022-05-18 | Dart       | 2025-06-25   |
-|  8 | [tuist](https://github.com/tuist/tuist)                                                                                               | 2023-04-11 | Swift      | 2025-07-23   |
-|  9 | [iOS-Drawing-Practical-UIKit-Soluations-Translation](https://github.com/wangdicen/iOS-Drawing-Practical-UIKit-Soluations-Translation) | 2024-02-01 | md         | 2024-12-27   |
-| 10 | [rework](https://github.com/livid/rework)                                                                                             | 2023-02-27 | md         | 2025-06-19   |
+| ID |                                                 REPO                                                  | STAREDDATE | LANGUAGE | LATESTUPDATE |
+|----|-------------------------------------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [SwiftUI-Code-Examples](https://github.com/NilCoalescing/SwiftUI-Code-Examples)                       | 2023-04-10 | Swift    | 2025-07-14   |
+|  2 | [IrregularGradient](https://github.com/joogps/IrregularGradient)                                      | 2024-02-06 | Swift    | 2025-05-03   |
+|  3 | [Downloader-for-Apple-Developers](https://github.com/vineetchoudhary/Downloader-for-Apple-Developers) | 2024-04-21 | Swift    | 2025-07-06   |
+|  4 | [screenshot-to-code](https://github.com/abi/screenshot-to-code)                                       | 2024-03-03 | Python   | 2025-07-27   |
+|  5 | [SunKit](https://github.com/SunKit-Swift/SunKit)                                                      | 2023-08-22 | Swift    | 2025-07-09   |
+|  6 | [Fluid_DynamicIsland](https://github.com/pratikg29/Fluid_DynamicIsland)                               | 2023-05-29 | Swift    | 2025-05-30   |
+|  7 | [LeetcodeTop](https://github.com/afatcoder/LeetcodeTop)                                               | 2024-07-17 | md       | 2025-07-26   |
+|  8 | [MusadoraKit](https://github.com/rryam/MusadoraKit)                                                   | 2023-04-15 | Swift    | 2025-07-25   |
+|  9 | [Setting](https://github.com/aheze/Setting)                                                           | 2024-02-03 | Swift    | 2025-07-26   |
+| 10 | [hello-algo](https://github.com/krahets/hello-algo)                                                   | 2023-11-30 | Java     | 2025-07-27   |
 
 <!--END_SECTION:my_github-->
