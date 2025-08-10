@@ -24,7 +24,7 @@
 |  14 | [LazyScript](https://github.com/acumen1005/LazyScript)                             | 2016-09-17 | 2016-09-18 | Shell       |     0 |
 |  15 | [LearnNote](https://github.com/acumen1005/LearnNote)                               | 2016-12-09 | 2017-07-19 | md          |     0 |
 |  16 | [Crawler](https://github.com/acumen1005/Crawler)                                   | 2016-03-04 | 2016-03-15 | HTML        |     0 |
-|  17 | [my-github-status](https://github.com/acumen1005/my-github-status)                 | 2021-04-11 | 2025-07-27 | md          |     0 |
+|  17 | [my-github-status](https://github.com/acumen1005/my-github-status)                 | 2021-04-11 | 2025-08-03 | md          |     0 |
 |  18 | [acumen1005](https://github.com/acumen1005/acumen1005)                             | 2020-07-09 | 2022-05-23 | md          |     0 |
 |  19 | [ACPhotoPickerController](https://github.com/acumen1005/ACPhotoPickerController)   | 2017-03-03 | 2018-04-02 | Swift       |     0 |
 |  20 | [CodeClean](https://github.com/acumen1005/CodeClean)                               | 2021-03-24 | 2021-03-24 | Python      |     0 |
@@ -42,17 +42,17 @@
 | sum |                                                                   |                                                                     |                                                                     |          |                                                                                      7 |
 
 ## The repos I stared (random 10)
-| ID |                                                          REPO                                                          | STAREDDATE |  LANGUAGE  | LATESTUPDATE |
-|----|------------------------------------------------------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [swiftui-charts](https://github.com/spacenation/swiftui-charts)                                                        | 2024-04-15 | Swift      | 2025-07-27   |
-|  2 | [forever-coolshell](https://github.com/soulteary/forever-coolshell)                                                    | 2023-05-17 | HTML       | 2025-08-01   |
-|  3 | [FabulaItemsProvider](https://github.com/jasudev/FabulaItemsProvider)                                                  | 2024-04-11 | Swift      | 2025-07-22   |
-|  4 | [remote-jobs-in-china](https://github.com/LinuxSuRen/remote-jobs-in-china)                                             | 2023-05-11 | md         | 2025-08-02   |
-|  5 | [RubyText](https://github.com/YeungKC/RubyText)                                                                        | 2025-02-13 | Dart       | 2025-07-05   |
-|  6 | [chatgptProxyAPI](https://github.com/x-dr/chatgptProxyAPI)                                                             | 2023-03-29 | HTML       | 2025-08-01   |
-|  7 | [next-startd](https://github.com/jkytoela/next-startd)                                                                 | 2022-06-13 | TypeScript | 2025-07-02   |
-|  8 | [GPTs](https://github.com/linexjlin/GPTs)                                                                              | 2024-07-04 | md         | 2025-08-02   |
-|  9 | [Programmers-Overseas-Job-Interview-Handbook](https://github.com/eliaszon/Programmers-Overseas-Job-Interview-Handbook) | 2023-02-14 | md         | 2025-08-02   |
-| 10 | [dot-globe](https://github.com/inventhq/dot-globe)                                                                     | 2023-05-29 | Swift      | 2025-07-14   |
+| ID |                                  REPO                                   | STAREDDATE |  LANGUAGE  | LATESTUPDATE |
+|----|-------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [QuickSearch](https://github.com/danielsaidi/QuickSearch)               | 2024-03-14 | Shell      | 2025-07-23   |
+|  2 | [ConfettiSwiftUI](https://github.com/simibac/ConfettiSwiftUI)           | 2022-05-21 | Swift      | 2025-08-08   |
+|  3 | [Setting](https://github.com/aheze/Setting)                             | 2024-02-03 | Swift      | 2025-08-09   |
+|  4 | [photoprism](https://github.com/photoprism/photoprism)                  | 2023-12-16 | Go         | 2025-08-10   |
+|  5 | [ControlNet](https://github.com/lllyasviel/ControlNet)                  | 2023-03-26 | Python     | 2025-08-09   |
+|  6 | [Fluid_DynamicIsland](https://github.com/pratikg29/Fluid_DynamicIsland) | 2023-05-29 | Swift      | 2025-05-30   |
+|  7 | [AFFiNE](https://github.com/toeverything/AFFiNE)                        | 2023-04-12 | TypeScript | 2025-08-10   |
+|  8 | [MusadoraKit](https://github.com/rryam/MusadoraKit)                     | 2023-04-15 | Swift      | 2025-08-07   |
+|  9 | [GRsync](https://github.com/clyang/GRsync)                              | 2023-10-11 | Python     | 2025-08-02   |
+| 10 | [LeetcodeTop](https://github.com/afatcoder/LeetcodeTop)                 | 2024-07-17 | md         | 2025-08-09   |
 
 <!--END_SECTION:my_github-->
