@@ -24,7 +24,7 @@
 |  14 | [LazyScript](https://github.com/acumen1005/LazyScript)                             | 2016-09-17 | 2016-09-18 | Shell       |     0 |
 |  15 | [LearnNote](https://github.com/acumen1005/LearnNote)                               | 2016-12-09 | 2017-07-19 | md          |     0 |
 |  16 | [Crawler](https://github.com/acumen1005/Crawler)                                   | 2016-03-04 | 2016-03-15 | HTML        |     0 |
-|  17 | [my-github-status](https://github.com/acumen1005/my-github-status)                 | 2021-04-11 | 2025-08-03 | md          |     0 |
+|  17 | [my-github-status](https://github.com/acumen1005/my-github-status)                 | 2021-04-11 | 2025-08-10 | md          |     0 |
 |  18 | [acumen1005](https://github.com/acumen1005/acumen1005)                             | 2020-07-09 | 2022-05-23 | md          |     0 |
 |  19 | [ACPhotoPickerController](https://github.com/acumen1005/ACPhotoPickerController)   | 2017-03-03 | 2018-04-02 | Swift       |     0 |
 |  20 | [CodeClean](https://github.com/acumen1005/CodeClean)                               | 2021-03-24 | 2021-03-24 | Python      |     0 |
@@ -44,15 +44,15 @@
 ## The repos I stared (random 10)
 | ID |                                  REPO                                   | STAREDDATE |  LANGUAGE  | LATESTUPDATE |
 |----|-------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [QuickSearch](https://github.com/danielsaidi/QuickSearch)               | 2024-03-14 | Shell      | 2025-07-23   |
-|  2 | [ConfettiSwiftUI](https://github.com/simibac/ConfettiSwiftUI)           | 2022-05-21 | Swift      | 2025-08-08   |
-|  3 | [Setting](https://github.com/aheze/Setting)                             | 2024-02-03 | Swift      | 2025-08-09   |
-|  4 | [photoprism](https://github.com/photoprism/photoprism)                  | 2023-12-16 | Go         | 2025-08-10   |
-|  5 | [ControlNet](https://github.com/lllyasviel/ControlNet)                  | 2023-03-26 | Python     | 2025-08-09   |
-|  6 | [Fluid_DynamicIsland](https://github.com/pratikg29/Fluid_DynamicIsland) | 2023-05-29 | Swift      | 2025-05-30   |
-|  7 | [AFFiNE](https://github.com/toeverything/AFFiNE)                        | 2023-04-12 | TypeScript | 2025-08-10   |
-|  8 | [MusadoraKit](https://github.com/rryam/MusadoraKit)                     | 2023-04-15 | Swift      | 2025-08-07   |
-|  9 | [GRsync](https://github.com/clyang/GRsync)                              | 2023-10-11 | Python     | 2025-08-02   |
-| 10 | [LeetcodeTop](https://github.com/afatcoder/LeetcodeTop)                 | 2024-07-17 | md         | 2025-08-09   |
+|  1 | [IrregularGradient](https://github.com/joogps/IrregularGradient)        | 2024-02-06 | Swift      | 2025-05-03   |
+|  2 | [SwiftUIX](https://github.com/SwiftUIX/SwiftUIX)                        | 2023-10-13 | Swift      | 2025-08-16   |
+|  3 | [NextChat](https://github.com/ChatGPTNextWeb/NextChat)                  | 2023-03-31 | TypeScript | 2025-08-17   |
+|  4 | [LLM101n](https://github.com/karpathy/LLM101n)                          | 2024-07-22 | md         | 2025-08-16   |
+|  5 | [Fluid_DynamicIsland](https://github.com/pratikg29/Fluid_DynamicIsland) | 2023-05-29 | Swift      | 2025-05-30   |
+|  6 | [frameit-frames](https://github.com/fastlane/frameit-frames)            | 2024-03-05 | md         | 2025-07-29   |
+|  7 | [AFFiNE](https://github.com/toeverything/AFFiNE)                        | 2023-04-12 | TypeScript | 2025-08-17   |
+|  8 | [ChatGPT](https://github.com/acheong08/ChatGPT)                         | 2022-12-09 | Python     | 2025-08-16   |
+|  9 | [photoprism](https://github.com/photoprism/photoprism)                  | 2023-12-16 | Go         | 2025-08-16   |
+| 10 | [Figma-Net-OK](https://github.com/Moonvy/Figma-Net-OK)                  | 2022-05-13 | JavaScript | 2025-08-14   |
 
 <!--END_SECTION:my_github-->
