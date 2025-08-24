@@ -24,7 +24,7 @@
 |  14 | [LazyScript](https://github.com/acumen1005/LazyScript)                             | 2016-09-17 | 2016-09-18 | Shell       |     0 |
 |  15 | [LearnNote](https://github.com/acumen1005/LearnNote)                               | 2016-12-09 | 2017-07-19 | md          |     0 |
 |  16 | [Crawler](https://github.com/acumen1005/Crawler)                                   | 2016-03-04 | 2016-03-15 | HTML        |     0 |
-|  17 | [my-github-status](https://github.com/acumen1005/my-github-status)                 | 2021-04-11 | 2025-08-17 | md          |     0 |
+|  17 | [my-github-status](https://github.com/acumen1005/my-github-status)                 | 2021-04-11 | 2025-08-23 | md          |     0 |
 |  18 | [acumen1005](https://github.com/acumen1005/acumen1005)                             | 2020-07-09 | 2022-05-23 | md          |     0 |
 |  19 | [ACPhotoPickerController](https://github.com/acumen1005/ACPhotoPickerController)   | 2017-03-03 | 2018-04-02 | Swift       |     0 |
 |  20 | [CodeClean](https://github.com/acumen1005/CodeClean)                               | 2021-03-24 | 2021-03-24 | Python      |     0 |
@@ -42,17 +42,17 @@
 | sum |                                                                   |                                                                     |                                                                     |          |                                                                                      7 |
 
 ## The repos I stared (random 10)
-| ID |                                        REPO                                        | STAREDDATE |  LANGUAGE  | LATESTUPDATE |
-|----|------------------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [electron-tab-containers](https://github.com/yuanxiao-mmc/electron-tab-containers) | 2025-08-11 | TypeScript | 2025-08-20   |
-|  2 | [frameit-frames](https://github.com/fastlane/frameit-frames)                       | 2024-03-05 | md         | 2025-07-29   |
-|  3 | [chatgpt-google-extension](https://github.com/wong2/chatgpt-google-extension)      | 2022-12-06 | TypeScript | 2025-08-22   |
-|  4 | [CloudKitCKAssetSample](https://github.com/naosekig/CloudKitCKAssetSample)         | 2022-06-26 | Swift      | 2024-09-25   |
-|  5 | [VariableBlurView](https://github.com/aheze/VariableBlurView)                      | 2024-02-03 | Swift      | 2025-08-21   |
-|  6 | [SplitSheet](https://github.com/aheze/SplitSheet)                                  | 2022-12-11 | Swift      | 2025-07-16   |
-|  7 | [Figma-Net-OK](https://github.com/Moonvy/Figma-Net-OK)                             | 2022-05-13 | JavaScript | 2025-08-18   |
-|  8 | [AFFiNE](https://github.com/toeverything/AFFiNE)                                   | 2023-04-12 | TypeScript | 2025-08-23   |
-|  9 | [screenshot-to-code](https://github.com/abi/screenshot-to-code)                    | 2024-03-03 | Python     | 2025-08-22   |
-| 10 | [Japan-restaurant](https://github.com/RanceJen/Japan-restaurant)                   | 2024-05-12 | md         | 2025-08-19   |
+| ID |                                                 REPO                                                  | STAREDDATE | LANGUAGE | LATESTUPDATE |
+|----|-------------------------------------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [SwiftTUI](https://github.com/rensbreur/SwiftTUI)                                                     | 2022-08-24 | Swift    | 2025-08-22   |
+|  2 | [Downloader-for-Apple-Developers](https://github.com/vineetchoudhary/Downloader-for-Apple-Developers) | 2024-04-21 | Swift    | 2025-07-27   |
+|  3 | [Sheeeeeeeeet](https://github.com/danielsaidi/Sheeeeeeeeet)                                           | 2023-11-18 | Swift    | 2025-08-22   |
+|  4 | [hello-algo](https://github.com/krahets/hello-algo)                                                   | 2023-11-30 | Java     | 2025-08-24   |
+|  5 | [chatgptProxyAPI](https://github.com/x-dr/chatgptProxyAPI)                                            | 2023-03-29 | HTML     | 2025-08-23   |
+|  6 | [ControlNet](https://github.com/lllyasviel/ControlNet)                                                | 2023-03-26 | Python   | 2025-08-23   |
+|  7 | [CloudKitCKAssetSample](https://github.com/naosekig/CloudKitCKAssetSample)                            | 2022-06-26 | Swift    | 2024-09-25   |
+|  8 | [dot-globe](https://github.com/inventhq/dot-globe)                                                    | 2023-05-29 | Swift    | 2025-07-14   |
+|  9 | [swiftui-image-viewer](https://github.com/Jake-Short/swiftui-image-viewer)                            | 2024-03-28 | Swift    | 2025-08-22   |
+| 10 | [smiley-sans](https://github.com/atelier-anchor/smiley-sans)                                          | 2022-11-24 | HTML     | 2025-08-23   |
 
 <!--END_SECTION:my_github-->
