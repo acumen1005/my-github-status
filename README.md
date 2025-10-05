@@ -15,21 +15,21 @@
 |   5 | [WeChatICU-ForMac](https://github.com/acumen1005/WeChatICU-ForMac)                 | 2020-12-28 | 2023-10-21 | md          |     7 |
 |   6 | [FoodCatcher](https://github.com/acumen1005/FoodCatcher)                           | 2021-03-02 | 2021-03-09 | JavaScript  |     1 |
 |   7 | [SwiftUI-Example](https://github.com/acumen1005/SwiftUI-Example)                   | 2020-06-21 | 2020-07-18 | Swift       |     1 |
-|   8 | [acumen1005](https://github.com/acumen1005/acumen1005)                             | 2020-07-09 | 2025-09-09 | md          |     1 |
-|   9 | [Leetcode](https://github.com/acumen1005/Leetcode)                                 | 2018-04-13 | 2020-07-18 | Swift       |     1 |
-|  10 | [AutoTrackExample](https://github.com/acumen1005/AutoTrackExample)                 | 2021-01-15 | 2021-01-15 | Objective-C |     0 |
+|   8 | [Leetcode](https://github.com/acumen1005/Leetcode)                                 | 2018-04-13 | 2020-07-18 | Swift       |     1 |
+|   9 | [AutoTrackExample](https://github.com/acumen1005/AutoTrackExample)                 | 2021-01-15 | 2021-01-15 | Objective-C |     0 |
+|  10 | [Examples](https://github.com/acumen1005/Examples)                                 | 2017-12-04 | 2017-12-04 | Swift       |     0 |
 |  11 | [acumen1005.github.io](https://github.com/acumen1005/acumen1005.github.io)         | 2017-04-26 | 2022-03-05 | HTML        |     0 |
-|  12 | [Examples](https://github.com/acumen1005/Examples)                                 | 2017-12-04 | 2017-12-04 | Swift       |     0 |
+|  12 | [EmojiDisplayIssueExample](https://github.com/acumen1005/EmojiDisplayIssueExample) | 2022-07-22 | 2022-07-22 | Swift       |     0 |
 |  13 | [iSwift](https://github.com/acumen1005/iSwift)                                     | 2016-11-29 | 2016-12-27 | Swift       |     0 |
 |  14 | [LazyScript](https://github.com/acumen1005/LazyScript)                             | 2016-09-17 | 2016-09-18 | Shell       |     0 |
 |  15 | [LearnNote](https://github.com/acumen1005/LearnNote)                               | 2016-12-09 | 2017-07-19 | md          |     0 |
-|  16 | [EmojiDisplayIssueExample](https://github.com/acumen1005/EmojiDisplayIssueExample) | 2022-07-22 | 2022-07-22 | Swift       |     0 |
-|  17 | [my-github-status](https://github.com/acumen1005/my-github-status)                 | 2021-04-11 | 2025-09-23 | md          |     0 |
-|  18 | [Crawler](https://github.com/acumen1005/Crawler)                                   | 2016-03-04 | 2016-03-15 | HTML        |     0 |
+|  16 | [Crawler](https://github.com/acumen1005/Crawler)                                   | 2016-03-04 | 2016-03-15 | HTML        |     0 |
+|  17 | [my-github-status](https://github.com/acumen1005/my-github-status)                 | 2021-04-11 | 2025-09-28 | md          |     0 |
+|  18 | [acumen1005](https://github.com/acumen1005/acumen1005)                             | 2020-07-09 | 2025-10-03 | md          |     0 |
 |  19 | [ACPhotoPickerController](https://github.com/acumen1005/ACPhotoPickerController)   | 2017-03-03 | 2018-04-02 | Swift       |     0 |
 |  20 | [CodeClean](https://github.com/acumen1005/CodeClean)                               | 2021-03-24 | 2021-03-24 | Python      |     0 |
 |  21 | [flutter_calendar](https://github.com/acumen1005/flutter_calendar)                 | 2021-01-16 | 2021-01-27 | Dart        |     0 |
-| sum |                                                                                    |            |            |             |   113 |
+| sum |                                                                                    |            |            |             |   112 |
 
 ## The repos I contributed to
 | ID  |                               REPO                                |                              FIRSTDATE                              |                              LASTDATE                               | LANGUAGE |                                        PRCOUNT                                         |
@@ -42,17 +42,17 @@
 | sum |                                                                   |                                                                     |                                                                     |          |                                                                                      7 |
 
 ## The repos I stared (random 10)
-| ID |                                         REPO                                          | STAREDDATE | LANGUAGE | LATESTUPDATE |
-|----|---------------------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [WeChatMsg](https://github.com/LC044/WeChatMsg)                                       | 2023-12-19 | md       | 2025-09-27   |
-|  2 | [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy)                                   | 2023-04-25 | Dart     | 2025-09-28   |
-|  3 | [LeetcodeTop](https://github.com/afatcoder/LeetcodeTop)                               | 2024-07-17 | md       | 2025-09-27   |
-|  4 | [automatic-app-landing-page](https://github.com/emilbaehr/automatic-app-landing-page) | 2024-04-24 | SCSS     | 2025-09-24   |
-|  5 | [Calendr](https://github.com/pakerwreah/Calendr)                                      | 2023-04-28 | Swift    | 2025-09-27   |
-|  6 | [flash-linux0.11-talk](https://github.com/dibingfa/flash-linux0.11-talk)              | 2023-12-15 | HTML     | 2025-09-27   |
-|  7 | [swift-coreml-diffusers](https://github.com/huggingface/swift-coreml-diffusers)       | 2023-04-02 | Swift    | 2025-09-25   |
-|  8 | [RubyText](https://github.com/YeungKC/RubyText)                                       | 2025-02-13 | Dart     | 2025-08-16   |
-|  9 | [SwiftUI-Code-Examples](https://github.com/NilCoalescing/SwiftUI-Code-Examples)       | 2023-04-10 | Swift    | 2025-09-19   |
-| 10 | [SplitSheet](https://github.com/aheze/SplitSheet)                                     | 2022-12-11 | Swift    | 2025-09-26   |
+| ID |                                                                 REPO                                                                  | STAREDDATE |  LANGUAGE  | LATESTUPDATE |
+|----|---------------------------------------------------------------------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [AFFiNE](https://github.com/toeverything/AFFiNE)                                                                                      | 2023-04-12 | TypeScript | 2025-10-05   |
+|  2 | [automatic-app-landing-page](https://github.com/emilbaehr/automatic-app-landing-page)                                                 | 2024-04-24 | SCSS       | 2025-10-04   |
+|  3 | [SplitSheet](https://github.com/aheze/SplitSheet)                                                                                     | 2022-12-11 | Swift      | 2025-09-26   |
+|  4 | [Setting](https://github.com/aheze/Setting)                                                                                           | 2024-02-03 | Swift      | 2025-10-04   |
+|  5 | [smiley-sans](https://github.com/atelier-anchor/smiley-sans)                                                                          | 2022-11-24 | HTML       | 2025-10-04   |
+|  6 | [Paolujichang](https://github.com/limbopro/Paolujichang)                                                                              | 2022-10-10 | md         | 2025-10-04   |
+|  7 | [power_image](https://github.com/alibaba/power_image)                                                                                 | 2022-05-18 | Dart       | 2025-09-23   |
+|  8 | [ChatGPT-Siri](https://github.com/Yue-Yang/ChatGPT-Siri)                                                                              | 2023-03-05 | md         | 2025-10-03   |
+|  9 | [electron-tab-containers](https://github.com/yuanxiao-mmc/electron-tab-containers)                                                    | 2025-08-11 | TypeScript | 2025-09-09   |
+| 10 | [iOS-Drawing-Practical-UIKit-Soluations-Translation](https://github.com/wangdicen/iOS-Drawing-Practical-UIKit-Soluations-Translation) | 2024-02-01 | md         | 2024-12-27   |
 
 <!--END_SECTION:my_github-->
