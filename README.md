@@ -24,7 +24,7 @@
 |  14 | [LazyScript](https://github.com/acumen1005/LazyScript)                             | 2016-09-17 | 2016-09-18 | Shell       |     0 |
 |  15 | [LearnNote](https://github.com/acumen1005/LearnNote)                               | 2016-12-09 | 2017-07-19 | md          |     0 |
 |  16 | [Crawler](https://github.com/acumen1005/Crawler)                                   | 2016-03-04 | 2016-03-15 | HTML        |     0 |
-|  17 | [my-github-status](https://github.com/acumen1005/my-github-status)                 | 2021-04-11 | 2025-10-12 | md          |     0 |
+|  17 | [my-github-status](https://github.com/acumen1005/my-github-status)                 | 2021-04-11 | 2025-10-19 | md          |     0 |
 |  18 | [acumen1005](https://github.com/acumen1005/acumen1005)                             | 2020-07-09 | 2025-10-03 | md          |     0 |
 |  19 | [ACPhotoPickerController](https://github.com/acumen1005/ACPhotoPickerController)   | 2017-03-03 | 2018-04-02 | Swift       |     0 |
 |  20 | [CodeClean](https://github.com/acumen1005/CodeClean)                               | 2021-03-24 | 2021-03-24 | Python      |     0 |
@@ -42,17 +42,17 @@
 | sum |                                                                   |                                                                     |                                                                     |          |                                                                                      7 |
 
 ## The repos I stared (random 10)
-| ID |                                   REPO                                   | STAREDDATE |  LANGUAGE  | LATESTUPDATE |
-|----|--------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [Charts](https://github.com/ChartsOrg/Charts)                            | 2024-04-07 | Swift      | 2025-10-18   |
-|  2 | [Sheeeeeeeeet](https://github.com/danielsaidi/Sheeeeeeeeet)              | 2023-11-18 | Swift      | 2025-10-03   |
-|  3 | [QuickSearch](https://github.com/danielsaidi/QuickSearch)                | 2024-03-14 | Shell      | 2025-09-17   |
-|  4 | [GPTs](https://github.com/linexjlin/GPTs)                                | 2024-07-04 | md         | 2025-10-19   |
-|  5 | [FabulaItemsProvider](https://github.com/jasudev/FabulaItemsProvider)    | 2024-04-11 | Swift      | 2025-10-15   |
-|  6 | [Mantis](https://github.com/guoyingtao/Mantis)                           | 2022-07-14 | Swift      | 2025-10-18   |
-|  7 | [TypeScript](https://github.com/microsoft/TypeScript)                    | 2023-04-12 | TypeScript | 2025-10-19   |
-|  8 | [Glur](https://github.com/joogps/Glur)                                   | 2024-02-06 | Swift      | 2025-10-17   |
-|  9 | [smiley-sans](https://github.com/atelier-anchor/smiley-sans)             | 2022-11-24 | HTML       | 2025-10-19   |
-| 10 | [flash-linux0.11-talk](https://github.com/dibingfa/flash-linux0.11-talk) | 2023-12-15 | HTML       | 2025-10-18   |
+| ID |                                                        REPO                                                         | STAREDDATE |  LANGUAGE  | LATESTUPDATE |
+|----|---------------------------------------------------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [SwiftUIX](https://github.com/SwiftUIX/SwiftUIX)                                                                    | 2023-10-13 | Swift      | 2025-10-22   |
+|  2 | [Xcode_Developer_Disk_Images](https://github.com/mspvirajpatel/Xcode_Developer_Disk_Images)                         | 2023-02-22 | md         | 2025-10-21   |
+|  3 | [hello-algo](https://github.com/krahets/hello-algo)                                                                 | 2023-11-30 | Java       | 2025-10-23   |
+|  4 | [bob-plugin-openai-translator](https://github.com/nextai-translator/bob-plugin-openai-translator)                   | 2023-03-01 | TypeScript | 2025-10-22   |
+|  5 | [swiftui-introspect](https://github.com/siteline/swiftui-introspect)                                                | 2024-02-06 | Swift      | 2025-10-22   |
+|  6 | [LLM101n](https://github.com/karpathy/LLM101n)                                                                      | 2024-07-22 | md         | 2025-10-23   |
+|  7 | [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy)                                                                 | 2023-04-25 | Dart       | 2025-10-23   |
+|  8 | [MidJourney-Styles-and-Keywords-Reference](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference) | 2023-03-26 | md         | 2025-10-22   |
+|  9 | [Sensei](https://github.com/nixzhu/Sensei)                                                                          | 2023-04-11 | Swift      | 2025-10-04   |
+| 10 | [Figma-Net-OK](https://github.com/Moonvy/Figma-Net-OK)                                                              | 2022-05-13 | JavaScript | 2025-10-21   |
 
 <!--END_SECTION:my_github-->
