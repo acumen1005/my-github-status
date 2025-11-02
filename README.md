@@ -24,7 +24,7 @@
 |  14 | [LazyScript](https://github.com/acumen1005/LazyScript)                             | 2016-09-17 | 2016-09-18 | Shell       |     0 |
 |  15 | [LearnNote](https://github.com/acumen1005/LearnNote)                               | 2016-12-09 | 2017-07-19 | md          |     0 |
 |  16 | [Crawler](https://github.com/acumen1005/Crawler)                                   | 2016-03-04 | 2016-03-15 | HTML        |     0 |
-|  17 | [my-github-status](https://github.com/acumen1005/my-github-status)                 | 2021-04-11 | 2025-10-23 | md          |     0 |
+|  17 | [my-github-status](https://github.com/acumen1005/my-github-status)                 | 2021-04-11 | 2025-10-26 | md          |     0 |
 |  18 | [acumen1005](https://github.com/acumen1005/acumen1005)                             | 2020-07-09 | 2025-10-03 | md          |     0 |
 |  19 | [ACPhotoPickerController](https://github.com/acumen1005/ACPhotoPickerController)   | 2017-03-03 | 2018-04-02 | Swift       |     0 |
 |  20 | [CodeClean](https://github.com/acumen1005/CodeClean)                               | 2021-03-24 | 2021-03-24 | Python      |     0 |
@@ -42,17 +42,17 @@
 | sum |                                                                   |                                                                     |                                                                     |          |                                                                                      7 |
 
 ## The repos I stared (random 10)
-| ID |                                        REPO                                        | STAREDDATE |  LANGUAGE  | LATESTUPDATE |
-|----|------------------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [SplitSheet](https://github.com/aheze/SplitSheet)                                  | 2022-12-11 | Swift      | 2025-10-09   |
-|  2 | [MusadoraKit](https://github.com/rryam/MusadoraKit)                                | 2023-04-15 | Swift      | 2025-10-25   |
-|  3 | [electron-tab-containers](https://github.com/yuanxiao-mmc/electron-tab-containers) | 2025-08-11 | TypeScript | 2025-10-10   |
-|  4 | [GPTs](https://github.com/linexjlin/GPTs)                                          | 2024-07-04 | md         | 2025-10-26   |
-|  5 | [Setting](https://github.com/aheze/Setting)                                        | 2024-02-03 | Swift      | 2025-10-21   |
-|  6 | [NextChat](https://github.com/ChatGPTNextWeb/NextChat)                             | 2023-03-31 | TypeScript | 2025-10-26   |
-|  7 | [Figma-Net-OK](https://github.com/Moonvy/Figma-Net-OK)                             | 2022-05-13 | JavaScript | 2025-10-21   |
-|  8 | [mbox](https://github.com/MBoxPlus/mbox)                                           | 2022-05-16 | Ruby       | 2025-10-02   |
-|  9 | [re-editor](https://github.com/reqable/re-editor)                                  | 2024-02-06 | Dart       | 2025-10-23   |
-| 10 | [VariableBlurView](https://github.com/aheze/VariableBlurView)                      | 2024-02-03 | Swift      | 2025-10-15   |
+| ID |                                           REPO                                            | STAREDDATE |  LANGUAGE  | LATESTUPDATE |
+|----|-------------------------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [Glur](https://github.com/joogps/Glur)                                                    | 2024-02-06 | Swift      | 2025-10-31   |
+|  2 | [ml-stable-diffusion](https://github.com/apple/ml-stable-diffusion)                       | 2023-04-02 | Python     | 2025-11-01   |
+|  3 | [slate](https://github.com/ianstormtaylor/slate)                                          | 2023-04-11 | TypeScript | 2025-11-01   |
+|  4 | [lizhi](https://github.com/turkyden/lizhi)                                                | 2022-10-19 | TypeScript | 2025-10-28   |
+|  5 | [automatic-app-landing-page](https://github.com/emilbaehr/automatic-app-landing-page)     | 2024-04-24 | SCSS       | 2025-11-01   |
+|  6 | [CloudKitCKAssetSample](https://github.com/naosekig/CloudKitCKAssetSample)                | 2022-06-26 | Swift      | 2024-09-25   |
+|  7 | [NextChat](https://github.com/ChatGPTNextWeb/NextChat)                                    | 2023-03-31 | TypeScript | 2025-11-01   |
+|  8 | [Mantis](https://github.com/guoyingtao/Mantis)                                            | 2022-07-14 | Swift      | 2025-11-01   |
+|  9 | [SwiftUI-MulticolorGradient](https://github.com/ArthurGuibert/SwiftUI-MulticolorGradient) | 2023-12-02 | Swift      | 2025-10-14   |
+| 10 | [QuickSearch](https://github.com/danielsaidi/QuickSearch)                                 | 2024-03-14 | Shell      | 2025-10-24   |
 
 <!--END_SECTION:my_github-->
