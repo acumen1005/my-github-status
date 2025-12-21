@@ -8,7 +8,7 @@
 ## The repos I created
 | ID  |                                        REPO                                        |   START    |   UPDATE   |  LANGUAGE   | STARS |
 |-----|------------------------------------------------------------------------------------|------------|------------|-------------|-------|
-|   1 | [rss](https://github.com/acumen1005/rss)                                           | 2020-06-28 | 2025-12-07 | Swift       |    47 |
+|   1 | [rss](https://github.com/acumen1005/rss)                                           | 2020-06-28 | 2025-12-16 | Swift       |    46 |
 |   2 | [Recommendation](https://github.com/acumen1005/Recommendation)                     | 2016-05-31 | 2025-06-11 | Java        |    28 |
 |   3 | [ACWeChat](https://github.com/acumen1005/ACWeChat)                                 | 2016-05-14 | 2019-03-06 | Objective-C |    14 |
 |   4 | [ACLabelCounting](https://github.com/acumen1005/ACLabelCounting)                   | 2017-02-22 | 2022-03-08 | Swift       |    12 |
@@ -24,12 +24,12 @@
 |  14 | [LazyScript](https://github.com/acumen1005/LazyScript)                             | 2016-09-17 | 2016-09-18 | Shell       |     0 |
 |  15 | [LearnNote](https://github.com/acumen1005/LearnNote)                               | 2016-12-09 | 2017-07-19 | md          |     0 |
 |  16 | [Crawler](https://github.com/acumen1005/Crawler)                                   | 2016-03-04 | 2016-03-15 | HTML        |     0 |
-|  17 | [my-github-status](https://github.com/acumen1005/my-github-status)                 | 2021-04-11 | 2025-12-07 | md          |     0 |
+|  17 | [my-github-status](https://github.com/acumen1005/my-github-status)                 | 2021-04-11 | 2025-12-14 | md          |     0 |
 |  18 | [acumen1005](https://github.com/acumen1005/acumen1005)                             | 2020-07-09 | 2025-10-03 | md          |     0 |
 |  19 | [ACPhotoPickerController](https://github.com/acumen1005/ACPhotoPickerController)   | 2017-03-03 | 2018-04-02 | Swift       |     0 |
 |  20 | [CodeClean](https://github.com/acumen1005/CodeClean)                               | 2021-03-24 | 2021-03-24 | Python      |     0 |
 |  21 | [flutter_calendar](https://github.com/acumen1005/flutter_calendar)                 | 2021-01-16 | 2021-01-27 | Dart        |     0 |
-| sum |                                                                                    |            |            |             |   111 |
+| sum |                                                                                    |            |            |             |   110 |
 
 ## The repos I contributed to
 | ID  |                               REPO                                |                              FIRSTDATE                              |                              LASTDATE                               | LANGUAGE |                                        PRCOUNT                                         |
@@ -42,17 +42,17 @@
 | sum |                                                                   |                                                                     |                                                                     |          |                                                                                      7 |
 
 ## The repos I stared (random 10)
-| ID |                                         REPO                                          | STAREDDATE |  LANGUAGE  | LATESTUPDATE |
-|----|---------------------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [chatgptProxyAPI](https://github.com/x-dr/chatgptProxyAPI)                            | 2023-03-29 | HTML       | 2025-12-09   |
-|  2 | [SplitSheet](https://github.com/aheze/SplitSheet)                                     | 2022-12-11 | Swift      | 2025-10-26   |
-|  3 | [hello-algo](https://github.com/krahets/hello-algo)                                   | 2023-11-30 | Java       | 2025-12-14   |
-|  4 | [LLM101n](https://github.com/karpathy/LLM101n)                                        | 2024-07-22 | md         | 2025-12-14   |
-|  5 | [NextChat](https://github.com/ChatGPTNextWeb/NextChat)                                | 2023-03-31 | TypeScript | 2025-12-14   |
-|  6 | [IceCubesApp](https://github.com/Dimillian/IceCubesApp)                               | 2023-10-14 | Swift      | 2025-12-13   |
-|  7 | [automatic-app-landing-page](https://github.com/emilbaehr/automatic-app-landing-page) | 2024-04-24 | SCSS       | 2025-12-12   |
-|  8 | [IrregularGradient](https://github.com/joogps/IrregularGradient)                      | 2024-02-06 | Swift      | 2025-10-22   |
-|  9 | [Todo](https://github.com/fatbobman/Todo)                                             | 2024-02-24 | Swift      | 2024-10-30   |
-| 10 | [chatgpt-google-extension](https://github.com/wong2/chatgpt-google-extension)         | 2022-12-06 | TypeScript | 2025-12-12   |
+| ID |                                                                 REPO                                                                  | STAREDDATE | LANGUAGE | LATESTUPDATE |
+|----|---------------------------------------------------------------------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [FabulaItemsProvider](https://github.com/jasudev/FabulaItemsProvider)                                                                 | 2024-04-11 | Swift    | 2025-12-14   |
+|  2 | [iOS-Drawing-Practical-UIKit-Soluations-Translation](https://github.com/wangdicen/iOS-Drawing-Practical-UIKit-Soluations-Translation) | 2024-02-01 | md       | 2024-12-27   |
+|  3 | [WeChatMsg](https://github.com/LC044/WeChatMsg)                                                                                       | 2023-12-19 | md       | 2025-12-20   |
+|  4 | [Signal-iOS](https://github.com/signalapp/Signal-iOS)                                                                                 | 2023-12-16 | Swift    | 2025-12-20   |
+|  5 | [screenshot-to-code](https://github.com/abi/screenshot-to-code)                                                                       | 2024-03-03 | Python   | 2025-12-20   |
+|  6 | [Calendr](https://github.com/pakerwreah/Calendr)                                                                                      | 2023-04-28 | Swift    | 2025-12-20   |
+|  7 | [Sheeeeeeeeet](https://github.com/danielsaidi/Sheeeeeeeeet)                                                                           | 2023-11-18 | Swift    | 2025-12-18   |
+|  8 | [super_editor](https://github.com/Flutter-Bounty-Hunters/super_editor)                                                                | 2023-08-09 | Dart     | 2025-12-20   |
+|  9 | [photoprism](https://github.com/photoprism/photoprism)                                                                                | 2023-12-16 | Go       | 2025-12-21   |
+| 10 | [GPTs](https://github.com/linexjlin/GPTs)                                                                                             | 2024-07-04 | md       | 2025-12-21   |
 
 <!--END_SECTION:my_github-->
