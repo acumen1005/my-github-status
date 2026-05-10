@@ -24,7 +24,7 @@
 |  14 | [LazyScript](https://github.com/acumen1005/LazyScript)                             | 2016-09-17 | 2016-09-18 | Shell       |     0 |
 |  15 | [LearnNote](https://github.com/acumen1005/LearnNote)                               | 2016-12-09 | 2017-07-19 | md          |     0 |
 |  16 | [Crawler](https://github.com/acumen1005/Crawler)                                   | 2016-03-04 | 2016-03-15 | HTML        |     0 |
-|  17 | [my-github-status](https://github.com/acumen1005/my-github-status)                 | 2021-04-11 | 2026-04-26 | md          |     0 |
+|  17 | [my-github-status](https://github.com/acumen1005/my-github-status)                 | 2021-04-11 | 2026-05-03 | md          |     0 |
 |  18 | [acumen1005](https://github.com/acumen1005/acumen1005)                             | 2020-07-09 | 2025-10-03 | md          |     0 |
 |  19 | [ACPhotoPickerController](https://github.com/acumen1005/ACPhotoPickerController)   | 2017-03-03 | 2018-04-02 | Swift       |     0 |
 |  20 | [CodeClean](https://github.com/acumen1005/CodeClean)                               | 2021-03-24 | 2021-03-24 | Python      |     0 |
@@ -42,17 +42,17 @@
 | sum |                                                                   |                                                                     |                                                                     |          |                                                                                      7 |
 
 ## The repos I stared (random 10)
-| ID |                                           REPO                                            | STAREDDATE |  LANGUAGE  | LATESTUPDATE |
-|----|-------------------------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [SwiftUI-MulticolorGradient](https://github.com/ArthurGuibert/SwiftUI-MulticolorGradient) | 2023-12-02 | Swift      | 2026-03-26   |
-|  2 | [MemOS](https://github.com/MemTensor/MemOS)                                               | 2026-03-16 | TypeScript | 2026-05-03   |
-|  3 | [autoresearch](https://github.com/uditgoenka/autoresearch)                                | 2026-03-24 | Shell      | 2026-05-03   |
-|  4 | [blocksuite](https://github.com/toeverything/blocksuite)                                  | 2023-08-17 | TypeScript | 2026-05-02   |
-|  5 | [ColorfulX](https://github.com/Lakr233/ColorfulX)                                         | 2024-03-11 | Swift      | 2026-04-26   |
-|  6 | [Hide-TabBar-In-SwiftUI](https://github.com/TreatTrick/Hide-TabBar-In-SwiftUI)            | 2024-03-03 | Swift      | 2026-05-01   |
-|  7 | [hello-algo](https://github.com/krahets/hello-algo)                                       | 2023-11-30 | Java       | 2026-05-03   |
-|  8 | [ml-stable-diffusion](https://github.com/apple/ml-stable-diffusion)                       | 2023-04-02 | Python     | 2026-05-02   |
-|  9 | [Calendr](https://github.com/pakerwreah/Calendr)                                          | 2023-04-28 | Swift      | 2026-05-01   |
-| 10 | [IceCubesApp](https://github.com/Dimillian/IceCubesApp)                                   | 2023-10-14 | Swift      | 2026-05-02   |
+| ID |                                  REPO                                  | STAREDDATE |  LANGUAGE  | LATESTUPDATE |
+|----|------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [JNGradientLabel](https://github.com/SomeRandomiOSDev/JNGradientLabel) | 2025-08-23 | Swift      | 2025-08-23   |
+|  2 | [quill](https://github.com/slab/quill)                                 | 2024-02-28 | TypeScript | 2026-05-09   |
+|  3 | [gstack](https://github.com/garrytan/gstack)                           | 2026-03-20 | TypeScript | 2026-05-10   |
+|  4 | [WaterfallGrid](https://github.com/paololeonardi/WaterfallGrid)        | 2024-04-29 | Swift      | 2026-05-05   |
+|  5 | [dot-globe](https://github.com/inventhq/dot-globe)                     | 2023-05-29 | Swift      | 2026-05-01   |
+|  6 | [NextChat](https://github.com/ChatGPTNextWeb/NextChat)                 | 2023-03-31 | TypeScript | 2026-05-10   |
+|  7 | [AFFiNE](https://github.com/toeverything/AFFiNE)                       | 2023-04-12 | TypeScript | 2026-05-10   |
+|  8 | [Sheeeeeeeeet](https://github.com/danielsaidi/Sheeeeeeeeet)            | 2023-11-18 | Swift      | 2026-05-09   |
+|  9 | [VariableBlurView](https://github.com/aheze/VariableBlurView)          | 2024-02-03 | Swift      | 2026-04-02   |
+| 10 | [WeChatMsg](https://github.com/LC044/WeChatMsg)                        | 2023-12-19 | md         | 2026-05-10   |
 
 <!--END_SECTION:my_github-->
