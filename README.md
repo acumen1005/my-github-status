@@ -24,7 +24,7 @@
 |  14 | [LazyScript](https://github.com/acumen1005/LazyScript)                             | 2016-09-17 | 2016-09-18 | Shell       |     0 |
 |  15 | [LearnNote](https://github.com/acumen1005/LearnNote)                               | 2016-12-09 | 2017-07-19 | md          |     0 |
 |  16 | [Crawler](https://github.com/acumen1005/Crawler)                                   | 2016-03-04 | 2016-03-15 | HTML        |     0 |
-|  17 | [my-github-status](https://github.com/acumen1005/my-github-status)                 | 2021-04-11 | 2026-05-03 | md          |     0 |
+|  17 | [my-github-status](https://github.com/acumen1005/my-github-status)                 | 2021-04-11 | 2026-05-10 | md          |     0 |
 |  18 | [acumen1005](https://github.com/acumen1005/acumen1005)                             | 2020-07-09 | 2025-10-03 | md          |     0 |
 |  19 | [ACPhotoPickerController](https://github.com/acumen1005/ACPhotoPickerController)   | 2017-03-03 | 2018-04-02 | Swift       |     0 |
 |  20 | [CodeClean](https://github.com/acumen1005/CodeClean)                               | 2021-03-24 | 2021-03-24 | Python      |     0 |
@@ -42,17 +42,17 @@
 | sum |                                                                   |                                                                     |                                                                     |          |                                                                                      7 |
 
 ## The repos I stared (random 10)
-| ID |                                  REPO                                  | STAREDDATE |  LANGUAGE  | LATESTUPDATE |
-|----|------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [JNGradientLabel](https://github.com/SomeRandomiOSDev/JNGradientLabel) | 2025-08-23 | Swift      | 2025-08-23   |
-|  2 | [quill](https://github.com/slab/quill)                                 | 2024-02-28 | TypeScript | 2026-05-09   |
-|  3 | [gstack](https://github.com/garrytan/gstack)                           | 2026-03-20 | TypeScript | 2026-05-10   |
-|  4 | [WaterfallGrid](https://github.com/paololeonardi/WaterfallGrid)        | 2024-04-29 | Swift      | 2026-05-05   |
-|  5 | [dot-globe](https://github.com/inventhq/dot-globe)                     | 2023-05-29 | Swift      | 2026-05-01   |
-|  6 | [NextChat](https://github.com/ChatGPTNextWeb/NextChat)                 | 2023-03-31 | TypeScript | 2026-05-10   |
-|  7 | [AFFiNE](https://github.com/toeverything/AFFiNE)                       | 2023-04-12 | TypeScript | 2026-05-10   |
-|  8 | [Sheeeeeeeeet](https://github.com/danielsaidi/Sheeeeeeeeet)            | 2023-11-18 | Swift      | 2026-05-09   |
-|  9 | [VariableBlurView](https://github.com/aheze/VariableBlurView)          | 2024-02-03 | Swift      | 2026-04-02   |
-| 10 | [WeChatMsg](https://github.com/LC044/WeChatMsg)                        | 2023-12-19 | md         | 2026-05-10   |
+| ID |                                                                 REPO                                                                  | STAREDDATE |  LANGUAGE  | LATESTUPDATE |
+|----|---------------------------------------------------------------------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [learn-claude-code](https://github.com/shareAI-lab/learn-claude-code)                                                                 | 2026-03-18 | TypeScript | 2026-05-17   |
+|  2 | [iOS-Drawing-Practical-UIKit-Soluations-Translation](https://github.com/wangdicen/iOS-Drawing-Practical-UIKit-Soluations-Translation) | 2024-02-01 | md         | 2025-12-24   |
+|  3 | [prompts.chat](https://github.com/f/prompts.chat)                                                                                     | 2023-05-23 | HTML       | 2026-05-17   |
+|  4 | [JNGradientLabel](https://github.com/SomeRandomiOSDev/JNGradientLabel)                                                                | 2025-08-23 | Swift      | 2025-08-23   |
+|  5 | [Charts](https://github.com/ChartsOrg/Charts)                                                                                         | 2024-04-07 | Swift      | 2026-05-15   |
+|  6 | [RubyText](https://github.com/YeungKC/RubyText)                                                                                       | 2025-02-13 | Dart       | 2026-03-16   |
+|  7 | [TypeScript](https://github.com/microsoft/TypeScript)                                                                                 | 2023-04-12 | TypeScript | 2026-05-17   |
+|  8 | [re-editor](https://github.com/reqable/re-editor)                                                                                     | 2024-02-06 | Dart       | 2026-05-16   |
+|  9 | [flash-linux0.11-talk](https://github.com/dibingfa/flash-linux0.11-talk)                                                              | 2023-12-15 | HTML       | 2026-05-16   |
+| 10 | [LLM101n](https://github.com/karpathy/LLM101n)                                                                                        | 2024-07-22 | md         | 2026-05-16   |
 
 <!--END_SECTION:my_github-->
