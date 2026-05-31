@@ -8,7 +8,7 @@
 ## The repos I created
 | ID  |                                        REPO                                        |   START    |   UPDATE   |  LANGUAGE   | STARS |
 |-----|------------------------------------------------------------------------------------|------------|------------|-------------|-------|
-|   1 | [rss](https://github.com/acumen1005/rss)                                           | 2020-06-28 | 2026-03-24 | Swift       |    47 |
+|   1 | [rss](https://github.com/acumen1005/rss)                                           | 2020-06-28 | 2026-05-27 | Swift       |    48 |
 |   2 | [Recommendation](https://github.com/acumen1005/Recommendation)                     | 2016-05-31 | 2025-06-11 | Java        |    28 |
 |   3 | [ACWeChat](https://github.com/acumen1005/ACWeChat)                                 | 2016-05-14 | 2019-03-06 | Objective-C |    14 |
 |   4 | [ACLabelCounting](https://github.com/acumen1005/ACLabelCounting)                   | 2017-02-22 | 2022-03-08 | Swift       |    12 |
@@ -24,12 +24,12 @@
 |  14 | [LazyScript](https://github.com/acumen1005/LazyScript)                             | 2016-09-17 | 2016-09-18 | Shell       |     0 |
 |  15 | [LearnNote](https://github.com/acumen1005/LearnNote)                               | 2016-12-09 | 2017-07-19 | md          |     0 |
 |  16 | [Crawler](https://github.com/acumen1005/Crawler)                                   | 2016-03-04 | 2016-03-15 | HTML        |     0 |
-|  17 | [my-github-status](https://github.com/acumen1005/my-github-status)                 | 2021-04-11 | 2026-05-23 | md          |     0 |
+|  17 | [my-github-status](https://github.com/acumen1005/my-github-status)                 | 2021-04-11 | 2026-05-24 | md          |     0 |
 |  18 | [acumen1005](https://github.com/acumen1005/acumen1005)                             | 2020-07-09 | 2025-10-03 | md          |     0 |
 |  19 | [ACPhotoPickerController](https://github.com/acumen1005/ACPhotoPickerController)   | 2017-03-03 | 2018-04-02 | Swift       |     0 |
 |  20 | [CodeClean](https://github.com/acumen1005/CodeClean)                               | 2021-03-24 | 2021-03-24 | Python      |     0 |
 |  21 | [flutter_calendar](https://github.com/acumen1005/flutter_calendar)                 | 2021-01-16 | 2021-01-27 | Dart        |     0 |
-| sum |                                                                                    |            |            |             |   111 |
+| sum |                                                                                    |            |            |             |   112 |
 
 ## The repos I contributed to
 | ID  |                               REPO                                |                              FIRSTDATE                              |                              LASTDATE                               | LANGUAGE |                                        PRCOUNT                                         |
@@ -42,17 +42,17 @@
 | sum |                                                                   |                                                                     |                                                                     |          |                                                                                      7 |
 
 ## The repos I stared (random 10)
-| ID |                                        REPO                                        | STAREDDATE |  LANGUAGE   | LATESTUPDATE |
-|----|------------------------------------------------------------------------------------|------------|-------------|--------------|
-|  1 | [JNGradientLabel](https://github.com/SomeRandomiOSDev/JNGradientLabel)             | 2025-08-23 | Swift       | 2025-08-23   |
-|  2 | [dot-globe](https://github.com/inventhq/dot-globe)                                 | 2023-05-29 | Swift       | 2026-05-01   |
-|  3 | [VCTransitionsLibrary](https://github.com/ColinEberhardt/VCTransitionsLibrary)     | 2024-12-10 | Objective-C | 2026-05-02   |
-|  4 | [SunKit](https://github.com/SunKit-Swift/SunKit)                                   | 2023-08-22 | Swift       | 2026-05-18   |
-|  5 | [electron-tab-containers](https://github.com/yuanxiao-mmc/electron-tab-containers) | 2025-08-11 | TypeScript  | 2026-03-27   |
-|  6 | [TypeScript](https://github.com/zhongsp/TypeScript)                                | 2023-04-12 | TypeScript  | 2026-05-23   |
-|  7 | [QuickSearch](https://github.com/danielsaidi/QuickSearch)                          | 2024-03-14 | Shell       | 2026-03-17   |
-|  8 | [FabulaItemsProvider](https://github.com/jasudev/FabulaItemsProvider)              | 2024-04-11 | Swift       | 2026-05-21   |
-|  9 | [GPTs](https://github.com/linexjlin/GPTs)                                          | 2024-07-04 | md          | 2026-05-24   |
-| 10 | [Japan-restaurant](https://github.com/RanceJen/Japan-restaurant)                   | 2024-05-12 | md          | 2025-10-13   |
+| ID |                                                                 REPO                                                                  | STAREDDATE |  LANGUAGE  | LATESTUPDATE |
+|----|---------------------------------------------------------------------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [skills](https://github.com/mattpocock/skills)                                                                                        | 2026-04-27 | Shell      | 2026-05-31   |
+|  2 | [frameit-frames](https://github.com/fastlane/frameit-frames)                                                                          | 2024-03-05 | md         | 2026-05-21   |
+|  3 | [Scrapling](https://github.com/D4Vinci/Scrapling)                                                                                     | 2026-03-10 | Python     | 2026-05-31   |
+|  4 | [openai-agents-python](https://github.com/openai/openai-agents-python)                                                                | 2026-03-10 | Python     | 2026-05-31   |
+|  5 | [ChartView](https://github.com/AppPear/ChartView)                                                                                     | 2024-03-10 | Swift      | 2026-05-30   |
+|  6 | [remote-jobs-in-china](https://github.com/LinuxSuRen/remote-jobs-in-china)                                                            | 2023-05-11 | md         | 2026-05-30   |
+|  7 | [iOS-Drawing-Practical-UIKit-Soluations-Translation](https://github.com/wangdicen/iOS-Drawing-Practical-UIKit-Soluations-Translation) | 2024-02-01 | md         | 2025-12-24   |
+|  8 | [CotEditor](https://github.com/coteditor/CotEditor)                                                                                   | 2023-09-14 | Swift      | 2026-05-31   |
+|  9 | [MemOS](https://github.com/MemTensor/MemOS)                                                                                           | 2026-03-16 | TypeScript | 2026-05-31   |
+| 10 | [SwiftUI-MulticolorGradient](https://github.com/ArthurGuibert/SwiftUI-MulticolorGradient)                                             | 2023-12-02 | Swift      | 2026-05-21   |
 
 <!--END_SECTION:my_github-->
