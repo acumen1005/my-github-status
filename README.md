@@ -24,7 +24,7 @@
 |  14 | [LazyScript](https://github.com/acumen1005/LazyScript)                             | 2016-09-17 | 2016-09-18 | Shell       |     0 |
 |  15 | [LearnNote](https://github.com/acumen1005/LearnNote)                               | 2016-12-09 | 2017-07-19 | md          |     0 |
 |  16 | [Crawler](https://github.com/acumen1005/Crawler)                                   | 2016-03-04 | 2016-03-15 | HTML        |     0 |
-|  17 | [my-github-status](https://github.com/acumen1005/my-github-status)                 | 2021-04-11 | 2026-05-31 | md          |     0 |
+|  17 | [my-github-status](https://github.com/acumen1005/my-github-status)                 | 2021-04-11 | 2026-06-07 | md          |     0 |
 |  18 | [acumen1005](https://github.com/acumen1005/acumen1005)                             | 2020-07-09 | 2025-10-03 | md          |     0 |
 |  19 | [ACPhotoPickerController](https://github.com/acumen1005/ACPhotoPickerController)   | 2017-03-03 | 2018-04-02 | Swift       |     0 |
 |  20 | [CodeClean](https://github.com/acumen1005/CodeClean)                               | 2021-03-24 | 2021-03-24 | Python      |     0 |
@@ -42,17 +42,17 @@
 | sum |                                                                   |                                                                     |                                                                     |          |                                                                                      7 |
 
 ## The repos I stared (random 10)
-| ID |                                    REPO                                    | STAREDDATE |  LANGUAGE   | LATESTUPDATE |
-|----|----------------------------------------------------------------------------|------------|-------------|--------------|
-|  1 | [nanobot](https://github.com/HKUDS/nanobot)                                | 2026-03-08 | Python      | 2026-06-07   |
-|  2 | [VariableBlurView](https://github.com/aheze/VariableBlurView)              | 2024-02-03 | Swift       | 2026-05-28   |
-|  3 | [FontFit](https://github.com/joncardasis/FontFit)                          | 2024-11-13 | Swift       | 2026-05-26   |
-|  4 | [GPTs](https://github.com/linexjlin/GPTs)                                  | 2024-07-04 | md          | 2026-06-07   |
-|  5 | [TypeScript](https://github.com/microsoft/TypeScript)                      | 2023-04-12 | TypeScript  | 2026-06-07   |
-|  6 | [swiftui-image-viewer](https://github.com/Jake-Short/swiftui-image-viewer) | 2024-03-28 | Swift       | 2026-06-03   |
-|  7 | [20th](https://github.com/d2forum/20th)                                    | 2026-03-25 | md          | 2026-05-29   |
-|  8 | [quill](https://github.com/slab/quill)                                     | 2024-02-28 | TypeScript  | 2026-06-06   |
-|  9 | [THLabel](https://github.com/tobihagemann/THLabel)                         | 2024-11-20 | Objective-C | 2026-04-10   |
-| 10 | [hermes-agent](https://github.com/NousResearch/hermes-agent)               | 2026-03-11 | Python      | 2026-06-07   |
+| ID |                                        REPO                                        | STAREDDATE |  LANGUAGE  | LATESTUPDATE |
+|----|------------------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [Sheeeeeeeeet](https://github.com/danielsaidi/Sheeeeeeeeet)                        | 2023-11-18 | Swift      | 2026-05-27   |
+|  2 | [electron-tab-containers](https://github.com/yuanxiao-mmc/electron-tab-containers) | 2025-08-11 | TypeScript | 2026-03-27   |
+|  3 | [cc-connect](https://github.com/chenhg5/cc-connect)                                | 2026-04-27 | Go         | 2026-06-14   |
+|  4 | [learn-claude-code](https://github.com/shareAI-lab/learn-claude-code)              | 2026-03-18 | Python     | 2026-06-14   |
+|  5 | [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy)                                | 2023-04-25 | Dart       | 2026-06-14   |
+|  6 | [Signal-iOS](https://github.com/signalapp/Signal-iOS)                              | 2023-12-16 | Swift      | 2026-06-13   |
+|  7 | [swiftui-charts](https://github.com/spacenation/swiftui-charts)                    | 2024-04-15 | Swift      | 2026-06-09   |
+|  8 | [VariableBlurView](https://github.com/aheze/VariableBlurView)                      | 2024-02-03 | Swift      | 2026-05-28   |
+|  9 | [re-editor](https://github.com/reqable/re-editor)                                  | 2024-02-06 | Dart       | 2026-06-11   |
+| 10 | [SwiftUIX](https://github.com/SwiftUIX/SwiftUIX)                                   | 2023-10-13 | Swift      | 2026-06-13   |
 
 <!--END_SECTION:my_github-->
