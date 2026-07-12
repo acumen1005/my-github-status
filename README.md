@@ -24,7 +24,7 @@
 |  14 | [LazyScript](https://github.com/acumen1005/LazyScript)                             | 2016-09-17 | 2016-09-18 | Shell       |     0 |
 |  15 | [LearnNote](https://github.com/acumen1005/LearnNote)                               | 2016-12-09 | 2017-07-19 | md          |     0 |
 |  16 | [Crawler](https://github.com/acumen1005/Crawler)                                   | 2016-03-04 | 2016-03-15 | HTML        |     0 |
-|  17 | [my-github-status](https://github.com/acumen1005/my-github-status)                 | 2021-04-11 | 2026-06-28 | md          |     0 |
+|  17 | [my-github-status](https://github.com/acumen1005/my-github-status)                 | 2021-04-11 | 2026-07-05 | md          |     0 |
 |  18 | [acumen1005](https://github.com/acumen1005/acumen1005)                             | 2020-07-09 | 2025-10-03 | md          |     0 |
 |  19 | [ACPhotoPickerController](https://github.com/acumen1005/ACPhotoPickerController)   | 2017-03-03 | 2018-04-02 | Swift       |     0 |
 |  20 | [CodeClean](https://github.com/acumen1005/CodeClean)                               | 2021-03-24 | 2021-03-24 | Python      |     0 |
@@ -36,23 +36,23 @@
 |-----|-------------------------------------------------------------------|---------------------------------------------------------------------|---------------------------------------------------------------------|----------|----------------------------------------------------------------------------------------|
 |   1 | [flutter](https://github.com/flutter/flutter)                     | [2023-02-06](https://github.com/flutter/flutter/pull/120081)        | [2023-03-19](https://github.com/flutter/flutter/pull/122973)        | Dart     | [2](https://github.com/flutter/flutter/pulls?q=is%3Apr+author%3Aacumen1005)            |
 |   2 | [WeChatICU-ForMac](https://github.com/MustangYM/WeChatICU-ForMac) | [2021-04-14](https://github.com/MustangYM/WeChatICU-ForMac/pull/32) | [2021-05-07](https://github.com/MustangYM/WeChatICU-ForMac/pull/35) | md       | [2](https://github.com/MustangYM/WeChatICU-ForMac/pulls?q=is%3Apr+author%3Aacumen1005) |
-|   3 | [Aquaman](https://github.com/bawn/Aquaman)                        | [2021-03-10](https://github.com/bawn/Aquaman/pull/7)                | [2021-03-10](https://github.com/bawn/Aquaman/pull/7)                | Swift    | [1](https://github.com/bawn/Aquaman/pulls?q=is%3Apr+author%3Aacumen1005)               |
-|   4 | [HanziPinyin](https://github.com/teambition/HanziPinyin)          | [2024-03-02](https://github.com/teambition/HanziPinyin/pull/9)      | [2024-03-02](https://github.com/teambition/HanziPinyin/pull/9)      | Swift    | [1](https://github.com/teambition/HanziPinyin/pulls?q=is%3Apr+author%3Aacumen1005)     |
-|   5 | [zlldb](https://github.com/everettjf/zlldb)                       | [2021-04-25](https://github.com/everettjf/zlldb/pull/3)             | [2021-04-25](https://github.com/everettjf/zlldb/pull/3)             | Python   | [1](https://github.com/everettjf/zlldb/pulls?q=is%3Apr+author%3Aacumen1005)            |
+|   3 | [HanziPinyin](https://github.com/teambition/HanziPinyin)          | [2024-03-02](https://github.com/teambition/HanziPinyin/pull/9)      | [2024-03-02](https://github.com/teambition/HanziPinyin/pull/9)      | Swift    | [1](https://github.com/teambition/HanziPinyin/pulls?q=is%3Apr+author%3Aacumen1005)     |
+|   4 | [zlldb](https://github.com/everettjf/zlldb)                       | [2021-04-25](https://github.com/everettjf/zlldb/pull/3)             | [2021-04-25](https://github.com/everettjf/zlldb/pull/3)             | Python   | [1](https://github.com/everettjf/zlldb/pulls?q=is%3Apr+author%3Aacumen1005)            |
+|   5 | [Aquaman](https://github.com/bawn/Aquaman)                        | [2021-03-10](https://github.com/bawn/Aquaman/pull/7)                | [2021-03-10](https://github.com/bawn/Aquaman/pull/7)                | Swift    | [1](https://github.com/bawn/Aquaman/pulls?q=is%3Apr+author%3Aacumen1005)               |
 | sum |                                                                   |                                                                     |                                                                     |          |                                                                                      7 |
 
 ## The repos I stared (random 10)
-| ID |                                      REPO                                      | STAREDDATE |  LANGUAGE   | LATESTUPDATE |
-|----|--------------------------------------------------------------------------------|------------|-------------|--------------|
-|  1 | [Charts](https://github.com/ChartsOrg/Charts)                                  | 2024-04-07 | Swift       | 2026-07-04   |
-|  2 | [Hide-TabBar-In-SwiftUI](https://github.com/TreatTrick/Hide-TabBar-In-SwiftUI) | 2024-03-03 | Swift       | 2026-05-01   |
-|  3 | [Sheeeeeeeeet](https://github.com/danielsaidi/Sheeeeeeeeet)                    | 2023-11-18 | Swift       | 2026-07-03   |
-|  4 | [Fluid_DynamicIsland](https://github.com/pratikg29/Fluid_DynamicIsland)        | 2023-05-29 | Swift       | 2026-04-16   |
-|  5 | [VCTransitionsLibrary](https://github.com/ColinEberhardt/VCTransitionsLibrary) | 2024-12-10 | Objective-C | 2026-07-01   |
-|  6 | [Todo](https://github.com/fatbobman/Todo)                                      | 2024-02-24 | Swift       | 2024-10-30   |
-|  7 | [Calendr](https://github.com/pakerwreah/Calendr)                               | 2023-04-28 | Swift       | 2026-07-04   |
-|  8 | [TypeScript](https://github.com/zhongsp/TypeScript)                            | 2023-04-12 | TypeScript  | 2026-07-05   |
-|  9 | [pkl](https://github.com/apple/pkl)                                            | 2024-02-04 | Java        | 2026-07-05   |
-| 10 | [MemOS](https://github.com/MemTensor/MemOS)                                    | 2026-03-16 | TypeScript  | 2026-07-05   |
+| ID |                                       REPO                                       | STAREDDATE |  LANGUAGE  | LATESTUPDATE |
+|----|----------------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [TypeScript](https://github.com/zhongsp/TypeScript)                              | 2023-04-12 | TypeScript | 2026-07-12   |
+|  2 | [chinese-buy-us-stock-guide](https://github.com/zgwl/chinese-buy-us-stock-guide) | 2026-06-06 | md         | 2026-07-12   |
+|  3 | [GPTs](https://github.com/linexjlin/GPTs)                                        | 2024-07-04 | md         | 2026-07-12   |
+|  4 | [WaterfallGrid](https://github.com/paololeonardi/WaterfallGrid)                  | 2024-04-29 | Swift      | 2026-07-06   |
+|  5 | [ClashMac](https://github.com/666OS/ClashMac)                                    | 2025-12-04 | md         | 2026-07-12   |
+|  6 | [blocksuite](https://github.com/toeverything/blocksuite)                         | 2023-08-17 | TypeScript | 2026-07-11   |
+|  7 | [native-feel-skill](https://github.com/yetone/native-feel-skill)                 | 2026-05-16 | md         | 2026-07-11   |
+|  8 | [CodexBar](https://github.com/steipete/CodexBar)                                 | 2026-06-03 | Swift      | 2026-07-12   |
+|  9 | [superpowers](https://github.com/obra/superpowers)                               | 2026-03-19 | Shell      | 2026-07-12   |
+| 10 | [JNGradientLabel](https://github.com/SomeRandomiOSDev/JNGradientLabel)           | 2025-08-23 | Swift      | 2025-08-23   |
 
 <!--END_SECTION:my_github-->
