@@ -24,7 +24,7 @@
 |  14 | [LazyScript](https://github.com/acumen1005/LazyScript)                             | 2016-09-17 | 2016-09-18 | Shell       |     0 |
 |  15 | [LearnNote](https://github.com/acumen1005/LearnNote)                               | 2016-12-09 | 2017-07-19 | md          |     0 |
 |  16 | [Crawler](https://github.com/acumen1005/Crawler)                                   | 2016-03-04 | 2016-03-15 | HTML        |     0 |
-|  17 | [my-github-status](https://github.com/acumen1005/my-github-status)                 | 2021-04-11 | 2026-07-26 | md          |     0 |
+|  17 | [my-github-status](https://github.com/acumen1005/my-github-status)                 | 2021-04-11 | 2026-08-02 | md          |     0 |
 |  18 | [acumen1005](https://github.com/acumen1005/acumen1005)                             | 2020-07-09 | 2025-10-03 | md          |     0 |
 |  19 | [ACPhotoPickerController](https://github.com/acumen1005/ACPhotoPickerController)   | 2017-03-03 | 2018-04-02 | Swift       |     0 |
 |  20 | [CodeClean](https://github.com/acumen1005/CodeClean)                               | 2021-03-24 | 2021-03-24 | Python      |     0 |
@@ -42,17 +42,17 @@
 | sum |                                                                   |                                                                     |                                                                     |          |                                                                                      7 |
 
 ## The repos I stared (random 10)
-| ID |                                      REPO                                      | STAREDDATE |  LANGUAGE   | LATESTUPDATE |
-|----|--------------------------------------------------------------------------------|------------|-------------|--------------|
-|  1 | [ha_xiaomi_home](https://github.com/XiaoMi/ha_xiaomi_home)                     | 2024-12-16 | Python      | 2026-08-01   |
-|  2 | [pkl](https://github.com/apple/pkl)                                            | 2024-02-04 | Java        | 2026-08-01   |
-|  3 | [swiftui-charts](https://github.com/spacenation/swiftui-charts)                | 2024-04-15 | Swift       | 2026-07-19   |
-|  4 | [ai-agent-book](https://github.com/bojieli/ai-agent-book)                      | 2026-07-21 | Python      | 2026-08-02   |
-|  5 | [VCTransitionsLibrary](https://github.com/ColinEberhardt/VCTransitionsLibrary) | 2024-12-10 | Objective-C | 2026-07-25   |
-|  6 | [maleme](https://github.com/Yeuoly/maleme)                                     | 2026-05-27 | Rust        | 2026-07-16   |
-|  7 | [GPTs](https://github.com/linexjlin/GPTs)                                      | 2024-07-04 | md          | 2026-08-02   |
-|  8 | [Glur](https://github.com/joogps/Glur)                                         | 2024-02-06 | Swift       | 2026-07-31   |
-|  9 | [WeChatMsg](https://github.com/LC044/WeChatMsg)                                | 2023-12-19 | md          | 2026-08-02   |
-| 10 | [VariableBlurView](https://github.com/aheze/VariableBlurView)                  | 2024-02-03 | Swift       | 2026-06-26   |
+| ID |                                    REPO                                    | STAREDDATE |  LANGUAGE  | LATESTUPDATE |
+|----|----------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [ChartView](https://github.com/AppPear/ChartView)                          | 2024-03-10 | Swift      | 2026-08-07   |
+|  2 | [SwiftUIX](https://github.com/SwiftUIX/SwiftUIX)                           | 2023-10-13 | Swift      | 2026-08-08   |
+|  3 | [benkyo-ai](https://github.com/idiotbaka/benkyo-ai)                        | 2026-06-12 | JavaScript | 2026-08-08   |
+|  4 | [taste-skill](https://github.com/Leonxlnx/taste-skill)                     | 2026-05-27 | JavaScript | 2026-08-09   |
+|  5 | [remote-jobs-in-china](https://github.com/LinuxSuRen/remote-jobs-in-china) | 2023-05-11 | md         | 2026-08-08   |
+|  6 | [skills](https://github.com/mattpocock/skills)                             | 2026-04-27 | Shell      | 2026-08-09   |
+|  7 | [Charts](https://github.com/ChartsOrg/Charts)                              | 2024-04-07 | Swift      | 2026-08-08   |
+|  8 | [Setting](https://github.com/aheze/Setting)                                | 2024-02-03 | Swift      | 2026-08-04   |
+|  9 | [superpowers](https://github.com/obra/superpowers)                         | 2026-03-19 | Shell      | 2026-08-09   |
+| 10 | [prompts.chat](https://github.com/f/prompts.chat)                          | 2023-05-23 | HTML       | 2026-08-09   |
 
 <!--END_SECTION:my_github-->
