@@ -24,7 +24,7 @@
 |  14 | [LazyScript](https://github.com/acumen1005/LazyScript)                             | 2016-09-17 | 2016-09-18 | Shell       |     0 |
 |  15 | [LearnNote](https://github.com/acumen1005/LearnNote)                               | 2016-12-09 | 2017-07-19 | md          |     0 |
 |  16 | [Crawler](https://github.com/acumen1005/Crawler)                                   | 2016-03-04 | 2016-03-15 | HTML        |     0 |
-|  17 | [my-github-status](https://github.com/acumen1005/my-github-status)                 | 2021-04-11 | 2026-08-16 | md          |     0 |
+|  17 | [my-github-status](https://github.com/acumen1005/my-github-status)                 | 2021-04-11 | 2026-08-23 | md          |     0 |
 |  18 | [acumen1005](https://github.com/acumen1005/acumen1005)                             | 2020-07-09 | 2025-10-03 | md          |     0 |
 |  19 | [ACPhotoPickerController](https://github.com/acumen1005/ACPhotoPickerController)   | 2017-03-03 | 2018-04-02 | Swift       |     0 |
 |  20 | [CodeClean](https://github.com/acumen1005/CodeClean)                               | 2021-03-24 | 2021-03-24 | Python      |     0 |
@@ -42,17 +42,17 @@
 | sum |                                                                   |                                                                     |                                                                     |          |                                                                                      7 |
 
 ## The repos I stared (random 10)
-| ID |                                     REPO                                     | STAREDDATE |  LANGUAGE  | LATESTUPDATE |
-|----|------------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [Swift-Charts-Examples](https://github.com/jordibruin/Swift-Charts-Examples) | 2024-04-07 | Swift      | 2026-08-15   |
-|  2 | [taste-skill](https://github.com/Leonxlnx/taste-skill)                       | 2026-05-27 | JavaScript | 2026-08-23   |
-|  3 | [hermes-agent](https://github.com/NousResearch/hermes-agent)                 | 2026-03-11 | Python     | 2026-08-23   |
-|  4 | [RubyText](https://github.com/YeungKC/RubyText)                              | 2025-02-13 | Dart       | 2026-06-23   |
-|  5 | [LLM101n](https://github.com/karpathy/LLM101n)                               | 2024-07-22 | md         | 2026-08-22   |
-|  6 | [IceCubesApp](https://github.com/Dimillian/IceCubesApp)                      | 2023-10-14 | Swift      | 2026-08-22   |
-|  7 | [FontFit](https://github.com/joncardasis/FontFit)                            | 2024-11-13 | Swift      | 2026-05-26   |
-|  8 | [Sheeeeeeeeet](https://github.com/danielsaidi/Sheeeeeeeeet)                  | 2023-11-18 | Swift      | 2026-08-13   |
-|  9 | [SunKit](https://github.com/SunKit-Swift/SunKit)                             | 2023-08-22 | Swift      | 2026-07-14   |
-| 10 | [learn-claude-code](https://github.com/shareAI-lab/learn-claude-code)        | 2026-03-18 | Python     | 2026-08-23   |
+| ID |                                       REPO                                       | STAREDDATE |  LANGUAGE  | LATESTUPDATE |
+|----|----------------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | 2026-08-02 | TypeScript | 2026-08-30   |
+|  2 | [hermes-agent](https://github.com/NousResearch/hermes-agent)                     | 2026-03-11 | Python     | 2026-08-30   |
+|  3 | [Signal-iOS](https://github.com/signalapp/Signal-iOS)                            | 2023-12-16 | Swift      | 2026-08-29   |
+|  4 | [FontFit](https://github.com/joncardasis/FontFit)                                | 2024-11-13 | Swift      | 2026-05-26   |
+|  5 | [Tech-Doc-Style-Chinese](https://github.com/Fenng/Tech-Doc-Style-Chinese)        | 2026-04-14 | Python     | 2026-08-29   |
+|  6 | [taste-skill](https://github.com/Leonxlnx/taste-skill)                           | 2026-05-27 | JavaScript | 2026-08-30   |
+|  7 | [swiftui-introspect](https://github.com/siteline/swiftui-introspect)             | 2024-02-06 | Swift      | 2026-08-29   |
+|  8 | [openevolve](https://github.com/algorithmicsuperintelligence/openevolve)         | 2026-04-28 | Python     | 2026-08-30   |
+|  9 | [OpenBridge](https://github.com/AFK-surf/OpenBridge)                             | 2026-05-14 | Swift      | 2026-08-24   |
+| 10 | [WeChatMsg](https://github.com/LC044/WeChatMsg)                                  | 2023-12-19 | md         | 2026-08-30   |
 
 <!--END_SECTION:my_github-->
