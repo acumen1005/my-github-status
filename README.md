@@ -24,7 +24,7 @@
 |  14 | [LazyScript](https://github.com/acumen1005/LazyScript)                             | 2016-09-17 | 2016-09-18 | Shell       |     0 |
 |  15 | [LearnNote](https://github.com/acumen1005/LearnNote)                               | 2016-12-09 | 2017-07-19 | md          |     0 |
 |  16 | [Crawler](https://github.com/acumen1005/Crawler)                                   | 2016-03-04 | 2016-03-15 | HTML        |     0 |
-|  17 | [my-github-status](https://github.com/acumen1005/my-github-status)                 | 2021-04-11 | 2026-08-23 | md          |     0 |
+|  17 | [my-github-status](https://github.com/acumen1005/my-github-status)                 | 2021-04-11 | 2026-08-30 | md          |     0 |
 |  18 | [acumen1005](https://github.com/acumen1005/acumen1005)                             | 2020-07-09 | 2025-10-03 | md          |     0 |
 |  19 | [ACPhotoPickerController](https://github.com/acumen1005/ACPhotoPickerController)   | 2017-03-03 | 2018-04-02 | Swift       |     0 |
 |  20 | [CodeClean](https://github.com/acumen1005/CodeClean)                               | 2021-03-24 | 2021-03-24 | Python      |     0 |
@@ -42,17 +42,17 @@
 | sum |                                                                   |                                                                     |                                                                     |          |                                                                                      7 |
 
 ## The repos I stared (random 10)
-| ID |                                       REPO                                       | STAREDDATE |  LANGUAGE  | LATESTUPDATE |
-|----|----------------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | 2026-08-02 | TypeScript | 2026-08-30   |
-|  2 | [hermes-agent](https://github.com/NousResearch/hermes-agent)                     | 2026-03-11 | Python     | 2026-08-30   |
-|  3 | [Signal-iOS](https://github.com/signalapp/Signal-iOS)                            | 2023-12-16 | Swift      | 2026-08-29   |
-|  4 | [FontFit](https://github.com/joncardasis/FontFit)                                | 2024-11-13 | Swift      | 2026-05-26   |
-|  5 | [Tech-Doc-Style-Chinese](https://github.com/Fenng/Tech-Doc-Style-Chinese)        | 2026-04-14 | Python     | 2026-08-29   |
-|  6 | [taste-skill](https://github.com/Leonxlnx/taste-skill)                           | 2026-05-27 | JavaScript | 2026-08-30   |
-|  7 | [swiftui-introspect](https://github.com/siteline/swiftui-introspect)             | 2024-02-06 | Swift      | 2026-08-29   |
-|  8 | [openevolve](https://github.com/algorithmicsuperintelligence/openevolve)         | 2026-04-28 | Python     | 2026-08-30   |
-|  9 | [OpenBridge](https://github.com/AFK-surf/OpenBridge)                             | 2026-05-14 | Swift      | 2026-08-24   |
-| 10 | [WeChatMsg](https://github.com/LC044/WeChatMsg)                                  | 2023-12-19 | md         | 2026-08-30   |
+| ID |                                                                 REPO                                                                  | STAREDDATE |  LANGUAGE  | LATESTUPDATE |
+|----|---------------------------------------------------------------------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [ai-agent-book](https://github.com/bojieli/ai-agent-book)                                                                             | 2026-07-21 | Python     | 2026-09-06   |
+|  2 | [20th](https://github.com/d2forum/20th)                                                                                               | 2026-03-25 | md         | 2026-08-30   |
+|  3 | [hello-algo](https://github.com/krahets/hello-algo)                                                                                   | 2023-11-30 | Java       | 2026-09-06   |
+|  4 | [MemOS](https://github.com/MemTensor/MemOS)                                                                                           | 2026-03-16 | TypeScript | 2026-09-06   |
+|  5 | [SunKit](https://github.com/SunKit-Swift/SunKit)                                                                                      | 2023-08-22 | Swift      | 2026-08-27   |
+|  6 | [codexloom](https://github.com/yan5xu/codexloom)                                                                                      | 2026-08-02 | Go         | 2026-09-04   |
+|  7 | [skills](https://github.com/mattpocock/skills)                                                                                        | 2026-04-27 | Shell      | 2026-09-06   |
+|  8 | [iOS-Drawing-Practical-UIKit-Soluations-Translation](https://github.com/wangdicen/iOS-Drawing-Practical-UIKit-Soluations-Translation) | 2024-02-01 | md         | 2025-12-24   |
+|  9 | [LLM101n](https://github.com/karpathy/LLM101n)                                                                                        | 2024-07-22 | md         | 2026-09-06   |
+| 10 | [remote-jobs-in-china](https://github.com/LinuxSuRen/remote-jobs-in-china)                                                            | 2023-05-11 | md         | 2026-09-04   |
 
 <!--END_SECTION:my_github-->
