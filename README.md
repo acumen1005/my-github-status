@@ -24,7 +24,7 @@
 |  14 | [LazyScript](https://github.com/acumen1005/LazyScript)                             | 2016-09-17 | 2016-09-18 | Shell       |     0 |
 |  15 | [LearnNote](https://github.com/acumen1005/LearnNote)                               | 2016-12-09 | 2017-07-19 | md          |     0 |
 |  16 | [Crawler](https://github.com/acumen1005/Crawler)                                   | 2016-03-04 | 2016-03-15 | HTML        |     0 |
-|  17 | [my-github-status](https://github.com/acumen1005/my-github-status)                 | 2021-04-11 | 2026-09-06 | md          |     0 |
+|  17 | [my-github-status](https://github.com/acumen1005/my-github-status)                 | 2021-04-11 | 2026-09-13 | md          |     0 |
 |  18 | [acumen1005](https://github.com/acumen1005/acumen1005)                             | 2020-07-09 | 2025-10-03 | md          |     0 |
 |  19 | [ACPhotoPickerController](https://github.com/acumen1005/ACPhotoPickerController)   | 2017-03-03 | 2018-04-02 | Swift       |     0 |
 |  20 | [CodeClean](https://github.com/acumen1005/CodeClean)                               | 2021-03-24 | 2021-03-24 | Python      |     0 |
@@ -42,17 +42,17 @@
 | sum |                                                                   |                                                                     |                                                                     |          |                                                                                      7 |
 
 ## The repos I stared (random 10)
-| ID |                                                  REPO                                                  | STAREDDATE |  LANGUAGE  | LATESTUPDATE |
-|----|--------------------------------------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [ai-agent-book](https://github.com/bojieli/ai-agent-book)                                              | 2026-07-21 | Python     | 2026-09-13   |
-|  2 | [OutlinedLabel](https://github.com/adrianorezena/OutlinedLabel)                                        | 2024-11-20 | Swift      | 2026-01-05   |
-|  3 | [quill](https://github.com/slab/quill)                                                                 | 2024-02-28 | TypeScript | 2026-09-13   |
-|  4 | [dot-globe](https://github.com/inventhq/dot-globe)                                                     | 2023-05-29 | Swift      | 2026-08-21   |
-|  5 | [swiftui-charts](https://github.com/spacenation/swiftui-charts)                                        | 2024-04-15 | Swift      | 2026-09-10   |
-|  6 | [20th](https://github.com/d2forum/20th)                                                                | 2026-03-25 | md         | 2026-09-08   |
-|  7 | [maleme](https://github.com/Yeuoly/maleme)                                                             | 2026-05-27 | Rust       | 2026-09-11   |
-|  8 | [Todo](https://github.com/fatbobman/Todo)                                                              | 2024-02-24 | Swift      | 2024-10-30   |
-|  9 | [Xcode-Build-Optimization-Agent-Skill](https://github.com/AvdLee/Xcode-Build-Optimization-Agent-Skill) | 2026-03-28 | Python     | 2026-09-13   |
-| 10 | [LLM101n](https://github.com/karpathy/LLM101n)                                                         | 2024-07-22 | md         | 2026-09-12   |
+| ID |                                      REPO                                      | STAREDDATE |  LANGUAGE   | LATESTUPDATE |
+|----|--------------------------------------------------------------------------------|------------|-------------|--------------|
+|  1 | [blocksuite](https://github.com/toeverything/blocksuite)                       | 2023-08-17 | TypeScript  | 2026-09-19   |
+|  2 | [FontFit](https://github.com/joncardasis/FontFit)                              | 2024-11-13 | Swift       | 2026-05-26   |
+|  3 | [re-editor](https://github.com/reqable/re-editor)                              | 2024-02-06 | Dart        | 2026-09-10   |
+|  4 | [Japan-restaurant](https://github.com/RanceJen/Japan-restaurant)               | 2024-05-12 | md          | 2026-09-12   |
+|  5 | [VCTransitionsLibrary](https://github.com/ColinEberhardt/VCTransitionsLibrary) | 2024-12-10 | Objective-C | 2026-09-18   |
+|  6 | [ClashMac](https://github.com/666OS/ClashMac)                                  | 2025-12-04 | md          | 2026-09-20   |
+|  7 | [flash-linux0.11-talk](https://github.com/dibingfa/flash-linux0.11-talk)       | 2023-12-15 | HTML        | 2026-09-20   |
+|  8 | [xhs-cli](https://github.com/jackwener/xhs-cli)                                | 2026-03-11 | Python      | 2026-09-18   |
+|  9 | [FluidGradient](https://github.com/Cindori/FluidGradient)                      | 2023-12-02 | Swift       | 2026-09-18   |
+| 10 | [reference](https://github.com/jaywcjlove/reference)                           | 2023-12-02 | Dockerfile  | 2026-09-19   |
 
 <!--END_SECTION:my_github-->
