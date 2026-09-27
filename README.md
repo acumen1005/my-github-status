@@ -24,7 +24,7 @@
 |  14 | [LazyScript](https://github.com/acumen1005/LazyScript)                             | 2016-09-17 | 2016-09-18 | Shell       |     0 |
 |  15 | [LearnNote](https://github.com/acumen1005/LearnNote)                               | 2016-12-09 | 2017-07-19 | md          |     0 |
 |  16 | [Crawler](https://github.com/acumen1005/Crawler)                                   | 2016-03-04 | 2016-03-15 | HTML        |     0 |
-|  17 | [my-github-status](https://github.com/acumen1005/my-github-status)                 | 2021-04-11 | 2026-09-20 | md          |     0 |
+|  17 | [my-github-status](https://github.com/acumen1005/my-github-status)                 | 2021-04-11 | 2026-09-23 | md          |     0 |
 |  18 | [acumen1005](https://github.com/acumen1005/acumen1005)                             | 2020-07-09 | 2025-10-03 | md          |     0 |
 |  19 | [ACPhotoPickerController](https://github.com/acumen1005/ACPhotoPickerController)   | 2017-03-03 | 2018-04-02 | Swift       |     0 |
 |  20 | [CodeClean](https://github.com/acumen1005/CodeClean)                               | 2021-03-24 | 2021-03-24 | Python      |     0 |
@@ -42,17 +42,17 @@
 | sum |                                                                   |                                                                     |                                                                     |          |                                                                                      7 |
 
 ## The repos I stared (random 10)
-| ID |                                     REPO                                     | STAREDDATE |  LANGUAGE  | LATESTUPDATE |
-|----|------------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [ClashMac](https://github.com/666OS/ClashMac)                                | 2025-12-04 | md         | 2026-09-23   |
-|  2 | [super_editor](https://github.com/Flutter-Bounty-Hunters/super_editor)       | 2023-08-09 | Dart       | 2026-09-17   |
-|  3 | [superpowers](https://github.com/obra/superpowers)                           | 2026-03-19 | Shell      | 2026-09-23   |
-|  4 | [MemOS](https://github.com/MemTensor/MemOS)                                  | 2026-03-16 | TypeScript | 2026-09-23   |
-|  5 | [spec-kit](https://github.com/github/spec-kit)                               | 2026-03-18 | Python     | 2026-09-23   |
-|  6 | [macparakeet](https://github.com/moona3k/macparakeet)                        | 2026-05-12 | Swift      | 2026-09-23   |
-|  7 | [ai-agent-book](https://github.com/bojieli/ai-agent-book)                    | 2026-07-21 | Python     | 2026-09-23   |
-|  8 | [learn-claude-code](https://github.com/shareAI-lab/learn-claude-code)        | 2026-03-18 | Python     | 2026-09-23   |
-|  9 | [OpenBridge](https://github.com/AFK-surf/OpenBridge)                         | 2026-05-14 | Swift      | 2026-09-18   |
-| 10 | [agentic-design-patterns](https://github.com/xindoo/agentic-design-patterns) | 2026-03-25 | HTML       | 2026-09-22   |
+| ID |                                       REPO                                       | STAREDDATE | LANGUAGE | LATESTUPDATE |
+|----|----------------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [chinese-buy-us-stock-guide](https://github.com/zgwl/chinese-buy-us-stock-guide) | 2026-06-06 | md       | 2026-09-27   |
+|  2 | [swiftui-charts](https://github.com/spacenation/swiftui-charts)                  | 2024-04-15 | Swift    | 2026-09-23   |
+|  3 | [screenshot-to-code](https://github.com/abi/screenshot-to-code)                  | 2024-03-03 | Python   | 2026-09-27   |
+|  4 | [Fluid_DynamicIsland](https://github.com/pratikg29/Fluid_DynamicIsland)          | 2023-05-29 | Swift    | 2026-09-05   |
+|  5 | [Todo](https://github.com/fatbobman/Todo)                                        | 2024-02-24 | Swift    | 2024-10-30   |
+|  6 | [LLM101n](https://github.com/karpathy/LLM101n)                                   | 2024-07-22 | md       | 2026-09-27   |
+|  7 | [openai-agents-python](https://github.com/openai/openai-agents-python)           | 2026-03-10 | Python   | 2026-09-27   |
+|  8 | [swiftui-image-viewer](https://github.com/Jake-Short/swiftui-image-viewer)       | 2024-03-28 | Swift    | 2026-09-01   |
+|  9 | [Signal-iOS](https://github.com/signalapp/Signal-iOS)                            | 2023-12-16 | Swift    | 2026-09-26   |
+| 10 | [App-Store-Connect-CLI](https://github.com/rorkai/App-Store-Connect-CLI)         | 2026-03-20 | Go       | 2026-09-27   |
 
 <!--END_SECTION:my_github-->
