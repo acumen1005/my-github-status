@@ -24,7 +24,7 @@
 |  14 | [LazyScript](https://github.com/acumen1005/LazyScript)                             | 2016-09-17 | 2016-09-18 | Shell       |     0 |
 |  15 | [LearnNote](https://github.com/acumen1005/LearnNote)                               | 2016-12-09 | 2017-07-19 | md          |     0 |
 |  16 | [Crawler](https://github.com/acumen1005/Crawler)                                   | 2016-03-04 | 2016-03-15 | HTML        |     0 |
-|  17 | [my-github-status](https://github.com/acumen1005/my-github-status)                 | 2021-04-11 | 2026-10-23 | md          |     0 |
+|  17 | [my-github-status](https://github.com/acumen1005/my-github-status)                 | 2021-04-11 | 2026-10-25 | md          |     0 |
 |  18 | [acumen1005](https://github.com/acumen1005/acumen1005)                             | 2020-07-09 | 2025-10-03 | md          |     0 |
 |  19 | [ACPhotoPickerController](https://github.com/acumen1005/ACPhotoPickerController)   | 2017-03-03 | 2018-04-02 | Swift       |     0 |
 |  20 | [CodeClean](https://github.com/acumen1005/CodeClean)                               | 2021-03-24 | 2021-03-24 | Python      |     0 |
@@ -42,17 +42,17 @@
 | sum |                                                                   |                                                                     |                                                                     |          |                                                                                      7 |
 
 ## The repos I stared (random 10)
-| ID |                                                                 REPO                                                                  | STAREDDATE | LANGUAGE | LATESTUPDATE |
-|----|---------------------------------------------------------------------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [LLM101n](https://github.com/karpathy/LLM101n)                                                                                        | 2024-07-22 | md       | 2026-10-25   |
-|  2 | [FabulaItemsProvider](https://github.com/jasudev/FabulaItemsProvider)                                                                 | 2024-04-11 | Swift    | 2026-10-19   |
-|  3 | [voice-input-src](https://github.com/yetone/voice-input-src)                                                                          | 2026-04-24 | md       | 2026-10-24   |
-|  4 | [cc-connect](https://github.com/chenhg5/cc-connect)                                                                                   | 2026-04-27 | Go       | 2026-10-25   |
-|  5 | [super_editor](https://github.com/Flutter-Bounty-Hunters/super_editor)                                                                | 2023-08-09 | Dart     | 2026-10-22   |
-|  6 | [iOS-Drawing-Practical-UIKit-Soluations-Translation](https://github.com/wangdicen/iOS-Drawing-Practical-UIKit-Soluations-Translation) | 2024-02-01 | md       | 2025-12-24   |
-|  7 | [ChartView](https://github.com/AppPear/ChartView)                                                                                     | 2024-03-10 | Swift    | 2026-10-24   |
-|  8 | [ha_xiaomi_home](https://github.com/XiaoMi/ha_xiaomi_home)                                                                            | 2024-12-16 | Python   | 2026-10-25   |
-|  9 | [loopx](https://github.com/loopx-project/loopx)                                                                                       | 2026-08-02 | Python   | 2026-10-25   |
-| 10 | [FluidGradient](https://github.com/Cindori/FluidGradient)                                                                             | 2023-12-02 | Swift    | 2026-10-23   |
+| ID |                                                                 REPO                                                                  | STAREDDATE |  LANGUAGE  | LATESTUPDATE |
+|----|---------------------------------------------------------------------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [hermes-agent](https://github.com/NousResearch/hermes-agent)                                                                          | 2026-03-11 | Python     | 2026-11-01   |
+|  2 | [rss](https://github.com/acumen1005/rss)                                                                                              | 2026-05-27 | Swift      | 2026-05-27   |
+|  3 | [spec-kit](https://github.com/github/spec-kit)                                                                                        | 2026-03-18 | Python     | 2026-11-01   |
+|  4 | [SwiftUI-MulticolorGradient](https://github.com/ArthurGuibert/SwiftUI-MulticolorGradient)                                             | 2023-12-02 | Swift      | 2026-09-02   |
+|  5 | [iOS-Drawing-Practical-UIKit-Soluations-Translation](https://github.com/wangdicen/iOS-Drawing-Practical-UIKit-Soluations-Translation) | 2024-02-01 | md         | 2025-12-24   |
+|  6 | [reference](https://github.com/jaywcjlove/reference)                                                                                  | 2023-12-02 | Dockerfile | 2026-11-01   |
+|  7 | [ClashMac](https://github.com/666OS/ClashMac)                                                                                         | 2025-12-04 | md         | 2026-10-31   |
+|  8 | [osxphotos](https://github.com/RhetTbull/osxphotos)                                                                                   | 2026-03-23 | Python     | 2026-10-31   |
+|  9 | [Hide-TabBar-In-SwiftUI](https://github.com/TreatTrick/Hide-TabBar-In-SwiftUI)                                                        | 2024-03-03 | Swift      | 2026-05-01   |
+| 10 | [codexloom](https://github.com/yan5xu/codexloom)                                                                                      | 2026-08-02 | Go         | 2026-10-30   |
 
 <!--END_SECTION:my_github-->
