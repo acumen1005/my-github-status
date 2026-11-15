@@ -24,7 +24,7 @@
 |  14 | [LazyScript](https://github.com/acumen1005/LazyScript)                             | 2016-09-17 | 2016-09-18 | Shell       |     0 |
 |  15 | [LearnNote](https://github.com/acumen1005/LearnNote)                               | 2016-12-09 | 2017-07-19 | md          |     0 |
 |  16 | [Crawler](https://github.com/acumen1005/Crawler)                                   | 2016-03-04 | 2016-03-15 | HTML        |     0 |
-|  17 | [my-github-status](https://github.com/acumen1005/my-github-status)                 | 2021-04-11 | 2026-11-01 | md          |     0 |
+|  17 | [my-github-status](https://github.com/acumen1005/my-github-status)                 | 2021-04-11 | 2026-11-08 | md          |     0 |
 |  18 | [acumen1005](https://github.com/acumen1005/acumen1005)                             | 2020-07-09 | 2025-10-03 | md          |     0 |
 |  19 | [ACPhotoPickerController](https://github.com/acumen1005/ACPhotoPickerController)   | 2017-03-03 | 2018-04-02 | Swift       |     0 |
 |  20 | [CodeClean](https://github.com/acumen1005/CodeClean)                               | 2021-03-24 | 2021-03-24 | Python      |     0 |
@@ -42,17 +42,17 @@
 | sum |                                                                   |                                                                     |                                                                     |          |                                                                                      7 |
 
 ## The repos I stared (random 10)
-| ID |                                    REPO                                    | STAREDDATE |  LANGUAGE  | LATESTUPDATE |
-|----|----------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [GPTs](https://github.com/linexjlin/GPTs)                                  | 2024-07-04 | md         | 2026-11-07   |
-|  2 | [react](https://github.com/react/react)                                    | 2023-09-22 | JavaScript | 2026-11-08   |
-|  3 | [screenshot-to-code](https://github.com/abi/screenshot-to-code)            | 2024-03-03 | Python     | 2026-11-08   |
-|  4 | [learn-claude-code](https://github.com/shareAI-lab/learn-claude-code)      | 2026-03-18 | Python     | 2026-11-08   |
-|  5 | [RubyText](https://github.com/YeungKC/RubyText)                            | 2025-02-13 | Dart       | 2026-09-23   |
-|  6 | [openai-agents-python](https://github.com/openai/openai-agents-python)     | 2026-03-10 | Python     | 2026-11-08   |
-|  7 | [OutlinedLabel](https://github.com/adrianorezena/OutlinedLabel)            | 2024-11-20 | Swift      | 2026-09-18   |
-|  8 | [remote-jobs-in-china](https://github.com/LinuxSuRen/remote-jobs-in-china) | 2023-05-11 | md         | 2026-10-31   |
-|  9 | [blocksuite](https://github.com/toeverything/blocksuite)                   | 2023-08-17 | TypeScript | 2026-11-08   |
-| 10 | [App-Store-Connect-CLI](https://github.com/rorkai/App-Store-Connect-CLI)   | 2026-03-20 | Go         | 2026-11-07   |
+| ID |                                           REPO                                            | STAREDDATE |  LANGUAGE  | LATESTUPDATE |
+|----|-------------------------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [re-editor](https://github.com/reqable/re-editor)                                         | 2024-02-06 | Dart       | 2026-11-03   |
+|  2 | [Scrapling](https://github.com/D4Vinci/Scrapling)                                         | 2026-03-10 | Python     | 2026-11-15   |
+|  3 | [IrregularGradient](https://github.com/joogps/IrregularGradient)                          | 2024-02-06 | Swift      | 2026-10-20   |
+|  4 | [OpenBridge](https://github.com/AFK-surf/OpenBridge)                                      | 2026-05-14 | Swift      | 2026-11-04   |
+|  5 | [CotEditor](https://github.com/coteditor/CotEditor)                                       | 2023-09-14 | Swift      | 2026-11-15   |
+|  6 | [screenshot-to-code](https://github.com/abi/screenshot-to-code)                           | 2024-03-03 | Python     | 2026-11-15   |
+|  7 | [super_editor](https://github.com/Flutter-Bounty-Hunters/super_editor)                    | 2023-08-09 | Dart       | 2026-11-09   |
+|  8 | [sim-use](https://github.com/lycorp-jp/sim-use)                                           | 2026-07-28 | Swift      | 2026-11-15   |
+|  9 | [benkyo-ai](https://github.com/idiotbaka/benkyo-ai)                                       | 2026-06-12 | JavaScript | 2026-11-01   |
+| 10 | [SwiftUI-MulticolorGradient](https://github.com/ArthurGuibert/SwiftUI-MulticolorGradient) | 2023-12-02 | Swift      | 2026-09-02   |
 
 <!--END_SECTION:my_github-->
